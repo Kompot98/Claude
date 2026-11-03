@@ -106,7 +106,7 @@ Wśród filmów z chemii ogólnej (Professor Dave, The Organic Chemistry Tutor, 
 
 ## Chemia analityczna
 
-Analityka odpowiada na dwa pytania: co jest w próbce i ile tego jest. Z matury znasz miareczkowanie i stężenia. Na studiach dochodzą rachunek równowag w roztworach w kilku krokach, ocena niepewności pomiaru, metody instrumentalne i bardzo dużo pracy na pracowni. [SPRAWDZIĆ: po zebraniu sylabusów napisać, na przykładzie farmacji i analityki medycznej na jednej, dwóch uczelniach, ile godzin i semestrów ma analityka.]
+Analityka odpowiada na dwa pytania: co jest w próbce i ile tego jest. Z matury znasz miareczkowanie i stężenia. Na studiach dochodzą rachunek równowag w roztworach w kilku krokach, ocena niepewności pomiaru, metody instrumentalne i bardzo dużo pracy na pracowni. Na analityce medycznej WUM chemia analityczna jest już na pierwszym roku, obok chemii ogólnej, organicznej i fizycznej [Z-018]. Na technologii chemicznej PW zaczyna się w trzecim semestrze [Z-023].
 
 ### Polskie materiały uczelni
 
@@ -122,7 +122,7 @@ Do zadań rachunkowych z analityki (pH, bufory, iloczyn rozpuszczalności, miare
 
 ## Biochemia
 
-Biochemia opiera się na organicznej i na chemii ogólnej, więc materiały warto znać od początku, nawet jeśli sam przedmiot przyjdzie później. [SPRAWDZIĆ: z sylabusów podać, na których kierunkach i uczelniach biochemia jest na pierwszym, a na których na drugim roku.] Z matury znasz białka i cukry jako związki. Biochemia pokazuje, co one robią w komórce: enzymy, metabolizm, przekazywanie sygnałów i informacji genetycznej.
+Biochemia opiera się na organicznej i na chemii ogólnej, więc materiały warto znać od początku, nawet jeśli sam przedmiot przyjdzie później. Kiedy przyjdzie, zależy od uczelni: na kierunku lekarskim UJ CM i Uniwersytetu Medycznego w Białymstoku biochemia jest na pierwszym roku [Z-005] [Z-007], na weterynarii SGGW już w pierwszym semestrze [Z-011], a na kierunku lekarskim WUM dopiero na drugim [Z-006]. Z matury znasz białka i cukry jako związki. Biochemia pokazuje, co one robią w komórce: enzymy, metabolizm, przekazywanie sygnałów i informacji genetycznej.
 
 ### Podręczniki
 
@@ -139,3 +139,31 @@ Professor Dave Explains ma playlistę „Biochemistry” z 24 krótkimi filmami:
 ## Matematyka
 
 Matematyce ten bonus nie poświęca osobnego rozdziału, bo matematyka to matematyka. Gdy przedmiot chemiczny jej wymaga, a zajęcia z matematyki są za szybkie albo jeszcze do tego nie doszły, są trzy miejsca. Logarytmy i funkcję wykładniczą (pH, kinetyka) po polsku powtórzysz z wykładów Instytutu Chemii Uniwersytetu Śląskiego; to filmy od 19 do 28 na mieszanej playliście „e-chem” [R-056]. Pochodne i całki krok po kroku, po angielsku, tłumaczy playlista „Calculus” Professor Dave Explains: 35 filmów od granic przez reguły różniczkowania po całkowanie przez części [R-057]. Pełny polski wykład z rachunku różniczkowego i całkowego jest w otwartym kursie „Analiza matematyczna 1” na Ważniaku, przygotowanym przez matematyków z UJ dla studentów informatyki [R-058]; jest bardziej formalny, niż chemik zwykle potrzebuje.
+
+## Dla Twojego kierunku
+
+Rozdział jest ułożony według przedmiotów, bo tak wygląda plan studiów. Jeśli wiesz już, gdzie idziesz, niżej jest skrót: co z tego rozdziału przyda się najpierw. Gdy przyjdzie październik, sprawdź jeszcze sylabusy swoich przedmiotów; rozdział 2 pokazuje, jak bardzo się różnią.
+
+### Medycyna i stomatologia
+
+Na kierunku lekarskim i lekarsko-dentystycznym chemia jest krótka albo schowana w biochemii. Na przykład w programie kierunku lekarskiego WUM pierwszy rok nie ma przedmiotu chemicznego, a na drugim jest „Biochemia z elementami chemii” [Z-006]; w Białymstoku na pierwszym roku są osobno „Chemia” i „Biochemia” [Z-007]. Tematy chemiczne, które tam wracają, to roztwory, pH, bufory i równowaga kwasowo-zasadowa organizmu [Z-005] [Z-010]. Zacznij więc od powtórki pH i buforów: Khan Academy po polsku [R-027], cykl dr. Bekasa z SGGW [R-026] i filmy Professor Dave o kwasach, zasadach i buforach [R-030]. Potem biochemia: playlista Professor Dave [R-051] jako mapa, wykład Kevina Aherna [R-052] i podręcznik, którego wymaga Twój sylabus; na kierunkach medycznych możesz spotkać „Biochemię Harpera” [R-049] albo Bańkowskiego [R-050]. Z organicznej przyda się podręcznik Soderberga z przykładami z metabolizmu [R-017].
+
+### Farmacja i analityka medyczna
+
+Tu chemii jest najwięcej spośród kierunków medycznych. Na analityce medycznej WUM pierwszy rok ma cztery przedmioty chemiczne: analityczną, fizyczną, ogólną i nieorganiczną oraz organiczną [Z-018]; na farmacji WUM chemia ogólna i nieorganiczna trwa dwa semestry i ma 90 godzin ćwiczeń [Z-015]. Na start: chemia ogólna (Khan Academy po polsku [R-027], Professor Dave i jego zadania [R-030] [R-031]), potem analityka (filmy z pracowni UŚ [R-025], podręcznik Kocjana [R-045], otwarty Harvey [R-047]) i organiczna od Chemguide [R-011] przez Professor Dave [R-006] do McMurry'ego [R-004] [R-016]. Do chemii fizycznej weź wersję „dla nauk biologicznych” z LibreTexts [R-044].
+
+### Weterynaria
+
+Na weterynarii SGGW w pierwszym semestrze są „Chemia” (15 godzin wykładu, 30 laboratorium) i „Biochemia (1)” [Z-011]; na UP Lublin „Chemia” w pierwszym semestrze obejmuje roztwory, pH, bufory, redoks, podstawy analityki i nazewnictwo organiczne [Z-012] [Z-013]. To szeroko, ale płytko, w jednym semestrze. Pomogą: cykl SGGW „Podstawy chemii” [R-026] i „Chemia organiczna” [R-054], Khan Academy po polsku [R-027], a do biochemii Professor Dave [R-051].
+
+### Chemia i kierunki pokrewne
+
+Na chemii pierwszy semestr jest od razu szeroki i abstrakcyjny. Na przykład „Podstawy chemii” na UJ obejmują obok stechiometrii i równowag także równanie Schrödingera, orbitale molekularne, symetrię cząsteczek i teorię pasmową [Z-003]. Przyda się wszystko z części o chemii ogólnej, a szczególnie wykład MIT 5.111SC [R-034], podręcznik Atkinsa i współautorów [R-029] oraz wprowadzenie do kwantów w rozdziale 4b. Do organicznej, która przyjdzie później, warto od razu poznać Claydena [R-005] [R-018] i animacje ChemTube3D [R-014].
+
+### Biotechnologia
+
+Na biotechnologii chemia ogólna w pierwszym semestrze może mieć wykład, ćwiczenia rachunkowe i laboratorium, na przykład na UKSW 30 godzin każdej formy i 7 punktów [Z-019], na Uniwersytecie Rzeszowskim wykład i laboratorium po 30 godzin [Z-020]. Laboratorium to tam między innymi miareczkowania i wyznaczanie stałych dysocjacji [Z-019]. Najpierw chemia ogólna z zadaniami [R-030] [R-031] [R-033], potem organiczna z naciskiem biologicznym [R-017] i biochemia [R-051] [R-052] [R-053]; do chemii fizycznej podręcznik dla nauk biologicznych [R-044].
+
+### Inżynieria chemiczna i technologia chemiczna
+
+Na politechnikach chemia idzie w parze z dużą ilością matematyki. Na technologii chemicznej PW w pierwszym semestrze „Chemia” ma 45 godzin wykładu i 30 ćwiczeń, a „Matematyka 1” 60 godzin wykładu i 60 ćwiczeń [Z-023]. Chemia ogólna i nieorganiczna na PP już w pierwszym semestrze sięga po termodynamikę z energią Gibbsa i kinetykę z równaniem Arrheniusa [Z-021]. Do tego warto mieć pod ręką hasło o matematyce [R-056] [R-057] [R-058], chemię fizyczną od Chemguide [R-042] przez Peveratiego [R-043] po wykład MIT 5.60 [R-041], a z polskich podręczników Bielańskiego [R-028] i Pigonia z Ruziewiczem [R-040].

@@ -6,8 +6,255 @@ rok akademicki: 2025/26
 data odczytu: 2026-11-03
 metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
 
-Kierunek Technologia Chemiczna
+                     POLITECHNIKA WARSZAWSKA
+                        WYDZIAŁ CHEMICZNY
+             INFORMATOR
+           Technologia Chemiczna
+               Studia I stopnia
+           profil ogólnoakademicki
+Informator dla studentów rozpoczynających studia w roku akademickim
+2025/2026.
+                             WARSZAWA grudzień 25
+TECHNOLOGIA CHEMICZNA                                             Wydział Chemiczny PW
+                     Kierunek Technologia Chemiczna
                                                                  Semestr 1
                                                                  Semestr 2
                                                                  Semestr 3
-              Program studiów:
+              Program studiów:                                   Semestr 4
+                                                                 Semestr 5
+                                                                 Semestr 6
+                                                                 Semestr 7
+Dodatkowo podczas toku studiów studenci zobowiązani są do odbycia Praktyki zawodowej.
+Więcej informacji można uzyskać u Pełnomocnika ds. Praktyk.
+http://www.ch.pw.edu.pl/Studenci/Praktyki-obowiazkowe-i-dodatkowe
+Szczegółowe informacje dotyczące przedmiotów dostępne są w systemie Usosweb w Regulaminie
+przedmiotu.
+                                                                                            2
+TECHNOLOGIA CHEMICZNA                                              Wydział Chemiczny PW
+                    Kierunek Technologia Chemiczna
+                                        Semestr 1
+Lista przedmiotów:
+                                                                                      Punkty
+  Lp.   Nr katalogowy          Nazwa przedmiotu              W     C    L    P    S    ECTS
+          1020-00000-
+   1                     BHP                                  4    0    0    0    0        0
+           ISP-BHP1
+         1020-TC000-
+   2                     Chemia                              45e   30   0    0    0        5
+           ISP-1002
+         1020-TC000-
+   3                     Fizyka 1                            30e   15   0    0    0        4
+           ISP-1003
+         1020-TC000-
+   4                     Grafika inżynierska                  0    0    0    30   0        2
+           ISP-1004
+         1020-TC000-
+   5                     Matematyka 1                        60e   60   0    0    0        9
+           ISP-1005
+         1020-TC000-
+   6                     Podstawy nauki o materiałach 1      15    15   0    0    0        3
+           ISP-1006
+         1020-TC000-
+   7                     Podstawy obliczeń inżynierskich 1   30    0    0    0    0        3
+           ISP-1007
+         1020-TC000-
+   8                     Przedsiębiorczość innowacyjna       30    0    0    0    0        2
+           ISP-1008
+   9                     Przysposobienie biblioteczne         2    0    0    0    0        0
+         1020-TC000-
+  10                     Technologia informacyjna             0    0    30   0    0        2
+           ISP-1010
+e - egzamin
+ wróć do tabeli z programem
+                                                                                       3
+ programemKierunek
+ Technologia Chemiczna
+TECHNOLOGIA CHEMICZNA                                                 Wydział Chemiczny PW
+                    Kierunek Technologia Chemiczna
+                                         Semestr 2
+Lista przedmiotów:
+                                                                                            Punkty
+  Lp.    Nr katalogowy          Nazwa przedmiotu                W     C    L    P     S      ECTS
+          1020-TC000-
+   1                      Chemia – laboratorium                  0    0    60   0     0           5
+            ISP-2002
+          1020-TC000-
+   2                      Chemia nieorganiczna                  45e   15   0    0     0           5
+            ISP-2001
+          1020-TC000-
+                          Podstawy elektroniki i obwodów
+   3        ISP-2011                                            15    0    15   0     0           2
+                          elektrycznych **
+          1020-TC000-
+                          Podstawy elektrotechniki i techniki
+   4        ISP-2012                                            15    0    15   0     0           2
+                          pomiarowej **
+          1020-TC000-
+   5                      Fizyka 2                              30e   15   0    0     0           3
+            ISP-2004
+          1020-TC000-
+   6                      Fizyka – laboratorium                  0    0    30   0     0           2
+            ISP-2005
+   7                      Język Obcy*                            0    60   0    0     0           4
+          1020-TC000-
+   8                      Matematyka 2                          45e   45   0    0     0           7
+            ISP-2006
+                          Elementy komunikacji
+          1020-TC000-
+   9                      interpersonalnej w naukach            30    0    0    0     0           2
+            ISP-2007
+                          ścisłych i technice
+  10                      Wychowanie fizyczne*                   0    30   0    0     0           0
+* zapisy na Język obcy oraz Wychowanie fizyczne prowadzone są przez system USOS w podanych
+wcześniej do wiadomości terminach. W toku studiów należy zrealizować: 180h języka obcego oraz
+zaliczyć Egzamin językowy na poziomie B2, a także zrealizować 3 semestry Wychowania fizycznego.
+e - egzamin
+** przedmiot do wyboru:
+Lista przedmiotów obieralnych:
+Deklaracja poniższych przedmiotów możliwa po konsultacji z Prodziekan ds. studenckich.
+                                                                                            Punkty
+  Lp.    Nr katalogowy          Nazwa przedmiotu                W     C    L    P     S
+                                                                                             ECTS
+   1                      Podstawy nauki o materiałach 2        45    0    15   0     0           5
+   2                      Podstawy obliczeń inżynierskich 2     30    0    0    30    0           5
+                                                                                             4
+ wróć do tabeli z programem
+TECHNOLOGIA CHEMICZNA                                                 Wydział Chemiczny PW
+                        Kierunek Technologia Chemiczna
+                                         Semestr 3
+Lista przedmiotów:
+                                                                                            Punkty
+  Lp.    Nr katalogowy          Nazwa przedmiotu                W     C    L    P     S      ECTS
+          1020-TC000-
+   1                      Automatyka i pomiary                  15    0    15   0     0           2
+            ISP-3006
+          1020-TC000-
+   2                      Bezpieczeństwo pracy i ergonomia      15    0    0    0     0           1
+            ISP-3005
+          1020-TC000-
+   3                      Chemia analityczna 1                  15e   0    0    0     0           2
+            ISP-3002
+          1020-TC000-
+   4                      Chemia fizyczna 1                     30e   30   0    0     0           4
+            ISP-3011
+          1020-TC000-
+   5                      Chemia fizyczna 2                     30e   15   15   0     0           5
+            ISP-3012
+          1020-TC000-
+   6                      Informatyka                            0    0    30   0     0           2
+            ISP-3008
+   7                      Język Obcy*                            0    60   0    0     0           4
+          1020-TC000-
+   8                      Laboratorium analizy ilościowej        0    0    45   0     0           3
+            ISP-3004
+          1020-TC000-
+   9                      Prawo karne a chemia                  30    0    0    0     0           2
+            ISP-3003
+          1020-TC000-
+  10                      Statystyka**                          15    30   0    0     0           3
+            ISP-3009
+          1020-TC000-
+  11                      Statystyka dla Chemika**              15    30   0    0     0           3
+            ISP-3007
+  12                      Wychowanie fizyczne                    0    30   0    0     0           0
+* zapisy na Język obcy oraz Wychowanie fizyczne prowadzone są przez system USOS w podanych
+wcześniej do wiadomości terminach. W toku studiów należy zrealizować: 180h języka obcego oraz
+zaliczyć Egzamin językowy na poziomie B2, a także zrealizować 3 semestry Wychowania fizycznego.
+e - egzamin
+** - do wyboru
+1020-TC000-ISP-3009 –dr inż. Michał Stronkowski
+1020-TC000-ISP-3007 – prof. dr hab. inż. Patrycja Ciosek-Skibińska
+ wróć do tabeli z programem                                                                  5
+TECHNOLOGIA CHEMICZNA                                               Wydział Chemiczny PW
+                    Kierunek Technologia Chemiczna
+                                       Semestr 4
+Lista przedmiotów :
+                                                                                            Punkty
+  Lp.   Nr katalogowy          Nazwa przedmiotu               W     C     L     P     S      ECTS
+         1020-TC000-     Aparatura chemiczna i
+   1                                                          30    0     0     0     0           2
+           ISP-4006      maszynoznawstwo
+         1020-TC000-
+   2                     Chemia analityczna 2                15e    0     0     0     0           2
+           ISP-4001
+         1020-TC000-
+   3                     Chemia organiczna                   60e    30    0     0     0           6
+           ISP-4008
+         1020-TC000-
+   4                     Inżynieria chemiczna                45e    30    0     0     0           5
+           ISP-4002
+   5                     Język Obcy*                          0     60    0     0     0           4
+         1020-TC000-     Laboratorium analizy
+   6                                                          0     0     45    0     0           4
+           ISP-4003      instrumentalnej
+         1020-TC000-     Laboratorium termodynamiki
+   7                                                          0     0     60    0     0           5
+           ISP-4005      i chemii fizycznej
+         1020-TC000-     Spektroskopowe metody badania
+   8                                                         30e    15    0     0     0           4
+           ISP-4004      struktury materii
+   9                     Wychowanie fizyczne*                 0     30    0     0     0           0
+* zapisy na Język obcy oraz Wychowanie fizyczne prowadzone są przez system USOS w podanych
+wcześniej do wiadomości terminach. W toku studiów należy zrealizować: 180h języka obcego oraz
+zaliczyć Egzamin językowy na poziomie B2, a także zrealizować 3 semestry Wychowania fizycznego.
+e - egzamin
+                                                                                             6
+ wróć do tabeli z programem
+TECHNOLOGIA CHEMICZNA                                                     Wydział Chemiczny PW
+                     Kierunek Technologia Chemiczna
+                                         Semestr 5
+Lista przedmiotów:
+                                                                                                   Punkty
+  Lp.   Nr katalogowy          Nazwa przedmiotu                     W     C         L    P    S     ECTS
+          1020-TC000-    Aparatura chemiczna
+   1                                                                 0    0         45   0    0         3
+            ISP-5001     i maszynoznawstwo– laboratorium
+          1020-TC000-
+   2                     Chemia organiczna – laboratorium            0    0         90   0    0         7
+            ISP-5005
+          1020-TC000-    Materiałoznawstwo, kompozyty
+   3                                                                45e   0         0    0    0         3
+            ISP-5006     i korozja
+          1020-TC000-    Podstawy krystalografii
+   4                                                                15    30        0    0    0         3
+            ISP-5004     rentgenowskiej
+          1020-TC000-    Projektowanie i skalowanie
+   5                                                                30e   0         0    30   0         4
+            ISP-5008     procesów technologicznych*
+          1020-TC000-    Projektowanie i zarządzanie
+   6                                                                30e   0         0    30   0         4
+            ISP-5009     procesami technologicznymi*
+          1020-TC000-
+   7                     Technologia chemiczna 1                    45e   15        0    0    0         5
+            ISP-5007
+                         Przedmioty obieralne (należy wybrać
+   8                     seminarium w wymiarze 30h oraz dodatkowy              30             30        5
+                         przedmiot w wymiarze 30h)
+* przedmiot do wyboru:
+e - egzamin
+ wróć do tabeli z programem
+                                                                                                    7
+TECHNOLOGIA CHEMICZNA                                                 Wydział Chemiczny PW
+Lista przedmiotów obieralnych sem. 5:
+                                                                                         Punkty
+ Lp.    Nr katalogowy              Nazwa przedmiotu              W    C    L    P   S     ECTS
+        1020-TCWYK-
+  1                          Chemia koloru                       15   0    0    0   0         1
+          ISP-5001
+                             Chemia nieorganiczna II –
+                             podstawy chemii koordynacyjnej,
+        1020-TCWYK-
+  2                          metaloorganicznej,                  30   0    0    0   0         2
+          ISP-5009
+                             bionieorganicznej
+                             i supramolekularnej
+        1020-TCWYK-
+  3                          Chemia organiczna 2                 30   0    0    0   0         2
+          ISP-5013
+                             Nowoczesne narzędzia chemii
+        1020-TCWYK-
+  4                          strukturalnej do przeszukiwania     15   0    0    0   0         1
+          ISP-5008
+                             i analizy danych
+        1020-TCWYK-
+  5                          Ekotoksykologia                     15   0    0    0   0         1

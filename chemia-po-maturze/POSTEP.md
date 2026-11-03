@@ -39,3 +39,9 @@ Dalej: sylabusy (etap 4).
 Zrobione: 22 źródła (Z-003 do Z-024) dla ośmiu kierunków, kopie tekstowe w `zrodla/`, tabela zbiorcza i lista braków w `robocze/sylabusy-tabela.md`. Najciekawsze ustalenia do rozdziału 2: na kierunku lekarskim WUM i na stomatologii UJ CM pierwszy rok nie ma przedmiotu chemicznego, a w UMB chemia i biochemia są na pierwszym roku; na analityce medycznej WUM pierwszy rok ma cztery przedmioty chemiczne; „Chemia ogólna i nieorganiczna” na PP ma inny wymiar na technologii chemicznej (45+30 h, 7 ECTS) i na inżynierii chemicznej i procesowej (30+30 h, 5 ECTS); w tym przedmiocie już w pierwszym semestrze jest „stężenie a aktywność”.
 
 Dalej: rozdział 2 i odgałęzienia w rozdziale 3.
+
+## 2026-11-03, etap 5: rozdział 2 i odgałęzienia w rozdziale 3
+
+Zrobione: rozdział 2 (5,1 strony z tabelą 19 wierszy dla 20 modułów; obie części modułu XI w jednym wierszu): mapa modułów kursu na przedmioty pierwszego roku z odwołaniami do sylabusów, cztery tematy zupełnie nowe z odesłaniem do rozdziału 4, trzy porównania „ta sama nazwa, inna treść” (PP technologia vs inżynieria; chemia ogólna i nieorganiczna na farmacji, analityce i biotechnologii; chemia na kierunku lekarskim WUM, UMB i UJ CM). Odgałęzienia dla sześciu grup kierunków na końcu rozdziału 3. Uzupełnione z sylabusów miejsca `[SPRAWDZIĆ]` w rozdziałach 3 i 4c; zostały dwa (wiersze organiczne w mapie, procedura krzywej wzorcowej). Wszystkie 24 źródła są cytowane. Rozdział 3 ma 14,1 strony.
+
+Dalej: rozdziały 1 i 0.
