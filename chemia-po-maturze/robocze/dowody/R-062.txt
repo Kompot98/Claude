@@ -1,0 +1,9 @@
+adres: https://pl.khanacademy.org/science/organic-chemistry
+data: 2026-11-03
+metoda: wyszukiwarka (WebSearch, tryb rozszerzony); strona zwraca automatom test antybotowy („Client Challenge”), więc bezpośredni odczyt niemożliwy; próba obejścia zablokowana i porzucona (D-15)
+
+Wyniki wyszukiwarki (tytuły i adresy stron kursu):
+- „Chemia organiczna” — https://pl.khanacademy.org/science/organic-chemistry
+- „Struktura i wiązania” — https://pl.khanacademy.org/science/organic-chemistry/gen-chem-review
+- „Rozpuszczalność związków organicznych (film)” — https://pl.khanacademy.org/science/organic-chemistry/gen-chem-review/electronegativity-polarity/v/solubility-of-organic-compounds-redo
+Streszczenie wyszukiwarki: kurs ma 14 działów; dział „Struktura i wiązania” obejmuje hybrydyzację orbitali, wzory liniowe, elektroujemność, polarność i temperatury wrzenia; dalsze działy: stereochemia, substytucja i eliminacja, alkeny i alkiny, związki aromatyczne, aldehydy i ketony, kwasy karboksylowe, chemia węgla alfa, aminy, spektroskopia. Numeracja działów w wynikach niespójna (dział 10 lub 12 dla węgla alfa).

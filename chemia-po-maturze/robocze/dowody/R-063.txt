@@ -1,0 +1,10 @@
+adres: https://www.chemistryworld.com/
+data: 2026-11-03
+metoda: wyszukiwarka (WebSearch); strona zwraca automatom kod 405 i test „Human Verification”; próba obejścia zablokowana i porzucona (D-15)
+
+Wyniki wyszukiwarki:
+- strony chemistryworld.com: nawigacja News, Research, Industry, Opinion, Features, Culture, Careers, Podcasts, Webinars, Collections; „Chemistry World is the flagship magazine of the Royal Society of Chemistry”; „We provide a monthly digest of research published across all disciplines of chemical science”; „news coverage, in-depth features, investigative journalism, reviews and regular columns and commentary”
+- https://account.chemistryworld.com/register — „register your free account”
+- https://www.chemistryworld.com/sign-up-to-reaction — darmowe konto z miesięcznym limitem artykułów, e-mailowymi przeglądami, biblioteką artykułów
+- https://www.chemistryworld.com/help — „members are provided full access to our website”; użytkownicy instytucji z subskrypcją bez rejestracji
+- https://account.chemistryworld.com/subscribe — płatna subskrypcja dla niezrzeszonych

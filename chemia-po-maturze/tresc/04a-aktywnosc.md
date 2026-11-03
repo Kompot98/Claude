@@ -34,6 +34,6 @@ Na przykład na Politechnice Poznańskiej „stężenie a aktywność, współcz
 
 ### Skąd uczyć się dalej
 
-Przystępnie opisuje to podręcznik analityki Davida Harveya, podrozdział 6.9 „Activity Effects”, z doświadczeniem z Fe(SCN)²⁺, przykładami obliczeń siły jonowej i rozpuszczalności [R-047]. Ujęcie fizykochemiczne, przez potencjał chemiczny, jest w podręczniku Roberta Peveratiego, rozdział 14 „Properties of Solutions” [R-043]. Po polsku temat ma podręcznik chemii fizycznej Atkinsa [R-039] i teoretyczna część podręcznika analityki Minczewskiego i Marczenki [R-046]. [SPRAWDZIĆ: w których rozdziałach Atkinsa i Minczewskiego jest aktywność; książek nie przeglądano.]
+Przystępnie opisuje to podręcznik analityki Davida Harveya, podrozdział 6.9 „Activity Effects”, z doświadczeniem z Fe(SCN)²⁺, przykładami obliczeń siły jonowej i rozpuszczalności [R-047]. Ujęcie fizykochemiczne, przez potencjał chemiczny, jest w podręczniku Roberta Peveratiego, rozdział 14 „Properties of Solutions” [R-043]. Po polsku szukaj hasła „aktywność” w indeksie podręcznika chemii fizycznej, na przykład Atkinsa [R-039], i w tomie 1 podręcznika analityki Minczewskiego i Marczenki, zatytułowanym „Podstawy teoretyczne i analiza jakościowa” [R-046].
 
 Źródła tego wprowadzenia: Harvey, podrozdział 6.9 [Z-026], Peverati, podrozdział 14.1 [Z-027], OpenStax „Chemistry 2e”, podrozdział 13.2 [Z-028].

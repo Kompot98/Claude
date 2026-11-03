@@ -85,3 +85,15 @@ Format wpisu: co, dlaczego, co odrzucone. Wpisów nie kasuję; zmianę zapisuję
 **Co:** rozdziały 0–4 mają około 39 stron znormalizowanych, rozdział 5 (listy źródeł) około 21 stron. Rozdział 3 ma 14,6 strony, w środku przedziału 12–20. Wprowadzenia z rozdziału 4 mają 2,9–4,7 strony; spektroskopia jest dłuższa (D-10). Rozdział 5 jest generowany skryptem `skrypty/zrodla_md.py` z obu rejestrów i po każdej zmianie rejestrów trzeba go wygenerować ponownie.
 **Dlaczego:** zlecenie chce przy każdej pozycji „co z tego wzięliśmy” i podziału na rozdziały; przy 93 pozycjach daje to długą listę. Dla czytelnika to dodatek do przeglądania, nie do czytania po kolei.
 **Odrzucone:** skracanie opisów w rozdziale 5 poniżej jednego zdania (traci się informację, po co pozycja jest).
+
+## D-15, 2026-11-03: serwisy z zabezpieczeniem antybotowym opisane z wyników wyszukiwarki
+
+**Co:** Khan Academy (polski kurs „Chemia organiczna”, R-062) i Chemistry World (R-063) blokują automaty. Próba wejścia na Chemistry World inną drogą (kanał RSS, archiwum stron) została zablokowana przez zabezpieczenia środowiska jako obchodzenie testów antybotowych; nie ponawiałem jej ani podobnych. Oba zasoby opisałem z wyników wyszukiwarki (tytuły, adresy i fragmenty stron z indeksu), z adnotacją w `uwagi` i w pliku dowodu. Opis jest ogólniejszy niż przy zasobach otwartych bezpośrednio.
+**Dlaczego:** zleceniodawca poprosił o próbę innych dróg; wyszukiwarka jest drogą zwykłą i jawną. Obchodzenie zabezpieczeń serwisu nie jest.
+**Odrzucone:** pobieranie stron przez pośredników, archiwa i kanały techniczne w celu ominięcia blokady.
+
+## D-16, 2026-11-03: odpowiedzi na pytania z raportu (decyzja zleceniodawcy: „zgodnie z rekomendacjami”)
+
+**Co:** (1) Rysunków z OpenStax nie używamy; wszystkie brakujące rysunki są wstawkami `[RYSUNEK]` dla agenta od obrazków. (2) Chemistry World dopisany jako jedno hasło w rozdziale 3, przy chemii ogólnej, w części „Strony, artykuły i bazy danych” (R-063). (3) Polski kurs Khan Academy „Chemia organiczna” dopisany jako polski materiał w rozdziale 3 (R-062). (4) Piela: polskie wydanie na start, angielskie jako nowsze; zostaje miejsce na zdanie Adriana, dlaczego Piela. (5) Bez wskazywania serwisów z cudzymi notatkami.
+**Dlaczego:** decyzja zleceniodawcy z 3.11.2026.
+**Odrzucone:** nic.

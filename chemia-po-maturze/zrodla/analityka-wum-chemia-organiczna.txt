@@ -1,0 +1,194 @@
+adres: https://wf.wum.edu.pl/sites/wf.wum.edu.pl/files/Przewodniki%20dydaktyczne/przewodnik-i-rok-analityka-medyczna-2025-2026_5.pdf
+uczelnia: Warszawski Uniwersytet Medyczny
+kierunek: analityka medyczna
+przedmiot lub dokument: Chemia organiczna (fragment przewodnika dydaktycznego I roku, s. 55–60)
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pdftotext, wycinek sekcji przedmiotu
+
+ Chemia organiczna
+ 1. METRYCZKA
+Rok akademicki 2025/2026
+Wydział Wydział Farmaceutyczny
+Kierunek studiów Analityka Medyczna
+Dyscyplina wiodąca Nauki medyczne
+Profil studiów Praktyczny
+Poziom kształcenia Jednolite magisterskie
+Forma studiów Stacjonarne
+Typ modułu/przedmiotu Obowiązkowy
+Forma weryfikacji efektów Egzamin
+uczenia się
+Jednostka prowadząca Zakład Chemii Organicznej i Fizycznej ul. Banacha 1, 02-097
+/jednostki prowadzące
+Kierownik Dr hab. Piotr Luliński
+jednostki/kierownicy
+jednostek
+Koordynator przedmiotu Dr Mariusz Dana
+Osoba odpowiedzialna za Dr Mariusz Dana (mariusz.dana@wum.edu.pl)
+sylabus
+Prowadzący zajęcia Dr hab. Kinga Ostrowska, Dr hab. Teresa Żołek, Dr hab. Tomasz Gubica, Dr
+ Mariusz Dana, Dr Paweł Kaźmierczak,
+ 2. INFORMACJE PODSTAWOWE
+Rok i semestr Liczba punktów 6.00
+ Rok pierwszy, semestr I
+studiów ECTS
+FORMA PROWADZENIA ZAJĘĆ Liczba
+ Kalkulacja punktów ECTS
+ godzin
+Godziny kontaktowe z nauczycielem akademickim
+wykład (W) 30 1,5
+ 55
+seminarium (S) 10 0,8
+ćwiczenia (C) 40 2,5
+e-learning (e-L)
+zajęcia praktyczne (ZP)
+praktyka zawodowa (PZ)
+Samodzielna praca studenta
+Przygotowanie do zajęć i zaliczeń 30 1,2
+ 3. CELE KSZTAŁCENIA
+ Zdobycie wiedzy na temat struktury, nomenklatury, właściwości, przemian chemicznych oraz
+ C1
+ podstawowych mechanizmów reakcji wybranych grup związków organicznych
+ Zdobycie wiedzy z podstaw chemii związków naturalnych (cukry, aminokwasy, alkaloidy, terpeny,
+ C2
+ steroidy składniki tłuszczów, związków hetero- i policyklicznych), wzory, nazewnictwo
+ C3 Nabycie umiejętności identyfikacji związków organicznych ważnych w analizie farmaceutycznej
+ metodami instrumentalnymi
+ C4 Nabycie umiejętności praktycznego wykonywania reakcji chemicznych i procesów jednostkowych
+ istotnych w procesach analiz medycznych
+ C5 Nabycie umiejętności wyodrębniania substancji z próbek złożonych i analizy wybranych parametrów
+ charakteryzujących ich właściwości
+ 4. STANDARD KSZTAŁCENIA – SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ
+ Symbol Efekty w zakresie (zgodnie z załącznikiem do Rozporządzenia Ministra NiSW z 26 lipca 2019)
+ i numer
+ efektu
+ uczenia się
+ zgodnie ze
+ standardami
+ uczenia się
+Wiedzy – Absolwent* zna i rozumie:
+ B.W4 zna mechanizmy tworzenia i rodzaje wiązań chemicznych oraz mechanizmy oddziaływań
+ międzycząsteczkowych w różnych stanach skupienia materii
+ B.W14 zna podział związków węgla i zasady nomenklatury związków organicznych
+ B.W15 zna strukturę związków organicznych w ujęciu teorii orbitali atomowych i molekularnych oraz
+ potrafi wyjaśnić efekt mezomeryczny i indukcyjny
+ B.W16 zna typy i mechanizmy reakcji chemicznych związków organicznych (substytucja, addycja,
+ eliminacja)
+ B.W17 zna właściwości węglowodorów, fluorowcowęglowodorów, związków metaloorganicznych,
+ amin, nitrozwiązków, alkoholi, fenoli, eterów, aldehydów, ketonów, kwasów karboksylowych,
+ 56
+ funkcyjnych i szkieletowych pochodnych kwasów karboksylowych oraz pochodnych kwasu
+ węglowego
+ B.W18 zna budowę i właściwości związków heterocyklicznych pięcio- i sześcioczłonowych z atomami
+ azotu, tlenu i siarki oraz budowę i właściwości związków pochodzenia naturalnego: alkaloidów,
+ węglowodanów, peptydów, białek oraz lipidów, w tym steroidów i terpenów;.
+ Umiejętności – Absolwent* potrafi:
+ B.U1 potrafi stosować podstawowe techniki laboratoryjne, w tym chemiczną analizę jakościową;
+ potrafi określać budowę i właściwości związków organicznych oraz relacje pomiędzy strukturą
+ B.U9
+ tych związków a ich reaktywnością;
+ potrafi wykonywać wszystkie czynności laboratoryjne z dbałością pozwalającą na zachowanie
+ B.U10
+ pełnego bezpieczeństwa swojego i osób współpracujących
+ potrafi planować i wykonywać analizy chemiczne oraz interpretować ich wyniki, a także
+ B.U15
+ wyciągać wnioski.
+*W załącznikach do Rozporządzenia Ministra NiSW z 26 lipca 2019 wspomina się o „absolwencie”, a nie studencie
+ 5. POZOSTAŁE EFEKTY UCZENIA SIĘ
+ Numer (pole nieobowiązkowe)
+ efektu Efekty w zakresie
+ uczenia się
+ Wiedzy – Absolwent zna i rozumie:
+ Umiejętności – Absolwent potrafi:
+ Kompetencji społecznych – Absolwent jest gotów do:
+ 6. ZAJĘCIA
+ Forma zajęć Treści programowe Efekty uczenia się
+ Wstęp do chemii organicznej. Zasady tworzenia B.W4, B.W14, B.W15,
+ nazewnictwa związków organicznych. Reguły B.W16, B.W17, B.W18
+ starszeństwa podstawników. Izomeria związków
+ organicznych. Podstawy budowy elektronowej. Tworzenie
+ Wykład wiązań. Chemia poszczególnych grup związków
+ organicznych. Mechanizmy reakcji substytucji
+ elektrofilowej i nukleofilowej oraz eliminacji. Chemia
+ związków heterocyklicznych. Związki o znaczeniu
+ biologicznym.
+ S1: Nazewnictwo węglowodorów. B.W4, B.W14, B.W15,
+ S2: Nazewnictwo pochodnych węglowodorów B.W16, B.W18
+ Seminarium S3: Izomeria optyczna i geometryczna
+ S4: Mechanizmy wybranych reakcji organicznych
+ S5: Stereochemia i reakcje cukrów i aminokwasów
+ L1: Zapoznanie z przepisami BHP obowiązującymi w B.W17, B.U1, B.U9, B.U10,
+ Ćwiczenia laboratorium chemii organicznej, przygotowanie B.U15, B.W5
+ warsztatu pracy (szkło laboratoryjne, budowa zestawów
+ 57
+ laboratoryjnych), zagadnienia związane z procesami
+ jednostkowymi
+ L2: Przeprowadzenie czynności laboratoryjnych
+ związanych z procesami jednostkowymi (metody
+ wyodrębniania i oczyszczania ciał stałych i cieczy ze
+ złożonych matryc)
+ L3 – L6: Wykonanie 4 syntez wybranych związków
+ organicznych
+ L7: Analiza jakościowa węglowodanów
+ L8: Samodzielne wykonanie wylosowanej techniki
+ laboratoryjnej
+ 7. LITERATURA
+Obowiązkowa
+ 1. Langwald M., Maciejewska D. „Przewodnik po laboratorium chemii organicznej” Oficyna Wydawnicza
+ WUM Warszawa 2009
+ 2. Maciejewska D., Langwald M. „Chemia organiczna T1 i T2”, Oficyna Wydawnicza WUM 2009
+ 3. J. McMurry „Chemia Organiczna” tom 1-5, Wydawnictwo Naukowe PWN, Warszawa 2017/2022
+Uzupełniająca
+ 1. Białecka-Florjańczyk E.,Włostowska J. „Chemia organiczna” WNT Warszawa 2007
+ 2. J. Clayden, N. Greeves, S. Warren, P. Wothers. Chemia organiczna. Część IV. Rozdz. 8, 9, 10.
+ Wydawnictwa Naukowo-Techniczne, Warszawa, 2011.
+ 8. SPOSOBY WERYFIKACJI EFEKTÓW UCZENIA SIĘ
+ Symbol Sposoby weryfikacji efektu uczenia się Kryterium zaliczenia
+przedmiotowego
+ efektu uczenia
+ się
+B.W4, B.W5, kartkówka, kolokwium Uzyskanie odpowiednich
+B.W.14, B.W15, progów punktowych,
+B.W16, B.W17, pozytywna ocena z
+B.W18 egzaminu końcowego.
+ Egzamin kończący
+ przedmiot ma formę
+ testu składającego się z
+ 60 pytań zarówno
+ zamkniętych
+ jednokrotnego wyboru
+ jak i zadań z częścią
+ otwartą
+B.U1, B.U9, kartkówka, kolokwium, sprawozdanie z ćwiczeń, praktyczny Zaliczenie ćwiczeń na
+B.U10, B.U14, końcowy sprawdzian z opanowania technik laboratoryjnych podstawie sumy punktów
+B.U15, B.K1, B.K2, z kartkówek,
+GU1 sprawdzianów,
+ wykonania części
+ praktycznej ćwiczeń oraz
+ praktycznego końcowego
+ 58
+ sprawdzianu
+ weryfikującego
+ opanowanie technik
+ laboratoryjnych
+ 9. INFORMACJE DODATKOWE
+ 1. Szczegółowy regulamin na stronie internetowej Zakładu chemiaorganiczna.wum.edu.pl, w gablocie
+ przy Zakładzie oraz w Przewodniku Dydaktycznym dla I roku.
+ 2. Na stronie internetowej Zakładu dostępne są materiały dydaktyczne jako krótkie filmy prezentujące
+ podstawowe techniki laboratoryjne, pliki do wykładów i seminariów oraz bieżące informacje
+ dydaktyczne.
+ 3. Każdemu studentowi przysługują dwa terminy zaliczenia: kolokwium zaliczającego materiał
+ teoretyczny, zaliczenia końcowego pracowni oraz egzaminu tj. termin pierwszy (podstawowy) i
+ termin drugi (poprawkowy)
+ 4. Skrypty do chemii organicznej są dostępne na stronie internetowej uczelni w zakładce skrypty on-
+ line.
+ 5. Katedra i Zakład Chemii Organicznej i Fizycznej Wydział Farmaceutyczny; ul. Banacha 1 tel. (22) 5720
+ 643
+Prawa majątkowe, w tym autorskie, do sylabusa przysługują WUM. Sylabus może być wykorzystywany dla celów związanych z
+kształceniem na studiach odbywanych w WUM. Korzystanie z sylabusa w innych celach wymaga zgody WUM.
+ UWAGA
+Końcowe 10 minut ostatnich zajęć w bloku/semestrze/roku należy przeznaczyć na wypełnienie przez studentów
+ Ankiety Oceny Zajęć i Nauczycieli Akademickich
+ 59
+ Fizjologia
+ 1. METRYCZKA

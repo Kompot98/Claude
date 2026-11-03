@@ -153,11 +153,7 @@ Do tego chemik powinien przejrzeć cały rozdział 4: każde zdanie merytoryczne
 
 ## Pytania do zleceniodawcy
 
-1. **Licencja OpenStax.** W 2026 OpenStax publikuje „Chemistry 2e” i „Organic Chemistry” na CC BY-NC-SA 4.0, nie na CC BY, jak zakłada zlecenie (D-05). Rekomendacja: nie używać rysunków OpenStax w kursie; teksty polecać i cytować jak teraz, a siedem rysunków z opisów `[RYSUNEK]` narysować u siebie.
-2. **„Artykuły” z obietnicy kursu.** Strona kursu obiecuje „książki, kanały, artykuły”. Artykuły objaśniające są (Master Organic Chemistry, Chemistry Steps, Chemguide, LibreTexts), ale serwisy z artykułami popularnonaukowymi (Chemistry World, Education in Chemistry) były dla agenta niedostępne. Rekomendacja: przy wydaniu otworzyć Chemistry World ręcznie i, jeśli część artykułów jest bezpłatna, dopisać jedno hasło w rozdziale 3 przy chemii ogólnej.
-3. **Khan Academy.** Polska „Chemia” jest w rejestrze (R-027) na podstawie jednego odczytu. Rekomendacja: sprawdzić ręcznie, czy polska Khan Academy ma też kurs chemii organicznej, i jeśli tak, dopisać go jako polski materiał w rozdziale 3.
-4. **Piela.** Polskie wydanie „Idei chemii kwantowej” jest z 2011 roku, angielskie trzecie z 2020. Rekomendacja: polecać polskie na start, angielskie jako nowsze; jedno zdanie Adriana w miejscu `[ADRIAN]` w 4b, dlaczego Piela.
-5. **Materiały od starszych roczników.** Rozdział 1 mówi o nich zgodnie z punktem 5, bez wskazywania konkretnych serwisów z notatkami. Rekomendacja: zostawić tak; serwisy z cudzymi materiałami mają te same problemy prawne co serwisy z kopiami książek.
+Zleceniodawca odpowiedział 3.11.2026: „zgodnie z rekomendacjami”. Wprowadzone zmiany opisuje D-16 w `DECYZJE-AGENTA.md`: brak rysunków z OpenStax, Chemistry World (R-063) i polska Khan Academy „Chemia organiczna” (R-062) dopisane do rozdziału 3, Piela polecany najpierw po polsku, bez wskazywania serwisów z notatkami. Nowych pytań nie ma.
 
 ## Jak sprawdzić i odtworzyć
 

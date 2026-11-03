@@ -1,0 +1,364 @@
+źródło: https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.03%3A_Determining_the_Sensitivity
+data: 2026-11-03
+tytuł: 5.3: Determining the Sensitivity - Chemistry LibreTexts
+licencja (stopka): ['CC BY-NC-SA  4.0']  tagi: ['license:ccbyncsa', 'licenseversion:40']
+podstrony: []
+
+mt-content-container p { color: white; } .darkMode .mt-content-container .boxexample, .darkMode .mt-content-container .boxexercise, .darkMode .mt-content-container .boxlemma, .darkMode .mt-content-container .boxnotation, .darkMode .mt-content-container .boxnotewithlegend, .darkMode .mt-content-container .boxnotewithoutlegend, .darkMode .mt-content-container .boxprocedure, .darkMode .mt-content-container .boxproposition, .darkMode .mt-content-container .boxquery, .darkMode .mt-content-container .boxtheorem, .darkMode .mt-content-container .boxobjectives, .darkMode .mt-content-container .box-example, .darkMode .mt-content-container .box-exercise, .darkMode .mt-content-container .box-lemma, .darkMode .mt-content-container .box-notation, .darkMode .mt-content-container .box-warning, .darkMode .mt-content-container .box-note, .darkMode .mt-content-container .box-notewithlegend, .darkMode .mt-content-container .box-notewithoutlegend, .darkMode .mt-content-container .box-procedure, .darkMode .mt-content-container .box-proposition, .darkMode .mt-content-container .box-query, .darkMode .mt-content-container .box-theorem, .darkMode .mt-content-container .box-objectives { background: #f0f5ff24; box-shadow: 3px 3px 4px #00000085; } .darkMode p.boxtitle { color:white; } .darkMode th { background:#00629a; } .darkMode tr, .darkMode tr td { background:none; } .darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td { background:#555555; } .optimize { display: flex; flex-wrap: wrap; } /* Hide header if in iframe*/ .contentOnly .elm-header, .contentOnly .elm-meta-icons, .contentOnly div.annotator-frame, .adaptView .elm-footer, /*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */ .adaptView article#elm-main-content > header, .contentOnly hypothesis-sidebar, .contentOnly #custom_open, .contentOnly .sbHeader { display:none; } .sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] { background-color: transparent !important; } .contentOnly #mt-summary { display:none!important; } /* Hide most supporting content when in embed mode */ .embedView .elm-header, .embedView .elm-meta-icons, .embedView div.annotator-frame, .embedView .elm-footer, .embedView article#elm-main-content > *:not(:first-child, .mt-content-container), .embedView hypothesis-sidebar, .embedView #custom_open, .embedView #libretexts-ai-assistant, .embedView #mt-summary, .embedView #backButton, .embedView #nextButton, /* hide first button that appears in librelens attribution list */ .embedView #librelens-attribution-list > button:first-of-type, .embedView .elm-content-footer, .embedView .sbHeader { display:none!important; } /* Hide everything except the first child that is or contains .pageInfo */ .embedView .elm-meta-data > *:not(.pageInfo):not(:has(.pageInfo)), .embedView .elm-meta-data > :is(.pageInfo, :has(.pageInfo)) ~ :is(.pageInfo, :has(.pageInfo)) { display: none !important; } /* Move the remaining .elm-meta-data content to right and "up" (bring in line with title) */ .embedView .elm-meta-data { display: flex; justify-content: end; margin-top: -35px; } .embedView #title { border-bottom: none !important; } iframe.imathas_problem, iframe.webwork_problem { border: none; width: 100%; } /*GeoGebra fix*/ article.elm-content-container, section.mt-content-container { height: auto !important; width: auto !important; } .elm-meta-top .mt-article-pagination a { width: auto; color: #30b3f6; } .elm-meta-top .mt-article-pagination a:hover { color: #b4b4b4; } .elm-meta-top .elm-article-pagination { float: unset; } #elm-main-content ol.elm-meta-data .elm-social-share { margin: 0; } #MathJax_Zoom { color: black; } #donate { background-color: green; color: white; display: flex; padding: 5px; align-items: center; } #donate:hover { background-color: #005E00; } .youtubeImageContainer { position: relative; } a.notSS { width: auto; height: auto; margin-top: 0; } .toc-button.mt-icon-hierarchy-trigger-closed:before { content: "\e8a6"; font-size: 150%; } span.fancytree-icon:before { content: "\e8aa"; } .mt-icon-hierarchy-trigger-open:before { font-size: 150%; } span.fancytree-has-children > span.fancytree-icon:before { content: "\e8b3"; } span.fancytree-title > a { color: #666; } span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon { color: #1a9003; } .toc-hierarchy > div { display: none; } .toc-hierarchy h6 { margin-top: 0; color: #137ac3 } .pageInfo { float: left; margin: 0 1em 0 0; } .cc { color: black; } .glossarizer_replaced { border-bottom: 1px #333 dotted; } #pageTagsHolder { display: none; } #batchPrint { display: flex; align-items: stretch; justify-content: center; } #TOCbutton { margin: 2px; display: flex; line-height: 2.4; justify-content: center; align-items: center; color: #127bc4; font-size: 100%; height: 100%; } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } div.propagatorLoader { display: flex; margin: 10px; justify-content: center; } .loaderStatus { /* flex: 1; */ justify-content: center; text-align: center; } /* Modal Foundation*/ #warningModal { position: fixed ; left: 0px; top: 0px; bottom:0px; right:0px; margin:0px; display: none; /* Hidden by default */ z-index: 10000; padding-top: 0px; /* Location of the box */ width: 100%; /* Full width */ height: 100%; /* Full height */ overflow: auto; /* Enable scroll if needed */ background-color: rgb(0,0,0); /* Fallback color */ background-color: rgb(0,0,0,0);/* Black w/ opacity */ } /* Modal Content */ #warningModalSlide { font-family: 'Roboto'; font-size: 14px; background-color: #EFEFEF ; margin: auto; padding: 15px; /*border: 0px solid #888;*/ width: 40%; box-shadow: -2px 8px 10px #c7c7c7; } #elm-main-content figure { display: flex; align-items: center; flex-direction: column; margin: 0; page-break-inside: avoid; margin-bottom: 0.3em !important; } .mt-video-widget:not(.cke_widget_element) { margin: 1rem auto !important; } .glmol{ text-align: left; } #copyResults img { width: 30px; height: 30px; object-fit: contain; } #LTform, #LTPreview { display: flex; flex-direction: column; } #LTFormContainer, .LTFormHeader, #LTFormFooter { display: flex; } #LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container { background: #f3f3f3; border-radius: 10px; overflow: auto; flex: 1; } #LTLeft, #LTRight, #LTPreviewForm, #LTTutorial { /*flex: 1;*/ align-items: stretch; height: 60vh; max-width: 45vw; overflow: hidden; width: 100%; background: #f3f3f3; border-radius: 10px; display: flex; flex-direction: column; } #LTLeft, #LTTutorial { border-radius: 0 0 10px 10px; } select.LTFormSubdomain { border-radius: 10px 10px 0 0; } #LTFormFooter { flex-direction: column; } .LTFormHeader { justify-content: flex-end; margin-top: 30px; background-color: #127bc4; padding: 10px; border-radius: 5px; color: white } ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 { } #LTFormContainer > div { flex: 1; display: flex; flex-direction: column; align-items: center; margin: 10px; max-width: 45vw; } .LTTitle { flex: 1; display: flex; align-items: center; } div#LTPreviewForm { max-width: unset; margin: 10px; width: auto; } div#LTLeftAlert, div#LTRightAlert { height: 30px; background-color: rgba(18, 122, 196, 0.61); width: inherit; z-index: 1; display: flex; align-items: center; justify-content: center; } select#LTFormSubdomain { border-radius: 10px 10px 0 0; } #mt-site-search-input { max-width: 40vw; } #getTOCLink { display: flex; justify-content: center; align-items: center; background-color: slategrey; color: white; width: fit-content; padding: 0 3px; } .annotator-frame.annotator-collapsed > div.annotator-bucket-bar { background: none; } .mobileOnly { display: none; } #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: auto; } #RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before { vertical-align: middle; } .elm-header-user-nav .mt-user-menu li.mt-user-quick-login { margin-left: 0; } .mt-user-menu { display: flex; justify-content: center; } li.elm-social-share a { height: unset; width: auto; margin: 0 2px 0 0; } #LTRight > ul > li { min-height: 100%; } .react-toggle { height: 24px; } .buttonsetForm > button:first-child { background: #525050; color: white; } /*Added to make a hyperlink position below the breadcrumb bar and is viewable */ /*#pageText > .mt-section > span:first-child { top: -50px; display: block; position: relative; }*/ .elm-header-notice.fixed { position: static; } .elm-fixed-header { position: static; } /* Dropdown Button */ .LTdropdown > .dropbtn { color: inherit; background-color: inherit; border: none; height: 100%; padding: 5px; display: flex; align-items: center; box-sizing: border-box; } .LTdropdown a:visited { color: inherit; } /* The container
+- needed to position the dropdown content */ .LTdropdown { position: relative; display: inline-block; margin-right: 2px; color: white; background: black; } /* Dropdown Content (Hidden by Default) */ .LTdropdown-content { color: inherit; display: none; position: absolute; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); background: inherit; z-index: 5; flex-direction: column; align-items: stretch; width: max-content; width: -moz-max-content; } /* Links inside the dropdown */ .LTdropdown > .LTdropdown-content a { color: inherit; background: inherit; padding: 12px 16px; text-decoration: none; display: block; width: initial; text-align: center; font-size: 12px; margin: 0; } /* Change color of dropdown links on hover */ .LTdropdown > .LTdropdown-content a:hover { filter: brightness(85%); transition-duration: 250ms; color: white; } .LTdropdown-content a:before { margin-right: 2px; } .LTdropdown-content a:not(:first-child) { border-top: 1px solid white; } /* Show the dropdown menu on hover */ .LTdropdown:hover .LTdropdown-content { display: flex; } /* Change the background color of the dropdown button when the dropdown content is shown */ .LTdropdown:hover .dropbtn { filter: brightness(85%); } nav.elm-header-user-nav > div.elm-nav-container > ol { display: flex; } nav.elm-header-user-nav > div.elm-nav-container > ol > li { display: flex; } li.elm-global-search { flex: 1 } #mt-site-search-input { width: auto; } .mt-breadcrumbs a span.nb-comment-highlight { font-size: unset; margin-right: unset; vertical-align: unset; } /* */ .mt-user-quick-login { display: none !important; } .mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right { display: none !important; } .mt-icon-quick-sign-in::before { color: #127BC4; } .sso-user:hover:after { content: " (Logout)"; font-family: inherit; font-style: italic; } .authenticated-sso.elm-header-user-nav { background-color: #0f67a6; } .authenticated-sso.elm-header-user-nav .mt-user-menu-user { background: #323232; border-radius: 5px; } .authenticated-sso.elm-header-user-nav .mt-user-menu > li > a { color: white; } /* */ /*Media Queries*/ @media (max-width: 600px) { .mobileOnly { display: block; } .mobileHide { display: none; } .LTBranding { flex-direction: column; } } @media (max-width: 875px) { #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: 1.95em; } } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } @media (max-width: 1001px) { #TOCbutton { width: 20px; justify-content: flex-start; } } /* @media (min-width: 83em) { article.elm-content-container { min-width: unset; } } */ /* @media (min-width: 37.5em){ .elm-header-user-nav { z-index: 1; } } */ .mt-content-container img { height: auto!important; object-fit: contain; } .mt-content-container .mt-sortable-listing-link img { height: 150px!important; } .mt-video-widget > p { text-align: center; } option[value="article:topic-portfolio"] { display: none; } option[value="article:howto"] { display: none; } option[value="article:reference"] { display: none; } .live-tag-link { white-space: normal; user-select: text; -webkit-user-drag: none; } span.mt-font-ma-shan-zheng{ font-family: 'Ma Shan Zheng'; } .cke_librebox .cke_combo_open { margin-left: 0; } .cke_librebox .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_librequery .cke_combo_open { margin-left: 0; } .cke_librequery .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_button_icon.cke_button__librequeryoptions_icon { background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important; background-position: 0px !important; background-size: 16px !important; } /** Heading 7 **/ .lt-heading-7 { text-align: left!important; font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif; color: #000; margin: 2rem 0 0.5rem; padding: 0; } @media (min-width: 37.5em) { .lt-heading-7 { font-size: 112.5% !important; } } @media (min-width: 18.75em) { .lt-heading-7 { font-size: 105.5% !important; } } /** AutoAttribution **/ #librelens-attribution-list li { font-size: 0.95rem !important; } /** Prevent overflow with large images in sections **/ section::after { content: ''; clear: both; display: block }/*]]>*/
+Skip to main content
+Table of Contents menu
+[Library homepage]
+search Search
+build_circle Toolbar
+fact_check Homework
+cancel Exit Reader Mode
+-   school Campus Bookshelves
+-   menu_book Bookshelves
+-   perm_media Learning Objects
+-   login Login
+-   how_to_reg Request Instructor Account
+-   hub Instructor Commons
+Search
+Search this book
+Submit Search
+x
+Text Color
+Reset
+ Bright
+ Blues
+ Gray
+ Inverted
+Text Size
+Reset
++
+-
+Margin Size
+Reset
++
+-
+Font Type
+Enable Dyslexic Font  
+-   Downloads expand_more
+    -   Download Page (PDF)
+    -   Download Full Book (PDF)
+-   Resources expand_more
+    -   Periodic Table
+    -   Physics Constants
+    -   Scientific Calculator
+-   Reference expand_more
+    -   Reference & Cite
+-   Tools expand_more
+-   Help expand_more
+    -   Get Help
+    -   Feedback
+    -   Readability
+x
+selected template will load here
+Error
+This action is not available.
+[Library homepage]
+chrome_reader_mode Enter Reader Mode
+5: Standardizing Analytical Methods
+Analytical Chemistry 2.1 (Harvey)
+{ }
+{ "5.01:_Analytical_Signals" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "5.02:_Calibrating_the_Signal" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "5.03:_Determining_the_Sensitivity" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "5.04:_Linear_Regression_and_Calibration_Curves" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "5.05:_Compensating_for_the_Reagent_Blank" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "5.06:_Using_Excel_and_R_for_a_Linear_Regression" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "5.07:_Problems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "5.08:_Additional_Resources" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "5.09:_Chapter_Summary_and_Key_Terms" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "01:_Introduction_to_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "02:_Basic_Tools_of_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "03:__The_Vocabulary_of_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "04:_Evaluating_Analytical_Data" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "05:_Standardizing_Analytical_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "06:_Equilibrium_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "07:_Obtaining_and_Preparing_Samples_for_Analysis" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "08:_Gravimetric_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "09:_Titrimetric_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10:_Spectroscopic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "11:_Electrochemical_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "12:_Chromatographic_and_Electrophoretic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "13:_Kinetic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "14:_Developing_a_Standard_Method" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "15:_Quality_Assurance" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "16:_Appendix" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+Sun, 09 Feb 2025 21:14:51 GMT
+5.3: Determining the Sensitivity
+132504
+132504
+Delmar Larsen
+{ }
+Anonymous
+Anonymous User
+2
+false
+false
+[ "article:topic", "authorname:harveyd", "linear regression", "showtoc:no", "analytical chemistry", "single-point standardization", "multiple-point standardization", "external standards", "standard additions", "calibration curve", "license:ccbyncsa", "field:achem", "cssprint:dense", "matrix effects", "licenseversion:40", "concentration calculation", "lead detection", "method standardization", "analyte sensitivity", "internal standards", "spectrophotometric analysis" ]
+[ "article:topic", "authorname:harveyd", "linear regression", "showtoc:no", "analytical chemistry", "single-point standardization", "multiple-point standardization", "external standards", "standard additions", "calibration curve", "license:ccbyncsa", "field:achem", "cssprint:dense", "matrix effects", "licenseversion:40", "concentration calculation", "lead detection", "method standardization", "analyte sensitivity", "internal standards", "spectrophotometric analysis" ]
+https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FAnalytical_Chemistry%2FAnalytical_Chemistry_2.1_by_David_Harvey%2FAnalytical_Chemistry_2.1_(Harvey)%2F05%253A_Standardizing_Analytical_Methods%2F5.03%253A_Determining_the_Sensitivity
+[Chemistry LibreTexts]
+1.  Search site
+    Search
+    Search
+    Go back to previous article
+2.  1.  Username
+        Password
+        Sign in
+    2.  Sign in
+        -   Sign in
+        -   Forgot password
+Expand/collapse global hierarchy
+1.   Home
+2.   Bookshelves
+3.   Analytical Chemistry
+4.   Analytical Chemistry 2.1 by David Harvey
+5.   Analytical Chemistry 2.1 (Harvey)
+6.   5: Standardizing Analytical Methods
+7.   5.3: Determining the Sensitivity
+Expand/collapse global location
+5.3: Determining the Sensitivity
+1.  
+    Last updated
+2.  Save as PDF
+3.  
+Page ID
+    132504
+-   [ ]
+-   David Harvey
+-   DePauw University
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+\( \newcommand{\dint}{\displaystyle\int\limits} \)
+\( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\(\newcommand{\longvect}{\overrightarrow}\)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\(\newcommand{\ket}[1]{\left| #1 \right>}\)
+\(\newcommand{\bra}[1]{\left< #1 \right|}\)
+\(\newcommand{\braket}[2]{\left< #1 \vphantom{#2} \right| \left. #2 \vphantom{#1} \right>}\)
+\(\newcommand{\braopket}[3]{\left< #1 \vphantom{#2}\vphantom{#3} \right| #2 \vphantom{#1}\vphantom{#3} \left| #3 \vphantom{#1}\vphantom{#2} \right>}\)
+\(\newcommand{\qmvec}[1]{\mathbf{\vec{#1}}}\)
+\(\newcommand{\op}[1]{\hat{\mathbf{#1}}}\)
+\(\newcommand{\expect}[1]{\langle #1 \rangle}\)
+\(\newcommand{\dfn}[1]{\emph{\textbf{#1}}}\)
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\) \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)
+1.  Single-Point versus Multiple-Point Standardizations
+2.  External Standards
+    1.  Single External Standard
+        1.  Example 5.3.1
+            1.  Solution
+    2.  Multiple External Standards
+        1.  Example 5.3.2
+            1.  Solution
+        2.  Exercise 5.3.1
+3.  Standard Additions
+    1.  Single Standard Addition
+        1.  Example 5.3.3
+            1.  Solution
+        2.  Example 5.3.4
+            1.  Solution
+    2.  Multiple Standard Additions
+        1.  Example 5.3.5
+            1.  Solution
+        2.  Exercise 5.3.2
+        3.  Example 5.3.6
+            1.  Solution
+        4.  Exercise 5.3.3
+    3.  Using a Standard Addition to Identify Matrix Effects
+4.  Internal Standards
+    1.  Single Internal Standard
+        1.  Example 5.3.7
+    2.  Multiple Internal Standards
+        1.  Example 5.3.8
+            1.  Solution
+To standardize an analytical method we also must determine the analyte’s sensitivity, k_(A), in Equation 5.3.1 or Equation 5.3.2 .
+\[S_{total} = k_A n_A + S_{reag} \label{5.1}\]
+\[S_{total} = k_A C_A + S_{reag} \label{5.2}\]
+In principle, it is possible to derive the value of k_(A) for any analytical method if we understand fully all the chemical reactions and physical processes responsible for the signal. Unfortunately, such calculations are not feasible if we lack a sufficiently developed theoretical model of the physical processes or if the chemical reaction’s evince non-ideal behavior. In such situations we must determine the value of k_(A) by analyzing one or more standard solutions, each of which contains a known amount of analyte. In this section we consider several approaches for determining the value of k_(A). For simplicity we assume that S_(reag) is accounted for by a proper reagent blank, allowing us to replace S_(total) in Equation \ref{5.1} and Equation \ref{5.2} with the analyte’s signal, S_(A).
+\[S_A = k_A n_A \label{5.3}\]
+\[S_A = k_A C_A \label{5.4}\]
+Equation \ref{5.3} and Equation \ref{5.4} essentially are identical, differing only in whether we choose to express the amount of analyte in moles or as a concentration. For the remainder of this chapter we will limit our treatment to Equation \ref{5.4}. You can extend this treatment to Equation \ref{5.3} by replacing C_(A) with n_(A).
+Single-Point versus Multiple-Point Standardizations
+The simplest way to determine the value of k_(A) in Equation \ref{5.4} is to use a single-point standardization in which we measure the signal for a standard, S_(std), that contains a known concentration of analyte, C_(std). Substituting these values into Equation \ref{5.4}
+\[k_A = \frac {S_{std}} {C_{std}} \label{5.5}\]
+gives us the value for k_(A). Having determined k_(A), we can calculate the concentration of analyte in a sample by measuring its signal, S_(samp), and calculating C_(A) using Equation \ref{5.6}.
+\[C_A = \frac {S_{samp}} {k_A} \label{5.6}\]
+A single-point standardization is the least desirable method for standardizing a method. There are two reasons for this. First, any error in our determination of k_(A) carries over into our calculation of C_(A). Second, our experimental value for k_(A) is based on a single concentration of analyte. To extend this value of k_(A) to other concentrations of analyte requires that we assume a linear relationship between the signal and the analyte’s concentration, an assumption that often is not true [Cardone, M. J.; Palmero, P. J.; Sybrandt, L. B. Anal. Chem. 1980, 52, 1187–1191]. Figure 5.3.1 shows how assuming a constant value of k_(A) leads to a determinate error in C_(A) if k_(A) becomes smaller at higher concentrations of analyte. Despite these limitations, single-point standardizations find routine use when the expected range for the analyte’s concentrations is small. Under these conditions it often is safe to assume that k_(A) is constant (although you should verify this assumption experimentally). This is the case, for example, in clinical labs where many automated analyzers use only a single standard.
+[ ]
+Figure 5.3.1 : Example showing how a single-point standardization leads to a determinate error in an analyte’s reported concentration if we incorrectly assume that k_(A) is constant. The assumed relationship between S_(samp) and C_(A) is based on a single standard and is a straight-line; the actual relationship between S_(samp) and C_(A) becomes curved for larger concentrations of analyte.
+The better way to standardize a method is to prepare a series of standards, each of which contains a different concentration of analyte. Standards are chosen such that they bracket the expected range for the analyte’s concentration. A multiple-point standardization should include at least three standards, although more are preferable. A plot of S_(std) versus C_(std) is called a calibration curve. The exact standardization, or calibration relationship, is determined by an appropriate curve-fitting algorithm.
+Linear regression, which also is known as the method of least squares, is one such algorithm. Its use is covered in Section 5.4.
+There are two advantages to a multiple-point standardization. First, although a determinate error in one standard introduces a determinate error, its effect is minimized by the remaining standards. Second, because we measure the signal for several concentrations of analyte, we no longer must assume k_(A) is independent of the analyte’s concentration. Instead, we can construct a calibration curve similar to the “actual relationship” in Figure 5.3.1 .
+External Standards
+The most common method of standardization uses one or more external standards, each of which contains a known concentration of analyte. We call these standards “external” because they are prepared and analyzed separate from the samples.
+Appending the adjective “external” to the noun “standard” might strike you as odd at this point, as it seems reasonable to assume that standards and samples are analyzed separately. As we will soon learn, however, we can add standards to our samples and analyze both simultaneously.
+Single External Standard
+With a single external standard we determine k_(A) using EEquation \ref{5.5} and then calculate the concentration of analyte, C_(A), using Equation \ref{5.6}.
+Example 5.3.1 
+A spectrophotometric method for the quantitative analysis of Pb²⁺ in blood yields an S_(std) of 0.474 for a single standard for which the concentration of lead is 1.75 ppb. What is the concentration of Pb²⁺ in a sample of blood for which S_(samp) is 0.361?
+Solution
+Equation \ref{5.5} allows us to calculate the value of k_(A) using the data for the single external standard.
+\[k_A = \frac {S_{std}} {C_{std}} = \frac {0.474} {1.75 \text{ ppb}} = 0.2709 \text{ ppb}^{-1} \nonumber\]
+Having determined the value of k_(A), we calculate the concentration of Pb²⁺ in the sample of blood is calculated using Equation \ref{5.6}.
+\[C_A = \frac {S_{samp}} {k_A} = \frac {0.361} {0.2709 \text{ ppb}^{-1}} = 1.33 \text{ ppb} \nonumber\]
+Multiple External Standards
+Figure 5.3.2 shows a typical multiple-point external standardization. The volumetric flask on the left contains a reagent blank and the remaining volumetric flasks contain increasing concentrations of Cu²⁺. Shown below the volumetric flasks is the resulting calibration curve. Because this is the most common method of standardization, the resulting relationship is called a normal calibration curve.
+[The absorbance measured on the graph increases as the concentration of the sample increases.]
+Figure 5.3.2 : The photo at the top of the figure shows a reagent blank (far left) and a set of five external standards for Cu²⁺ with concentrations that increase from left-to-right. Shown below the external standards is the resulting normal calibration curve. The absorbance of each standard, S_(std), is shown by the filled circles.
+When a calibration curve is a straight-line, as it is in Figure 5.3.2 , the slope of the line gives the value of k_(A). This is the most desirable situation because the method’s sensitivity remains constant throughout the analyte’s concentration range. When the calibration curve is not a straight-line, the method’s sensitivity is a function of the analyte’s concentration. In Figure 5.3.1 , for example, the value of k_(A) is greatest when the analyte’s concentration is small and it decreases continuously for higher concentrations of analyte. The value of k_(A) at any point along the calibration curve in Figure 5.3.1 is the slope at that point. In either case, a calibration curve allows to relate S_(samp) to the analyte’s concentration.
+Example 5.3.2 
+A second spectrophotometric method for the quantitative analysis of Pb²⁺ in blood has a normal calibration curve for which
+\[S_{std} = (0.296 \text{ ppb}^{-1} \times C_{std}) + 0.003 \nonumber\]
+What is the concentration of Pb²⁺ in a sample of blood if S_(samp) is 0.397?
+Solution
+To determine the concentration of Pb²⁺ in the sample of blood, we replace S_(std) in the calibration equation with S_(samp) and solve for C_(A).
+\[C_A = \frac {S_{samp} - 0.003} {0.296 \text{ ppb}^{-1}} = \frac {0.397 - 0.003} {0.296 \text{ ppb}^{-1}} = 1.33 \text{ ppb} \nonumber\]
+It is worth noting that the calibration equation in this problem includes an extra term that does not appear in Equation \ref{5.6}. Ideally we expect our calibration curve to have a signal of zero when C_(A) is zero. This is the purpose of using a reagent blank to correct the measured signal. The extra term of +0.003 in our calibration equation results from the uncertainty in measuring the signal for the reagent blank and the standards.
+Exercise 5.3.1 
+Figure 5.3.2 shows a normal calibration curve for the quantitative analysis of Cu²⁺. The equation for the calibration curve is
+\[S_{std} = 29.59 \text{ M}^{-1} \times C_{std} + 0.015 \nonumber\]
+What is the concentration of Cu²⁺ in a sample whose absorbance, S_(samp), is 0.114? Compare your answer to a one-point standardization where a standard of \(3.16 \times 10^{-3} \text{ M}\) Cu²⁺ gives a signal of 0.0931.
+Answer
+    Substituting the sample’s absorbance into the calibration equation and solving for C_(A) give
+    \[S_{samp} = 0.114 = 29.59 \text{ M}^{-1} \times C_{A} + 0.015 \nonumber\]
+    \[C_A = 3.35 \times 10^{-3} \text{ M} \nonumber\]
+    For the one-point standardization, we first solve for k_(A)
+    \[k_A = \frac {S_{std}} {C_{std}} = \frac {0.0931} {3.16 \times 10^{-3} \text{ M}} = 29.46 \text{ M}^{-1} \nonumber\]
+    and then use this value of k_(A) to solve for C_(A).
+    \[C_A = \frac {S_{samp}} {k_A} = \frac {0.114} {29.46 \text{ M}^{-1}} = 3.87 \times 10^{-3} \text{ M} \nonumber\]
+    When using multiple standards, the indeterminate errors that affect the signal for one standard are partially compensated for by the indeterminate errors that affect the other standards. The standard selected for the one-point standardization has a signal that is smaller than that predicted by the regression equation, which underestimates k_(A) and overestimates C_(A).
+An external standardization allows us to analyze a series of samples using a single calibration curve. This is an important advantage when we have many samples to analyze. Not surprisingly, many of the most common quantitative analytical methods use an external standardization.
+There is a serious limitation, however, to an external standardization. When we determine the value of k_(A) using Equation \ref{5.5}, the analyte is present in the external standard’s matrix, which usually is a much simpler matrix than that of our samples. When we use an external standardization we assume the matrix does not affect the value of k_(A). If this is not true, then we introduce a proportional determinate error into our analysis. This is not the case in Figure 5.3.3 , for instance, where we show calibration curves for an analyte in the sample’s matrix and in the standard’s matrix. In this case, using the calibration curve for the external standards leads to a negative determinate error in analyte’s reported concentration. If we expect that matrix effects are important, then we try to match the standard’s matrix to that of the sample, a process known as matrix matching. If we are unsure of the sample’s matrix, then we must show that matrix effects are negligible or use an alternative method of standardization. Both approaches are discussed in the following section.
+The matrix for the external standards in Figure 5.3.2 , for example, is dilute ammonia. Because the \(\ce{Cu(NH3)4^{2+}}\) complex absorbs more strongly than Cu²⁺, adding ammonia increases the signal’s magnitude. If we fail to add the same amount of ammonia to our samples, then we will introduce a proportional determinate error into our analysis.
+[ ]
+Figure 5.3.3 : Calibration curves for an analyte in the standard’s matrix and in the sample’s matrix. If the matrix affects the value of k_(A), as is the case here, then we introduce a proportional determinate error into our analysis if we use a normal calibration curve.
+Standard Additions
+We can avoid the complication of matching the matrix of the standards to the matrix of the sample if we carry out the standardization in the sample. This is known as the method of standard additions.
+Single Standard Addition
+The simplest version of a standard addition is shown in Figure 5.3.4 . First we add a portion of the sample, V_(o), to a volumetric flask, dilute it to volume, V_(f), and measure its signal, S_(samp). Next, we add a second identical portion of sample to an equivalent volumetric flask along with a spike, V_(std), of an external standard whose concentration is C_(std). After we dilute the spiked sample to the same final volume, we measure its signal, S_(spike).
+[ ]
+Figure 5.3.4 : Illustration showing the method of standard additions. The volumetric flask on the left contains a portion of the sample, V_(o), and the volumetric flask on the right contains an identical portion of the sample and a spike, V_(std), of a standard solution of the analyte. Both flasks are diluted to the same final volume, V_(f). The concentration of analyte in each flask is shown at the bottom of the figure where C_(A) is the analyte’s concentration in the original sample and C_(std) is the concentration of analyte in the external standard.
+The following two equations relate S_(samp) and S_(spike) to the concentration of analyte, C_(A), in the original sample.
+\[S_{samp} = k_A C_A \frac {V_o} {V_f} \label{5.7}\]
+\[S_{spike} = k_A \left( C_A \frac {V_o} {V_f} + C_{std} \frac {V_{std}} {V_f} \right) \label{5.8}\]
+As long as V_(std) is small relative to V_(o), the effect of the standard’s matrix on the sample’s matrix is insignificant. Under these conditions the value of k_(A) is the same in Equation \ref{5.7} and Equation \ref{5.8}. Solving both equations for k_(A) and equating gives
+\[\frac {S_{samp}} {C_A \frac {V_o} {V_f}} = \frac {S_{spike}} {C_A \frac {V_o} {V_f} + C_{std} \frac {V_{std}} {V_f}} \label{5.9}\]
+which we can solve for the concentration of analyte, C_(A), in the original sample.
+Example 5.3.3 
+A third spectrophotometric method for the quantitative analysis of Pb²⁺ in blood yields an S_(samp) of 0.193 when a 1.00 mL sample of blood is diluted to 5.00 mL. A second 1.00 mL sample of blood is spiked with 1.00 mL of a 1560-ppb Pb²⁺ external standard and diluted to 5.00 mL, yielding an S_(spike) of 0.419. What is the concentration of Pb²⁺ in the original sample of blood?
+Solution
+We begin by making appropriate substitutions into Equation \ref{5.9} and solving for C_(A). Note that all volumes must be in the same units; thus, we first convert V_(std) from 1.00 mL to \(1.00 \times 10^{-3} \text{ mL}\).
+\[\frac {0.193} {C_A \frac {1.00 \text{ mL}} {5.00 \text{ mL}}} = \frac {0.419} {C_A \frac {1.00 \text{ mL}} {5.00 \text{ mL}} + 1560 \text{ ppb} \frac {1.00 \times 10^{-3} \text{ mL}} {5.00 \text{ mL}}} \nonumber\]
+\[\frac {0.193} {0.200C_A} = \frac {0.419} {0.200C_A + 0.3120 \text{ ppb}} \nonumber\]
+\[0.0386C_A + 0.0602 \text{ ppb} = 0.0838 C_A \nonumber\]
+\[0.0452 C_A = 0.0602 \text{ ppb} \nonumber\]
+\[C_A = 1.33 \text{ ppb} \nonumber\]
+The concentration of Pb²⁺ in the original sample of blood is 1.33 ppb.
+It also is possible to add the standard addition directly to the sample, measuring the signal both before and after the spike (Figure 5.3.5 ). In this case the final volume after the standard addition is V_(o) + V_(std) and Equation \ref{5.7}, Equation \ref{5.8}, and Equation \ref{5.9} become
+\[S_{samp} = k_A C_A \nonumber\]
+\[S_{spike} = k_A \left( C_A \frac {V_o} {V_o + V_{std}} + C_{std} \frac {V_{std}} {V_o + V_{std}} \right) \label{5.10}\]
+\[\frac {S_{samp}} {C_A} = \frac {S_{spike}} {C_A \frac {V_o} {V_o + V_{std}} + C_{std} \frac {V_{std}} {V_o + V_{std}}} \label{5.11}\]
+[ ]
+Figure 5.3.5 : Illustration showing an alternative form of the method of standard additions. In this case we add the spike of external standard directly to the sample without any further adjust in the volume.
+Example 5.3.4 
+A fourth spectrophotometric method for the quantitative analysis of Pb²⁺ in blood yields an S_(samp) of 0.712 for a 5.00 mL sample of blood. After spiking the blood sample with 5.00 mL of a 1560-ppb Pb²⁺ external standard, an S_(spike) of 1.546 is measured. What is the concentration of Pb²⁺ in the original sample of blood?
+Solution
+\[\frac {0.712} {C_A} = \frac {1.546} {C_A \frac {5.00 \text{ mL}} {5.005 \text{ mL}} + 1560 \text{ ppb} \frac {5.00 \times 10^{-3} \text{ mL}} {5.005 \text{ mL}}} \nonumber\]
+\[\frac {0.712} {C_A} = \frac {1.546} {0.9990C_A + 1.558 \text{ ppb}} \nonumber\]
+\[0.7113C_A + 1.109 \text{ ppb} = 1.546C_A \nonumber\]
+\[C_A = 1.33 \text{ ppb} \nonumber\]
+The concentration of Pb²⁺ in the original sample of blood is 1.33 ppb.
+Multiple Standard Additions
+We can adapt a single-point standard addition into a multiple-point standard addition by preparing a series of samples that contain increasing amounts of the external standard. Figure 5.3.6 shows two ways to plot a standard addition calibration curve based on Equation \ref{5.8}. In Figure 5.3.6 a we plot S_(spike) against the volume of the spikes, V_(std). If k_(A) is constant, then the calibration curve is a straight-line. It is easy to show that the x-intercept is equivalent to –C_(A)V_(o)/C_(std).
+[ ]
+Figure 5.3.6 : Shown at the top of the figure is a set of six standard additions for the determination of Mn²⁺. The flask on the left is a 25.00 mL sample diluted to 50.00 mL with water. The remaining flasks contain 25.00 mL of sample and, from left-to-right, 1.00, 2.00, 3.00, 4.00, and 5.00 mL spikes of an external standard that is 100.6 mg/L Mn²⁺. Shown below are two ways to plot the standard additions calibration curve. The absorbance for each standard addition, S_(spike), is shown by the filled circles.
+Example 5.3.5 
+Beginning with Equation \ref{5.8} show that the equations in Figure 5.3.6 a for the slope, the y-intercept, and the x-intercept are correct.
+Solution
+We begin by rewriting Equation \ref{5.8} as
+\[S_{spike} = \frac {k_A C_A V_o} {V_f} + \frac {k_A C_{std}} {V_f} \times V_{std} \nonumber\]
+which is in the form of the equation for a straight-line
+\[y = y\text{-intercept} + \text{slope} \times x\text{-intercept} \nonumber\]
+where y is S_(spike) and x is V_(std). The slope of the line, therefore, is k_(A)C_(std)/V_(f) and the y-intercept is k_(A)C_(A)V_(o)/V_(f). The x-intercept is the value of x when y is zero, or
+\[0 = \frac {k_A C_A V_o} {V_f} + \frac {k_A C_{std}} {V_f} \times x\text{-intercept} \nonumber\]
+\[x\text{-intercept} = - \frac {k_A C_A V_o / V_f} {K_A C_{std} / V_f} = - \frac {C_A V_o} {C_{std}} \nonumber\]
+Exercise 5.3.2 
+Beginning with Equation \ref{5.8} show that the Equations in Figure 5.3.6 b for the slope, the y-intercept, and the x-intercept are correct.
+Answer
+    We begin with Equation \ref{5.8}
+    \[S_{spike} = k_A \left( C_A \frac {V_o} {V_f} + C_{std} \frac {V_{std}} {V_f} \right) \nonumber\]
+    rewriting it as
+    \[S_{spike} = \frac {k_A C_A V_o} {V_f} + k_A \left( C_{std} \frac {V_{std}} {V_f} \right) \nonumber\]
+    which is in the form of the linear equation
+    \[y = y\text{-intercept} + \text{slope} \times x\text{-intercept} \nonumber\]
+    where y is S_(spike) and x is C_(std) \(\times\) V_(std)/V_(f). The slope of the line, therefore, is k_(A), and the y-intercept is k_(A)C_(A)V_(o)/V_(f). The x-intercept is the value of x when y is zero, or
+    \[x\text{-intercept} = - \frac {k_A C_A V_o/V_F} {k_A} = - \frac {C_A V_o} {V_f} \nonumber\]
+Because we know the volume of the original sample, V_(o), and the concentration of the external standard, C_(std), we can calculate the analyte’s concentrations from the x-intercept of a multiple-point standard additions.
+Example 5.3.6 
+A fifth spectrophotometric method for the quantitative analysis of Pb²⁺ in blood uses a multiple-point standard addition based on Equation \ref{5.8}. The original blood sample has a volume of 1.00 mL and the standard used for spiking the sample has a concentration of 1560 ppb Pb²⁺. All samples were diluted to 5.00 mL before measuring the signal. A calibration curve of S_(spike) versus V_(std) has the following equation
+\[S_{spike} = 0.266 + 312 \text{ mL}^{-1} \times V_{std} \nonumber\]
+What is the concentration of Pb²⁺ in the original sample of blood?
+Solution
+To find the x-intercept we set S_(spike) equal to zero.
+\[S_{spike} = 0.266 + 312 \text{ mL}^{-1} \times V_{std} \nonumber\]
+Solving for V_(std), we obtain a value of \(-8.526 \times 10^{-4} \text{ mL}\) for the x-intercept. Substituting the x-intercept’s value into the equation from Figure 5.3.6 a
+\[-8.526 \times 10^{-4} \text{ mL} = - \frac {C_A V_o} {C_{std}} = - \frac {C_A \times 1.00 \text{ mL}} {1560 \text{ ppb}} \nonumber\]
+and solving for C_(A) gives the concentration of Pb²⁺ in the blood sample as 1.33 ppb.
+Exercise 5.3.3 
+Figure 5.3.6 shows a standard additions calibration curve for the quantitative analysis of Mn²⁺. Each solution contains 25.00 mL of the original sample and either 0, 1.00, 2.00, 3.00, 4.00, or 5.00 mL of a 100.6 mg/L external standard of Mn²⁺. All standard addition samples were diluted to 50.00 mL with water before reading the absorbance. The equation for the calibration curve in Figure 5.3.6 a is
+\[S_{std} = 0.0854 \times V_{std} + 0.1478 \nonumber\]
+What is the concentration of Mn²⁺ in this sample? Compare your answer to the data in Figure 5.3.6 b, for which the calibration curve is
+\[S_{std} = 0.425 \times C_{std}(V_{std}/V_f) + 0.1478 \nonumber\]
+Answer
+    Using the calibration equation from Figure 5.3.6 a, we find that the x-intercept is
+    \[x\text{-intercept} = - \frac {0.1478} {0.0854 \text{ mL}^{-1}} = - 1.731 \text{ mL} \nonumber\]
+    If we plug this result into the equation for the x-intercept and solve for C_(A), we find that the concentration of Mn²⁺ is
+    \[C_A = - \frac {x\text{-intercept} \times C_{std}} {V_o} = - \frac {-1.731 \text{ mL} \times 100.6 \text{ mg/L}} {25.00 \text{ mL}} = 6.96 \text{ mg/L} \nonumber\]
+    For Figure 5.3.6 b, the x-intercept is
+    \[x\text{-intercept} = - \frac {0.1478} {0.0425 \text{ mL/mg}} = - 3.478 \text{ mg/mL} \nonumber\]
+    and the concentration of Mn²⁺ is
+    \[C_A = - \frac {x\text{-intercept} \times V_f} {V_o} = - \frac {-3.478 \text{ mg/mL} \times 50.00 \text{ mL}} {25.00 \text{ mL}} = 6.96 \text{ mg/L} \nonumber\]
+Since we construct a standard additions calibration curve in the sample, we can not use the calibration equation for other samples. Each sample, therefore, requires its own standard additions calibration curve. This is a serious drawback if you have many samples. For example, suppose you need to analyze 10 samples using a five-point calibration curve. For a normal calibration curve you need to analyze only 15 solutions (five standards and ten samples). If you use the method of standard additions, however, you must analyze 50 solutions (each of the ten samples is analyzed five times, once before spiking and after each of four spikes).
+Using a Standard Addition to Identify Matrix Effects
+We can use the method of standard additions to validate an external standardization when matrix matching is not feasible. First, we prepare a normal calibration curve of S_(std) versus C_(std) and determine the value of k_(A) from its slope. Next, we prepare a standard additions calibration curve using Equation \ref{5.8}, plotting the data as shown in Figure 5.3.6 b. The slope of this standard additions calibration curve provides an independent determination of k_(A). If there is no significant difference between the two values of k_(A), then we can ignore the difference between the sample’s matrix and that of the external standards. When the values of k_(A) are significantly different, then using a normal calibration curve introduces a proportional determinate error.
+Internal Standards
+To use an external standardization or the method of standard additions, we must be able to treat identically all samples and standards. When this is not possible, the accuracy and precision of our standardization may suffer. For example, if our analyte is in a volatile solvent, then its concentration will increase if we lose solvent to evaporation. Suppose we have a sample and a standard with identical concentrations of analyte and identical signals. If both experience the same proportional loss of solvent, then their respective concentrations of analyte and signals remain identical. In effect, we can ignore evaporation if the samples and the standards experience an equivalent loss of solvent. If an identical standard and sample lose different amounts of solvent, however, then their respective concentrations and signals are no longer equal. In this case a simple external standardization or standard addition is not possible.
+We can still complete a standardization if we reference the analyte’s signal to a signal from another species that we add to all samples and standards. The species, which we call an internal standard, must be different than the analyte.
+Because the analyte and the internal standard receive the same treatment, the ratio of their signals is unaffected by any lack of reproducibility in the procedure. If a solution contains an analyte of concentration C_(A) and an internal standard of concentration C_(IS), then the signals due to the analyte, S_(A), and the internal standard, S_(IS), are
+\[S_A = k_A C_A \nonumber\]
+\[S_{IS} = k_{SI} C_{IS} \nonumber\]
+where \(k_A\) and \(k_{IS}\) are the sensitivities for the analyte and the internal standard, respectively. Taking the ratio of the two signals gives the fundamental equation for an internal standardization.
+\[\frac {S_A} {S_{IS}} = \frac {k_A C_A} {k_{IS} C_{IS}} = K \times \frac {C_A} {C_{IS}} \label{5.12}\]
+Because K is a ratio of the analyte’s sensitivity and the internal standard’s sensitivity, it is not necessary to determine independently values for either k_(A) or k_(IS).
+Single Internal Standard
+In a single-point internal standardization, we prepare a single standard that contains the analyte and the internal standard, and use it to determine the value of K in Equation \ref{5.12}.
+\[K = \left( \frac {C_{IS}} {C_A} \right)_{std} \times \left( \frac {S_A} {S_{IS}} \right)_{std} \label{5.13}\]
+Having standardized the method, the analyte’s concentration is given by
+\[C_A = \frac {C_{IS}} {K} \times \left( \frac {S_A} {S_{IS}} \right)_{samp} \nonumber\]
+Example 5.3.7 
+A sixth spectrophotometric method for the quantitative analysis of Pb²⁺ in blood uses Cu²⁺ as an internal standard. A standard that is 1.75 ppb Pb²⁺ and 2.25 ppb Cu²⁺ yields a ratio of (S_(A)/S_(IS))_(std) of 2.37. A sample of blood spiked with the same concentration of Cu²⁺ gives a signal ratio, (S_(A)/S_(IS))_(samp), of 1.80. What is the concentration of Pb²⁺ in the sample of blood?
+Solution
+Equation \ref{5.13} allows us to calculate the value of K using the data for the standard
+\[K = \left( \frac {C_{IS}} {C_A} \right)_{std} \times \left( \frac {S_A} {S_{IS}} \right)_{std} = \frac {2.25 \text{ ppb } \ce{Cu^{2+}}} {1.75 \text{ ppb } \ce{Pb^{2+}}} \times 2.37 = 3.05 \frac {\text{ppb } \ce{Cu^{2+}}} {\text{ppb } \ce{Pb^{2+}}} \nonumber\]
+The concentration of Pb²⁺, therefore, is
+\[C_A = \frac {C_{IS}} {K} \times \left( \frac {S_A} {S_{IS}} \right)_{samp} = \frac {2.25 \text{ ppb } \ce{Cu^{2+}}} {3.05 \frac {\text{ppb } \ce{Cu^{2+}}} {\text{ppb } \ce{Pb^{2+}}}} \times 1.80 = 1.33 \text{ ppb } \ce{Pb^{2+}} \nonumber\]
+Multiple Internal Standards
+A single-point internal standardization has the same limitations as a single-point normal calibration. To construct an internal standard calibration curve we prepare a series of standards, each of which contains the same concentration of internal standard and a different concentrations of analyte. Under these conditions a calibration curve of (S_(A)/S_(IS))_(std) versus C_(A) is linear with a slope of K/C_(IS).
+Although the usual practice is to prepare the standards so that each contains an identical amount of the internal standard, this is not a requirement.
+Example 5.3.8 
+A seventh spectrophotometric method for the quantitative analysis of Pb²⁺ in blood gives a linear internal standards calibration curve for which
+\[\left( \frac {S_A} {S_{IS}} \right)_{std} = (2.11 \text{ ppb}^{-1} \times C_A) - 0.006 \nonumber\]
+What is the ppb Pb²⁺ in a sample of blood if (S_(A)/S_(IS))samp is 2.80?
+Solution
+To determine the concentration of Pb²⁺ in the sample of blood we replace (S_(A)/S_(IS))_(std) in the calibration equation with (S_(A)/S_(IS))_(samp) and solve for C_(A).
+\[C_A = \frac {\left( \frac {S_A} {S_{IS}} \right)_{samp} + 0.006} {2.11 \text{ ppb}^{-1}} = \frac {2.80 + 0.006} {2.11 \text{ ppb}^{-1}} = 1.33 \text{ ppb } \ce{Pb^{2+}} \nonumber\]
+The concentration of Pb²⁺ in the sample of blood is 1.33 ppb.
+In some circumstances it is not possible to prepare the standards so that each contains the same concentration of internal standard. This is the case, for example, when we prepare samples by mass instead of volume. We can still prepare a calibration curve, however, by plotting \((S_A / S_{IS})_{std}\) versus C_(A)/C_(IS), giving a linear calibration curve with a slope of K.
+You might wonder if it is possible to include an internal standard in the method of standard additions to correct for both matrix effects and uncontrolled variations between samples; well, the answer is yes as described in the paper “Standard Dilution Analysis,” the full reference for which is Jones, W. B.; Donati, G. L.; Calloway, C. P.; Jones, B. T. Anal. Chem. 2015, 87, 2321-2327.
+------------------------------------------------------------------------

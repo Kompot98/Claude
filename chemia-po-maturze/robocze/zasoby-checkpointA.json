@@ -1,0 +1,28 @@
+[
+{
+"id": "R-062",
+"nazwa": "Khan Academy po polsku: „Chemia organiczna”",
+"url": "https://pl.khanacademy.org/science/organic-chemistry",
+"rodzaj": "kurs otwarty",
+"jezyk": "polski",
+"przedmiot": "organiczna",
+"poziom": "pierwszy rok",
+"dla_kierunkow": "wszystkie",
+"opis": "Bezpłatny kurs chemii organicznej w polskiej wersji serwisu, w kilkunastu działach: od struktury i wiązań (hybrydyzacja, wzory szkieletowe, elektroujemność i polarność) przez stereochemię, substytucję i eliminację, alkeny i alkiny, związki aromatyczne, aldehydy i ketony, kwasy karboksylowe, chemię węgla alfa i aminy po spektroskopię. Krótkie filmy z ćwiczeniami.",
+"kiedy_siegnac": "Gdy chcesz przerobić temat z organicznej po polsku, krok po kroku, zanim sięgniesz po angielskie filmy.",
+"uwagi": "Strona blokuje automaty testem antybotowym; opis z wyników wyszukiwarki (tytuły stron kursu i działu „Struktura i wiązania”, lista tematów działów), 2026-11-03. Numeracja działów w wynikach niespójna, więc w opisie bez numerów. Sprawdzić ręcznie przy wydaniu."
+},
+{
+"id": "R-063",
+"nazwa": "Chemistry World (magazyn Royal Society of Chemistry)",
+"url": "https://www.chemistryworld.com/",
+"rodzaj": "strona",
+"jezyk": "angielski",
+"przedmiot": "ogólne",
+"poziom": "dalej",
+"dla_kierunkow": "wszystkie",
+"opis": "Magazyn brytyjskiego Royal Society of Chemistry: wiadomości ze świata chemii, comiesięczny przegląd nowych badań, reportaże, felietony, recenzje, sekcje o karierze i podcasty. Po darmowej rejestracji można czytać ograniczoną liczbę artykułów w miesiącu; członkowie RSC i użytkownicy z uczelni, które wykupiły dostęp, czytają bez limitu.",
+"kiedy_siegnac": "Gdy chcesz wiedzieć, czym żyje chemia poza podręcznikiem: nowe odkrycia, leki, materiały, ludzie nauki. Dobre do czytania dla przyjemności i jako trening angielskiego.",
+"uwagi": "Strona blokuje automaty (kod 405, test „Human Verification”); opis z wyników wyszukiwarki dla stron chemistryworld.com (nawigacja, opis działu Research, strony rejestracji i pomocy), 2026-11-03. Spis działów jest na stronie głównej, dlatego link prowadzi tam. Sprawdzić ręcznie przy wydaniu."
+}
+]

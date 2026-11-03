@@ -20,6 +20,8 @@ Drugi polski cykl wykładów jest na kanale SGGW [R-054]. To 25 nagrań z podsta
 
 Uniwersytet Śląski ma też dwie krótkie playlisty z pracowni organicznej. Pierwsza pokazuje trzy podstawowe czynności: krystalizację, destylację prostą i sączenie pod zmniejszonym ciśnieniem [R-002]. Druga to czternaście filmów, z których każdy prowadzi przez jedną syntezę, między innymi aspiryny i salicylanu metylu [R-003]. Przydają się przed laboratorium, gdy w instrukcji jest operacja, której jeszcze nie znasz z praktyki, i chcesz zobaczyć sprzęt i kolejność ruchów. Twoja pracownia będzie miała inne preparaty, ale ten sam typ pracy. (Po polsku; filmy od dwóch do jedenastu minut.)
 
+Polska wersja Khan Academy ma osobny kurs „Chemia organiczna” [R-062]. Zaczyna od struktury i wiązań (hybrydyzacja, wzory szkieletowe, polarność), a dalej przechodzi przez stereochemię, substytucję i eliminację, alkeny i alkiny, związki aromatyczne, karbonylowe i aminy aż po spektroskopię. Filmy są krótkie, z ćwiczeniami. To dobry pierwszy krok przed angielskimi playlistami opisanymi niżej. (Po polsku; poziom pierwszego roku.)
+
 Katedra Chemii Organicznej Politechniki Warszawskiej udostępnia szesnaście krótkich plików o polskim nazewnictwie związków organicznych, klasa po klasie, od alkanów po aminy i związki azowe, z tabelą grup według reguły pierwszeństwa na końcu [R-019]. Przydają się, bo większość materiałów wideo jest po angielsku i uczy nazw angielskich, a na kolokwium nazwę zwykle pisze się po polsku. Pliki powstały w 2011 roku na podstawie skryptu politechniki, czyli uczelnianego podręcznika do tego przedmiotu; jeśli Twój prowadzący trzyma się nowszych zaleceń nazewniczych, warto go o to zapytać. (Po polsku; poziom pierwszego roku.)
 
 [ADRIAN: tu jedno zdanie, czy znasz polskie materiały do organicznej, które Twoi studenci faktycznie wykorzystywali, np. skrypty konkretnych katedr; wyszukiwanie znalazło niewiele otwartych polskich materiałów poza nagraniami UŚ.]
@@ -80,11 +82,13 @@ The Organic Chemistry Tutor, mimo nazwy, ma też ogromną playlistę z chemii og
 
 MIT OpenCourseWare udostępnia kurs 5.111SC „Principles of Chemical Science” z 2014 roku [R-034]. Są tam nagrania wszystkich wykładów, notatki, zadania i egzaminy z rozwiązaniami. To pełny wykład akademicki z chemii ogólnej po angielsku, z przykładami z chemii biologicznej, nieorganicznej i organicznej. (Po angielsku; poziom pierwszego roku.)
 
-### Strony i bazy danych
+### Strony, artykuły i bazy danych
 
 Chemguide ma dział nieorganiczny na poziomie zbliżonym do matury rozszerzonej: stopnie utlenienia, elektroliza, chemia grup układu okresowego, jony kompleksowe i metale przejściowe [R-035]. Przydaje się, gdy na wykładzie z nieorganicznej pojawiają się kompleksy i chcesz zacząć od prostego wyjaśnienia, skąd biorą się ich barwy. (Po angielsku; wprowadzenie.)
 
 PubChem to publiczna baza związków chemicznych amerykańskich Narodowych Instytutów Zdrowia [R-037]. Po wpisaniu nazwy związku dostajesz jego wzór, właściwości, dane o zagrożeniach i toksyczności, a czasem widma. Przydaje się przed laboratorium i przy sprawozdaniach. (Po angielsku; poziom pierwszego roku.)
+
+Chemistry World to magazyn Royal Society of Chemistry, brytyjskiego towarzystwa chemicznego [R-063]. Publikuje wiadomości, comiesięczny przegląd nowych badań, reportaże i felietony, czyli chemię poza podręcznikiem: nowe leki, materiały, odkrycia i ludzi, którzy za nimi stoją. Po darmowej rejestracji można czytać kilka artykułów w miesiącu; jeśli Twoja uczelnia wykupiła dostęp, czytasz bez limitu. To lektura dla przyjemności, a przy okazji dobry trening angielskiego z rozdziału 1. (Po angielsku; poziom dalszy.)
 
 ## Chemia fizyczna
 

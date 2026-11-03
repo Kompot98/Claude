@@ -22,17 +22,16 @@ Dwie rzeczy warto wiedzieć z góry. Po pierwsze, nazwy przedmiotów się różn
 | VIII. Redoks | chemia ogólna [Z-003] [Z-017]; miareczkowania redoks na laboratorium [Z-019] | równanie Nernsta, potencjał normalny i warunkowy [Z-014] |
 | IX. Elektrochemia | chemia ogólna [Z-003] [Z-014] [Z-016]; chemia fizyczna później | ilościowy opis ogniw i elektrolizy [Z-014] |
 | X. Zastosowania związków nieorganicznych | chemia nieorganiczna, analiza jakościowa na farmacji [Z-014] [Z-015] | rola pierwiastków w organizmie [Z-010] [Z-017], izotopy promieniotwórcze w medycynie [Z-014] [Z-016], reakcje zalecane przez Farmakopeę [Z-014] |
-| XI. Wstęp do chemii organicznej (obie części) | chemia organiczna: na analityce medycznej WUM na pierwszym roku [Z-018], na technologii chemicznej PW w czwartym semestrze [Z-023] | pełne nazewnictwo IUPAC, stereochemia w przestrzeni, konformacje; rozdział 3 |
-| XII. Węglowodory | chemia organiczna [Z-018] [Z-023] | mechanizmy reakcji rysowane strzałkami, karbokationy, stabilność produktów |
-| XIII. Alkohole i fenole | chemia organiczna | mechanizmy substytucji i eliminacji |
-| XIV. Aldehydy i ketony | chemia organiczna | addycja nukleofilowa do grupy karbonylowej, enole i enolany |
-| XV. Kwasy karboksylowe | chemia organiczna | kwasowość tłumaczona budową cząsteczki, pochodne kwasów i ich przemiany |
-| XVI. Estry i tłuszcze | chemia organiczna, biochemia | mechanizm estryfikacji i hydrolizy; lipidy w błonach komórkowych |
-| XVII. Związki zawierające azot | chemia organiczna, biochemia | aminy jako zasady i nukleofile, heterocykle |
+| XI. Wstęp do chemii organicznej (obie części) | chemia organiczna: na analityce medycznej WUM w pierwszym semestrze [Z-018] [Z-034], na technologii chemicznej PW w czwartym semestrze [Z-023] | nazewnictwo z regułami starszeństwa podstawników, izomeria optyczna i geometryczna, budowa cząsteczek w ujęciu orbitali, efekt mezomeryczny i indukcyjny [Z-034] |
+| XII. Węglowodory | chemia organiczna [Z-034] | mechanizmy reakcji: substytucja elektrofilowa i nukleofilowa, eliminacja [Z-034]; rysowanie mechanizmów strzałkami (rozdział 3) |
+| XIII. Alkohole i fenole | chemia organiczna [Z-034] | te same mechanizmy substytucji i eliminacji na alkoholach i fluorowcopochodnych [Z-034] |
+| XIV. Aldehydy i ketony | chemia organiczna [Z-034] | reaktywność grupy karbonylowej tłumaczona mechanizmem |
+| XV. Kwasy karboksylowe | chemia organiczna [Z-034] | funkcyjne i szkieletowe pochodne kwasów karboksylowych, pochodne kwasu węglowego [Z-034] |
+| XVI. Estry i tłuszcze | chemia organiczna, biochemia [Z-034] | lipidy, w tym steroidy i terpeny [Z-034] |
+| XVII. Związki zawierające azot | chemia organiczna, biochemia [Z-034] | związki heterocykliczne z azotem, tlenem i siarką, alkaloidy [Z-034] |
 | XVIII. Białka | biochemia: na kierunku lekarskim UJ CM i UMB na pierwszym roku [Z-005] [Z-007], na weterynarii SGGW w pierwszym semestrze [Z-011], na lekarskim WUM na drugim roku [Z-006] | enzymy i ich kinetyka, synteza białek, metody laboratoryjne biochemii [Z-005] |
 | XIX. Cukry | biochemia [Z-005] [Z-011] | metabolizm: glikoliza, cykl Krebsa, łańcuch oddechowy |
 
-[SPRAWDZIĆ: wiersze XII–XVII opierają się na spisie przedmiotów (Z-018, Z-023), bez szczegółowych treści sylabusów chemii organicznej pierwszego roku; „co dochodzi” jest wzięte z typowego podręcznika (R-016, rozdziały odpowiednich grup) i warto je potwierdzić sylabusem organicznej przy wydaniu.]
 
 ### Rzeczy, których na maturze nie było wcale
 
