@@ -49,3 +49,15 @@ Format wpisu: co, dlaczego, co odrzucone. Wpisów nie kasuję; zmianę zapisuję
 **Co:** strona pojedynczego filmu YouTube pobrana zwykłym zapytaniem zawiera opis i datę publikacji, ale YouTube szybko odpowiada kodem 429. Opis filmu pobieram tam, gdzie się uda, i zapisuję w dowodzie; reszta opisów wideo opiera się na pełnych listach tytułów. Transkrypcji nie pobieram.
 **Dlaczego:** tak wyszło przy wykładach prof. Polańskiego (opis wykładu 1 i ukryta playlista odczytane ze strony filmu).
 **Odrzucone:** obchodzenie limitu (wielokrotne ponawianie w krótkim czasie).
+
+## D-09, 2026-11-03: format rozdziału 4 po pilotażu spektroskopii
+
+**Co:** (1) Układ każdego wprowadzenia: `## <temat>`, krótki akapit otwierający (zdanie Adriana z punktu 9 i, gdzie pasuje, fakt z jego życiorysu), potem `### Czym to jest`, `### Dlaczego to spotkasz`, część merytoryczna (`### Co widać w widmie i po co` albo odpowiednik), `### Skąd uczyć się dalej`. (2) Komentarz źródłowy stoi po zdaniu albo po grupie zdań opartych na tym samym miejscu źródła, w formie `<!-- Z-001: 13.6, akapit o bromoetanie -->`. Identyfikator `Z-xxx` wskazuje wiersz w `zrodla.csv`, a dalej podrozdział i miejsce. (3) Każde wprowadzenie kończy się widocznym zdaniem „Źródła tego wprowadzenia: … [Z-xxx]”, żeby źródła były cytowane także w tekście, a nie tylko w komentarzach. (4) Przeczytane podrozdziały źródeł otwartych leżą w `zrodla/lektury/` jako tekst, żeby chemik sprawdzający rozdział miał je pod ręką. (5) Przykład wyprowadzony przeze mnie z tabeli źródła (alkohol i aldehyd w IR) jest oznaczony w komentarzu jako własny.
+**Dlaczego:** zlecenie wymaga, żeby każde zdanie merytoryczne dało się sprawdzić w podanym miejscu; podrozdział plus akapit skraca to sprawdzenie do minuty.
+**Odrzucone:** komentarz po każdym pojedynczym zdaniu (przy trzech zdaniach z jednego akapitu źródła trzy identyczne komentarze nic nie wnoszą).
+
+## D-10, 2026-11-03: długość wprowadzenia o spektroskopii
+
+**Co:** 04c ma około 4,8 strony zamiast 2–3. Zostawiam.
+**Dlaczego:** spektroskopia to w praktyce cztery metody (MS, IR, NMR, UV-Vis), a UV-Vis ma dwa różne zastosowania (budowa w organicznej, stężenie w analityce). Skrócenie do trzech stron oznaczałoby wyrzucenie jednej metody albo zastosowania analitycznego, które dotyczy kierunków medycznych. Część o zasobach zajmuje około jednej strony.
+**Odrzucone:** pominięcie spektrometrii mas (jest w podręcznikach organicznej obok IR i NMR) albo przeniesienie zasobów do rozdziału 3 (zlecenie chce „skąd uczyć się dalej” w każdym wprowadzeniu).

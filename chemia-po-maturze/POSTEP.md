@@ -17,3 +17,11 @@ Zrobione: 19 zasobów (R-001 do R-019): 4 polskie materiały uczelni (wykłady U
 Ustalenia pilotażu: format zapisany w D-06. Licencja OpenStax to w 2026 CC BY-NC-SA (D-05), więc rysunki tylko z Wikimedia Commons. Khan Academy odkłada automaty, do ponownej próby.
 
 Dalej: pilotaż B, wprowadzenie o spektroskopii (04c).
+
+## 2026-11-03, etap 2: pilotaż, wprowadzenie o spektroskopii (04c)
+
+Zrobione: przeczytane w całości OpenStax Organic Chemistry 12.1, 12.5–12.8, 13.1–13.3, 13.5–13.6, ramka o MRI, 14.7–14.8 oraz Harvey „Analytical Chemistry 2.1” 10.1–10.2; teksty w `zrodla/lektury/`. Napisane 04c (4,8 strony, decyzja D-10) z komentarzami źródłowymi przy zdaniach merytorycznych; dwa źródła cytowane Z-001, Z-002. Sześć nowych zasobów (R-020 do R-025): książka LibreTexts o spektroskopii, NIST WebBook, SDBS, dwa polskie podręczniki z katalogu BN, playlista analityczna UŚ. Zostały trzy miejsca `[SPRAWDZIĆ]` (sylabusy, krzywa wzorcowa, „prowadzący odsyłają”) i trzy `[RYSUNEK]`. Sprawdzenia: `sprawdz.py --dowody` 0 błędów, `styl.py` 0 twardych naruszeń (poprawiony, żeby nie mylił zapisu wiązania O–H z myślnikiem).
+
+Wniosek z pilotażu: format opisu zasobu i rejestr działają, komentarze źródłowe na poziomie „podrozdział, akapit” wystarczają. Drugi przegląd zasobów R-020 do R-025 zrobię razem z zasobami etapu 3.
+
+Dalej: rozdział 3 dla pozostałych przedmiotów.

@@ -1,0 +1,7 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=2742929
+data: 2026-11-03
+metoda: API Biblioteki Narodowej
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Spektroskopowe+metody+identyfikacji&limit=100&author=Silverstein
+2008 | Spectrometric identification of organic compounds (pol.) Spektroskopowe metody identyfikacji związków organicznych / Spectrometric identification of organic compounds, | Silverstein, Robert M. (1916-2007) Kiemle, David J. Jankowski, Stefan (1951-2015) Webster, Francis X. Potrzebowski, Marek Sochacki, Marek Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 2. uaktual., 1. dodr. | 9788301150716 | 2742929 | książka
+1970 | Spectrometric identification of organic compounds (pol.) Spektroskopowe metody identyfikacji związków organicznych / Spectrometric identification of organic compounds | Silverstein, Robert M. (1916-2007) Bassler, G. Clayton Oszczapowicz, Janusz (1932-2019) Państwowe Wydawnictwo Naukowe | Państwowe Wydawnictwo Naukowe Państwowe Wydawnictwo Naukowe, | Wydanie I. |  | 1955846 | książka

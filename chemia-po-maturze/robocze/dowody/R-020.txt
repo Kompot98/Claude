@@ -1,0 +1,18 @@
+adres: https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy
+tytuł: Introduction to Organic Spectroscopy - Chemistry LibreTexts
+
+Rozdziały (odnośniki ze strony książki):
+00: Front Matter
+01: Introduction to Organic Spectroscopy
+02: Mass Spectrometry
+03: Conjugated Compounds and Ultraviolet Spectroscopy
+04: Infrared Spectroscopy
+05: Proton Nuclear Magnetic Resonance Spectroscopy (NMR)
+06: Carbon-13 NMR Spectroscopy
+07: Two-Dimensional NMR Spectroscopy
+08: Structure Elucidation Problems
+
+Licencja: strona rozdziału 1 podaje „not declared license”, autorka/kuratorka Lauren Reutenauer (odczyt 2026-11-03).

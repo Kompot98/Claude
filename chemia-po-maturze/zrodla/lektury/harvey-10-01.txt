@@ -1,0 +1,355 @@
+źródło: https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/10%3A_Spectroscopic_Methods/10.01%3A_Overview_of_Spectroscopy
+data: 2026-11-03
+tytuł: 10.1: Overview of Spectroscopy - Chemistry LibreTexts
+licencja (stopka): ['CC BY-NC-SA  4.0']  tagi: ['license:ccbyncsa', 'licenseversion:40']
+podstrony: []
+
+mt-content-container p { color: white; } .darkMode .mt-content-container .boxexample, .darkMode .mt-content-container .boxexercise, .darkMode .mt-content-container .boxlemma, .darkMode .mt-content-container .boxnotation, .darkMode .mt-content-container .boxnotewithlegend, .darkMode .mt-content-container .boxnotewithoutlegend, .darkMode .mt-content-container .boxprocedure, .darkMode .mt-content-container .boxproposition, .darkMode .mt-content-container .boxquery, .darkMode .mt-content-container .boxtheorem, .darkMode .mt-content-container .boxobjectives, .darkMode .mt-content-container .box-example, .darkMode .mt-content-container .box-exercise, .darkMode .mt-content-container .box-lemma, .darkMode .mt-content-container .box-notation, .darkMode .mt-content-container .box-warning, .darkMode .mt-content-container .box-note, .darkMode .mt-content-container .box-notewithlegend, .darkMode .mt-content-container .box-notewithoutlegend, .darkMode .mt-content-container .box-procedure, .darkMode .mt-content-container .box-proposition, .darkMode .mt-content-container .box-query, .darkMode .mt-content-container .box-theorem, .darkMode .mt-content-container .box-objectives { background: #f0f5ff24; box-shadow: 3px 3px 4px #00000085; } .darkMode p.boxtitle { color:white; } .darkMode th { background:#00629a; } .darkMode tr, .darkMode tr td { background:none; } .darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td { background:#555555; } .optimize { display: flex; flex-wrap: wrap; } /* Hide header if in iframe*/ .contentOnly .elm-header, .contentOnly .elm-meta-icons, .contentOnly div.annotator-frame, .adaptView .elm-footer, /*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */ .adaptView article#elm-main-content > header, .contentOnly hypothesis-sidebar, .contentOnly #custom_open, .contentOnly .sbHeader { display:none; } .sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] { background-color: transparent !important; } .contentOnly #mt-summary { display:none!important; } /* Hide most supporting content when in embed mode */ .embedView .elm-header, .embedView .elm-meta-icons, .embedView div.annotator-frame, .embedView .elm-footer, .embedView article#elm-main-content > *:not(:first-child, .mt-content-container), .embedView hypothesis-sidebar, .embedView #custom_open, .embedView #libretexts-ai-assistant, .embedView #mt-summary, .embedView #backButton, .embedView #nextButton, /* hide first button that appears in librelens attribution list */ .embedView #librelens-attribution-list > button:first-of-type, .embedView .elm-content-footer, .embedView .sbHeader { display:none!important; } /* Hide everything except the first child that is or contains .pageInfo */ .embedView .elm-meta-data > *:not(.pageInfo):not(:has(.pageInfo)), .embedView .elm-meta-data > :is(.pageInfo, :has(.pageInfo)) ~ :is(.pageInfo, :has(.pageInfo)) { display: none !important; } /* Move the remaining .elm-meta-data content to right and "up" (bring in line with title) */ .embedView .elm-meta-data { display: flex; justify-content: end; margin-top: -35px; } .embedView #title { border-bottom: none !important; } iframe.imathas_problem, iframe.webwork_problem { border: none; width: 100%; } /*GeoGebra fix*/ article.elm-content-container, section.mt-content-container { height: auto !important; width: auto !important; } .elm-meta-top .mt-article-pagination a { width: auto; color: #30b3f6; } .elm-meta-top .mt-article-pagination a:hover { color: #b4b4b4; } .elm-meta-top .elm-article-pagination { float: unset; } #elm-main-content ol.elm-meta-data .elm-social-share { margin: 0; } #MathJax_Zoom { color: black; } #donate { background-color: green; color: white; display: flex; padding: 5px; align-items: center; } #donate:hover { background-color: #005E00; } .youtubeImageContainer { position: relative; } a.notSS { width: auto; height: auto; margin-top: 0; } .toc-button.mt-icon-hierarchy-trigger-closed:before { content: "\e8a6"; font-size: 150%; } span.fancytree-icon:before { content: "\e8aa"; } .mt-icon-hierarchy-trigger-open:before { font-size: 150%; } span.fancytree-has-children > span.fancytree-icon:before { content: "\e8b3"; } span.fancytree-title > a { color: #666; } span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon { color: #1a9003; } .toc-hierarchy > div { display: none; } .toc-hierarchy h6 { margin-top: 0; color: #137ac3 } .pageInfo { float: left; margin: 0 1em 0 0; } .cc { color: black; } .glossarizer_replaced { border-bottom: 1px #333 dotted; } #pageTagsHolder { display: none; } #batchPrint { display: flex; align-items: stretch; justify-content: center; } #TOCbutton { margin: 2px; display: flex; line-height: 2.4; justify-content: center; align-items: center; color: #127bc4; font-size: 100%; height: 100%; } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } div.propagatorLoader { display: flex; margin: 10px; justify-content: center; } .loaderStatus { /* flex: 1; */ justify-content: center; text-align: center; } /* Modal Foundation*/ #warningModal { position: fixed ; left: 0px; top: 0px; bottom:0px; right:0px; margin:0px; display: none; /* Hidden by default */ z-index: 10000; padding-top: 0px; /* Location of the box */ width: 100%; /* Full width */ height: 100%; /* Full height */ overflow: auto; /* Enable scroll if needed */ background-color: rgb(0,0,0); /* Fallback color */ background-color: rgb(0,0,0,0);/* Black w/ opacity */ } /* Modal Content */ #warningModalSlide { font-family: 'Roboto'; font-size: 14px; background-color: #EFEFEF ; margin: auto; padding: 15px; /*border: 0px solid #888;*/ width: 40%; box-shadow: -2px 8px 10px #c7c7c7; } #elm-main-content figure { display: flex; align-items: center; flex-direction: column; margin: 0; page-break-inside: avoid; margin-bottom: 0.3em !important; } .mt-video-widget:not(.cke_widget_element) { margin: 1rem auto !important; } .glmol{ text-align: left; } #copyResults img { width: 30px; height: 30px; object-fit: contain; } #LTform, #LTPreview { display: flex; flex-direction: column; } #LTFormContainer, .LTFormHeader, #LTFormFooter { display: flex; } #LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container { background: #f3f3f3; border-radius: 10px; overflow: auto; flex: 1; } #LTLeft, #LTRight, #LTPreviewForm, #LTTutorial { /*flex: 1;*/ align-items: stretch; height: 60vh; max-width: 45vw; overflow: hidden; width: 100%; background: #f3f3f3; border-radius: 10px; display: flex; flex-direction: column; } #LTLeft, #LTTutorial { border-radius: 0 0 10px 10px; } select.LTFormSubdomain { border-radius: 10px 10px 0 0; } #LTFormFooter { flex-direction: column; } .LTFormHeader { justify-content: flex-end; margin-top: 30px; background-color: #127bc4; padding: 10px; border-radius: 5px; color: white } ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 { } #LTFormContainer > div { flex: 1; display: flex; flex-direction: column; align-items: center; margin: 10px; max-width: 45vw; } .LTTitle { flex: 1; display: flex; align-items: center; } div#LTPreviewForm { max-width: unset; margin: 10px; width: auto; } div#LTLeftAlert, div#LTRightAlert { height: 30px; background-color: rgba(18, 122, 196, 0.61); width: inherit; z-index: 1; display: flex; align-items: center; justify-content: center; } select#LTFormSubdomain { border-radius: 10px 10px 0 0; } #mt-site-search-input { max-width: 40vw; } #getTOCLink { display: flex; justify-content: center; align-items: center; background-color: slategrey; color: white; width: fit-content; padding: 0 3px; } .annotator-frame.annotator-collapsed > div.annotator-bucket-bar { background: none; } .mobileOnly { display: none; } #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: auto; } #RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before { vertical-align: middle; } .elm-header-user-nav .mt-user-menu li.mt-user-quick-login { margin-left: 0; } .mt-user-menu { display: flex; justify-content: center; } li.elm-social-share a { height: unset; width: auto; margin: 0 2px 0 0; } #LTRight > ul > li { min-height: 100%; } .react-toggle { height: 24px; } .buttonsetForm > button:first-child { background: #525050; color: white; } /*Added to make a hyperlink position below the breadcrumb bar and is viewable */ /*#pageText > .mt-section > span:first-child { top: -50px; display: block; position: relative; }*/ .elm-header-notice.fixed { position: static; } .elm-fixed-header { position: static; } /* Dropdown Button */ .LTdropdown > .dropbtn { color: inherit; background-color: inherit; border: none; height: 100%; padding: 5px; display: flex; align-items: center; box-sizing: border-box; } .LTdropdown a:visited { color: inherit; } /* The container
+- needed to position the dropdown content */ .LTdropdown { position: relative; display: inline-block; margin-right: 2px; color: white; background: black; } /* Dropdown Content (Hidden by Default) */ .LTdropdown-content { color: inherit; display: none; position: absolute; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); background: inherit; z-index: 5; flex-direction: column; align-items: stretch; width: max-content; width: -moz-max-content; } /* Links inside the dropdown */ .LTdropdown > .LTdropdown-content a { color: inherit; background: inherit; padding: 12px 16px; text-decoration: none; display: block; width: initial; text-align: center; font-size: 12px; margin: 0; } /* Change color of dropdown links on hover */ .LTdropdown > .LTdropdown-content a:hover { filter: brightness(85%); transition-duration: 250ms; color: white; } .LTdropdown-content a:before { margin-right: 2px; } .LTdropdown-content a:not(:first-child) { border-top: 1px solid white; } /* Show the dropdown menu on hover */ .LTdropdown:hover .LTdropdown-content { display: flex; } /* Change the background color of the dropdown button when the dropdown content is shown */ .LTdropdown:hover .dropbtn { filter: brightness(85%); } nav.elm-header-user-nav > div.elm-nav-container > ol { display: flex; } nav.elm-header-user-nav > div.elm-nav-container > ol > li { display: flex; } li.elm-global-search { flex: 1 } #mt-site-search-input { width: auto; } .mt-breadcrumbs a span.nb-comment-highlight { font-size: unset; margin-right: unset; vertical-align: unset; } /* */ .mt-user-quick-login { display: none !important; } .mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right { display: none !important; } .mt-icon-quick-sign-in::before { color: #127BC4; } .sso-user:hover:after { content: " (Logout)"; font-family: inherit; font-style: italic; } .authenticated-sso.elm-header-user-nav { background-color: #0f67a6; } .authenticated-sso.elm-header-user-nav .mt-user-menu-user { background: #323232; border-radius: 5px; } .authenticated-sso.elm-header-user-nav .mt-user-menu > li > a { color: white; } /* */ /*Media Queries*/ @media (max-width: 600px) { .mobileOnly { display: block; } .mobileHide { display: none; } .LTBranding { flex-direction: column; } } @media (max-width: 875px) { #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: 1.95em; } } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } @media (max-width: 1001px) { #TOCbutton { width: 20px; justify-content: flex-start; } } /* @media (min-width: 83em) { article.elm-content-container { min-width: unset; } } */ /* @media (min-width: 37.5em){ .elm-header-user-nav { z-index: 1; } } */ .mt-content-container img { height: auto!important; object-fit: contain; } .mt-content-container .mt-sortable-listing-link img { height: 150px!important; } .mt-video-widget > p { text-align: center; } option[value="article:topic-portfolio"] { display: none; } option[value="article:howto"] { display: none; } option[value="article:reference"] { display: none; } .live-tag-link { white-space: normal; user-select: text; -webkit-user-drag: none; } span.mt-font-ma-shan-zheng{ font-family: 'Ma Shan Zheng'; } .cke_librebox .cke_combo_open { margin-left: 0; } .cke_librebox .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_librequery .cke_combo_open { margin-left: 0; } .cke_librequery .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_button_icon.cke_button__librequeryoptions_icon { background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important; background-position: 0px !important; background-size: 16px !important; } /** Heading 7 **/ .lt-heading-7 { text-align: left!important; font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif; color: #000; margin: 2rem 0 0.5rem; padding: 0; } @media (min-width: 37.5em) { .lt-heading-7 { font-size: 112.5% !important; } } @media (min-width: 18.75em) { .lt-heading-7 { font-size: 105.5% !important; } } /** AutoAttribution **/ #librelens-attribution-list li { font-size: 0.95rem !important; } /** Prevent overflow with large images in sections **/ section::after { content: ''; clear: both; display: block }/*]]>*/
+Skip to main content
+Table of Contents menu
+[Library homepage]
+search Search
+build_circle Toolbar
+fact_check Homework
+cancel Exit Reader Mode
+-   school Campus Bookshelves
+-   menu_book Bookshelves
+-   perm_media Learning Objects
+-   login Login
+-   how_to_reg Request Instructor Account
+-   hub Instructor Commons
+Search
+Search this book
+Submit Search
+x
+Text Color
+Reset
+ Bright
+ Blues
+ Gray
+ Inverted
+Text Size
+Reset
++
+-
+Margin Size
+Reset
++
+-
+Font Type
+Enable Dyslexic Font  
+-   Downloads expand_more
+    -   Download Page (PDF)
+    -   Download Full Book (PDF)
+-   Resources expand_more
+    -   Periodic Table
+    -   Physics Constants
+    -   Scientific Calculator
+-   Reference expand_more
+    -   Reference & Cite
+-   Tools expand_more
+-   Help expand_more
+    -   Get Help
+    -   Feedback
+    -   Readability
+x
+selected template will load here
+Error
+This action is not available.
+[Library homepage]
+chrome_reader_mode Enter Reader Mode
+10: Spectroscopic Methods
+Analytical Chemistry 2.1 (Harvey)
+{ }
+{ "10.01:_Overview_of_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.02:_Spectroscopy_Based_on_Absorption" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.03:_UV_Vis_and_IR_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.04:_Atomic_Absorption_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.05:_Emission_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.06:_Photoluminescent_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.07:_Atomic_Emission_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.08:_Spectroscopy_Based_on_Scattering" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.09:_Problems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.10:_Additional_Resources" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10.11:_Chapter_Summary_and_Key_Terms" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "01:_Introduction_to_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "02:_Basic_Tools_of_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "03:__The_Vocabulary_of_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "04:_Evaluating_Analytical_Data" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "05:_Standardizing_Analytical_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "06:_Equilibrium_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "07:_Obtaining_and_Preparing_Samples_for_Analysis" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "08:_Gravimetric_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "09:_Titrimetric_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10:_Spectroscopic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "11:_Electrochemical_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "12:_Chromatographic_and_Electrophoretic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "13:_Kinetic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "14:_Developing_a_Standard_Method" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "15:_Quality_Assurance" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "16:_Appendix" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+Sun, 12 Sep 2021 04:51:16 GMT
+10.1: Overview of Spectroscopy
+157672
+157672
+admin
+{ }
+Anonymous
+Anonymous User
+2
+false
+false
+[ "article:topic", "spectroscopy", "chemiluminescence", "electromagnetic radiation", "Electromagnetic Spectrum", "authorname:harveyd", "showtoc:no", "photoluminescence", "monochromator", "interferometer", "photon transducers", "signal processor", "absorption spectroscopy", "emission spectroscopy", "license:ccbyncsa", "field:achem", "infrared radiation", "ultraviolet radiation", "cssprint:dense", "licenseversion:40", "wave properties", "visible radiation", "optical materials", "light behavior", "particle properties", "energy transfer", "wavelength selection", "thermal transducers" ]
+[ "article:topic", "spectroscopy", "chemiluminescence", "electromagnetic radiation", "Electromagnetic Spectrum", "authorname:harveyd", "showtoc:no", "photoluminescence", "monochromator", "interferometer", "photon transducers", "signal processor", "absorption spectroscopy", "emission spectroscopy", "license:ccbyncsa", "field:achem", "infrared radiation", "ultraviolet radiation", "cssprint:dense", "licenseversion:40", "wave properties", "visible radiation", "optical materials", "light behavior", "particle properties", "energy transfer", "wavelength selection", "thermal transducers" ]
+https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FAnalytical_Chemistry%2FAnalytical_Chemistry_2.1_by_David_Harvey%2FAnalytical_Chemistry_2.1_(Harvey)%2F10%253A_Spectroscopic_Methods%2F10.01%253A_Overview_of_Spectroscopy
+[Chemistry LibreTexts]
+1.  Search site
+    Search
+    Search
+    Go back to previous article
+2.  1.  Username
+        Password
+        Sign in
+    2.  Sign in
+        -   Sign in
+        -   Forgot password
+Expand/collapse global hierarchy
+1.   Home
+2.   Bookshelves
+3.   Analytical Chemistry
+4.   Analytical Chemistry 2.1 by David Harvey
+5.   Analytical Chemistry 2.1 (Harvey)
+6.   10: Spectroscopic Methods
+7.   10.1: Overview of Spectroscopy
+Expand/collapse global location
+10.1: Overview of Spectroscopy
+1.  
+    Last updated
+2.  Save as PDF
+3.  
+Page ID
+    157672
+-   [ ]
+-   David Harvey
+-   DePauw University
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+\( \newcommand{\dint}{\displaystyle\int\limits} \)
+\( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\(\newcommand{\longvect}{\overrightarrow}\)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\(\newcommand{\ket}[1]{\left| #1 \right>}\)
+\(\newcommand{\bra}[1]{\left< #1 \right|}\)
+\(\newcommand{\braket}[2]{\left< #1 \vphantom{#2} \right| \left. #2 \vphantom{#1} \right>}\)
+\(\newcommand{\braopket}[3]{\left< #1 \vphantom{#2}\vphantom{#3} \right| #2 \vphantom{#1}\vphantom{#3} \left| #3 \vphantom{#1}\vphantom{#2} \right>}\)
+\(\newcommand{\qmvec}[1]{\mathbf{\vec{#1}}}\)
+\(\newcommand{\op}[1]{\hat{\mathbf{#1}}}\)
+\(\newcommand{\expect}[1]{\langle #1 \rangle}\)
+\(\newcommand{\dfn}[1]{\emph{\textbf{#1}}}\)
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\) \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)
+1.  What is Electromagnetic Radiation?
+    1.  Wave Properties of Electromagnetic Radiation
+        1.  Example 10.1.1
+        2.  Exercise 10.1.1
+    2.  Particle Properties of Electromagnetic Radiation
+        1.  Example 10.1.2
+        2.  Exercise 10.1.2
+    3.  The Electromagnetic Spectrum
+2.  Photons as a Signal Source
+3.  Basic Components of Spectroscopic Instruments
+    1.  1.  Sources of Energy
+    2.  Wavelength Selection
+    3.  Detectors
+    4.  Signal Processors
+The focus of this chapter is on the interaction of ultraviolet, visible, and infrared radiation with matter. Because these techniques use optical materials to disperse and focus the radiation, they often are identified as optical spectroscopies. For convenience we will use the simpler term spectroscopy in place of optical spectroscopy; however, you should understand we will consider only a limited piece of what is a much broader area of analytical techniques.
+Despite the difference in instrumentation, all spectroscopic techniques share several common features. Before we consider individual examples in greater detail, let’s take a moment to consider some of these similarities. As you work through the chapter, this overview will help you focus on the similarities between different spectroscopic methods of analysis. You will find it easier to understand a new analytical method when you can see its relationship to other similar methods.
+What is Electromagnetic Radiation?
+Electromagnetic radiation—light—is a form of energy whose behavior is described by the properties of both waves and particles. Some properties of electromagnetic radiation, such as its refraction when it passes from one medium to another (Figure 10.1.1 ), are explained best when we describe light as a wave. Other properties, such as absorption and emission, are better described by treating light as a particle. The exact nature of electromagnetic radiation remains unclear, as it has since the development of quantum mechanics in the first quarter of the 20th century [Home, D.; Gribbin, J. New Scientist 1991, 2 Nov. 30–33]. Nevertheless, this dual model of wave and particle behavior provide a useful description for electromagnetic radiation.
+[ ]
+Figure 10.1.1 . The Golden Gate bridge as seen through rain drops. Refraction of light by the rain drops produces the distorted images. Source: Brocken Inaglory (commons. Wikipedia.org).
+Wave Properties of Electromagnetic Radiation
+Electromagnetic radiation consists of oscillating electric and magnetic fields that propagate through space along a linear path and with a constant velocity. In a vacuum, electromagnetic radiation travels at the speed of light, c, which is \(2.99792 \times 10^8\) m/s. When electromagnetic radiation moves through a medium other than a vacuum, its velocity, v, is less than the speed of light in a vacuum. The difference between v and c is sufficiently small (<0.1%) that the speed of light to three significant figures, \(3.00 \times 10^8\) m/s, is accurate enough for most purposes.
+The oscillations in the electric field and the magnetic field are perpendicular to each other and to the direction of the wave’s propagation. Figure 10.1.2 shows an example of plane-polarized electromagnetic radiation, which consists of a single oscillating electric field and a single oscillating magnetic field.
+[ ]
+Figure 10.1.2 . Plane-polarized electromagnetic radiation showing the oscillating electric field in blue and the oscillating magnetic field in red. The radiation’s amplitude, A, and its wavelength, \(\lambda\), are shown. Normally, electromagnetic radiation is unpolarized, with oscillating electric and magnetic fields present in all possible planes perpendicular to the direction of propagation.
+An electromagnetic wave is characterized by several fundamental properties, including its velocity, amplitude, frequency, phase angle, polarization, and direction of propagation [Ball, D. W. Spectroscopy 1994, 9(5), 24–25]. For example, the amplitude of the oscillating electric field at any point along the propagating wave is
+\[A_{t}=A_{e} \sin (2 \pi \nu t+\Phi) \nonumber\]
+where A_(t) is the magnitude of the electric field at time t, A_(e) is the electric field’s maximum amplitude, \(\nu\) is the wave’s frequency—the number of oscillations in the electric field per unit time—and \(\Phi\) is a phase angle that accounts for the fact that A_(t) need not have a value of zero at t = 0. The identical equation for the magnetic field is
+\[A_{t}=A_{m} \sin (2 \pi \nu t+\Phi) \nonumber\]
+where A_(m) is the magnetic field’s maximum amplitude.
+Other properties also are useful for characterizing the wave behavior of electromagnetic radiation. The wavelength, \(\lambda\), is defined as the distance between successive maxima (see Figure 10.1.2 ). For ultraviolet and visible electromagnetic radiation the wavelength usually is expressed in nanometers (1 nm = 10^(–9) m), and for infrared radiation it is expressed in microns (1 mm = 10^(–6) m). The relationship between wavelength and frequency is
+\[\lambda = \frac {c} {\nu} \nonumber\]
+Another unit useful unit is the wavenumber, \(\overline{\nu}\), which is the reciprocal of wavelength
+\[\overline{\nu} = \frac {1} {\lambda} \nonumber\]
+Wavenumbers frequently are used to characterize infrared radiation, with the units given in cm^(–1).
+When electromagnetic radiation moves between different media—for example, when it moves from air into water—its frequency, \(\nu\), remains constant. Because its velocity depends upon the medium in which it is traveling, the electromagnetic radiation’s wavelength, \(\lambda\), changes. If we replace the speed of light in a vacuum, c, with its speed in the medium, \(v\), then the wavelength is
+\[\lambda = \frac {v} {\nu} \nonumber\]
+This change in wavelength as light passes between two media explains the refraction of electromagnetic radiation shown in Figure 10.1.1 .
+Example 10.1.1 
+In 1817, Josef Fraunhofer studied the spectrum of solar radiation, observing a continuous spectrum with numerous dark lines. Fraunhofer labeled the most prominent of the dark lines with letters. In 1859, Gustav Kirchhoff showed that the D line in the sun’s spectrum was due to the absorption of solar radiation by sodium atoms. The wavelength of the sodium D line is 589 nm. What are the frequency and the wavenumber for this line?
+Solution
+The frequency and wavenumber of the sodium D line are
+\[\nu=\frac{c}{\lambda}=\frac{3.00 \times 10^{8} \ \mathrm{m} / \mathrm{s}}{589 \times 10^{-9} \ \mathrm{m}}=5.09 \times 10^{14} \ \mathrm{s}^{-1} \nonumber\]
+\[\overline{\nu}=\frac{1}{\lambda}=\frac{1}{589 \times 10^{-9} \ \mathrm{m}} \times \frac{1 \ \mathrm{m}}{100 \ \mathrm{cm}}=1.70 \times 10^{4} \ \mathrm{cm}^{-1} \nonumber\]
+Exercise 10.1.1 
+Another historically important series of spectral lines is the Balmer series of emission lines from hydrogen. One of its lines has a wavelength of 656.3 nm. What are the frequency and the wavenumber for this line?
+Answer
+    The frequency and wavenumber for the line are
+    \[\nu=\frac{c}{\lambda}=\frac{3.00 \times 10^{8} \ \mathrm{m} / \mathrm{s}}{656.3 \times 10^{-9} \ \mathrm{m}}=4.57 \times 10^{14} \ \mathrm{s}^{-1} \nonumber\]
+    \[\overline{\nu}=\frac{1}{\lambda}=\frac{1}{656.3 \times 10^{-9} \ \mathrm{m}} \times \frac{1 \ \mathrm{m}}{100 \ \mathrm{cm}}=1.524 \times 10^{4} \ \mathrm{cm}^{-1} \nonumber\]
+Particle Properties of Electromagnetic Radiation
+When matter absorbs electromagnetic radiation it undergoes a change in energy. The interaction between matter and electromagnetic radiation is easiest to understand if we assume that radiation consists of a beam of energetic particles called photons. When a photon is absorbed by a sample it is “destroyed” and its energy acquired by the sample [Ball, D. W. Spectroscopy 1994, 9(6) 20–21]. The energy of a photon, in joules, is related to its frequency, wavelength, and wavenumber by the following equalities
+\[E=h \nu=\frac{h c}{\lambda}=h c \overline{\nu} \nonumber\]
+where h is Planck’s constant, which has a value of \(6.626 \times 10^{-34}\) Js.
+Example 10.1.2 
+What is the energy of a photon from the sodium D line at 589 nm?
+Solution
+The photon’s energy is
+\[E=\frac{h c}{\lambda}=\frac{\left(6.626 \times 10^{-34} \ \mathrm{Js}\right)\left(3.00 \times 10^{8} \ \mathrm{m} / \mathrm{s}\right)}{589 \times 10^{-7} \ \mathrm{m}}=3.37 \times 10^{-19} \ \mathrm{J} \nonumber\]
+Exercise 10.1.2 
+What is the energy of a photon for the Balmer line at a wavelength of 656.3 nm?
+Answer
+    The photon’s energy is
+    \[E=\frac{h c}{\lambda}=\frac{\left(6.626 \times 10^{-34} \ \mathrm{Js}\right)\left(3.00 \times 10^{8} \ \mathrm{m} / \mathrm{s}\right)}{656.3 \times 10^{-9} \ \mathrm{m}}=3.03 \times 10^{-19} \ \mathrm{J} \nonumber\]
+The Electromagnetic Spectrum
+The frequency and the wavelength of electromagnetic radiation vary over many orders of magnitude. For convenience, we divide electromagnetic radiation into different regions—the electromagnetic spectrum—based on the type of atomic or molecular transitions that gives rise to the absorption or emission of photons (Figure 10.1.3 ). The boundaries between the regions of the electromagnetic spectrum are not rigid and overlap between spectral regions is possible.
+[ ]
+Figure 10.1.3 . The electromagnetic spectrum showing the boundaries between different regions and the type of atomic or molecular transitions responsible for the change in energy. The colored inset shows the visible spectrum. Source: modified from Zedh (www.commons.Wikipedia.org).
+Photons as a Signal Source
+In the previous section we defined several characteristic properties of electromagnetic radiation, including its energy, velocity, amplitude, frequency, phase angle, polarization, and direction of propagation. A spectroscopic measurement is possible only if the photon’s interaction with the sample leads to a change in one or more of these characteristic properties.
+We will divide spectroscopy into two broad classes of techniques. In one class of techniques there is a transfer of energy between the photon and the sample. Table 10.1.1 provides a list of several representative examples.
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+| type of energy transfer                                   | region of electromagnetic spectrum | spectroscopic technique          |
++===========================================================+====================================+==================================+
+| absorption                                                | \(\gamma\)-ray                     | Mossbauer spectroscopy           |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+|                                                           | X-ray                              | X-ray absorption spectroscopy    |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+|                                                           | UV/Vis                             | UV/Vis spectroscopy              |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+|                                                           | IR                                 | infrared spectroscopy            |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+|                                                           | microwave                          | raman spectroscopy               |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+|                                                           | radio wave                         | electron spin resonance          |
+|                                                           |                                    |                                  |
+|                                                           |                                    | nuclear magnetic resonance       |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+| emission (thermal excitation)                             | UV/Vis                             | atomic emission spectroscopy     |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+| photoluminescence                                         | X-ray                              | X-ray fluorescence               |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+|                                                           | UV/Vis                             | fluorescence spectroscopy        |
+|                                                           |                                    |                                  |
+|                                                           |                                    | phosphorescence spectroscopy     |
+|                                                           |                                    |                                  |
+|                                                           |                                    | atomic fluorescence spectroscopy |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+| chemiluminescence                                         | UV/Vis                             | chemiluminescence spectroscopy   |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+| techniques discussed in this chapter are shown in italics |                                    |                                  |
++-----------------------------------------------------------+------------------------------------+----------------------------------+
+: Table 10.1.1 . Examples of Spectroscopic Techniques That Involve an Exchange of Energy Between a Photon and the Sample
+In absorption spectroscopy a photon is absorbed by an atom or molecule, which undergoes a transition from a lower-energy state to a higher-energy, or excited state (Figure 10.1.4 ). The type of transition depends on the photon’s energy. The electromagnetic spectrum in Figure 10.1.3 , for example, shows that absorbing a photon of visible light promotes one of the atom’s or molecule’s valence electrons to a higher-energy level. When an molecule absorbs infrared radiation, on the other hand, one of its chemical bonds experiences a change in vibrational energy.
+[ ]
+Figure 10.1.4 . A simplified energy diagram that shows the absorption and emission of a photon by an atom or a molecule. When a photon of energy \(h \nu\) strikes the atom or molecule, absorption may occur if the difference in energy, \(\Delta E\), between the ground state and the excited state is equal to the photon’s energy. An atom or molecule in an excited state may emit a photon and return to the ground state. The photon’s energy, \(h \nu\), equals the difference in energy, \(\Delta E\), between the two states.
+When it absorbs electromagnetic radiation the number of photons passing through a sample decreases. The measurement of this decrease in photons, which we call absorbance, is a useful analytical signal. Note that each energy level in Figure 10.1.4 has a well-defined value because each is quantized. Absorption occurs only when the photon’s energy, \(h \nu\), matches the difference in energy, \(\Delta E\), between two energy levels. A plot of absorbance as a function of the photon’s energy is called an absorbance spectrum. Figure 10.1.5 , for example, shows the absorbance spectrum of cranberry juice.
+[ ]
+Figure 10.1.5 . Visible absorbance spectrum for cranberry juice. The anthocyanin dyes in cranberry juice absorb visible light with blue, green, and yellow wavelengths (see Figure 10.1.3 ). As a result, the juice appears red.
+When an atom or molecule in an excited state returns to a lower energy state, the excess energy often is released as a photon, a process we call emission (Figure 10.1.4 ). There are several ways in which an atom or a molecule may end up in an excited state, including thermal energy, absorption of a photon, or as the result of a chemical reaction. Emission following the absorption of a photon is also called photoluminescence, and that following a chemical reaction is called chemiluminescence. A typical emission spectrum is shown in Figure 10.1.6 .
+Molecules also can release energy in the form of heat. We will return to this point later in the chapter.
+[ ]
+Figure 10.1.6 . Photoluminescence spectrum of the dye coumarin 343, which is incorporated in a reverse micelle suspended in cyclohexanol. The dye’s absorbance spectrum (not shown) has a broad peak around 400 nm. The sharp peak at 409 nm is from the laser source used to excite coumarin 343. The broad band centered at approximately 500 nm is the dye’s emission band. Because the dye absorbs blue light, a solution of coumarin 343 appears yellow in the absence of photoluminescence. Its photoluminescent emission is blue-green. Source: data from Bridget Gourley, Department of Chemistry & Biochemistry, DePauw University.
+In the second broad class of spectroscopic techniques, the electromagnetic radiation undergoes a change in amplitude, phase angle, polarization, or direction of propagation as a result of its refraction, reflection, scattering, diffraction, or dispersion by the sample. Several representative spectroscopic techniques are listed in Table 10.1.2 .
++-----------------------------------------------------------+-----------------------+---------------------------+
+| region of electromagnetic spectrum                        | type of interaction   | spectroscopic technique   |
++===========================================================+=======================+===========================+
+| X-ray                                                     | diffraction           | X-ray diffraction         |
++-----------------------------------------------------------+-----------------------+---------------------------+
+| UV/Vis                                                    | refraction            | refractrometry            |
++-----------------------------------------------------------+-----------------------+---------------------------+
+|                                                           | scattering            | nephelometry              |
+|                                                           |                       |                           |
+|                                                           |                       | turbidimetry              |
++-----------------------------------------------------------+-----------------------+---------------------------+
+|                                                           | dispersion            | optical rotary dispersion |
++-----------------------------------------------------------+-----------------------+---------------------------+
+| techniques discussed in this chapter are shown in italics |                       |                           |
++-----------------------------------------------------------+-----------------------+---------------------------+
+: Table 10.1.2 . Examples of Spectroscopic Techniques That Do Not Involve an Exchange of Energy Between a Photon and the Sample
+Basic Components of Spectroscopic Instruments
+The spectroscopic techniques in Table 10.1.1 and Table 10.1.2 use instruments that share several common basic components, including a source of energy, a means for isolating a narrow range of wavelengths, a detector for measuring the signal, and a signal processor that displays the signal in a form convenient for the analyst. In this section we introduce these basic components. Specific instrument designs are considered in later sections.
+You will find a more detailed treatment of these components in the additional resources for this chapter.
+Sources of Energy
+All forms of spectroscopy require a source of energy. In absorption and scattering spectroscopy this energy is supplied by photons. Emission and photoluminescence spectroscopy use thermal, radiant (photon), or chemical energy to promote the analyte to a suitable excited state.
+Sources of Electromagnetic Radiation. A source of electromagnetic radiation must provide an output that is both intense and stable. Sources of electromagnetic radiation are classified as either continuum or line sources. A continuum source emits radiation over a broad range of wavelengths, with a relatively smooth variation in intensity (Figure 10.1.7 ). A line source, on the other hand, emits radiation at selected wavelengths (Figure 10.1.8 ). Table 10.1.3 provides a list of the most common sources of electromagnetic radiation.
+[ ]
+Figure 10.1.7 . Spectrum showing the emission from a green LED, which provides continuous emission over a wavelength range of approximately 530–640 nm.
+[ ]
+Figure 10.1.8 . Emission spectrum from a Cu hollow cathode lamp. This spectrum consists of seven distinct emission lines (the first two differ by only 0.4 nm and are not resolved at the scale shown in this spectrum). Each emission line has a width of approximately 0.01 nm at 1⁄2 of its maximum intensity.
+  source                wavelength region                   useful for...
+  --------------------- ----------------------------------- ---------------------------------------------------------------
+  H₂ and D₂ lamp        continuum source from 160–380 nm    molecular absorption
+  tungsten lamp         continuum source from 320–2400 nm   molecular absorption
+  Xe arc lamp           continuum source from 200–1000 nm   molecular fluorescence
+  nernst glower         continuum source from 0.4–20 µm     molecular absorption
+  globar                continuum source from 1–40 µm       molecular absorption
+  nichrome wire         continuum source from 0.75–20 µm    molecular absorption
+  hollow cathode lamp   line source in UV/Vis               atomic absorption
+  Hg vapor lamp         line source in UV/Vis               molecular fluorescence
+  laser                 line source in UV/Vis/Ir            atomic and molecular absorption, fluorescence, and scattering
+  : Table 10.1.3 . Common Source of Electromagnetic Radiation
+Sources of Thermal Radiation. The most common sources of thermal energy are flames and plasmas. A flame source uses a combustion of a fuel and an oxidant to achieve temperatures of 2000–3400 K. Plasmas, which are hot, ionized gases, provide temperatures of 6000–10000 K.
+Chemical Sources of Energy. Exothermic reactions also may serve as a source of energy. In chemiluminescence the analyte is raised to a higher-energy state by means of a chemical reaction, emitting characteristic radiation when it returns to a lower-energy state. When the chemical reaction results from a biological or enzymatic reaction, the emission of radiation is called bioluminescence. Commercially available “light sticks” and the flash of light from a firefly are examples of chemiluminescence and bioluminescence.
+Wavelength Selection
+In Nessler’s original colorimetric method for ammonia, which was described at the beginning of the chapter, the sample and several standard solutions of ammonia are placed in separate tall, flat-bottomed tubes. As shown in Figure 10.1.9 , after adding the reagents and allowing the color to develop, the analyst evaluates the color by passing ambient light through the bottom of the tubes and looking down through the solutions. By matching the sample’s color to that of a standard, the analyst is able to determine the concentration of ammonia in the sample.
+[ ]
+Figure 10.1.9 . Nessler’s original method for comparing the color of two solutions. Natural light passes upwards through the samples and standards and the analyst views the solutions by looking down toward the light source. The top view, shown on the right, is what the analyst sees. To determine the analyte’s concentration, the analyst exchanges standards until the two colors match.
+In Figure 10.1.9 every wavelength of light from the source passes through the sample. This is not a problem if there is only one absorbing species in the sample. If the sample contains two components, then a quantitative analysis using Nessler’s original method is impossible unless the standards contains the second component at the same concentration it has in the sample.
+To overcome this problem, we want to select a wavelength that only the analyte absorbs. Unfortunately, we can not isolate a single wavelength of radiation from a continuum source, although we can narrow the range of wavelengths that reach the sample. As seen in Figure 10.1.10 , a wavelength selector always passes a narrow band of radiation characterized by a nominal wavelength, an effective bandwidth, and a maximum throughput of radiation. The effective bandwidth is defined as the width of the radiation at half of its maximum throughput.
+[The maximum throughput rangles from zero to the wavelength at the highest point of the peak. The effective bandwidth is an equal distance from the peak.]
+Figure 10.1.10 . Radiation exiting a wavelength selector showing the band’s nominal wavelength and its effective bandwidth.
+The ideal wavelength selector has a high throughput of radiation and a narrow effective bandwidth. A high throughput is desirable because the more photons that pass through the wavelength selector, the stronger the signal and the smaller the background noise. A narrow effective bandwidth provides a higher resolution, with spectral features separated by more than twice the effective bandwidth being resolved. As shown in Figure 10.1.11 , these two features of a wavelength selector often are in opposition. A larger effective bandwidth favors a higher throughput of radiation, but provide less resolution. Decreasing the effective bandwidth improves resolution, but at the cost of a noisier signal [Jiang, S.; Parker, G. A. Am. Lab. 1981, October, 38–43]. For a qualitative analysis, resolution usually is more important than noise and a smaller effective bandwidth is desirable; however, in a quantitative analysis less noise usually is desirable.
+[ ]
+Figure 10.1.11 . Example showing the effect of the wavelength selector’s effective bandwidth on resolution and noise. The spectrum with the smaller effective bandwidth (on the right) has a better resolution, allowing us to see the presence of three peaks, but at the expense of a noisier signal. The spectrum with the larger effective bandwidth (on the left) has less noise, but at the expense of less resolution between the three peaks.
+Wavelength Selection Using Filters. The simplest method for isolating a narrow band of radiation is to use an absorption or interference filter. Absorption filters work by selectively absorbing radiation from a narrow region of the electromagnetic spectrum. Interference filters use constructive and destructive interference to isolate a narrow range of wavelengths. A simple example of an absorption filter is a piece of colored glass. A purple filter, for example, removes the complementary color green from 500–560 nm.
+Commercially available absorption filters provide effective bandwidths of 30–250 nm, although the throughput at the low end of this range often is only 10% of the source’s emission intensity. Interference filters are more expensive than absorption filters, but have narrower effective bandwidths, typically 10–20 nm, with maximum throughputs of at least 40%.
+Wavelength Selection Using Monochromators. A filter has one significant limitation—because a filter has a fixed nominal wavelength, if we need to make measurements at two different wavelengths, then we must use two different filters. A monochromator is an alternative method for selecting a narrow band of radiation that also allows us to continuously adjust the band’s nominal wavelength.
+The construction of a typical monochromator is shown in Figure 10.1.12 . Radiation from the source enters the monochromator through an entrance slit. The radiation is collected by a collimating mirror, which reflects a parallel beam of radiation to a diffraction grating. The diffraction grating is an optically reflecting surface with a large number of parallel grooves (see insert to Figure 10.1.12 ). The diffraction grating disperses the radiation and a second mirror focuses the radiation onto a planar surface that contains an exit slit. In some monochromators a prism is used in place of the diffraction grating.
+[Light emanates from a light source and travels through an entrance slit. It hits a collimating mirror and its redirected toward a diffraction grating. This contact separates the different wavelengths of light which then travels to a focusing mirror. Lastly, the focused wavelengths travel through an exit slit and hit a detector. ]
+Figure 10.1.12 . Schematic diagram of a monochromator that uses a diffraction grating to disperse the radiation.
+Radiation exits the monochromator and passes to the detector. As shown in Figure 10.1.12 , a monochromator converts a polychromatic source of radiation at the entrance slit to a monochromatic source of finite effective bandwidth at the exit slit. The choice of which wavelength exits the monochromator is determined by rotating the diffraction grating. A narrower exit slit provides a smaller effective bandwidth and better resolution than does a wider exit slit, but at the cost of a smaller throughput of radiation.
+Polychromatic means many colored. Polychromatic radiation contains many different wavelengths of light. Monochromatic means one color, or one wavelength. Although the light exiting a monochromator is not strictly of a single wavelength, its narrow effective bandwidth allows us to think of it as monochromatic.
+Monochromators are classified as either fixed-wavelength or scanning. In a fixed-wavelength monochromator we manually select the wavelength by rotating the grating. Normally a fixed-wavelength monochromator is used for a quantitative analysis where measurements are made at one or two wavelengths. A scanning monochromator includes a drive mechanism that continuously rotates the grating, which allows successive wavelengths of light to exit from the monochromator. A scanning monochromator is used to acquire spectra, and, when operated in a fixed-wavelength mode, for a quantitative analysis.
+Interferometers. An interferometer provides an alternative approach for wavelength selection. Instead of filtering or dispersing the electromagnetic radiation, an interferometer allows source radiation of all wavelengths to reach the detector simultaneously (Figure 10.1.13 ). Radiation from the source is focused on a beam splitter that reflects half of the radiation to a fixed mirror and transmits the other half to a moving mirror. The radiation recombines at the beam splitter, where constructive and destructive interference determines, for each wavelength, the intensity of light that reaches the detector. As the moving mirror changes position, the wavelength of light that experiences maximum constructive interference and maximum destructive interference also changes. The signal at the detector shows intensity as a function of the moving mirror’s position, expressed in units of distance or time. The result is called an interferogram or a time domain spectrum. The time domain spectrum is converted mathematically, by a process called a Fourier transform, to a spectrum (a frequency domain spectrum) that shows intensity as a function of the radiation’s energy.
+The mathematical details of the Fourier transform are beyond the level of this textbook. You can consult the chapter’s additional resources for additional information.
+[ ]
+Figure 10.1.13 . Schematic diagram of an interferometers.
+In comparison to a monochromator, an interferometer has two significant advantages. The first advantage, which is termed Jacquinot’s advantage, is the greater throughput of source radiation. Because an interferometer does not use slits and has fewer optical components from which radiation is scattered and lost, the throughput of radiation reaching the detector is \(80-200 \times\) greater than that for a monochromator. The result is less noise. The second advantage, which is called Fellgett’s advantage, is a savings in the time needed to obtain a spectrum. Because the detector monitors all frequencies simultaneously, a spectrum takes approximately one second to record, as compared to 10–15 minutes when using a scanning monochromator.
+Detectors
+In Nessler’s original method for determining ammonia (Figure 10.1.9 ) the analyst’s eye serves as the detector, matching the sample’s color to that of a standard. The human eye, of course, has a poor range—it responds only to visible light—and it is not particularly sensitive or accurate. Modern detectors use a sensitive transducer to convert a signal consisting of photons into an easily measured electrical signal. Ideally the detector’s signal, S, is a linear function of the electromagnetic radiation’s power, P,
+\[S=k P+D \nonumber\]
+where k is the detector’s sensitivity, and D is the detector’s dark current, or the background current when we prevent the source’s radiation from reaching the detector.
+There are two broad classes of spectroscopic transducers: thermal transducers and photon transducers. Table 10.1.4 provides several representative examples of each class of transducers.
+Transducer is a general term that refers to any device that converts a chemical or a physical property into an easily measured electrical signal. The retina in your eye, for example, is a transducer that converts photons into an electrical nerve impulse; your eardrum is a transducer that converts sound waves into a different electrical nerve impulse.
+  transducer          class     wavelength range   output signal
+  ------------------- --------- ------------------ -----------------------
+  phototube           photon    200–1000 nm        current
+  photomultiplier     photon    110–1000 nm        current
+  Si photodiode       photon    250–1100 nm        current
+  photoconductor      photon    750–6000 nm        change in resistance
+  photovoltaic cell   photon    400–5000 nm        current or voltage
+  thermocouple        thermal   0.8–40 µm          voltage
+  thermistor          thermal   0.8–40 µm          change in resistance
+  pneumatic           thermal   0.8–1000 µm        membrane displacement
+  pyroelectric        thermal   0.3–1000 µm        current
+  : Table 10.1.4 . Examples of Transducers for Spectroscopy
+Photon Transducers. Phototubes and photomultipliers use a photosensitive surface that absorbs radiation in the ultraviolet, visible, or near IR to produce an electrical current that is proportional to the number of photons reaching the transducer (Figure 10.1.14 ). Other photon detectors use a semiconductor as the photosensitive surface. When the semiconductor absorbs photons, valence electrons move to the semiconductor’s conduction band, producing a measurable current. One advantage of the Si photodiode is that it is easy to miniaturize. Groups of photodiodes are gathered together in a linear array that contains 64–4096 individual photodiodes. With a width of 25 μm per diode, a linear array of 2048 photodiodes requires only 51.2 mm of linear space. By placing a photodiode array along the monochromator’s focal plane, it is possible to monitor simultaneously an entire range of wavelengths.
+[ ]
+Figure 10.1.14 . Schematic of a photomultiplier. A photon strikes the photoemissive cathode producing electrons, which accelerate toward a positively charged dynode. Collision of these electrons with the dynode generates additional electrons, which accelerate toward the next dynode. A total of 10⁶–10⁷ electrons per photon eventually reach the anode, generating an electrical current.
+Thermal Transducers. Infrared photons do not have enough energy to produce a measurable current with a photon transducer. A thermal transducer, therefore, is used for infrared spectroscopy. The absorption of infrared photons increases a thermal transducer’s temperature, changing one or more of its characteristic properties. A pneumatic transducer, for example, is a small tube of xenon gas with an IR transparent window at one end and a flexible membrane at the other end. Photons enter the tube and are absorbed by a blackened surface, increasing the temperature of the gas. As the temperature inside the tube fluctuates, the gas expands and contracts and the flexible membrane moves in and out. Monitoring the membrane’s displacement produces an electrical signal.
+Signal Processors
+A transducer’s electrical signal is sent to a signal processor where it is displayed in a form that is more convenient for the analyst. Examples of signal processors include analog or digital meters, recorders, and computers equipped with digital acquisition boards. A signal processor also is used to calibrate the detector’s response, to amplify the transducer’s signal, to remove noise by filtering, or to mathematically transform the signal.
+If the retina in your eye and the eardrum in your ear are transducers, then your brain is the signal processor.
+------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+źródło: https://openstax.org/books/organic-chemistry/pages/12-why-this-chapter
+tytuł: Why This Chapter?
+licencja: Creative Commons Attribution-NonCommercial-ShareAlike License
+
+[A cup of coffee on a saucer in a tray of coffee beans.]
+
+Figure 12.1 More than a thousand different chemical compounds have been isolated from coffee. Their structures were determined using various spectroscopic techniques. (credit: modification of work "Coffee" by Rafael Saldaña/Flickr, CC BY 2.0)
+
+Chapter Contents
+
+-   12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments
+-   12.2 Interpreting Mass Spectra
+-   12.3 Mass Spectrometry of Some Common Functional Groups
+-   12.4 Mass Spectrometry in Biological Chemistry: Time-of-Flight (TOF) Instruments
+-   12.5 Spectroscopy and the Electromagnetic Spectrum
+-   12.6 Infrared Spectroscopy
+-   12.7 Interpreting Infrared Spectra
+-   12.8 Infrared Spectra of Some Common Functional Groups
+
+Why This Chapter?
+
+12 • Why This Chapter?
+
+Finding the structures of new molecules, whether small ones synthesized in the laboratory or large proteins and nucleic acids found in living organisms, is central to progress in chemistry and biochemistry. We can only scratch the surface of structure determination in this book, but after reading this and the following two chapters, you should have a good idea of the range of structural techniques available and of how and when each is used.
+
+Every time a reaction is run, the products must be identified, and every time a new compound is found in nature, its structure must be determined. Determining the structure of an organic compound was a difficult and time-consuming process until the mid-20th century, but powerful techniques and specialized instruments are now routinely used to simplify the problem. In this and the next two chapters, we’ll look at four such techniques—mass spectrometry (MS), infrared (IR) spectroscopy, ultraviolet spectroscopy (UV), and nuclear magnetic resonance spectroscopy (NMR)—and we’ll see the kind of information that can be obtained from each.
+
+  Technique                                 Information
+  ----------------------------------------- --------------------------------------------
+  Mass spectrometry                         What is the size and formula?
+  Infrared spectroscopy                     What functional groups are present?
+  Ultraviolet spectroscopy                  Is a conjugated π electron system present?
+  Nuclear magnetic resonance spectroscopy   What is the carbon–hydrogen framework?

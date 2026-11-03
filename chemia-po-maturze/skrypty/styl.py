@@ -48,7 +48,7 @@ def main(argv):
                 kontrola_myslnikow = False
             else:
                 kontrola_myslnikow = True
-            if "—" in linia or "–" in re.sub(r"\d–\d", "", linia):
+            if "—" in linia or re.search(r"\s–\s", linia):
                 print(f"{nazwa}:{nr}\tMYŚLNIK\t{linia.strip()[:120]}"); twarde += 1
             if kontrola_myslnikow and re.search(r"\S - \S", linia):
                 print(f"{nazwa}:{nr}\tMYŚLNIK\t{linia.strip()[:120]}"); twarde += 1

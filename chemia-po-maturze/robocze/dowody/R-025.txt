@@ -1,0 +1,17 @@
+adres: https://www.youtube.com/playlist?list=PLB800F47FF11C8986
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Chemia analityczna
+kanał: Uniwersytet Śląski
+liczba filmów: 8
+opis playlisty: Filmy zostały przygotowane na potrzeby projektu Uniwersytet Partnerem Gospodarki Opartej na Wiedzy, przez Uniwersytet Śląski w Katowicach.
+
+filmy:
+  1. Chemia. Alkalimetryczne oznaczanie mocnego kwasu wobec wskaźnika 5.1 [2:44]
+  2. Chemia. Spektrometria absorpcji atomowej (AAS) [9:10]
+  3. Chemia. Alkalimetryczne oznaczanie słabego kwasu wobec fenoloftaleiny [2:54]
+  4. Chemia. Manganometryczne oznaczanie żelaza (III) [3:46]
+  5. Chemia. Oznaczanie chlorków metodą Mohra [3:49]
+  6. Chemia. Alkalimetryczne oznaczanie mocnego kwasu wobec oranżu metylowego [1:14]
+  7. Chemia. Spektrometria fluorescencji rentgenowskiej z dyspersją energii [15:25]
+  8. Chemia. Spektrofotometria UV-VIS [4:05]

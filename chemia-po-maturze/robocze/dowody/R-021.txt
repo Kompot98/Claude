@@ -1,0 +1,78 @@
+adres: https://webbook.nist.gov/chemistry/name-ser/
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://webbook.nist.gov/chemistry/name-ser/
+tytuł: Chemical Name Search
+
+Jump to content
+National Institute of Standards and Technology
+NIST Chemistry WebBook, SRD 69
+-   Home []
+-   Search
+    -   Name
+    -   Formula
+    -   IUPAC identifier
+    -   CAS number
+    -   More options
+-   NIST Data
+    -   SRD Program
+    -   Science Data Portal
+    -   Material Data Division
+-   About
+    -   FAQ
+    -   Credits
+    -   More documentation
+Search for Species Data by Chemical Name
+Please follow the steps below to conduct your search (Help):
+1.  Enter a chemical species name or pattern: (e.g., methane, *2-hexene)
+2.  Select the desired units for thermodynamic data:
+    SI calorie-based
+3.  Select the desired type(s) of data:
+      Thermodynamic Data   Other Data
+      -------------------- ----------------------------------------
+      Gas phase            IR spectrum
+      Condensed phase      THz IR spectrum
+      Phase change         Mass spectrum
+      Reaction             UV/Vis spectrum
+
+--- przykład: https://webbook.nist.gov/cgi/cbook.cgi?Name=ethanol&Units=SI ---
+Jump to content
+National Institute of Standards and Technology
+NIST Chemistry WebBook, SRD 69
+-   Home []
+-   Search
+    -   Name
+    -   Formula
+    -   IUPAC identifier
+    -   CAS number
+    -   More options
+-   NIST Data
+    -   SRD Program
+    -   Science Data Portal
+    -   Material Data Division
+-   About
+    -   FAQ
+    -   Credits
+    -   More documentation
+Ethanol
+-   Formula: C₂H₆O
+-   Molecular weight: 46.0684
+-   IUPAC Standard InChI: InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3
+    Copy []
+    [InChI version 1.06]
+-   IUPAC Standard InChIKey: LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+    Copy []
+-   CAS Registry Number: 64-17-5
+-   Chemical structure: [C2H6O]
+    This structure is also available as a 2d Mol file or as a computed 3d SD file
+    View 3d structure (requires JavaScript / HTML 5)
+-   Isotopologues:
+    -   [2H6]ethanol
+    -   Ethanol-d1
+    -   C2H3D3O
+    -   Ethanol-d5
+    -   Ethanol-1,1-d2
+-   Other names: Ethyl alcohol; Alcohol; Alcohol anhydrous; Algrain; Anhydrol; Denatured ethanol; Ethyl hydrate; Ethyl hydroxide; Jaysol; Jaysol S; Methylcarbinol; SD Alchol 23-hydrogen; Tecsol; C2H5OH; Absolute ethanol; Cologne spirit; Fermentation alcohol; Grain alcohol; Molasses alcohol; Potato alcohol; Aethanol; Aethylalkohol; Alcohol, dehydrated; Alcool ethylique; Alcool etilico; Alkohol; Cologne spirits; Denatured alcohol CD-10; Denatured alcohol CD-5; Denatured alcohol CD-5a; Denatured alcohol SD-1; Denatured alcohol SD-13a; Denatured alcohol SD-17; Denatured alcohol SD-23a; Denatured alcohol SD-28; Denatured alcohol SD-3a; Denatured alcohol SD-30; Denatured alcohol SD-39b; Denatured alcohol SD-39c; Denatured alcohol SD-40m; Etanolo; Ethanol 200 proof; Ethyl alc; Etylowy alkohol; EtOH; NCI-C03134; Spirits of wine; Spirt; Alkoholu etylowego; Ethyl alcohol anhydrous; SD alcohol 23-hydrogen; UN 1170; Tecsol C; Alcare Hand Degermer; Absolute alcohol; Denatured alcohol; Ethanol, silent spirit; Ethylol; Punctilious ethyl alcohol; SD 3A
+-   Permanent link for this species. Use this link for bookmarking this species for future reference.
+-   Information on this page:
+    -   Notes

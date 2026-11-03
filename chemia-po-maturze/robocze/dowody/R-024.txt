@@ -1,0 +1,7 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=1000000276861
+data: 2026-11-03
+metoda: API Biblioteki Narodowej
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Metody+spektroskopowe+i+spektrometria+mas&limit=100&author=Rajca
+2018 | Metody spektroskopowe i spektrometria mas w zastosowaniu do identyfikacji związków organicznych : praca zbiorowa. T. 2, Tabele korelacyjne / | Rajca, Andrzej Zieliński, Wojciech (chemik) Wydawnictwo Politechniki Śląskiej | Wydawnictwo Politechniki Śląskiej Wydawnictwo Politechniki Śląskiej, |  | 9788378805113 | 5999391 | książka
+2018 | Metody spektroskopowe i spektrometria mas w zastosowaniu do identyfikacji związków organicznych : praca zbiorowa. T. 1 / | Rajca, Andrzej Zieliński, Wojciech (chemik) Wydawnictwo Politechniki Śląskiej | Wydawnictwo Politechniki Śląskiej Wydawnictwo Politechniki Śląskiej, |  | 9788378805106 | 1000000276861 | książka
