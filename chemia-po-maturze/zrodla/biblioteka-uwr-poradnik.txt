@@ -1,0 +1,59 @@
+adres: https://chem.uwr.edu.pl/wp-content/uploads/sites/164/2026/05/Wyszukiwanie-i-zamawianie-ksiazek.pdf
+uczelnia: Uniwersytet Wrocławski, Wydział Chemii
+dokument: Wyszukiwanie i zamawianie książek (poradnik dla studentów)
+data publikacji pliku: maj 2026 (ścieżka adresu)
+data odczytu: 2026-11-03
+metoda: pdftotext
+
+WYSZUKIWANIE I ZAMAWIANIE KSIĄŻEK
+     https://katalog.uwr.edu.pl/
+           TYLKO ONLINE
+ LIMIT WYPOŻYCZEŃ DLA STUDENTÓW
+       25 książek na 2 miesiące
+    We wszystkich bibliotekach UWr
+WYSZUKIWANIE W CELU ZAMÓWIENIA KSIĄŻKI – ZALOGUJ SIĘ
+SKORZYSTAJ Z WBUDOWANEJ WYSZUKIWARKI
+WYBIERZ LOKALIZACJĘ KSIĄŻKI
+ZAMÓWIENIE DO WYPOŻYCZENIA NA ZEWNĄTRZ
+ PO ZAMÓWIENIU ODBIERZ KSIĄŻKĘ
+W WYBRANEJ WCZEŚNIEJ LOKALIZACJI
+        WOLNY DOSTĘP
+• Jeżeli w katalogu komputerowym książka ma oznaczenie lokalizacja "wolny dostęp",
+  a status "dostępny" wówczas książki nie zamawiamy komputerowo.​
+• Trzeba się udać do Biblioteki Uniwersyteckiej do "Wolnego Dostępu poziom 2"
+  i samodzielnie znaleźć poszukiwaną książkę na regale. Do domu można wypożyczyć książki
+  z niebieską etykietą w samoobsługowych automatach.
+• Książki wypożyczone z wolnego dostępu zwracamy samodzielnie w wolnym dostępnie
+  lub w wypożyczalni miejscowej.
+       KSIĄŻKOMAT w BUWr
+• Książkomat BUWr służy do wygodnego dla użytkowników odbioru zamówionych do wypożyczenia
+  książek, zwłaszcza w dniach i godzinach, gdy Biblioteka jest nieczynna. Urządzenie działa w trybie 24/7
+  tj. 24 godz. na dobę przez 7 dni w tygodniu. Ułatwia odbiór książek zamówionych z magazynu
+  ogólnego BUWr. Jak korzystać z urządzenia. https://www.youtube.com/watch?v=50esEZ1hIaU
+• Uwaga: książkomat umożliwia odbiór wyłącznie książek należących do księgozbioru BUWr, nie
+  obsługuje zamówień z bibliotek specjalistycznych UWr i innych bibliotek we Wrocławiu. Książkomat
+  nie obsługuje też zwrotów, rezerwacji na wypożyczone książki oraz zamówień na książki z katalogów
+  zdigitalizowanych.
+• Znajduje się przy wejściu służbowym BU i można z niego korzystać po weryfikacji karty bibliotecznej
+      ZWROTY KSIĄŻEK uruchomienie wrzutni bibliotecznej BUWr
+• Wrzutnia mieści się wewnątrz budynku Biblioteki – wejście służbowe dla pracowników BUWr i
+  dostępna jest całodobowo, każdego dnia tygodnia. Prosimy o zapoznanie się z zasadami dostępu do
+  pomieszczenia wrzutni oraz z zasadami korzystania z niej.
+• Przygotowaliśmy także krótki film instruktażowy:
+  https://www.youtube.com/watch?v=HD9K5_2Q3V8,
+• który pokazuje jak dostać się do pomieszczenia z wrzutnią i jak oddać wypożyczone książki.
+• Książki z Bibliotek Specjalistycznych oddajemy na miejscu w bibliotece.
+NIEKTÓRE TYTUŁY SĄ DOSTĘPNE ONLINE
+KODY DO CZYTANIA W DOMU NA PLATFORMIE
+   IBUK LIBRA DOSTĘPNE W BIBLIOTECE
+       Dostęp do IBUK LIBRA
+• Dostęp do IBUK LIBRA możliwy jest z sieci uczelni, przez serwer PROXY albo za pośrednictwem kodu
+  PIN, który można otrzymać po wysłaniu e-miala na adres oin.bu@uwr.edu.pl, lub
+  biblioteka@chem.uni.wroc.pl,w którym należy podać imię i nazwisko oraz numer legitymacji
+  studenckiej, kierunek i rok studiów
+  Aby korzystać z serwisu koniecznością jest założenie jednorazowego osobistego konta myIbuk,
+  umożliwiającego danemu użytkownikowi korzystanie z zaawansowanych funkcji do pracy z tekstem.
+  Po założeniu konta Użytkownik jest już zawsze rozpoznawany przez system i może korzystać z tych
+  zasobów i funkcjonalności, do których ma uprawnienia. Aby poprawnie przeprowadzić rejestracje
+  kliknij POMOC i zobacz Jak korzystać z IBUK LIBRA (dwa krótkie filmy) - lewy dolny róg na
+  stronie https://libra.ibuk.pl/

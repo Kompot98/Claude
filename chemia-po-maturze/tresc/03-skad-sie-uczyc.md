@@ -1,6 +1,10 @@
 ## Skąd się uczyć
 
-[Wstęp do rozdziału powstanie po zebraniu zasobów dla wszystkich przedmiotów.]
+Są kanały na YouTube i strony, które naprawdę pomagają: Professor Dave Explains, Khan Academy, The Organic Chemistry Tutor, strony z mechanizmami organicznymi. Trzeba z nich wydobyć, co mają dobrego i kiedy po nie sięgnąć. Ten rozdział robi to za Ciebie.
+
+Każde źródło niżej zostało otwarte i sprawdzone w listopadzie 2026. Przy każdym jest opis, co w nim jest, kiedy po nie sięgnąć, w jakim języku i na jakim poziomie: „wprowadzenie” to most od matury, „poziom pierwszego roku” to materiał na zajęcia, „poziom dalszy” to rzeczy na później albo do sprawdzania. Przy filmach opis powstał z pełnej listy tytułów w playliście, nie z obejrzenia każdego filmu.
+
+Rozdział jest ułożony według przedmiotów, a w każdym przedmiocie najpierw są polskie materiały uczelni, potem podręczniki, filmy i strony. Na końcu jest skrót dla każdej grupy kierunków. Pamiętaj o zasadzie pierwszej z rozdziału 1: żadne z tych źródeł nie zastąpi wykładu i slajdów, bo tylko one mówią, co z chemii wybrał Twój prowadzący.
 
 ## Chemia organiczna
 

@@ -45,3 +45,9 @@ Dalej: rozdział 2 i odgałęzienia w rozdziale 3.
 Zrobione: rozdział 2 (5,1 strony z tabelą 19 wierszy dla 20 modułów; obie części modułu XI w jednym wierszu): mapa modułów kursu na przedmioty pierwszego roku z odwołaniami do sylabusów, cztery tematy zupełnie nowe z odesłaniem do rozdziału 4, trzy porównania „ta sama nazwa, inna treść” (PP technologia vs inżynieria; chemia ogólna i nieorganiczna na farmacji, analityce i biotechnologii; chemia na kierunku lekarskim WUM, UMB i UJ CM). Odgałęzienia dla sześciu grup kierunków na końcu rozdziału 3. Uzupełnione z sylabusów miejsca `[SPRAWDZIĆ]` w rozdziałach 3 i 4c; zostały dwa (wiersze organiczne w mapie, procedura krzywej wzorcowej). Wszystkie 24 źródła są cytowane. Rozdział 3 ma 14,1 strony.
 
 Dalej: rozdziały 1 i 0.
+
+## 2026-11-03, etap 6: rozdziały 1 i 0, wstęp do rozdziału 3
+
+Zrobione: rozdział 1 (4,1 strony) z punktami 1–7 Adriana dosłownie i dodatkami bezosobowymi (jak czytać sylabus na przykładzie karty UM w Łodzi, legalne drogi do książek na przykładzie poradnika UWr o IBUK Libra, czytanie podręcznika wybiórczo). Wstęp (1,5 strony) ze zdaniem o „ścianie” i mapą czytania. Wstęp do rozdziału 3 z punktem 8. Lista kontrolna punktów Adriana w `robocze/adrian-punkty.md`. Nowe źródło Z-025.
+
+Dalej: wprowadzenia 4a, 4b, 4d.
