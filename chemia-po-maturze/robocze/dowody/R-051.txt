@@ -1,0 +1,33 @@
+adres: https://www.youtube.com/playlist?list=PLybg94GvOJ9Fazvaf8unWl9J2soXCAvy4
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Biochemistry
+kanał: Professor Dave Explains
+liczba filmów: 24
+opis playlisty: Do you want to learn about nutrition? Metabolism? Medicine and general health? This is the playlist for you! Biochemistry allows us to understand the large biomolecules that run all of our cellular functions, like proteins, carbohydrates, and DNA. Equip yourself with knowledge so that you don't fall for any of those rampant medical hoaxes or diet fads! Some prior knowledge is assumed, so make sure you've gone through most of my general chemistry and organic chemistry playlists first! If you are not a student of the sciences and you would like to expedite the preparatory process, the first clip in the playlist has a list of the bare essential tutorials of mine you should watch before attempting this stuff. Enjoy!
+
+filmy:
+  1. Introduction to Biochemistry [4:44]
+  2. Amino Acids [5:04]
+  3. Protein Structure [10:50]
+  4. Enzymes: Nature's Factory Workers [7:17]
+  5. Carbohydrates Part 1: Simple Sugars and Fischer Projections [8:59]
+  6. Carbohydrates Part 2: Polysaccharides [4:17]
+  7. Lipids Part 1: TAGs, Fatty Acids, and Terpenes [6:15]
+  8. Lipids Part 2: Steroids [4:45]
+  9. Structure Of The Cell Membrane: Active and Passive Transport [6:53]
+ 10. Receptors: Signal Transduction and Phosphorylation Cascade [6:26]
+ 11. Nucleic Acids: DNA and RNA [7:05]
+ 12. DNA Replication: Copying the Molecule of Life [6:16]
+ 13. Transcription and Translation: From DNA to Protein [6:27]
+ 14. Mechanisms of DNA Damage and Repair [11:30]
+ 15. Metabolism and ATP [4:22]
+ 16. Cellular Respiration Part 1: Glycolysis [8:12]
+ 17. Cellular Respiration Part 2: The Citric Acid Cycle [4:53]
+ 18. Cellular Respiration Part 3: The Electron Transport Chain and Oxidative Phosphorylation [4:58]
+ 19. Photosynthesis: Light Reactions and the Calvin Cycle [6:43]
+ 20. Cell Communication: Hormones and Neurotransmitters [8:57]
+ 21. What is Cancer? [5:32]
+ 22. Illicit Drugs: How Do They Work? [6:10]
+ 23. Pharmaceutical Drugs: Inhibitors and the Nature of Disease [13:01]
+ 24. Visualizing DNA in Virtual Reality [5:11]

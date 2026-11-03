@@ -1,0 +1,12 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=1613605
+data: 2026-11-03
+metoda: API Biblioteki Narodowej, wyszukiwanie tytuł „Chemia analityczna” + autor Minczewski
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Chemia+analityczna&limit=100&author=Minczewski
+2004 | Chemia analityczna. 2, Chemiczne metody analizy ilościowej / Chemiczne metody analizy ilościowej Chemiczne metody analizy ilościowej | Minczewski, Jerzy (1916-1995) Marczenko, Zygmunt (1922-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 10. | 8301141573 | 1613598 | książka
+2004 | Chemia analityczna. 1, Podstawy teoretyczne i analiza jakościowa / Podstawy teoretyczne i analiza jakościowa | Minczewski, Jerzy (1916-1995) Marczenko, Zygmunt (1922-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 9. | 8301141565 | 1613605 | książka
+2001 | Chemia analityczna. 2, Chemiczne metody analizy ilościowej / | Minczewski, Jerzy (1916-1995) Marczenko, Zygmunt (1922-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 9 zm. | 8301134984 (t. 2) | 1470049 | książka
+2001 | Chemia analityczna. T. 1, Podstawy teoretyczne i analiza jakościowa / | Minczewski, Jerzy (1916-1995) Marczenko, Zygmunt (1922-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 8 zm. | 8301134984 (t.1-2) | 1470063 | książka
+1998 | Chemia analityczna. [T.] 1, Podstawy teoretyczne i analiza jakościowa / | Minczewski, Jerzy (1916-1995) Marczenko, Zygmunt (1922-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 7. | 8301123117 | 1095839 | książka
+1998 | Chemia analityczna. [T.] 2, Chemiczne metody analizy ilościowej / | Minczewski, Jerzy (1916-1995) Marczenko, Zygmunt (1922-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 8 [i. e. 7]. | 8301123125 | 1095855 | książka
+1997 | Chemia analityczna. [T.] 2, Chemiczne metody analizy ilościowej / Chemiczne metody analizy ilościowej | Minczewski, Jerzy (1916-1995) Marczenko, Zygmunt (1922-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 7. popr. | 8301123125 | 5064308 | książka

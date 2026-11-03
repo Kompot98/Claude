@@ -1,0 +1,154 @@
+adres: https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/
+tytuł: Thermodynamics &amp; Kinetics | Chemistry | MIT OpenCourseWare
+
+Browse Course Material []
+-    Syllabus
+    ------------------------------------------------------------------------
+-    Lecture Notes
+    ------------------------------------------------------------------------
+-    Readings
+    ------------------------------------------------------------------------
+-    Exams
+    ------------------------------------------------------------------------
+-    Video Lectures
+    ------------------------------------------------------------------------
+[]
+Course Info
+Instructors
+-   Prof. Keith A. Nelson
+-   Prof. Moungi Bawendi
+Departments
+-   Chemistry
+As Taught In
+Spring 2008
+Level
+Undergraduate
+Course Info
+Instructors
+-   Prof. Keith A. Nelson
+-   Prof. Moungi Bawendi
+Departments
+-   Chemistry
+As Taught In
+Spring 2008
+Level
+Undergraduate
+Topics
+-   
+    Science
+    -   
+        Chemistry
+        -    Physical Chemistry
+    -   
+        Physics
+        -    Classical Mechanics
+        -    Thermodynamics
+Topics
+-   
+    Science & Math
+    -    Chemistry
+    -    Physics
+Learning Resource Types
+grading Exams
+notes Lecture Notes
+theaters Lecture Videos
+------------------------------------------------------------------------
+Download Course
+menu
+[MIT OpenCourseWare]
+-   search search
+-   Give Now
+-   About OCW
+-   Help & Faqs
+-   Contact Us
+[MIT OpenCourseWare]
+search search GIVE NOW [] about ocw help & faqs contact us
+5.60 | Spring 2008 | Undergraduate
+Thermodynamics & Kinetics
+[] Menu
+-    Syllabus
+    ------------------------------------------------------------------------
+-    Lecture Notes
+    ------------------------------------------------------------------------
+-    Readings
+    ------------------------------------------------------------------------
+-    Exams
+    ------------------------------------------------------------------------
+-    Video Lectures
+    ------------------------------------------------------------------------
+Course Description
+This subject deals primarily with equilibrium properties of macroscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and rates of chemical reactions.
+Acknowledgements
+The material for 5.60 has evolved over a period of many years, and therefore several faculty members have …
+Show more
+This subject deals primarily with equilibrium properties of macroscopic systems, basic thermodynamics, chemical equilibrium of reactions in gas and solution phase, and rates of chemical reactions.
+Acknowledgements
+The material for 5.60 has evolved over a period of many years, and therefore several faculty members have contributed to the development of the course contents. The following are known to have assisted in preparing the lecture notes available on OpenCourseWare: Emeritus Professors of Chemistry: Robert A. Alberty, Carl W. Garland, Irwin Oppenheim, John S. Waugh. Professors of Chemistry: Moungi Bawendi, John M. Deutch, Robert W. Field, Robert G. Griffin, Keith A. Nelson, Robert J. Silbey, Jeffrey I. Steinfeld. Professor of Bioengineering and Computer Science: Bruce Tidor. Professor of Chemistry, Rice University: James L. Kinsey. Professor of Physics, University of Illinois: Philip W. Phillips.
+Show less
+Course Info
+Instructors
+-   Prof. Keith A. Nelson
+-   Prof. Moungi Bawendi
+Departments
+-   Chemistry
+Topics
+-   
+    Science
+    -   
+        Chemistry
+        -    Physical Chemistry
+    -   
+        Physics
+        -    Classical Mechanics
+        -    Thermodynamics
+Course Info
+Instructors
+-   Prof. Keith A. Nelson
+-   Prof. Moungi Bawendi
+Departments
+-   Chemistry
+Topics
+-   
+    Science & Math
+    -    Chemistry
+    -    Physics
+Learning Resource Types
+grading Exams
+notes Lecture Notes
+theaters Lecture Videos
+[Relationship between a reversible engine and Carnot cycle.]
+Interaction between a reversible engine (A) and a reversible ideal gas Carnot cycle (B). (Illustration courtesy of MIT OpenCourseWare.)
+------------------------------------------------------------------------
+Download Course
+[MIT Open Learning]
+Over 2,500 courses & materials
+Freely sharing knowledge with learners and educators around the world. Learn more
+[facebook]
+[instagram]
+[x (formerly twitter)]
+[youtube]
+[linkedin]
+[bluesky]
+[mastodon]
+© 2001–2026 Massachusetts Institute of Technology
+Accessibility
+Creative Commons License
+Terms and Conditions
+Proud member of: [Open Education Global]
+[facebook]
+[instagram]
+[x (formerly twitter)]
+[youtube]
+[linkedin]
+[bluesky]
+[mastodon]
+© 2001–2026 Massachusetts Institute of Technology
+[]
+You are leaving MIT OpenCourseWare
+close
+Please be advised that external sites may have terms and conditions, including license rights, that differ from ours. MIT OCW is not responsible for any content on third party sites, nor does a link suggest an endorsement of those sites and/or their content.
+Stay Here
+Continue

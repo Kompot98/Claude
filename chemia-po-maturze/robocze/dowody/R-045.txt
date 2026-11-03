@@ -1,0 +1,11 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=1000003023882
+data: 2026-11-03
+metoda: API Biblioteki Narodowej, wyszukiwanie tytuł „Chemia analityczna” + autor Kocjan
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Chemia+analityczna&limit=100&author=Kocjan
+2023 | Chemia analityczna : podręcznik dla studentów. T. 1, Analiza jakościowa, analiza ilościowa klasyczna / Analiza jakościowa, analiza ilościowa klasyczna | Kocjan, Ryszard (1950- ) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN PZWL, | Wydanie III uaktualnione i rozszerzone. | 9788301232108 | 1000003023882 | książka
+2023 | Chemia analityczna : podręcznik dla studentów. T. 2, Analiza instrumentalna / Analiza instrumentalna | Kocjan, Ryszard (1950- ) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN PZWL, | Wydanie III uaktualnione i rozszerzone. | 9788301230630 | 1000003023950 | książka
+2002 | Chemia analityczna : podręcznik dla studentów. 1, Analiza jakościowa, analiza ilościowa klasyczna / Analiza jakościowa, analiza ilościowa klasyczna | Flieger, Anna (farmacja). Kocjan, Ryszard (1950- ) Flieger, Anna Wydawnictwo Lekarskie PZWL | Wydawnictwo Lekarskie PZWL Wydaw. Lekarskie PZWL, | Wyd. 2 popr. | 8320026644 | 1549993 | książka
+2002 | Chemia analityczna : podręcznik dla studentów. 2, Analiza instrumentalna / | Kocjan, Ryszard (1950- ) Błażewicz, Anna | Wydaw. Lekarskie PZWL, | Wyd. 2 popr. | 8320026644 | 1549996 | książka
+2000 | Chemia analityczna : podręcznik dla studentów. [T.] 1, Analiza jakościowa, analiza ilościowa klasyczna / | Flieger, Anna Kocjan, Ryszard (1950- ) | Wydaw. Lekarskie PZWL, |  | 8320024331 | 1409750 | książka
+2000 | Chemia analityczna : podręcznik dla studentów. [T.] 2, Analiza instrumentalna / Analiza instrumentalna | Błażewicz, Anna Kocjan, Ryszard (1950- ) Wydawnictwo Lekarskie PZWL | Wydawnictwo Lekarskie PZWL Wydaw. Lekarskie PZWL, |  | 8320024331 | 1410711 | książka

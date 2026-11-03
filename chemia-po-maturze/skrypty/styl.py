@@ -53,6 +53,8 @@ def main(argv):
             if kontrola_myslnikow and re.search(r"\S - \S", linia):
                 print(f"{nazwa}:{nr}\tMYŚLNIK\t{linia.strip()[:120]}"); twarde += 1
             for w in CZARNA_LISTA:
+                if w == r"kompleksow" and not re.search(r"(?<!związki )(?<!związków )(?<!jony )(?<!jonów )kompleksow(?!\w* (jon|związ))", linia, re.I):
+                    continue
                 if re.search(w, linia, re.I):
                     print(f"{nazwa}:{nr}\tSŁOWO({w})\t{linia.strip()[:120]}"); twarde += 1
             if re.search(r'"[^"]+"', linia):

@@ -1,0 +1,33 @@
+adres: https://www.chemguide.co.uk/inorgmenu.html
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://www.chemguide.co.uk/inorgmenu.html
+tytuł: Understanding Chemistry - Inorganic Chemistry Menu
+
+Understanding Chemistry
+ 
+INORGANIC CHEMISTRY MENU
+ 
+Basic ideas about oxidation and reduction . . .
+Covers oxidation states (oxidation numbers), definitions of oxidation and reduction, and how you work out equations for redox reactions.
+Some essential electrolysis . . .
+Covers the electrolysis of melts and solutions, and basic electrolysis calculations.
+Some chemistry of the Period 3 elements . . .
+Covers the elements sodium to argon in Period 3 of the Periodic Table. Includes trends in atomic and physical properties of the elements, some selected reactions of the elements, and some properties of their oxides, chlorides and hydroxides as required by UK A level syllabuses.
+Some chemistry of the Group 1 elements . . .
+Covers the elements lithium (Li), sodium (Na), potassium (K), rubidium (Rb) and caesium (Cs). Includes trends in atomic and physical properties, trends in reactivity, properties of some compounds, and the use of flame tests.
+Some chemistry of the Group 2 elements . . .
+Covers the elements beryllium (Be), magnesium (Mg), calcium (Ca), strontium (Sr) and barium (Ba). Includes trends in atomic and physical properties, trends in reactivity, the solubility patterns in the hydroxides and sulphates, trends in the thermal decomposition of the nitrates and carbonates, and some of the atypical properties of beryllium.
+Some chemistry of the Group 4 (14) elements . . .
+Covers the limited amount of Group 4 (IUPAC: Group 14) chemistry (carbon, silicon, germanium, tin and lead) required by UK A level syllabuses. In particular, it covers the trend from non-metal to metal as you go down the group, and the increasing tendency towards an oxidation state of +2. Also a certain amount of chemistry of the chlorides and oxides.
+Some chemistry of the Group 7 (17) elements . . .
+Covers the halogens in Group 7 (IUPAC: Group 17) - fluorine (F), chlorine (Cl), bromine (Br) and iodine (I). Includes trends in atomic and physical properties, the redox properties of the halogens and their ions, the acidity of the hydrogen halides, and the tests for the halide ions.
+Some essential complex ion chemistry . . .
+An introduction to the complex ions formed by transition and other metals. Includes bonding, shapes and names, and a simple look at the origin of colour. Looks in detail at various ligand exchange reactions and the chemistry of common hexaaqua ions.
+Some essential transition metal chemistry . . .
+A summary of the general features of transition metals together with most of the reactions required for UK A' level syllabuses.
+Extraction of metals . . .
+Covers the extraction and uses of aluminium, copper, iron, titanium and tungsten.
+Go to Main Menu . . .
+------------------------------------------------------------------------
+© Jim Clark 2005 (last modified July 2017)

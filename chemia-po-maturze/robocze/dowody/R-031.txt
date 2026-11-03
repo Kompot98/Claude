@@ -1,0 +1,50 @@
+adres: https://www.youtube.com/playlist?list=PLybg94GvOJ9H-HhKkr-peYKxTeE3XUeQf
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: General Chemistry Practice Problems
+kanał: Professor Dave Explains
+liczba filmów: 41
+opis playlisty: Have you already learned all the general chemistry concepts you need, but you still need lots of practice drilling practice problems? This is the playlist for you! These problems cover most of the major concepts, and some of them are the trickier examples we didn't cover in the general chemistry series. Get ready to ace that exam!
+
+filmy:
+  1. Practice Problem: Significant Figures [8:30]
+  2. Practice Problem: Dimensional Analysis [7:53]
+  3. Practice Problem: Isotopic Abundance and Atomic Mass [3:44]
+  4. Practice Problem: Balancing Equations [15:37]
+  5. Practice Problem: Conversions Using Avogadro's Number [9:13]
+  6. Practice Problem: Limiting Reagent and Percent Yield [9:08]
+  7. Practice Problem: Empirical and Molecular Formulas [5:53]
+  8. Practice Problem: The Bohr Model and Photon Wavelength [6:08]
+  9. Practice Problem: Electron Configuration and Quantum Numbers [6:02]
+ 10. Practice Problem: Atomic Radii and Ionic Radii [7:27]
+ 11. Practice Problem: Ionization Energy [7:08]
+ 12. Practice Problem: Lattice Energy and Ionic Bond Strength [5:37]
+ 13. Practice Problem: Naming Ionic Compounds [7:45]
+ 14. Practice Problem: VSEPR Theory and Molecular Geometry [9:57]
+ 15. Practice Problem: Calorimetry and Specific Heat [6:37]
+ 16. Practice Problem: Hess's Law [6:59]
+ 17. Practice Problem: Enthalpy of Combustion [3:20]
+ 18. Practice Problem: Enthalpy of Vaporization [3:15]
+ 19. Practice Problem: Dilution Calculations [7:18]
+ 20. Practice Problem: Molarity Calculations [5:09]
+ 21. Practice Problem: Colligative Properties [6:33]
+ 22. Practice Problem: Gravimetric Analysis [4:18]
+ 23. Practice Problem: Molar Mass of a Gas [3:31]
+ 24. Practice Problem: Density of a Gas [4:10]
+ 25. Practice Problem: Graham's Law of Effusion [3:00]
+ 26. Practice Problem: Calculating Ionic Radius [3:39]
+ 27. Practice Problem: Initial Rates and Rate Laws [9:23]
+ 28. Practice Problem: Calculating Equilibrium Concentrations [3:02]
+ 29. Practice Problem: ICE Box Calculations [6:18]
+ 30. Practice Problem: Titration Calculations [3:57]
+ 31. Practice Problem: Henderson-Hasselbalch Equation Calculations [2:49]
+ 32. Practice Problem: Calculations Involving pH and Ka [6:03]
+ 33. Practice Problem: Solubility Product Constant Calculations [3:03]
+ 34. Practice Problem: Calculating Free Energy Change [5:12]
+ 35. Practice Problem: Free Energy and Nonstandard Conditions [4:23]
+ 36. Practice Problem: Balancing Redox Reactions [5:10]
+ 37. Practice Problem: Galvanic Cells and Reduction Potential [4:09]
+ 38. Practice Problem: Cell Potential, Equilibrium Constants, and Free Energy Change [5:53]
+ 39. Practice Problem: Nuclear Reactions [3:56]
+ 40. Practice Problem: Radioactive Half-Life [4:00]
+ 41. Can You Pass My Organic Chemistry Assessment Exam? [37:47]

@@ -1,0 +1,12 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=2564727
+data: 2026-11-03
+metoda: API Biblioteki Narodowej, wyszukiwanie tytuł „Podstawy chemii nieorganicznej” + autor Bielański
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Podstawy+chemii+nieorganicznej&limit=100&author=Biela%C5%84ski
+2010 | Podstawy chemii nieorganicznej. 1 / | Bielański, Adam (1912-2016) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wydanie 6. zaktualizowane i uzupełnione. | 9788301162818 | 2547569 | książka
+2010 | Podstawy chemii nieorganicznej. 2 / | Bielański, Adam (1912-2016) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wydanie szóste zaktualizowane i uzupełnione. | 9788301162825 | 2549380 | książka
+2010 | Podstawy chemii nieorganicznej / | Bielański, Adam (1912-2016) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 6. zaktualizowane i uzup. | 9788301162801 | 2564727 | książka
+2002 | Podstawy chemii nieorganicznej. 1 / | Bielański, Adam (1912-2016) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 5 zm. i popr. | 8301138157 | 1540407 | książka
+2002 | Podstawy chemii nieorganicznej. 2 / | Bielański, Adam (1912-2016) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 5 zm. i popr. | 8301138165 | 1540410 | książka
+2002 | Podstawy chemii nieorganicznej / | Bielański, Adam (1912-2016) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 5 zm. i popr. | 8301136545 | 1540415 | książka
+1999 | Podstawy chemii nieorganicznej. Cz. 3 / Biblioteka Chemii t. 11 | Bielański, Adam (1912-2016) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 4. | 8301123575 | 1311773 | książka

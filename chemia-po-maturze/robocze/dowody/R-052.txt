@@ -1,0 +1,47 @@
+adres: https://www.youtube.com/playlist?list=PLlnFrNM93wqxgPHQg2WwHfrVwyhxM062a
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Kevin Ahern's BB 450 Biochemistry Fall 2014
+kanał: Kevin Ahern's YouTube Videos - Lectures and More
+liczba filmów: 30
+opis playlisty: Metabolic Melodies - https://teeheetime.com/category/lyrics-science/
+
+Download Kevin's free books at kevingahern.com/biochemistry-resources
+Buy Kevin's book on getting into medical school at amazon.com/Kevin-Indiras-Getting-Medical-School/dp/B08GG2RN3P
+
+Kevin's Professional Page - www.kevingahern.com
+Kevin's Fun Page - www.teeheetime.com
+
+Contact Kevin at tubs_quota0s@icloud.com
+
+filmy:
+  1. Ahern's Biochemistry #1 - Aqueous Solutions / pH [45:01]
+  2. Ahern's Biochemistry #2 - Buffers [45:06]
+  3. Ahern's Biochemistry #3 - Amino Acids [50:33]
+  4. Ahern's Biochemistry #4 - Protein Structure I [35:58]
+  5. Ahern's Biochemistry #5 - Protein Structure 3 [47:55]
+  6. Ahern's Biochemistry #6 - Protein Purification [47:30]
+  7. Ahern's Biochemistry #7 - Protein Purification 2 [48:40]
+  8. Ahern's Biochemistry #8 - Hemoglobin [49:12]
+  9. Ahern's Biochemistry #9 - Hemoglobin II & Enzymes I [49:33]
+ 10. Ahern's Biochemistry #10 - Enzymes 2 [48:56]
+ 11. Ahern's Review Session for BB 450/550 Exam 1 [82:43]
+ 12. Ahern's Biochemistry #11 - Enzymes 3 [49:54]
+ 13. Ahern's Biochemistry #12 - Enzyme Mechanisms [44:23]
+ 14. Ahern's Biochemistry #13 - Catalysis Mechanisms [48:12]
+ 15. Ahern's Biochemistry #14 - Enzyme Regulation and Control [47:18]
+ 16. Ahern's Biochemistry #15 - Enzyme Control II [50:43]
+ 17. Ahern's Biochemistry #16 - Enzyme Controls III / Carbohydrates [49:39]
+ 18. Ahern's Biochemistry #17 Carbohydrates II [44:58]
+ 19. Ahern's Biochemistry #18 Carbohydrates & Signaling [48:31]
+ 20. Ahern's Biochemistry #19 Signaling [48:52]
+ 21. Ahern's Biochemistry #20 Signaling and Metabolic Energy [49:10]
+ 22. Ahern's Biochemistry #21 Glycolysis I [51:05]
+ 23. Ahern's Biochemistry Review Session Exam 2 [74:24]
+ 24. Ahern's Biochemistry #22 - Glycolysis II [44:55]
+ 25. Ahern's Biochemistry #23 Glycolysis & Gluconeogenesis [49:45]
+ 26. Ahern's Biochemistry #24 - Sugar Metabolism Regulation [48:29]
+ 27. Ahern's Biochemistry #25 - Glycogen Metabolism I [44:53]
+ 28. Ahern's Biochemistry #26 - Glycogen Metabolism II [43:51]
+ 29. Ahern's Biochemistry #27 - Glycogen Metabolism III / Metabolic Melodies [44:27]
+ 30. Ahern's Biochemistry Review Session - Final Exam [67:46]

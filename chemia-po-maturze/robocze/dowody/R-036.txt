@@ -1,0 +1,27 @@
+adres: https://openstax.org/books/chemistry-2e/pages/1-introduction
+data: 2026-11-03
+metoda: API CMS OpenStax (metadane) + archiwum (spis treści)
+Chemistry 2e, OpenStax, publikacja 2019-02-14 (rewizja 2026-07-08), ISBN druk 978-1-947172-62-3, licencja CC BY-NC-SA 4.0
+
+# Chemistry 2e (OpenStax) revised 2026-07-08T18:00:54+00:00 license Creative Commons Attribution-NonCommercial-ShareAlike License http://creativecommons.org/licenses/by-nc-sa/4.0/
+Chapter 1 Essential Ideas  [1-essential-ideas]
+Chapter 2 Atoms, Molecules, and Ions  [2-atoms-molecules-and-ions]
+Chapter 3 Composition of Substances and Solutions  [3-composition-of-substances-and-solutions]
+Chapter 4 Stoichiometry of Chemical Reactions  [4-stoichiometry-of-chemical-reactions]
+Chapter 5 Thermochemistry  [5-thermochemistry]
+Chapter 6 Electronic Structure and Periodic Properties of Elements  [6-electronic-structure-and-periodic-properties-of-elements]
+Chapter 7 Chemical Bonding and Molecular Geometry  [7-chemical-bonding-and-molecular-geometry]
+Chapter 8 Advanced Theories of Covalent Bonding  [8-advanced-theories-of-covalent-bonding]
+Chapter 9 Gases  [9-gases]
+Chapter 10 Liquids and Solids  [10-liquids-and-solids]
+Chapter 11 Solutions and Colloids  [11-solutions-and-colloids]
+Chapter 12 Kinetics  [12-kinetics]
+Chapter 13 Fundamental Equilibrium Concepts  [13-fundamental-equilibrium-concepts]
+Chapter 14 Acid-Base Equilibria  [14-acid-base-equilibria]
+Chapter 15 Equilibria of Other Reaction Classes  [15-equilibria-of-other-reaction-classes]
+Chapter 16 Thermodynamics  [16-thermodynamics]
+Chapter 17 Electrochemistry  [17-electrochemistry]
+Chapter 18 Representative Metals, Metalloids, and Nonmetals  [18-representative-metals-metalloids-and-nonmetals]
+Chapter 19 Transition Metals and Coordination Chemistry  [19-transition-metals-and-coordination-chemistry]
+Chapter 20 Organic Chemistry  [20-organic-chemistry]
+Chapter 21 Nuclear Chemistry  [21-nuclear-chemistry]

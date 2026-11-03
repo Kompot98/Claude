@@ -1,0 +1,11 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=1000000780347
+data: 2026-11-03
+metoda: API Biblioteki Narodowej, wyszukiwanie tytuł „Biochemia” + autor Bańkowski
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Biochemia&limit=100&author=Ba%C5%84kowski
+2021 | Biochemia : podręcznik dla studentów studiów licencjackich i magisterskich / | Bańkowski, Edward (1942- ) MedPharm Polska (Wrocław) | MedPharm Polska (Wrocław) MedPharm Polska, | Wydanie II, dodruk. | 9788378460039 | 1000002715061 | książka
+2020 | Biochemia : podręcznik dla studentów uczelni medycznych / | Bańkowski, Edward (1942- ) Edra Urban & Partner | Edra Urban & Partner Edra Urban & Partner, | Wydanie czwarte. | 9788366548053 | 1000000780347 | książka
+2018 | Biochemia / Biochemistry, Lippincott Illustrated Reviews | Ferrier, Denise R. Chlubek, Dariusz (1963- ) Wróbel, Maria (biolog) Stepulak, Andrzej Smoleński, Ryszard Tomasz Barańczyk-Kuźma, Anna Francuz, Tomasz (medycyna) Gamian, Andrzej (1951- ) Laidler, Piotr M. (1949- ) Kasperczyk, Aleksandra Cybulski, Marek (medycyna) Bańkowski, Edward (1942- ) Edra Urban & Partner | Edra Urban & Partner Edra Urban & Partner, | Wydanie polskie. | 9788366067028 | 1000000311521 | książka
+2016 | Biochemia : podręcznik dla studentów uczelni medycznych / Podręcznik dla studentów uczelni medycznych | Bańkowski, Edward (1942- ) Edra Urban & Partner | Edra Urban & Partner Edra Urban & Partner, | Wyd. 3. | 9788365373090 | 5190838 | książka
+2016 | Biochemia : podręcznik dla studentów studiów licencjackich i magisterskich / | Bańkowski, Edward (1942- ) MedPharm Polska (Wrocław) | MedPharm Polska (Wrocław) Wydawnictwo MedPharm Polska, |  | 8360466084 | 5513723 | książka
+2004 | Biochemia : podręcznik dla studentów uczelni medycznych / Podręcznik dla studentów uczelni medycznych | Bańkowski, Edward (1942- ) Elsevier Urban & Partner | Elsevier Urban & Partner Wydawnictwo Medyczne Urban & Partner, |  | 8389581108 | 1270059053 | książka

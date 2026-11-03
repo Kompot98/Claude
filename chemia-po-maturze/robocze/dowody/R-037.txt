@@ -1,0 +1,6 @@
+adres: https://pubchem.ncbi.nlm.nih.gov/
+data: 2026-11-03
+metoda: strona w przeglądarce zablokowana testem antybotowym; treść sprawdzona przez publiczne API PUG REST/PUG View
+
+Przykład: etanol, CID 702: wzór C2H6O, masa 46.07, nazwa IUPAC ethanol.
+Sekcje rekordu (PUG View index): Structures; Primary Hazards; Names and Identifiers; Chemical and Physical Properties; Spectral Information; Related Records; Chemical Vendors; Drug and Medication Information; Food Additives and Ingredients; Agrochemical Information; Pharmacology and Biochemistry; Use and Manufacturing; Identification; Safety and Hazards; Toxicity; Associated Disorders and Diseases; Literature; Patents; Interactions and Pathways; Biological Test Results; Taxonomy; Classification

@@ -1,0 +1,44 @@
+adres: https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Calculus
+kanał: Professor Dave Explains
+liczba filmów: 35
+opis playlisty: Everyone thinks calculus is super hard! And it is, kind of. But with this series, you'll get a superb foundation of conceptual understanding regarding differentiation and integration, as well as lots of practice with all the types of problems you will see on your tests. Let's do this!
+
+filmy:
+  1. Introduction to Calculus: The Greeks, Newton, and Leibniz [8:40]
+  2. Understanding Differentiation Part 1: The Slope of a Tangent Line [5:29]
+  3. Understanding Differentiation Part 2: Rates of Change [5:31]
+  4. Limits and Limit Laws in Calculus [12:49]
+  5. What is a Derivative? Deriving the Power Rule [10:05]
+  6. Derivatives of Polynomial Functions: Power Rule, Product Rule, and Quotient Rule [11:53]
+  7. Derivatives of Trigonometric Functions [7:57]
+  8. Derivatives of Composite Functions: The Chain Rule [12:29]
+  9. Derivatives of Logarithmic and Exponential Functions [8:41]
+ 10. Implicit Differentiation [11:45]
+ 11. Higher Derivatives and Their Applications [7:29]
+ 12. Related Rates in Calculus [8:53]
+ 13. Finding Local Maxima and Minima by Differentiation [6:17]
+ 14. Graphing Functions and Their Derivatives [13:06]
+ 15. Optimization Problems in Calculus [10:55]
+ 16. Understanding Limits and L'Hospital's Rule [9:12]
+ 17. What is Integration? Finding the Area Under a Curve [8:18]
+ 18. The Fundamental Theorem of Calculus: Redefining Integration [9:38]
+ 19. Properties of Integrals and Evaluating Definite Integrals [9:48]
+ 20. Evaluating Indefinite Integrals [10:44]
+ 21. Evaluating Integrals With Trigonometric Functions [7:32]
+ 22. Integration Using The Substitution Rule [10:40]
+ 23. Integration By Parts [13:17]
+ 24. Integration By Trigonometric Substitution [15:55]
+ 25. Advanced Strategy for Integration in Calculus [16:13]
+ 26. Evaluating Improper Integrals [12:24]
+ 27. Finding the Area Between Two Curves by Integration [7:52]
+ 28. Calculating the Volume of a Solid of Revolution by Integration [11:20]
+ 29. Calculating Volume by Cylindrical Shells [7:40]
+ 30. The Mean Value Theorem For Integrals: Average Value of a Function [7:24]
+ 31. Convergence and Divergence: The Return of Sequences and Series [9:40]
+ 32. Estimating Sums Using the Integral Test and Comparison Test [9:56]
+ 33. Alternating Series, Types of Convergence, and the Ratio Test [12:08]
+ 34. Power Series [6:48]
+ 35. Taylor and Maclaurin Series [9:34]

@@ -1,0 +1,169 @@
+źródło: https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)
+data: 2026-11-03
+tytuł: Analytical Chemistry 2.1 (Harvey) - Chemistry LibreTexts
+licencja (stopka): ['CC BY-NC-SA  4.0']  tagi: ['license:ccbyncsa', 'licenseversion:40']
+podstrony: ['00:_Front_Matter', '01:_Introduction_to_Analytical_Chemistry', '02:_Basic_Tools_of_Analytical_Chemistry', '03:__The_Vocabulary_of_Analytical_Chemistry', '04:_Evaluating_Analytical_Data', '05:_Standardizing_Analytical_Methods', '06:_Equilibrium_Chemistry', '07:_Obtaining_and_Preparing_Samples_for_Analysis', '08:_Gravimetric_Methods', '09:_Titrimetric_Methods', '10:_Spectroscopic_Methods', '11:_Electrochemical_Methods', '12:_Chromatographic_and_Electrophoretic_Methods', '13:_Kinetic_Methods', '14:_Developing_a_Standard_Method', '15:_Quality_Assurance', '16:_Appendix', 'zz:_Back_Matter']
+
+mt-content-container .mt-sortable-listings-container li { font-size: 1rem !important; } .mt-content-container .mt-topic-hierarchy-listings ol, p, ul { font-size: 1.1rem; //line-height: 1.2; } #librelens-attribution-list{ display:none !important; } #librelens-buttons{ display:none !important; } #mt-toc-container { display: none !important; } .elm-skin-container{ /*background-image: url("https://chem.libretexts.org/@api/deki/files/126330/bg_laptop.jpg"); background-repeat: no-repeat; background-attachment: fixed;*/ background-color: hsl(218, 76%, 99%); } .mt-sortable-listing{ background-color: #ffffff; }/*]]>*/
+Skip to main content
+Table of Contents menu
+[Library homepage]
+search Search
+build_circle Toolbar
+fact_check Homework
+cancel Exit Reader Mode
+-   school Campus Bookshelves
+-   menu_book Bookshelves
+-   perm_media Learning Objects
+-   login Login
+-   how_to_reg Request Instructor Account
+-   hub Instructor Commons
+Search
+Search this book
+Submit Search
+x
+Text Color
+Reset
+ Bright
+ Blues
+ Gray
+ Inverted
+Text Size
+Reset
++
+-
+Margin Size
+Reset
++
+-
+Font Type
+Enable Dyslexic Font  
+-   Downloads expand_more
+    -   Download Page (PDF)
+    -   Download Full Book (PDF)
+-   Resources expand_more
+    -   Periodic Table
+    -   Physics Constants
+    -   Scientific Calculator
+-   Reference expand_more
+    -   Reference & Cite
+-   Tools expand_more
+-   Help expand_more
+    -   Get Help
+    -   Feedback
+    -   Readability
+x
+selected template will load here
+Error
+This action is not available.
+[Library homepage]
+chrome_reader_mode Enter Reader Mode
+Analytical Chemistry 2.1 by David Harvey
+Analytical Chemistry
+{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "01:_Introduction_to_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "02:_Basic_Tools_of_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "03:__The_Vocabulary_of_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "04:_Evaluating_Analytical_Data" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "05:_Standardizing_Analytical_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "06:_Equilibrium_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "07:_Obtaining_and_Preparing_Samples_for_Analysis" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "08:_Gravimetric_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "09:_Titrimetric_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10:_Spectroscopic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "11:_Electrochemical_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "12:_Chromatographic_and_Electrophoretic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "13:_Kinetic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "14:_Developing_a_Standard_Method" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "15:_Quality_Assurance" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "16:_Appendix" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "Analytical_Chemistry_2.1_(Harvey)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Analytical_Chemistry_Volume_II_(Harvey)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Analytical_Chemistry_Volume_I_(Harvey)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "Analytical_Chemistry_2.1_by_David_Harvey" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "An_Introduction_to_Mass_Spectrometry_(Van_Bramer)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Basics_of_Thermal_Analysis_(Shetty)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Chemometrics_Using_R_(Harvey)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Crystallography_in_a_Nutshell_(Ripoll_and_Cano)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Instrumental_Analysis_(LibreTexts)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Molecular_and_Atomic_Spectroscopy_(Wenzel)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Non-Isothermal_Kinetic_Methods_(Arhangel\'skii_et_al.)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Supplemental_Modules_(Analytical_Chemistry)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+Sun, 09 Feb 2025 21:10:14 GMT
+Analytical Chemistry 2.1 (Harvey)
+122341
+122341
+Delmar Larsen
+{ }
+Anonymous
+Anonymous User
+2
+false
+false
+[ "article:topic-category", "authorname:harveyd", "showtoc:no", "coverpage:yes", "license:ccbyncsa", "cssprint:dense", "lulu@Analytical Chemistry 2.1@David Harvey@DePauw University@Analytical Chemistry", "licenseversion:40" ]
+[ "article:topic-category", "authorname:harveyd", "showtoc:no", "coverpage:yes", "license:ccbyncsa", "cssprint:dense", "lulu@Analytical Chemistry 2.1@David Harvey@DePauw University@Analytical Chemistry", "licenseversion:40" ]
+https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FAnalytical_Chemistry%2FAnalytical_Chemistry_2.1_by_David_Harvey%2FAnalytical_Chemistry_2.1_(Harvey)
+[Chemistry LibreTexts]
+1.  Search site
+    Search
+    Search
+    Go back to previous article
+2.  1.  Username
+        Password
+        Sign in
+    2.  Sign in
+        -   Sign in
+        -   Forgot password
+Expand/collapse global hierarchy
+1.   Home
+2.   Bookshelves
+3.   Analytical Chemistry
+4.   Analytical Chemistry 2.1 by David Harvey
+5.   Analytical Chemistry 2.1 (Harvey)
+Expand/collapse global location
+Analytical Chemistry 2.1 (Harvey)
+1.  
+    Last updated
+2.  Save as PDF
+3.  
+Page ID
+    122341
+-   [ ]
+-   David Harvey
+-   DePauw University
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+\( \newcommand{\dint}{\displaystyle\int\limits} \)
+\( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\(\newcommand{\longvect}{\overrightarrow}\)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\(\newcommand{\ket}[1]{\left| #1 \right>}\)
+\(\newcommand{\bra}[1]{\left< #1 \right|}\)
+\(\newcommand{\braket}[2]{\left< #1 \vphantom{#2} \right| \left. #2 \vphantom{#1} \right>}\)
+\(\newcommand{\braopket}[3]{\left< #1 \vphantom{#2}\vphantom{#3} \right| #2 \vphantom{#1}\vphantom{#3} \left| #3 \vphantom{#1}\vphantom{#2} \right>}\)
+\(\newcommand{\qmvec}[1]{\mathbf{\vec{#1}}}\)
+\(\newcommand{\op}[1]{\hat{\mathbf{#1}}}\)
+\(\newcommand{\expect}[1]{\langle #1 \rangle}\)
+\(\newcommand{\dfn}[1]{\emph{\textbf{#1}}}\)
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\) \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)
+No headers
+The introductory course in analytical chemistry is the ideal place in the undergraduate chemistry curriculum for exploring topics such as experimental design, sampling, calibration strategies, standardization, optimization, statistics, and the validation of experimental results. Analytical methods come and go, but best practices for designing and validating analytical methods are universal. Because chemistry is an experimental science it is essential that all chemistry students understand the importance of making good measurements.
+-   [mindtouch.page#thumbnail]Front Matter
+-   [mindtouch.page#thumbnail]1: Introduction to Analytical Chemistry
+-   [mindtouch.page#thumbnail]2: Basic Tools of Analytical Chemistry
+-   [mindtouch.page#thumbnail]3: The Vocabulary of Analytical Chemistry
+-   [mindtouch.page#thumbnail]4: Evaluating Analytical Data
+-   [mindtouch.page#thumbnail]5: Standardizing Analytical Methods
+-   [mindtouch.page#thumbnail]6: Equilibrium Chemistry
+-   [mindtouch.page#thumbnail]7: Obtaining and Preparing Samples for Analysis
+-   [mindtouch.page#thumbnail]8: Gravimetric Methods
+-   [mindtouch.page#thumbnail]9: Titrimetric Methods
+-   [mindtouch.page#thumbnail]10: Spectroscopic Methods
+-   [mindtouch.page#thumbnail]11: Electrochemical Methods
+-   [mindtouch.page#thumbnail]12: Chromatographic and Electrophoretic Methods
+-   [mindtouch.page#thumbnail]13: Kinetic Methods
+-   [mindtouch.page#thumbnail]14: Developing a Standard Method
+-   [mindtouch.page#thumbnail]15: Quality Assurance
+-   [mindtouch.page#thumbnail]16: Appendix
+-   [mindtouch.page#thumbnail]Back Matter
+Thumbnail: Several graduated cylinders of various thickness and heights with white side markings in front of a large beaker. They are all filled about halfway with red or blue chemical compounds. The blue ink is showing signs of Brownian motion when dissolving into water. (CC BY-SA 3.0; Horia Varlan via Wikipedia).
+------------------------------------------------------------------------

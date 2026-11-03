@@ -1,0 +1,9 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=1000000834213
+data: 2026-11-03
+metoda: API Biblioteki Narodowej, wyszukiwanie tytuł „Chemia ogólna” + autor Atkins
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Chemia+og%C3%B3lna&limit=100&author=Atkins
+2020 | Chemia ogólna / Chemical principles : the quest for insight, | Atkins, Peter William (1940- ) Buszewska-Forajta, Magdalena Rafińska, Katarzyna Rudnicka, Joanna (chemik) Krakowska-Sieprawska, Aneta Rogowska, Agnieszka (chemik) Skowronek, Paweł (chemik) Laverman, Leroy (1971- ) Szultka-Młyńska, Małgorzata Atkins, Peter Wójcik, Joanna (chemik) Król-Górniak, Anna Buszewski, Bogusław (1951- ) Jones, Loretta Walczak-Skierska, Justyna Pomastowski, Paweł Milecki, Jan Państwowe Wydawnictwo Naukowe | Państwowe Wydawnictwo Naukowe PWN, | Wydanie II. | 9788301214272 | 1000000834213 | książka
+2009 | Chemistry (pol.) Chemia ogólna : cząsteczki, materia, reakcje. 1 / Chemistry : molecules, matter, and change, | Jones, Loretta Atkins, Peter William (1940- ) Kuryłowicz, Jerzy (1925-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 1 (w tej ed.). | 9788301157722 | 2333420 | książka
+2009 | Chemistry (pol.) Chemia ogólna : cząsteczki, materia, reakcje. 2 / Chemistry : molecules, matter, and change, | Jones, Loretta Atkins, Peter William (1940- ) Kuryłowicz, Jerzy (1925-2002) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 1 (w tej ed.). | 9788301157739 | 2333422 | książka
+2004 | Chemistry (pol.) Chemia ogólna : cząsteczki, materia, reakcje / Chemistry : molecules, matter, and change, | Jones, Loretta Kuryłowicz, Jerzy (1925-2002) Atkins, Peter William (1940- ) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 1. | 8301138106 | 1687549 | książka

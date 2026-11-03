@@ -1,0 +1,21 @@
+adres: https://www.youtube.com/playlist?list=PLybg94GvOJ9Gn1tz2WIe-75UuZSL3wSJK
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Chemistry Laboratory Techniques
+kanał: Professor Dave Explains
+liczba filmów: 12
+opis playlisty: Are you ready to start applying your chemistry knowledge in the laboratory? Would you like to learn some basic techniques for general chemistry and organic chemistry lab courses? This is the playlist for you! These real demonstrations of real experiments will help you navigate the lab with confidence!
+
+filmy:
+  1. Introduction to Chemistry Laboratory Techniques [4:19]
+  2. Common Scientific Glassware and the Undergraduate Chemistry Laboratory [16:22]
+  3. Gravity Filtration and Vacuum Filtration [10:14]
+  4. Liquid-Liquid Extraction [10:57]
+  5. Simple Distillation [9:35]
+  6. Recrystallization and Melting Point Analysis [11:04]
+  7. Pipettes and Standard Solutions [7:17]
+  8. Titration of Strong Acid With Strong Base [8:27]
+  9. Performing Thin Layer Chromatography (TLC) [8:34]
+ 10. Performing Column Chromatography [11:34]
+ 11. Physically Constructing a Galvanic Cell (Electrochemistry) [6:30]
+ 12. Laboratory Synthesis of Aspirin [7:54]

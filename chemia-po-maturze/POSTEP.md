@@ -25,3 +25,11 @@ Zrobione: przeczytane w całości OpenStax Organic Chemistry 12.1, 12.5–12.8, 
 Wniosek z pilotażu: format opisu zasobu i rejestr działają, komentarze źródłowe na poziomie „podrozdział, akapit” wystarczają. Drugi przegląd zasobów R-020 do R-025 zrobię razem z zasobami etapu 3.
 
 Dalej: rozdział 3 dla pozostałych przedmiotów.
+
+## 2026-11-03, etap 3: rozdział 3 dla pozostałych przedmiotów
+
+Zrobione: sekcje chemii ogólnej i nieorganicznej, fizycznej, analitycznej, biochemii i hasło o matematyce; dopisany drugi polski cykl wykładów z organicznej (SGGW). Rejestr ma 58 zasobów, każdy z plikiem dowodu. Drugi przegląd R-020 do R-058 zrobiony (`robocze/przeglad2-reszta.md`), trzy drobne rozbieżności w `ROZBIEZNOSCI.md`. Kandydaci odrzuceni w `robocze/kandydaci-reszta.md` (18 pozycji). Rozdział 3 ma około 11,6 strony bez odgałęzień dla kierunków. R-055 (techniki laboratoryjne) czeka na cytowanie w 4d.
+
+Ograniczenia: Khan Academy, Chemistry World, Education in Chemistry, Compound Interest i PubChem (strona) blokują automaty. Artykuły popularnonaukowe z obietnicy kursu („książki, kanały, artykuły”) są więc reprezentowane tylko przez serwisy z artykułami objaśniającymi (Master Organic Chemistry, Chemguide, Chemistry Steps, LibreTexts). Pytanie do zleceniodawcy w raporcie.
+
+Dalej: sylabusy (etap 4).

@@ -1,0 +1,34 @@
+adres: https://www.youtube.com/playlist?list=PLNWC1jUbuB3zjxeFErUpOrxmW1Tit3qQg
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: CHEMIA ORGANICZNA
+kanał: Nauka / Science SGGW
+liczba filmów: 25
+opis playlisty: (brak)
+
+filmy:
+  1. Węglowodory aromatyczne, prof. dr hab. Janusz Zawadzki [45:34]
+  2. kwasy karboksylowe, prof. dr hab. Janusz Zawadzki [43:41]
+  3. Podstawy chemii organicznej - wstęp, prof. dr hab. Ewa Białecka-Florjańczyk [43:08]
+  4. wstęp do chemii organicznej - alkany cz.1, prof. dr hab. Ewa Białecka -Florjańczyk [47:55]
+  5. Podstawy Chemii Organicznej - Alkany cz.2, prof. dr hab. Ewa Białecka-Florjańczyk [40:51]
+  6. Podstawy Chemii Organicznej - Cykloalkany, prof. dr hab. Ewa Białecka-Florjańczyk [49:13]
+  7. Podstawy chemii organicznej - Alkeny i Alkiny cz.1, prof. dr hab. Ewa Białecka-Florjańczyk [52:21]
+  8. Podstawy Chemii organicznej - Alkeny i alkiny cz. 2, prof. dr hab. Ewa Białecka-Florjańczyk [63:15]
+  9. Podstawy chemii organicznej - dieny, prof. dr hab. Ewa Białecka-Florjańczyk [52:34]
+ 10. Podstawy chemii organicznej -związki aromatyczne, prof. dr hab. Ewa Białecka-Florjańczyk [89:30]
+ 11. Podstawy chemii organicznej - alkohole, etery, fenole cz.1, prof. dr hab. Ewa Białecka-Florjańczyk [78:39]
+ 12. Basics of Organic Chemistry - Alcohols, Ethers, Phenols, Part 2, Prof. Ewa Białecka-Florjańczyk [65:49]
+ 13. Halogenated Derivatives Part 1, Prof. Ewa Białecka-Florjańczyk, PhD, DSc [63:52]
+ 14. chlorowcopochodne cz.2, prof. dr hab.. Ewa Białecka-Florjańczyk [61:49]
+ 15. Amina, Prof. Ewa Białecka-Florjańczyk [89:39]
+ 16. Chiralność, prof. Ewa Białecka-Florjańczyk [68:21]
+ 17. związki karbonylowe, prof. dr hab. Ewa-Białecka-Florjańczyk [71:41]
+ 18. kwasy karboksylowe, prof. dr hab. Ewa Białecka-Florjańczyk [54:35]
+ 19. ESTRY I AMIDY, prof. Ewa Białecka-Florjańczyk [58:10]
+ 20. STEREOCHEMIA, prof. Ewa Baiłecka-Florjańczyk [50:16]
+ 21. SUGARS 1, prof. dr hab. Ewa Białecka-Florjańczyk [69:59]
+ 22. SUGARS 2, prof. dr hab. Ewa-Białecka-Florjańczyk [64:32]
+ 23. Peptydy, prof. dr hab. Ewa-Białecka-Florjańczyk [75:29]
+ 24. Lipidy, prof. dr hab. Ewa Białecka-Florjańczyk [47:27]
+ 25. Kwasy nukleinowe; Kataliza enzymatyczna, prof. Ewa Białecka-Florjańczyk [52:50]

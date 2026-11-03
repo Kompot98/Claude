@@ -1,0 +1,206 @@
+adres: https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/
+tytuł: Principles of Chemical Science | Chemistry | MIT OpenCourseWare
+
+Browse Course Material []
+-    Syllabus
+    ------------------------------------------------------------------------
+-    Instructor Insights
+    ------------------------------------------------------------------------
+-    Unit I : THE ATOM
+    ------------------------------------------------------------------------
+    -    Lecture 1
+    -    Lecture 2
+    -    Lecture 3: Wave-Particle Duality of Light
+    -    Lecture 4: Wave-Particle Duality of Matter; Schrödinger Equation
+    -    Lecture 5
+    -    Lecture 6: Hydrogen Atom Wavefunctions (Orbitals)
+    -    Lecture 7
+-    Unit II: CHEMICAL BONDING & STRUCTURE
+    ------------------------------------------------------------------------
+    -    Lecture 8
+    -    Lecture 9: Periodic Table; Ionic and Covalent Bonds
+    -    Lecture 10
+    -    Lecture 11
+    -    Lecture 12: The Shapes of Molecules: VSEPR Theory
+    -    Lecture 13
+    -    Lecture 14
+-    Unit III: THERMODYNAMICS & CHEMICAL EQUILIBRIUM
+    ------------------------------------------------------------------------
+    -    Lecture 15
+    -    Lecture 16
+    -    Lecture 17: Thermodynamics: Now What Happens When You Heat It Up?
+    -    Lecture 18: Introduction to Chemical Equilibrium
+    -    Lecture 19
+    -    Lecture 20: Solubility and Acid-Base Equilibrium
+    -    Lecture 21
+    -    Lecture 22
+    -    Lecture 23
+    -    Lecture 24: Acid-Base Titrations Part II
+-    Unit IV: TRANSITION METALS & OXIDATION-REDUCTION REACTIONS
+    ------------------------------------------------------------------------
+    -    Lecture 25
+    -    Lecture 26: Chemical and Biological Oxidations
+    -    Lecture 27: Introduction to Transition Metals
+    -    Lecture 28
+    -    Lecture 29
+-    Unit V: CHEMICAL KINETICS
+    ------------------------------------------------------------------------
+    -    Lecture 30
+    -    Lecture 31
+    -    Lecture 32
+    -    Lecture 33
+    -    Lecture 34: Kinetics: Catalysts
+    -    Lecture 35
+-    Exams
+    ------------------------------------------------------------------------
+-    RESOURCE INDEX
+    ------------------------------------------------------------------------
+[]
+Course Info
+Instructor
+-   Prof. Catherine Drennan
+Departments
+-   Chemistry
+As Taught In
+Fall 2014
+Level
+Undergraduate
+Course Info
+Instructor
+-   Prof. Catherine Drennan
+Departments
+-   Chemistry
+As Taught In
+Fall 2014
+Level
+Undergraduate
+Topics
+-   
+    Science
+    -   
+        Chemistry
+        -    Inorganic Chemistry
+        -    Organic Chemistry
+        -    Physical Chemistry
+Topics
+-   
+    Science & Math
+    -    Chemistry
+Learning Resource Types
+grading Exam Solutions
+grading Exams
+co_present Instructor Insights
+notes Lecture Notes
+theaters Lecture Videos
+theaters Other Video
+assignment_turned_in Problem Set Solutions
+assignment Problem Sets
+------------------------------------------------------------------------
+Download Course
+menu
+[MIT OpenCourseWare]
+-   search search
+-   Give Now
+-   About OCW
+-   Help & Faqs
+-   Contact Us
+[MIT OpenCourseWare]
+search search GIVE NOW [] about ocw help & faqs contact us
+5.111SC | Fall 2014 | Undergraduate
+Principles of Chemical Science
+[] Menu
+-    Syllabus
+    ------------------------------------------------------------------------
+-    Instructor Insights
+    ------------------------------------------------------------------------
+-    Unit I : THE ATOM
+    ------------------------------------------------------------------------
+    -    Lecture 1
+    -    Lecture 2
+    -    Lecture 3: Wave-Particle Duality of Light
+    -    Lecture 4: Wave-Particle Duality of Matter; Schrödinger Equation
+    -    Lecture 5
+    -    Lecture 6: Hydrogen Atom Wavefunctions (Orbitals)
+    -    Lecture 7
+-    Unit II: CHEMICAL BONDING & STRUCTURE
+    ------------------------------------------------------------------------
+    -    Lecture 8
+    -    Lecture 9: Periodic Table; Ionic and Covalent Bonds
+    -    Lecture 10
+    -    Lecture 11
+    -    Lecture 12: The Shapes of Molecules: VSEPR Theory
+    -    Lecture 13
+    -    Lecture 14
+-    Unit III: THERMODYNAMICS & CHEMICAL EQUILIBRIUM
+    ------------------------------------------------------------------------
+    -    Lecture 15
+    -    Lecture 16
+    -    Lecture 17: Thermodynamics: Now What Happens When You Heat It Up?
+    -    Lecture 18: Introduction to Chemical Equilibrium
+    -    Lecture 19
+    -    Lecture 20: Solubility and Acid-Base Equilibrium
+    -    Lecture 21
+    -    Lecture 22
+    -    Lecture 23
+    -    Lecture 24: Acid-Base Titrations Part II
+-    Unit IV: TRANSITION METALS & OXIDATION-REDUCTION REACTIONS
+    ------------------------------------------------------------------------
+    -    Lecture 25
+    -    Lecture 26: Chemical and Biological Oxidations
+    -    Lecture 27: Introduction to Transition Metals
+    -    Lecture 28
+    -    Lecture 29
+-    Unit V: CHEMICAL KINETICS
+    ------------------------------------------------------------------------
+    -    Lecture 30
+    -    Lecture 31
+    -    Lecture 32
+    -    Lecture 33
+    -    Lecture 34: Kinetics: Catalysts
+    -    Lecture 35
+-    Exams
+    ------------------------------------------------------------------------
+-    RESOURCE INDEX
+    ------------------------------------------------------------------------
+Course Description
+This course provides an introduction to the chemistry of biological, inorganic, and organic molecules. The emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. One year of high school chemistry is the expected …
+Show more
+This course provides an introduction to the chemistry of biological, inorganic, and organic molecules. The emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis. One year of high school chemistry is the expected background for this freshman-level course.
+The aims include developing a unified and intuitive view of how electronic structure controls the three-dimensional shape of molecules, the physical and chemical properties of molecules in gases, liquids and solids, and ultimately the assembly of macromolecules as in polymers and DNA. Relationships between chemistry and other fundamental sciences such as biology and physics are emphasized, as are the relationships between the science of chemistry to its applications in environmental science, atmospheric chemistry and electronic devices. 
+[Click to get started.]
+Acknowledgements
+Professor Drennan would like to acknowledge the contributions of MIT Lecturer Dr. Elizabeth Vogel Taylor, Professor Sylvia Ceyer, and Professor Robert Silbey to the development of this course and its materials.
+Show less
+Course Info
+Instructor
+-   Prof. Catherine Drennan
+Departments
+-   Chemistry
+Topics
+-   
+    Science
+    -   
+        Chemistry
+        -    Inorganic Chemistry
+        -    Organic Chemistry
+        -    Physical Chemistry
+Course Info
+Instructor
+-   Prof. Catherine Drennan
+Departments
+-   Chemistry
+Topics
+-   
+    Science & Math
+    -    Chemistry
+Learning Resource Types
+grading Exam Solutions
+grading Exams
+co_present Instructor Insights
+notes Lecture Notes
+theaters Lecture Videos
+theaters Other Video
+assignment_turned_in Problem Set Solutions

@@ -1,0 +1,50 @@
+adres: https://www.youtube.com/playlist?list=PLybg94GvOJ9GlYQJWEhxOBtNXH5DKeNsN
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Inorganic/Organometallic Chemistry
+kanał: Professor Dave Explains
+liczba filmów: 41
+opis playlisty: So far we've learned a lot about general chemistry and organic chemistry, so let's move into inorganic chemistry and organometallic chemistry. In this series we will investigate all the elements on the periodic table that were ignored in organic chemistry, especially the transition metals. These elements make interesting compounds that have incredible applications in chemical synthesis, so let's learn all about them together!
+
+filmy:
+  1. Introduction to Inorganic and Organometallic Chemistry [5:31]
+  2. Periodic Table Part 1: Hydrogen [11:04]
+  3. Periodic Table Part 2: Alkali Metals (Li, Na, K, Rb, Cs, Fr) [9:48]
+  4. Periodic Table Part 3: Alkaline Earth Metals (Be, Mg, Ca, Sr, Ba, Ra) [8:49]
+  5. Periodic Table Part 4: Boron Group (B, Al, Ga, In, Tl, Nh) [9:57]
+  6. Periodic Table Part 5: Carbon Group (C, Si, Ge, Sn, Pb, Fl) [11:16]
+  7. Periodic Table Part 6: Pnictogens (N, P, As, Sb, Bi, Mc) [8:54]
+  8. Periodic Table Part 7: Chalcogens (O, S, Se, Te, Po, Lv) [8:41]
+  9. Periodic Table Part 8: Halogens (F, Cl, Br, I, At, Tn) [6:34]
+ 10. Periodic Table Part 9: Noble Gases (He, Ne, Ar, Kr, Xe, Rn, Og) [8:59]
+ 11. Periodic Table Part 10: Transition Metals, Lanthanides and Actinides [14:28]
+ 12. Types of Bonding in Transition Metal Systems and Simple Ligands [11:54]
+ 13. More Complex Ligands in Organometallic Chemistry [10:15]
+ 14. The 18 Electron Rule for Transition Metal Complexes [10:45]
+ 15. More Practice With the 18 Electron Rule [6:14]
+ 16. Polynuclear Transition Metal Complexes [7:38]
+ 17. Ligand Field Theory and the Jahn-Teller Effect [7:45]
+ 18. Hard/Soft Acid-Base Theory [6:00]
+ 19. Organometallic Reactions Part 1: Ligand Substitution and the Trans Effect [12:33]
+ 20. Organometallic Reactions Part 2: Oxidative Addition [6:32]
+ 21. Organometallic Reactions Part 3: Reductive Elimination [5:12]
+ 22. Organometallic Reactions Part 4: Migratory Insertions [8:06]
+ 23. Organometallic Reactions Part 5: Nucleophilic/Electrophilic Attack on Ligands [5:55]
+ 24. Organometallic Reactions Part 6: Metathesis Reactions [7:50]
+ 25. Introduction to Transition Metal Catalysis [9:38]
+ 26. Principles of Homogeneous Catalysis [8:25]
+ 27. Principles of Heterogeneous Catalysis [8:48]
+ 28. Catalytic Hydrogenation of Alkenes and Alkynes [12:35]
+ 29. Enantioselective Hydrogenation of Olefins: Introduction to Asymmetric Catalysis [11:59]
+ 30. Enantioselective Hydrogenation of Carbonyls and Imines [10:34]
+ 31. The Haber-Bosch Process: Industrial Ammonia Synthesis [10:53]
+ 32. Fischer-Tropsch Synthesis of Petroleum [6:23]
+ 33. Hydroformylation of Alkenes [6:47]
+ 34. Wacker Reaction and Related Chemistry [7:09]
+ 35. Ziegler-Natta Polymerization [9:32]
+ 36. Shell Higher Olefin Process (SHOP) [7:13]
+ 37. Introduction to C-C Cross-Coupling: The Suzuki-Miyaura Reaction [9:40]
+ 38. Stille Reaction [5:58]
+ 39. Negishi Reaction [7:22]
+ 40. Hiyama Reaction [6:25]
+ 41. Kumada Reaction [5:51]

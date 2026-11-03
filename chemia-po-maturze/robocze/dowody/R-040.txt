@@ -1,0 +1,12 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=1898302
+data: 2026-11-03
+metoda: API Biblioteki Narodowej, wyszukiwanie tytuł „Chemia fizyczna” + autor Pigoń
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Chemia+fizyczna&limit=100&author=Pigo%C5%84
+2007 | Chemia fizyczna. 1, Podstawy fenomenologiczne / | Pigoń, Krzysztof (1925-2001) Komorowski, Ludwik (1948- ) Lipiński, Józef (chemik) Ruziewicz, Zdzisław (1925-1997) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 6. | 9788301150549 | 1898302 | książka
+2007 | Chemia fizyczna : zbiór zadań z rozwiązaniami / | Pigoń, Krzysztof (1925-2001) Jamróz, Dorota Atkins, Peter William (1940- ) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 1, dodr. | 9788301135393 | 10676807 | None
+2005 | Chemia fizyczna. T. 1, Podstawy fenomenologiczne / | Pigoń, Krzysztof (1925-2001) Ruziewicz, Zdzisław (1925-1997) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 5 zm. i uaktual. | 830114484X | 1796348 | książka
+2005 | Chemia fizyczna. 2, Fizykochemia molekularna / Fizykochemia molekularna | Pigoń, Krzysztof (1925-2001) Chojnacki, Henryk (1934-2012) Ruziewicz, Zdzisław (1925-1997) Lipiński, Józef (chemik) Komorowski, Ludwik (1948- ) Drożdżewski, Piotr Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 5 zm. i popr. / | 8301145684 | 1803873 | książka
+2001 | Chemia fizyczna : zbiór zadań z rozwiązaniami / Physical chemistry Student's solutions manual for physical chemistry | Atkins, P.W. Atkins, Peter William (1940- ) Jamróz, Dorota Pigoń, Krzysztof (1925-2001) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, |  | 8301135395 | 1482015 | książka
+1993 | Chemia fizyczna. Cz. 1 / Biblioteka Chemii t. 4 | Pigoń, Krzysztof (1925-2001) Ruziewicz, Zdzisław (1925-1997) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 4 popr. | 8301055545 | 1024679 | książka
+1993 | Chemia fizyczna. Cz. 2. / Biblioteka Chemii 4 | Pigoń, Krzysztof (1925-2001) Ruziewicz, Zdzisław (1925-1997) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 4 popr. | 8301055545 | 10010918 | książka

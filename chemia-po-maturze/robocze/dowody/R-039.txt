@@ -1,0 +1,10 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=1000002656821
+data: 2026-11-03
+metoda: API Biblioteki Narodowej, wyszukiwanie tytuł „Chemia fizyczna” + autor Atkins
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Chemia+fizyczna&limit=100&author=Atkins
+2022 | Chemia fizyczna / Atkins' physical chemistry, | Zapotoczny, Szczepan (1971- ) Wydro, Paweł (1978- ) Szczubiałka, Krzysztof Atkins, Peter William (1940- ) De Paula, Julio Keeler, James Kowal, Joanna (1946- ) Jamróz, Dorota Sulka, Grzegorz Wydawnictwo Lekarskie PZWL Wydawnictwo Naukowe PWN | Wydawnictwo Lekarskie PZWL Wydawnictwo Naukowe PWN PWN : PZWL, | [Wydanie 3]. | 9788301219918 | 1000002656821 | książka
+2016 | Physical chemistry (pol.) Chemia fizyczna / Atkins' physical chemistry, | Atkins, Peter William (1940- ) Sulka, Grzegorz Wydro, Paweł (1978- ) Zapotoczny, Szczepan (1971- ) Kowal, Joanna (1946- ) Jamróz, Dorota De Paula, Julio Najbar, Jan Szczubiałka, Krzysztof Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 2. zm. | 9788301182984 | 5102350 | książka
+2007 | Chemia fizyczna : zbiór zadań z rozwiązaniami / | Pigoń, Krzysztof (1925-2001) Jamróz, Dorota Atkins, Peter William (1940- ) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 1, dodr. | 9788301135393 | 10676807 | None
+2001 | Chemia fizyczna / Physical chemistry, | Atkins, Peter William (1940- ) Jamróz, Dorota Najbar, Jan Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, |  | 8301135026 | 1473898 | książka
+2001 | Chemia fizyczna : zbiór zadań z rozwiązaniami / Physical chemistry Student's solutions manual for physical chemistry | Atkins, P.W. Atkins, Peter William (1940- ) Jamróz, Dorota Pigoń, Krzysztof (1925-2001) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, |  | 8301135395 | 1482015 | książka

@@ -1,0 +1,35 @@
+adres: https://www.youtube.com/playlist?list=PLNWC1jUbuB3y-xNRoohOZJoYAcoOswPrJ
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: PODSTAWY CHEMII
+kanał: Nauka / Science SGGW
+liczba filmów: 26
+opis playlisty: (brak)
+
+filmy:
+  1. Molar concentration part 1, Dr. Witold Bekas, Eng., prof. SGGW [60:59]
+  2. molar concentration 2, Dr. Witold Bekas, Eng., prof. SGGW [74:02]
+  3. stężenie procentowe 1, dr inż. Witold Bekas, prof. SGGW [47:28]
+  4. stężenie procentowe 2, dr inż.. Witold Bekas, prof. SGGW [43:49]
+  5. obliczenia stechiometryczne 1, dr inż. Witold Bekas, prof. SGGW [64:08]
+  6. Stoichiometric calculations 2, Ph.D. Eng. Witold Bekas, Prof. SGGW [53:18]
+  7. atomy - podstawowe pojecia 1, dr inż. Witold Bekas, prof. SGGW [52:30]
+  8. atomy - podstawowe pojecia 2, dr inż. Witold Bekas, prof. SGGW [48:15]
+  9. pozajądrowa budowa atomu cz. 1, dr inż. Witold Bekas, prof. SGGW [47:25]
+ 10. pozajądrowa budowa atomu cz. 2, dr inż. Witold Bekas, prof. SGGW [46:14]
+ 11. wiązania chemiczne 1, dr inż. Witold Bekas, prof. SGGW [49:06]
+ 12. wiązania chemiczne 2, dr inż. Witold Bekas, prof. SGGW [43:25]
+ 13. związki nieorganiczne 1, dr inż. Witold Bekas, prof. SGGW [49:17]
+ 14. związki nieorganiczne cz. 2, dr inż. Witold Bekas, prof. SGGW [47:52]
+ 15. Inorganic Compounds Part 3, Dr. Eng. Witold Bekas, Professor at SGGW [61:44]
+ 16. Electrolytes - Introduction - Dr. Witold Bekas, Eng., Prof. SGGW [69:34]
+ 17. redakcje redoks cz.1, dr inż. Witold Bekas, prof. SGGW [48:14]
+ 18. elektrolity - zadania, dr inż. Witold Bekas, prof. SGGW [54:15]
+ 19. Reakcje redoks cz.3, dr inż. Witold Bekas, prof. SGGW [43:23]
+ 20. Reakcje redoks cz.2,  dr inż. Witold Bekas, prof. SGGW [48:07]
+ 21. elementy elektrochemii, dr inż. Witold Bekas, prof. SGGW [56:07]
+ 22. kompleksometria, dr inż. Witold Bekas, prof. SGGW [59:24]
+ 23. manganometria, dr inż. Witold Bekas, prof. SGGW [72:33]
+ 24. acid-base measurement, Dr. Witold Bekas, Eng., prof. SGGW [61:02]
+ 25. PH - zadania, dr inż. Witold Bekas, prof. SGGW [53:19]
+ 26. guide to lectures on basic chemistry - Dr. Witold Bekas, Eng., prof. SGGW [5:28]

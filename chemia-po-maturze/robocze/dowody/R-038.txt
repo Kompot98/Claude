@@ -1,0 +1,26 @@
+adres: https://www.youtube.com/playlist?list=PL5aFU4mtoOYuvziYpkBNJbAm6svIsHEvB
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Laboratorium Chemii Fizycznej
+kanał: Katedra Chemii Fizycznej, PW
+liczba filmów: 17
+opis playlisty: Uzupełniające materiały dydaktyczne do Laboratorium Chemii Fizycznej
+
+filmy:
+  1. A1 - Krytyczne stężenie micelizacji surfaktantu - Laboratorium Chemii Fizycznej [3:56]
+  2. A2 - Wyznaczanie momentu dipolowego metodą Guggenheima - Smitha - Laboratorium Chemii Fizycznej [5:58]
+  3. A3 - Rozpuszczalność ciał stałych w cieczach - Laboratorium Chemii Fizycznej [5:02]
+  4. A4 - Trójskładnikowa równowaga ciecz-ciecz - Laboratorium Chemii Fizycznej [5:30]
+  5. B1 - Kalorymetryczne wyznaczanie entalpii spalania - Laboratorium Chemii Fizycznej [12:14]
+  6. B2 - Badanie asocjacji alkoholi za pomocą spektroskopii 1H NMR - Laboratorium Chemii Fizycznej [8:06]
+  7. B3 - Równowaga ciecz - para w układzie dwuskładnikowym - Laboratorium Chemii Fizycznej [10:09]
+  8. B4 - Nadmiarowa objętość mieszania w układzie dwuskładnikowym - Laboratorium Chemii Fizycznej [6:42]
+  9. C1.1 - Przewodność roztworów elektrolitów - Laboratorium Chemii Fizycznej [3:47]
+ 10. C1.2 - Kinetyka reakcji między jonami jodanowymi i jodkowymi - Laboratorium Chemii Fizycznej [3:44]
+ 11. C2.1 - Adsorpcja oranżu metylowego na węglu aktywowanym - Laboratorium Chemii Fizycznej [2:48]
+ 12. C2.2 - Badanie kinetyki inwersji sacharozy - Laboratorium Chemii Fizycznej [4:31]
+ 13. D1.2 - Prężność Pary - Laboratorium Chemii Fizycznej [4:23]
+ 14. D2.1 - Wyznaczenie stałych kwasowości p-nitrofenolu i glicyny metodą pH-metryczną [3:02]
+ 15. D2.2 - Wyznaczenie lepkościowo średniej masy cząsteczkowej  polimeru - Laboratorium Chemii Fizycznej [2:34]
+ 16. Uwagi do Sprawozdań - Laboratorium Termodynamiki i Chemii Fizycznej, PW [33:04]
+ 17. Regulamin pracowni 2023 [17:27]

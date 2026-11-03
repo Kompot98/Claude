@@ -1,0 +1,126 @@
+adres: https://wazniak.mimuw.edu.pl/index.php?title=Analiza_matematyczna_1
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://wazniak.mimuw.edu.pl/index.php?title=Analiza_matematyczna_1
+tytuł: Analiza matematyczna 1 – Studia Informatyczne
+
+Analiza matematyczna 1
+Z Studia Informatyczne
+Przejdź do nawigacjiPrzejdź do wyszukiwania
+Spis treści
+-   1 Forma zajęć
+-   2 Opis
+-   3 Sylabus
+    -   3.1 Autorzy
+    -   3.2 Wymagania wstępne
+    -   3.3 Zawartość
+    -   3.4 Literatura
+-   4 Moduły
+Forma zajęć
+Wykład (30 godzin) + ćwiczenia (30 godzin)
+Opis
+Zadaniem kursu „Analiza matematyczna 1” jest zapoznanie studentów z podstawowymi narzędziami rachunku różniczkowego i całkowego funkcji jednej zmiennej w zakresie niezbędnym do zrozumienia treści wykładów kursowych. Kontynuacją tego kursu jest „Analiza matematyczna 2”.
+Sylabus
+Autorzy
+-   Rafał Czyż — Uniwersytet Jagielloński, Wydział Matematyki i Informatyki, Instytut Matematyki
+-   Leszek Gasiński — Uniwersytet Jagielloński, Wydział Matematyki i Informatyki, Instytut Informatyki
+-   Marta Kosek — Uniwersytet Jagielloński, Wydział Matematyki i Informatyki, Instytut Matematyki
+-   Jerzy Szczepański — Uniwersytet Jagielloński, Wydział Matematyki i Informatyki, Instytut Matematyki
+-   Halszka Tutaj-Gasińska — Uniwersytet Jagielloński, Wydział Matematyki i Informatyki, Instytut Matematyki
+Wymagania wstępne
+-   Wymagana jest znajomość matematyki w zakresie szkoły średniej.
+Zawartość
+-   Zbiory liczbowe i funkcje:
+    -   podzbiory zbioru liczb rzeczywistych
+    -   zbiór liczb zespolonych
+    -   przegląd funkcji elementarnych
+-   Ciągi wektorowe i liczbowe:
+    -   odległość w ℝ^(N)
+    -   granica; punkt skupienia; granice dolna i górna
+    -   granice niewłaściwe
+    -   liczba e
+-   Szeregi liczbowe:
+    -   warunek konieczny
+    -   szereg geometryczny; szereg harmoniczny
+    -   kryteria zbieżności
+-   Granica i ciągłość funkcji:
+    -   definicje Cauchy'ego i Heinego
+    -   własność Darboux
+    -   twierdzenie Weierstrassa o osiąganiu kresów przez funkcję ciągłą
+    -   granice niewłaściwe
+-   Pochodna:
+    -   interpretacja geometryczna i fizyczna
+    -   twierdzenia o pochodnych
+    -   symbole nieoznaczone; reguła de l'Hospitala
+    -   twierdzenie Rolle'a, twierdzenie Lagrange'a
+    -   monotoniczność
+    -   ekstrema
+    -   pochodne wyższych rzędów
+    -   wzór Taylora
+    -   wypukłość
+    -   badanie przebiegu zmienności funkcji
+-   Pierwotna (całka nieoznaczona):
+    -   metody całkowania
+-   Całka Riemanna funkcji jednej zmiennej:
+    -   interpretacja geometryczna; funkcje całkowalne w sensie Riemanna
+    -   podstawowe twierdzenie rachunku różniczkowego i całkowego (Newtona-Leibniza)
+    -   twierdzenie o zmianie zmiennych w całce Riemanna
+    -   długość krzywej
+    -   obliczanie pól powierzchni i objętości brył obrotowych
+Literatura
+1.  W. Rudin, Podstawy analizy matematycznej, Państwowe Wydawnictwo Naukowe, Warszawa 1982.
+2.  W. Rudnicki, Wykłady z analizy matematycznej, Państwowe Wydawnictwo Naukowe, Warszawa 2001.
+3.  G.M. Fichtenholz, Rachunek różniczkowy i całkowy, tom I, II i III. Państwowe Wydawnictwo Naukowe, Warszawa 1978.
+4.  L. Drużkowski, Analiza matematyczna dla fizyków. I. Podstawy, Skrypt Uniwersytetu Jagiellońskiego, Kraków 1995.
+5.  L. Drużkowski, Analiza matematyczna dla fizyków. II. Wybrane zagadnienia, Skrypt Uniwersytetu Jagiellońskiego, Kraków 1997.
+6.  W. Krysicki, L. Włodarski, Analiza matematyczna w zadaniach, część I i II, Państwowe Wydawnictwo Naukowe, Warszawa 1986.
+7.  J. Banaś, S. Wędrychowicz, Zbiór zadań z analizy matematycznej, Wydawnictwo Naukowo-Techniczne, Warszawa 2001.
+Moduły
+1.  Zbiory liczbowe (ćwiczenia) (test)
+2.  Funkcje elementarne (ćwiczenia) (test)
+3.  Odległość i ciągi (ćwiczenia) (test)
+4.  Ciągi liczbowe (ćwiczenia) (test)
+5.  Obliczanie granic (ćwiczenia) (test)
+6.  Szeregi liczbowe (ćwiczenia) (test)
+7.  Szeregi liczbowe. Kryteria zbieżności (ćwiczenia) (test)
+8.  Granica i ciągłość funkcji (ćwiczenia) (test)
+9.  Pochodna funkcji jednej zmiennej (ćwiczenia) (test)
+10. Wzór Taylora. Ekstrema (ćwiczenia) (test)
+11. Reguła de l'Hospitala. Równość asymptotyczna (ćwiczenia) (test)
+12. Wypukłość. Badanie funkcji jednej zmiennej (ćwiczenia) (test)
+13. Całka nieoznaczona (ćwiczenia) (test)
+14. Całka Riemanna funkcji jednej zmiennej (ćwiczenia) (test)
+15. Krzywe i bryły obrotowe (ćwiczenia) (test)
+Źródło: „https://wazniak.mimuw.edu.pl/index.php?title=Analiza_matematyczna_1&oldid=56876”
+Menu nawigacyjne
+Działania na stronie
+-   Strona
+-   Dyskusja
+-   Czytaj
+-   Kod źródłowy
+-   Historia
+Opcje strony
+-   Strona
+-   Dyskusja
+-   Więcej
+-   Narzędzia
+Narzędzia osobiste
+-   Zaloguj się
+Nawigacja
+-   Strona główna
+-   Przedmioty
+-   Uczelnie
+-   O nas
+-   MIMINF
+-   MIMMAT
+Szukaj
+Narzędzia
+-   Linkujące
+-   Zmiany w linkowanych
+-   Strony specjalne
+-   Wersja do druku
+-   Link do tej wersji
+-   Informacje o tej stronie
+[Powered by MediaWiki]
+-   Tę stronę ostatnio edytowano 26 wrz 2006, 18:48.
+-   Polityka prywatności

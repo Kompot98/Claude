@@ -1,0 +1,543 @@
+adres: https://pl.khanacademy.org/science/chemistry
+data: 2026-11-03
+metoda: Chromium (Playwright), tekst wyrenderowanej strony
+odpowiedź: timeout https://pl.khanacademy.org/science/chemistry
+tytuł: Chemia | Nauki przyrodnicze | Khan Academy
+
+Przejdź do głównej treści
+Odkrywaj
+Szukaj
+Wesprzyj
+Zaloguj się
+Zarejestruj się
+Zamieniaj naukę w postępy.
+Utwórz bezpłatne konto jako…
+Nauczyciel
+Uczeń
+Rodzina
+Chemia
+20 DZIAŁÓW
+DZIAŁ 1
+Atomy, związki i jony
+DZIAŁ 2
+Więcej o atomach
+DZIAŁ 3
+Więcej o składzie cząsteczkowym
+DZIAŁ 4
+Spektrometria masowa
+DZIAŁ 5
+Reakcje chemiczne i stechiometria
+DZIAŁ 6
+Więcej o reakcjach chemicznych
+DZIAŁ 7
+Elektronowa struktura atomów
+DZIAŁ 8
+Układ okresowy
+DZIAŁ 9
+Wiązania chemiczne
+DZIAŁ 10
+Gazy i kinetyczno-molekularna teoria gazów
+DZIAŁ 11
+Stany skupienia i oddziaływania międzycząsteczkowe
+DZIAŁ 12
+Równowaga chemiczna
+DZIAŁ 13
+Kwasy i zasady
+DZIAŁ 14
+Bufory, miareczkowanie i iloczyn rozpuszczalności
+DZIAŁ 15
+Termodynamika
+DZIAŁ 16
+Reakcje redox i elektrochemia
+DZIAŁ 17
+Kinetyka
+DZIAŁ 18
+Chemia jądrowa
+DZIAŁ 19
+Uczysz się do egzaminy z chemii?
+DZIAŁ 20
+Poznaj osoby, których kariera zawodowa związana jest z chemią
+Nauki przyrodnicze
+Chemia
+Dział 1: Atomy, związki i jony
+Wprowadzenie do budowy atomu
+Przygotowanie do nauki chemii
+Pierwiastki i atomy
+Średnia masa atomowa
+Przykład: Obliczanie masy atomowej.
+Mol i liczba Avogadro
+Liczba atomowa, liczba masowa i izotopy
+Przykład: rozpoznanie izotopów oraz jonów.
+Izotopy pierwiastków: liczenie protonów, elektronów oraz neutronów.
+Jony oraz związki chemiczne
+Wprowadzenie do jonów
+Nazewnictwo jonów i związków jonowych
+Przykład: obliczenie masy molowej i liczby moli
+Cząsteczki i związki chemiczne
+Przykład: obliczenie zawartości procentowej
+Nazewnictwo i wzory związków jonowych
+Nazewnictwo jonów jednoatomowych i związków jonowych
+Często spotykane jony wieloatomowe
+Jony wieloatomowe
+Nazewnictwo związków jonowych oraz jonów wielowartościowych
+Zadanie: Określanie wzoru związku jonowego
+Powiedz, jaki będzie ładunek jednoatomowych jonów
+Nazewnictwo jonów złożonych
+Znajdź wzór jonów złożonych
+Nazewnictwo jonów i związków jonowych
+Dział 2: Więcej o atomach
+Mole i masa molowa
+Mole i masa molowa
+Izotopy
+Izotopy
+Dział 3: Więcej o składzie cząsteczkowym
+Substancje czyste
+Skład pierwiastkowy substancji czystych
+Mieszaniny
+Przykład krok po kroku: Analiza czystości mieszaniny
+Przykład krok po kroku: Obliczanie masy substancji zawartej w mieszaninie
+Skład mieszanin
+Dział 4: Spektrometria masowa
+Spektrometria masowa
+Izotopy i spektrometria mas
+Spektrometria masowa pierwiastków
+Dział 5: Reakcje chemiczne i stechiometria
+Bilansowanie reakcji chemicznych
+Wprowadzenie do reakcji chemicznych
+Bilansowanie reakcji chemicznych
+Dobieranie współczynników stechiometrycznych w przypadku bardziej złożonych reakcjach chemicznych
+Graficzne przedstawienie bilansowania równań chemicznych
+Dobieranie współczynników stechiometrycznych w reakcji spalania
+Dobór współczynników stechiometrycznych metodą podstawienia
+Bilansowanie reakcji chemicznych
+Stechiometria
+Stechiometria
+Przykład krok po kroku: Obliczanie ilości substratów i produktów
+Przykład krok po kroku: Związek między stechiometrią a prawem gazu doskonałego
+Zamiana moli na masę
+Idealna stechiometria
+Stechiometria reagenta ograniczającego
+Reagent ograniczający i wydajność procentowa
+Zadanie: Obliczenie ilości produktu utworzonego z limitującego substratu
+Wprowadzenie do analizy grawimetrycznej: grawimetria ulatniania
+Analiza grawimetryczna i grawimetria strąceniowa
+Dehydratacja etanolu, zadanie z egzaminu z chemii 2015 AP, część 1/2
+Dehydratacja etanolu, zadanie z egzaminu z chemii 2015 AP, część 2/2
+Stechiometria reagenta ograniczającego
+Skład cząsteczkowy
+Wzory empiryczne, rzeczywiste i strukturalne
+Przykład: obliczenie zawartości procentowej
+Przykład: wyznaczenie wzoru empirycznego na podstawie składu procentowego
+Przykład: wyznaczanie wzoru empirycznego na podstawie pomiaru ilości produktów całkowitego spalania.
+Rodzaje reakcji chemicznych
+Reakcje utleniania–redukcji (redoks)
+Przykład krok po kroku: Wykorzystanie stopnia utlenienia do znalezienia utleniacza i reduktora
+Bilansowanie reakcji redoks
+Rozpuszczanie i wytrącanie
+Reakcje podwójnej wymiany
+Reakcje pojedynczej wymiany
+Zapis równania w formie cząsteczkowej, jonowej i jonowej skróconej
+Równania jonowe i jonowe skrócone
+Dział 6: Więcej o reakcjach chemicznych
+Równania jonowe skrócone
+Równania jonowe skrócone
+Przedstawianie reakcji chemicznej
+Wizualizacja równań chemicznych za pomocą modeli drobinowych - film z polskimi napisami
+Rysowanie modeli drobinowych mieszanin reakcyjnych — film z polskimi napisami
+Przedstawianie reakcji chemicznej
+Przemiany fizyczne i chemiczne
+Przemiany fizyczne i chemiczne
+Przemiany fizyczne i chemiczne
+Więcej o stechiometrii
+Stechiometria
+Dział 7: Elektronowa struktura atomów
+Historia odkrycia struktury atomowej
+Historia chemii atomowej - film z polskimi napisami
+Teoria atomistyczna Daltona
+Odkrycie elektronu i jądra atomowego
+Model atomu wodoru Bohra
+Model atomu wodoru wg Bohra
+Światło: fale elektromagnetyczne, widmo elektromagnetyczne i fotony
+Mikrofalowe promieniowanie tła
+Spektroskopia: oddziaływanie światła z materią
+Efekt fotoelektryczny
+Efekt fotoelektryczny
+Model atomu wodoru Bohra
+Promienie modelu atomu Bohra (wyprowadzenie za pomocą fizyki)
+Promienie modelu atomu Bohra
+Poziomy energetyczne elektronów w modelu Bohra (wyprowadzenie za pomocą fizyki)
+Poziomy energetyczne elektronów w modelu Bohra
+Absorpcja i emisja - film z polskimi napisami
+Liczby kwantowe i orbitale
+Kwantowomechaniczny model atomu
+Liczby kwantowe
+Liczby kwantowe dla pierwszych czterech powłok elektronowych
+Konfiguracje elektronowe
+Powłoki, podpowłoki i orbitale elektronowe
+Konfiguracja elektronowa atomów
+Konfiguracja elektronowa z rdzeniem gazu szlachetnego
+Konfiguracje elektronowe dla pierwiastków pierwszego okresu
+Konfiguracje elektronowe dla pierwiastków drugiego okresu
+Konfiguracje elektronowe dla pierwiastków trzeciego i czwartego okresu
+Konfiguracja elektronowa atomów z bloku d
+Konfiguracje elektronowe
+Diamagnetyzm i paramagnetyzm
+Elektrony walencyjne
+Elektrony walencyjne i związki o charakterze jonowym
+Elektrony walencyjne i związki o charakterze jonowym
+Struktura atomowa i konfiguracje elektronowe
+Spektroskopia fotoelektronów
+Spektroskopia fotoelektronów
+Dział 8: Układ okresowy
+Wprowadzenie do układu okresowego
+Układ okresowy pierwiastków, powłoki elektronowe i orbitale
+Układ okresowy - podział pierwiastków
+Grupy w układzie okresowym
+Liczenie elektronów walencyjnych dla głównych grup pierwiastków
+Układ okresowy - metale przejściowe
+Zliczanie elektronów walencyjnych
+Zmiany własności pierwiastków układzie okresowym
+Zależności występujące w układzie okresowym
+Własności pierwiastków w układzie okresowym: promień atomowy
+Promień atomowy i jonowy
+Trendy w układzie okresowym
+Energia jonizacji
+Energia jonizacji w okresie
+Pierwsza i druga energia jonizacji
+Powinowactwo elektronowe: zmienność w okresie
+Elektroujemność
+Elektroujemność i wiązania chemiczne
+Charakter metaliczny
+Zależności występujące w układzie okresowym i prawo Coulomba.
+Przykład: Identyfikacja pierwiastków na podstawie ich kolejnych energii jonizacji.
+Energia jonizacji: trend w grupie
+Dział 9: Wiązania chemiczne
+Rodzaje wiązań chemicznych
+Wiązania chemiczne
+Wiązania kowalencyjne
+Wiązanie metaliczne
+Charakter metaliczny
+Określanie rodzaju wiązania chemicznego
+Określanie rodzaju wiązania chemicznego na podstawie elektroujemności
+Elektroujemność
+Elektroujemność i wiązania chemiczne
+Rodzaje wiązań chemicznych
+Energia wiązania
+Długość i energia wiązania
+Przykład: Interpretacja krzywej energii potencjalnej cząsteczki dwuatomowej.
+Energia sieci krystalicznej
+Wiązania jonowe i prawo Coulomba
+Siły międzycząsteczkowe i energia potencjalna
+Ciała stałe
+Kryształy jonowe
+Metale
+Kryształy molekularne
+Kryształy kowalencyjne
+Właściwości substancji o stałym stanie skupienia
+Budowa kryształów jonowych
+Wzory kropkowe i geometria cząsteczek
+Rysowanie wzorów kropkowych
+Zliczanie elektronów walencyjnych
+Wzory Lewisa
+Struktury rezonansowe i wzory kropkowe
+Ładunek formalny
+Ładunek formalny i wzory kropkowe
+Rezonans i ładunek formalny
+VSEPR dla 2 chmur elektronowych
+VSEPR dla 3 chmur elektronowych
+VSEPR dla 4 chmur elektronowych
+VSEPR dla 5 chmur elektronowych (część 1)
+VSEPR dla 5 chmur elektronowych (część 2)
+VSEPR dla 6 chmur elektronowych
+Polarność cząsteczek
+VSEPR
+Wzór kropkowy i kąty wiązań w etanolu
+Hybrydyzacja
+Hybrydyzacja sp³
+Liczba przestrzenna
+Hybrydyzacja sp²
+Hybrydyzacja sp
+Zadanie: określenie typu hybrydyzacji w cząsteczkach organicznych
+Hybrydyzacja wiązań chemicznych
+Dział 10: Gazy i kinetyczno-molekularna teoria gazów
+Równanie gazu doskonałego
+Równanie stanu gazu doskonałego
+Zadanie: Wykorzystanie równania gazu doskonałego do obliczenia liczby moli gazu
+Zadanie: Wykorzystanie równania gazu doskonałego do obliczenia zmian objętości
+Prawo Daltona o ciśnieniach cząstkowych
+Ciśnienie parcjalne
+Zadanie: ciśnienie pary nasyconej
+Równanie stanu gazu doskonałego
+Obliczenia wykorzystujące równanie gazu doskonałego
+Teoria kinetyczno-molekularna gazów
+The Maxwell–Boltzmann distribution — film z polskimi napisami
+Teoria kinetyczno-molekularna gazów
+Zachowanie gazu rzeczywistego (nieidealnego)
+Równanie van der Waalsa
+Odstępstwa gazów rzeczywistych od modelu gazu doskonałego
+Odchylenia od równania gazu doskonałego
+Dział 11: Stany skupienia i oddziaływania międzycząsteczkowe
+Stany skupienia materii
+Stany skupienia materii
+Uzupełnienie informacji o stanach skupienia materii
+Ciepło właściwe; ciepło utajone (ciepło przemiany fazowej) topnienia i parowania.
+Ciepło właściwe, ciepło topnienia i ciepło parowania
+Zadanie: chłodzenie wody
+Zadanie: przykład przemiany fazowej
+Ciśnienie pary
+Wykresy fazowe
+Struktura metali i stopów
+Ciała stałe, ciecze i gazy
+Wprowadzenie do sił oddziaływania międzycząsteczkowego
+Siły dyspersyjne Londona
+Odziaływanie dipol-dipol
+Wiązanie wodorowe
+Ion–dipole forces — film z polskimi napisami
+Siły międzycząsteczkowe i ciśnienie pary nasyconej
+Rozpuszczalność i siły oddziaływania międzycząsteczkowego
+Napięcie powierzchniowe — film z polskimi napisami
+Menisk i zjawiska kapilarne
+Temperatury wrzenia związków organicznych
+Rozpuszczalność związków organicznych
+Siły oddziaływania międzycząsteczkowego
+Siły międzycząsteczkowe oraz właściwości cieczy
+Rozpuszczalność
+Zawiesiny, koloidy oraz roztwory
+Rodzaje mieszanin
+Stężenie molowe
+Podnoszenie temperatury wrzenia oraz obniżanie temperatury zamarzania
+Obliczanie stężeń molowych
+Roztwory i mieszaniny
+Przedstawianie roztworów za pomocą modelu cząstek
+Rozdzielanie mieszanin i roztworów
+Calculating retention factors for TLC
+Rozdzielanie roztworów i mieszanin — chromatografia
+Dział 12: Równowaga chemiczna
+Stała równowagi reakcji
+Stała równowagi $K$
+Obliczanie stałej równowagi Kp z ciśnień cząstkowych
+Stałe równowagi reakcji chemicznych
+Czynniki wpływające na równowagę chemiczną
+Reguła przekory Le Chateliera: przykład
+Iloraz reakcji $Q$
+Worked example: Using the reaction quotient to predict a pressure change — film z polskimi napisami
+Zasada Le Chateliera
+Dział 13: Kwasy i zasady
+Kwasy, zasady i pH
+Kwasy i zasady Arrheniusa
+Kwasy i zasady Arrheniusa
+pH, pOH i skala pH
+Kwasy i zasady Brønsteda-Lowry'ego
+Kwasy i zasady Brønsteda–Lowry’ego
+Autodysocjacja wody
+Autojonizacja wody i $K_\text{w}$
+Definicja pH
+Moc kwasu, rozmiar anionów i energia wiązania
+Rozpoznawanie słabych kwasów i mocnych kwasów
+Rozpoznawanie słabych zasad i mocnych zasad
+Wprowadzenie do reakcji kwasu z zasadą
+Równowaga kwasowo-zasadowa
+Równowagi słabych kwasów i zasad
+Sprzężone pary kwas–zasada
+Związek pomiędzy Ka i Kb
+Związek pomiędzy Ka i Kb
+Ka i moc kwasu
+Stała równowagi słabych kwasów
+Stała równowagi słabych zasad
+Właściwości kwasowo- zasadowe soli
+pH roztworów soli
+Dział 14: Bufory, miareczkowanie i iloczyn rozpuszczalności
+Roztwory buforowe
+Wprowadzenie do buforów
+Efekt wspólnego jonu
+Obliczenia pH roztworu buforowego
+Miareczkowanie
+Miareczkowania kwasowo–zasadowe
+Przykład krok po kroku: Wyznaczanie stężenia na podstawie miareczkowania kwasowo-zasadowego
+Miareczkowanie mocnego kwasu mocną zasadą
+Miareczkowanie mocnego kwasu mocną zasadą (ciąg dalszy)
+Miareczkowanie słabego kwasu mocną zasadą
+Miareczkowanie słabego kwasu mocną zasadą (ciąg dalszy)
+Miareczkowanie słabej zasady mocnym kwasem
+Miareczkowanie słabej zasady mocnym kwasem (ciąg dalszy)
+Krzywe miareczkowania i wskaźniki pH
+Miareczkowania redoksymetryczne
+Wprowadzenie do miareczkowania
+Iloczyn rozpuszczalności
+Rozpuszczanie i wytrącanie
+Często spotykane jony wieloatomowe
+Wprowadzenie do rozpuszczalności i iloczynu rozpuszczalności
+Rozpuszczalność na podstawie iloczynu rozpuszczalności
+Zadanie - iloczyn rozpuszczalności
+Rozpuszczalność i efekt wspólnego jonu
+Wpływ pH na rozpuszczalność
+Solubility and complex ion formation
+Dział 15: Termodynamika
+Energia wewnętrzna
+Więcej o energii wewnętrznej
+Ciepło i temperatura
+Ciepło właściwe; ciepło utajone (ciepło przemiany fazowej) topnienia i parowania.
+Zadanie: chłodzenie wody
+Praca ciśnieniowo-objętościowa
+Makrostany i mikrostany
+Procesy kwazistatyczne i odwracalne
+Praca związana z ekspansją gazu
+Wykresy PV i praca związana z ekspansją
+Entalpia
+Entalpia
+Ciepło tworzenia
+Prawo Hessa i zmiana entalpi reakcji
+Przykład zastosowania prawa Hessa
+Entalpia wiązania i entalpia reakcji
+Entropia
+Praca w przemianie izotermicznej
+Cykl i silnik Carnota
+Dowód: stosunek objętości w cyklu Carnota
+Dowód: S (lub entropia) jest rzeczywiście funkcją stanu
+Wyjaśnienie termodynamicznej definicji entropii
+Porównanie termodynamicznej i statystycznej definicji entropii
+Intuicyjne zrozumienie pojęcia entropii
+Więcej o entropii
+Demon Maxwella
+Gibbs free energy
+Energia swobodna Gibbsa i procesy zachodzące samorzutnie
+Energia swobodna Gibbsa i procesy zachodzące samorzutnie
+Przykład swobodnej energii Gibbsa
+Dokładniejszy związek między energią swobodną Gibbsa a samorzutnością procesu
+Pozornie przekonujący, ale błędny dowód dotyczący samorzutności Gibbsa
+Changes in free energy and the reaction quotient
+Standard change in free energy and the equilibrium constant
+Dział 16: Reakcje redox i elektrochemia
+Reakcje utleniania i redukcji
+Utlenianie i redukcja
+Stopnie utlenienia w układzie okresowym
+Przykład określania stopnia utlenienia
+Nietypowe stopnie utlenienia tlenu
+Bilansowanie reakcji redoks
+Utleniacze i reduktory
+Reakcja dysproporcjonowania
+Bilans elektronowo-jonowy w środowisku kwasowym
+Bilans elektronowo-jonowy w środowisku zasadowym
+Miareczkowania redoksymetryczne
+Utlenianie i redukcja, czyli reakcje redoks
+Ogniwa galwaniczne
+Reakcja redoks roztwarzania cynku w siarczanie miedzi
+Wprowadzenie do ogniw galwanicznych
+Elektrody i siła elektromotoryczna ogniwa
+Schemat ogniwa galwanicznego
+Akumulator kwasowo-ołowiowy
+Akumulator niklowo-kadmowy
+Akumulator metaliczno-powietrzny - zadanie z egzaminu z chemii 2015 AP
+Standardowe potencjały redukcyjne
+Standardowe potencjały redukcyjne
+Napięcie jako wielkość intensywna
+Wykorzystanie tablic potencjałów standardowych do obliczenia standardowego potencjału ogniwa
+Samorzutność i reakcje redoks
+Cell potentials under nonstandard conditions
+Ogniwa galwaniczne a zmiany energii swobodnej Gibbsa
+Zastosowanie równania Nernsta
+Electrolytic cells and electrolysis
+Wprowadzenie do elektrolizy
+Dział 17: Kinetyka
+Rząd reakcji i równania kinetyczne
+Wprowadzenie do kinetyki
+Szybkość reakcji
+Równanie kinetyczne i rząd reakcji
+Doświadczalne wyznaczanie równania kinetycznego
+Relationship between reaction concentrations and time
+Reakcja pierwszego rzędu (z wykorzystaniem rachunku całkowego)
+Nanoszenie danych na wykres dla reakcji pierwszego rzędu
+Okres półtrwania reakcji pierwszego rzędu
+Okres połowicznego rozpadu a datowanie węglem
+Przykład - reakcja pierwszego rzędu
+Reakcja drugiego rzędu (z rachunkiem całkowym)
+Okres półtrwania reakcji drugiego rzędu
+Reakcja zerowego rzędu (z wykorzystaniem rachunku całkowego)
+Równanie Arrheniusa i mechanizmy reakcji
+Teoria zderzeń
+Równanie Arrheniusa
+Równanie Arrheniusa w różnych postaciach
+Korzystanie z równania Arrheniusa
+Reakcje elementarne
+Mechanizm reakcji i prawo szybkości reakcji
+Mechanizm reakcji i prawo szybkości reakcji
+Katalizatory
+Rodzaje katalizatorów
+Spektroskopia
+Wprowadzenie do spektrofotometrii
+Spektrofotometria - zastosowanie prawa Lamberta - Beera
+Spektroskopia i widmo fal elektromagnetycznych
+Przejścia elektronowe w spektroskopii
+Prawo Lamberta-Beera
+Dział 18: Chemia jądrowa
+Rozpad promieniotwórczy
+Stabilność i zapis reakcji jądrowych
+Rodzaje rozpadu
+Równania rozpadu alfa, beta i gamma
+Okres połowicznego rozpadu a datowanie węglem
+Okres połowicznego rozpadu
+Rozpad wykładniczy - dowód matematyczny (można ominąć, zawiera rachunek różniczkowy)
+Rozwiązywanie zadań z rozpadu wykładniczego
+Więcej przykładów rozpadu wykładniczego
+Rozkład wykładniczy oraz wykresy oparte na skali logarytmicznej
+Dział 19: Uczysz się do egzaminy z chemii?
+Pytania otwarte z egzaminu w systemie AP (Advanced Placement) w USA w 2015 roku
+Akumulator metaliczno-powietrzny - zadanie z egzaminu z chemii 2015 AP
+Dehydratacja etanolu, zadanie z egzaminu z chemii 2015 AP, część 1/2
+Dehydratacja etanolu, zadanie z egzaminu z chemii 2015 AP, część 2/2
+Wzór kropkowy i kąty wiązań w etanolu
+Zadanie - iloczyn rozpuszczalności
+Dział 20: Poznaj osoby, których kariera zawodowa związana jest z chemią
+Poznaj osoby, których kariera zawodowa związana jest z chemią
+Poznaj Zainab Al-Saihati
+Poznaj Syud Momtaz Ahmed
+Poznaj Mary O'Reilly
+Poznaj Rachel Price
+Poznaj Jareda Roopa
+Poznaj Karen Wheeler
+Poznaj George'a Zaidana
+Pytania społeczności
+Naszą misją jest zapewnienie każdemu i wszędzie bezpłatnej edukacji na światowym poziomie.
+Khan Academy to organizacja non-profit 501(c)(3). Wesprzyj już dziś!
+Nawigacja na stronie
+O nas
+Aktualności
+Nasze efekty
+Kierownictwo
+Nasi darczyńcy i partnerzy
+Nasze finanse
+Oferty pracy
+Staże
+Ustawienia plików cookie
+Kontakt
+Centrum pomocy
+Społeczność wsparcia
+Podziel się swoją historią
+Dla mediów
+Pobierz nasze aplikacje
+Kursy
+Matematyka wg działów
+Matematyka wg klas
+Nauki ścisłe
+Ekonomia i finanse
+Nauki humanistyczne i sztuka
+Historia świata
+Informatyka
+Przygotowanie do egzaminu
+Język
+polski
+Kraj
+USA
+Indie
+Meksyk
+Brazylia
+© 2026 Khan Academy
+Warunki korzystania
+Polityka prywatności
+Informacja o plikach cookie
+Oświadczenie o dostępności
+Korzystanie z plików cookie
+Pliki cookie to małe pliki umieszczane na Twoim urządzeniu, które zbierają informacje podczas korzystania z Khan Academy. Niezbędne pliki cookie są wykorzystywane do działania naszej witryny i są wymagane. Inne rodzaje plików cookie są wykorzystywane w celu poprawy komfortu użytkownika, analizowania sposobu korzystania z Khan Academy i promowania naszej usługi. Możesz zezwolić na te inne pliki cookie, zaznaczając poniższe pola. Więcej informacji znajdziesz w naszej polityce dotyczącej plików cookie.
+Zaakceptuj wszystkie pliki cookie
+Tylko niezbędne
+Ustawienia plików cookie

@@ -1,0 +1,37 @@
+adres: https://www.chemguide.co.uk/physmenu.html
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://www.chemguide.co.uk/physmenu.html
+tytuł: Understanding Chemistry - Physical Chemistry Menu
+
+Understanding Chemistry
+ 
+PHYSICAL CHEMISTRY MENU
+ 
+Kinetic Theory
+Kinetic Theory . . .
+Basic kinetic theory ideas about solids, liquids and gases, and changes of state. Ideal and real gases. The ideal gas equation. Boyle's Law and Charles' Law.
+Chemical energetics
+Enthalpy changes during reactions . . .
+An explanation of the various important kinds of enthalpy change, and a limited look at the calculations which go with them.
+Entropy and free energy . . .
+A fairly gentle introduction to entropy and free energy suitable for current A level syllabuses.
+Rates of Reaction
+Basic ideas about rates of reaction . . .
+Covers collision theory, and describes and explains the effects of surface area, concentration, pressure, temperature and catalysts on reaction rates. Also takes an introductory look at the rate equation for a reaction - particularly order of reaction and the rate constant.
+Catalysis . . .
+A detailed look at various types of catalytic action with a wide range of examples taken from A level syllabuses.
+Equilibria
+Chemical equilibria . . .
+An introduction to the ideas surrounding chemical equilibria including the concept of a dynamic equilibrium, Le Chatelier's Principle, and a detailed look at the equilibrium aspects of the Haber Process, the Contact Process and the manufacture of ethanol from ethene. Plus an introductory look at equilibrium constants, K_(c) and K_(p).
+Redox equilibria . . .
+An introduction to the measurement and use of standard electrode potentials (redox potentials). Includes a discussion of the electrochemical series and the use of redox potentials in predicting the feasibility of redox reactions.
+Acid-base equilibria . . .
+Including: acid-base theories; strong and weak acids and bases; an introduction to pH, K_(w) and pK_(w), K_(a) and pK_(a), K_(b) and pK_(b); buffer solutions; pH curves and indicators.
+Solubility products . . .
+Solubility products, their units, and a brief introduction to calculations involving them.
+Phase equilibria . . .
+An introduction to saturated vapour pressure, Raoult's Law, and to several types of phase diagrams - including phase diagrams for pure substances, solutions of non-volatile solutes, eutectic mixtures, systems of two miscible liquids (including fractional distillation), and systems of two immiscible liquids (including steam distillation).
+Go to Main Menu . . .
+------------------------------------------------------------------------
+© Jim Clark 2005 (last modified February 2017)
