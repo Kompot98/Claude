@@ -1,0 +1,263 @@
+adres: https://sylabus.cm-uj.krakow.pl/pl/document/3cb20971-1bdf-4cff-ac4b-8ad13fb37f67.pdf
+uczelnia: Uniwersytet Jagielloński Collegium Medicum
+kierunek: analityka medyczna
+przedmiot lub dokument: Chemia ogólna i nieorganiczna
+rok akademicki: 2026/27
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+adres: https://sylabus.cm-uj.krakow.pl/pl/document/3cb20971-1bdf-4cff-ac4b-8ad13fb37f67.pdf
+uczelnia: UJ CM
+kierunek: analityka medyczna
+przedmiot: Chemia ogólna i nieorganiczna
+rok akademicki: ?
+data odczytu: 2026-11-03
+odpowiedź: 200 application/pdf
+                                  Chemia ogólna i nieorganiczna
+                                           Karta opisu przedmiotu
+                                          Informacje podstawowe
+ Jednostka organizacyjna                                   Cykl dydaktyczny
+ Wydział Farmaceutyczny                                    2026/27
+ Kierunek studiów                                          Rok realizacji
+ Analityka Medyczna                                        2026/27
+ Poziom kształcenia                                        Języki wykładowe
+ jednolite magisterskie                                    polski
+ Forma studiów                                             Blok zajęciowy
+ stacjonarne                                               obowiązkowy do zaliczenia w toku studiów
+ Proﬁl studiów                                             Obligatoryjność
+ praktyczny                                                obowiązkowy
+ Dyscypliny                                                Forma weryﬁkacji uzyskanych efektów uczenia się
+ Nauki farmaceutyczne                                      egzamin
+ Klasyﬁkacja ISCED                                         Grupa zajęć standardu
+ 0914 Technologie związane z diagnostyką i leczeniem       B. NAUKI CHEMICZNE I ELEMENTY STATYSTYKI
+ Kod USOS
+ FA.AM.JS.1o0135
+ Koordynator                  Monika Dąbrowska
+ przedmiotu
+ Prowadzący zajęcia           Pełna lista prowadzących dostępna na stronie usosweb.uj.edu.pl w zakładce Katalog
+                              → Przedmioty.
+ Okres                       Forma weryﬁkacji uzyskanych efektów uczenia się                          Liczba
+ Semestr 1                   egzamin                                                                  punktów ECTS
+                                                                                                      4.0
+                             Forma prowadzenia i godziny zajęć
+                             wykład: 14
+                             seminarium: 10
+                             ćwiczenia: 36
+                                   Wymagania wstępne i dodatkowe
+Wymagania wstępne
+Znajomość zagadnień chemicznych na poziomie szkoły średniej w zakresie rozszerzonym. Obowiązkowa obecność na
+zajęciach seminaryjnych i laboratoryjnych oraz wykładach.
+Wygenerowano: 2026-11-03 18:48                                                                                    1/6
+                                     Cele kształcenia dla przedmiotu
+        Przedstawienie zagadnień z chemii ogólnej, budowy materii, wybranych zagadnień systematyki związków
+        nieorganicznych, układu okresowego pierwiastków oraz nabycie umiejętności obliczeń chemicznych w tym
+C1
+        obliczeń siły elektromotorycznej ogniw oraz dotyczących elektrolizy. Zapoznanie studentów z zagadnieniami
+        chemii bionieorganicznej.
+                                   Efekty uczenia się dla przedmiotu
+                                                                    Kierunkowe efekty
+Kod         Efekty w zakresie                                                                Metody weryﬁkacji
+                                                                    uczenia się
+Wiedzy – Student zna i rozumie:
+W1          zagadnienia z zakresu chemii ogólnej i nieorganicznej   B.W1                     egzamin pisemny,
+            w stopniu niezbędnym do głębszego zrozumienia                                    egzamin praktyczny, test
+            zagadnień z dyscypliny naukowej nauki chemiczne
+            oraz dyscypliny naukowej nauki biologiczne, a także
+            zasady oznaczania związków nieorganicznych
+            i metody postępowania analitycznego stosowane
+            w laboratoriach medycznych
+W2          właściwości chemiczne pierwiastków i ich związków       B.W2                     egzamin pisemny,
+                                                                                             egzamin praktyczny, test
+W3          podstawy budowy jądra atomowego i reakcji jądrowej,     B.W3                     egzamin pisemny
+            zwłaszcza rozpadu promieniotwórczego oraz zasady
+            obliczeń szybkości rozpadu radionuklidów
+W4          mechanizmy tworzenia i rodzaje wiązań chemicznych       B.W4                     egzamin pisemny
+            oraz mechanizmy oddziaływań międzycząsteczkowych
+            w różnych stanach skupienia materii
+W5          zasady obliczeń chemicznych niezbędnych                 B.W6                     egzamin pisemny,
+            w medycynie laboratoryjnej, w szczególności obliczeń                             zaliczenie pisemne
+            związanych ze sporządzaniem, rozcieńczaniem
+            i przeliczaniem stężeń wyrażonych w standardowych
+            i niestandardowych jednostkach
+W6          podstawy kinetyki reakcji chemicznych oraz              B.W7                     egzamin pisemny, test
+            podstawowe prawa termochemii, elektrochemii
+            i zjawisk powierzchniowych
+W7          nomenklaturę, właściwości oraz metody identyﬁkacji      B.W9                     egzamin pisemny,
+            związków nieorganicznych oraz kompleksowych                                      egzamin praktyczny, test
+Umiejętności – Student potraﬁ:
+U1          wykonywać obliczenia chemiczne                          B.U3                     egzamin pisemny,
+                                                                                             egzamin praktyczny,
+                                                                                             zaliczenie pisemne
+U2          sporządzać roztwory o określonych stężeniach, a także B.U4                       egzamin praktyczny
+            roztwory o określonym pH, zwłaszcza roztwory
+            buforowe
+U3          opisywać właściwości chemiczne pierwiastków             B.U5                     egzamin pisemny, test
+            i związków nieorganicznych oraz oceniać trwałość
+            wiązań i reaktywność związków nieorganicznych
+            na podstawie ich budowy
+U4          wykonywać wszystkie czynności laboratoryjne             B.U10                    egzamin praktyczny
+            z dbałością pozwalającą na zachowanie pełnego
+            bezpieczeństwa swojego i osób współpracujących
+Wygenerowano: 2026-11-03 18:48                                                                                      2/6
+                                                                    Kierunkowe efekty
+ Kod          Efekty w zakresie                                                              Metody weryﬁkacji
+                                                                    uczenia się
+ U5           planować i wykonywać analizy chemiczne oraz           B.U14                    egzamin praktyczny
+              interpretować ich wyniki, a także wyciągać wnioski
+ Kompetencji społecznych – Student jest gotów do:
+ K1           korzystania z obiektywnych źródeł informacji          O.K6                     egzamin pisemny,
+                                                                                             egzamin praktyczny,
+                                                                                             sprawozdanie z
+                                                                                             wykonania zadania, test,
+                                                                                             zaliczenie pisemne
+ K2           formułowania wniosków z własnych pomiarów lub         O.K7                     egzamin praktyczny,
+              obserwacji                                                                     sprawozdanie z
+                                                                                             wykonania zadania
+                                              Bilans punktów ECTS
+                                                              Średnia liczba godzin* przeznaczonych
+ Rodzaje zajęć studenta
+                                                              na zrealizowane rodzaje zajęć
+ wykład                                                                                 14
+ seminarium                                                                             10
+ ćwiczenia                                                                              36
+ przygotowanie do egzaminu                                                              40
+ przygotowanie do kolokwium                                                             15
+ sporządzenie sprawozdania                                                              5
+                                                                                 Liczba godzin
+ Łączny nakład pracy studenta
+                                                                                      120
+                                                                                 Liczba godzin
+ Liczba godzin kontaktowych
+                                                                                      60
+ Nakład pracy związany z zajęciami o charakterze                                 Liczba godzin
+ praktycznym                                                                          36
+* godzina (lekcyjna) oznacza 45 minut
+                                                Treści programowe
+                                                                    Efekty uczenia się dla   Formy prowadzenia
+ Lp.          Treści programowe
+                                                                    przedmiotu               zajęć
+ 1.           Elementy budowy materii. Podstawowe pojęcia i prawa W1, W3, W4                 wykład, seminarium
+              chemiczne. Podstawowe grupy związków
+              nieorganicznych oraz ich budowa.
+Wygenerowano: 2026-11-03 18:48                                                                                     3/6
+                                                                      Efekty uczenia się dla    Formy prowadzenia
+ Lp.          Treści programowe
+                                                                      przedmiotu                zajęć
+ 2.           Podstawowe zależności wynikające z prawa równowagi W2, W4, W7                     wykład, ćwiczenia,
+              chemicznej, iloczyn rozpuszczalności. Teorie dysocjacji                           seminarium
+              elektrolitycznej. Stała i stopień dysocjacji.
+              Amfoteryczność, hydroliza soli, pH, bufory. Podział
+              reakcji chemicznych: reakcje zobojętniania, reakcje
+              utleniania i redukcji i ich rola w procesie elektrolizy i
+              funkcjonowaniu ogniw. Związki kompleksowe:
+              budowa, właściwości, nazewnictwo. Reakcje tworzenia
+              związków kompleksowych, reakcje przebiegające z
+              wytrąceniem osadu, osady krystaliczne i koloidowe.
+              Właściwości i reaktywność pierwiastków chemicznych.
+ 3.           Podstawowe zależności wynikające z układu               W3, W6                    wykład
+              okresowego pierwiastków. Elementy systematyki
+              związków nieorganicznych z uwzględnieniem
+              podstawowej roli pierwiastków chemicznych w
+              organizmach żywych z elementami chemii
+              bionieorganicznej. Typy przemian jądrowych, warunki
+              ich zachodzenia. Zastosowanie izotopów
+              promieniotwórczych w przemyśle i medycynie.
+ 4.           Elementy kinetyki - szybkość reakcji, wpływ czynników   W6                        wykład
+              zewnętrznych na jej wartość. Energia reakcji, reakcja
+              egzoenergetyczna, reakcja endoenergetyczna. Prawo
+              Hessa.
+ 5.           Przepisy BHP i porządkowe w laboratorium                U4                        ćwiczenia
+              analitycznym.
+ 6.           Podstawowe czynności laboratoryjne: wytrącanie,         U2, U3, U4, U5, K1, K2    wykład, ćwiczenia
+              sączenie, rozpuszczanie i ogrzewanie osadów.
+              Wykonywanie reakcji analitycznych w probówkach, na
+              płytkach i na bibule. Wykrywanie lotnych produktów
+              reakcji chemicznych. Minimum wykrywalne, stężenie
+              graniczne.
+ 7.           Wykonanie ćwiczeń z zakresu chemii ogólnej. Każde       U2, U3, U4, U5, K1, K2    ćwiczenia
+              ćwiczenie polega na wykonaniu trzech doświadczeń i
+              rozwiązaniu trzech zadań z obliczeń chemicznych
+              związanych z następującymi zagadnieniami: iloczyn
+              rozpuszczalności, pH, bufory, reakcje utleniania i
+              redukcji, związki kompleksowe, koloidy.
+ 8.           Rozwiązywanie zadań rachunkowych.                       W5, U1, K1                seminarium
+                                            Informacje rozszerzone
+Metody nauczania:
+Ćwiczenia, Ćwiczenia laboratoryjne, Demonstracja, Dyskusja, Film dydaktyczny, Pokaz, Seminarium, Wykład, Wykład z
+prezentacją multimedialną
+ Rodzaj zajęć               Metody zaliczenia                      Warunki zaliczenia przedmiotu
+ wykład                                                            warunki zaliczenia w dodatkowym opisie
+ seminarium                                                        warunki zaliczenia w dodatkowym opisie
+ ćwiczenia                                                         warunki zaliczenia w dodatkowym opisie
+Wygenerowano: 2026-11-03 18:48                                                                                       4/6
+Dodatkowy opis
+Warunkiem uzyskania zaliczenia uprawniającego do przystąpienia do egzaminu jest:
+   1. Wykonanie i zaliczenie ćwiczeń laboratoryjnych wyszczególnionych w harmonogramie.
+   2. Zaliczenie zajęć seminaryjnych i sprawdzianu z obliczeń chemicznych (zaliczenie sprawdzianu od 5 pkt. na 10 maks.;
+      nzal/zal)
+   3. Zaliczenie dwóch kolokwiów testowo – opisowych zgodnie z zakresem tematycznym podanym w harmonogramie
+      (zaliczenie każdego kolokwium od 12 pkt. na 24 maks.)
+Skala przeliczania punktów:
+12 - 15,5 dst
+16 - 17,5 dost +
+18 - 19,5 db+
+22 - 24 bdb
+Szczegółowe warunki zaliczenia zawarte są w regulaminie przedmiotu.
+                                                    Literatura
+Obowiązkowa
+   1. Praca zbior., Kocjan R. red.: Chemia analityczna. Tom I, PZWL, 2023.
+   2. Rzeszutko W., Opoka W., Somogyi E.: Chemia analityczna jakościowa. WUJ, Kraków 2003.
+   3. Rzeszutko W., Opoka W.: Wybrane ćwiczenia z chemii ogólnej. WUJ, Kraków 2017.
+   4. Rzeszutko W., Opoka W, Krzek J., Hubicka U., Apola A., Stolarczyk M,: Zestaw wybranych zadań z chemii. WUJ, Kraków
+      2017.
+   5. Rzeszutko W., Opoka W.: Zbiór testów z chemii ogólnej i nieorganicznej, WUJ, Kraków 2002.
+   6. Opoka W., Muszyńska B., i in.: Właściwości ﬁzykochemiczne i biologiczne wybranych pierwiastków. UMEA Shinoda,
+      Kraków 2015.
+Dodatkowa
+   1. Bielański A.: Podstawy chemii nieorganicznej. Tom I, PWN, 2013.
+   2. Minczewski J., Marczenko Z.: Chemia analityczna. Tom I, PWN, 2008.
+                                    Zasady korzystania z narzędzi SI
+Korzystanie z narzędzi sztucznej inteligencji odbywa się wyłącznie z zachowaniem wymogów określonych w obowiązujących
+przepisach prawa. Wykorzystanie narzędzi sztucznej inteligencji nie może prowadzić do naruszenia zasad rzetelności i
+uczuciowości akademickiej, w szczególności poprzez przypisywanie sobie autorstwa treści, wyników lub efektów pracy
+wytworzonych z wykorzystaniem sztucznej inteligencji.
+Wygenerowano: 2026-11-03 18:48                                                                                      5/6
+Kierunkowe efekty uczenia się
+ Kod                                                         Treść
+O.K6    Absolwent jest gotów do korzystania z obiektywnych źródeł informacji
+O.K7    Absolwent jest gotów do formułowania wniosków z własnych pomiarów lub obserwacji
+B.U3    Absolwent potraﬁ wykonywać obliczenia chemiczne
+        Absolwent potraﬁ sporządzać roztwory o określonych stężeniach, a także roztwory o określonym pH, zwłaszcza
+B.U4
+        roztwory buforowe
+        Absolwent potraﬁ opisywać właściwości chemiczne pierwiastków i związków nieorganicznych oraz oceniać trwałość
+B.U5
+        wiązań i reaktywność związków nieorganicznych na podstawie ich budowy
+        Absolwent potraﬁ wykonywać wszystkie czynności laboratoryjne z dbałością pozwalającą na zachowanie pełnego
+B.U10
+        bezpieczeństwa swojego i osób współpracujących
+        Absolwent potraﬁ planować i wykonywać analizy chemiczne oraz interpretować ich wyniki, a także wyciągać
+B.U14
+        wnioski
+        Absolwent zna i rozumie zagadnienia z zakresu chemii ogólnej i nieorganicznej w stopniu niezbędnym do
+        głębszego zrozumienia zagadnień z dyscypliny naukowej nauki chemiczne oraz dyscypliny naukowej nauki
+B.W1
+        biologiczne, a także zasady oznaczania związków nieorganicznych i metody postępowania analitycznego
+        stosowane w laboratoriach medycznych
+B.W2    Absolwent zna i rozumie właściwości chemiczne pierwiastków i ich związków
+        Absolwent zna i rozumie podstawy budowy jądra atomowego i reakcji jądrowej, zwłaszcza rozpadu
+B.W3
+        promieniotwórczego oraz zasady obliczeń szybkości rozpadu radionuklidów
+        Absolwent zna i rozumie mechanizmy tworzenia i rodzaje wiązań chemicznych oraz mechanizmy oddziaływań
+B.W4
+        międzycząsteczkowych w różnych stanach skupienia materii
+        Absolwent zna i rozumie zasady obliczeń chemicznych niezbędnych w medycynie laboratoryjnej, w szczególności
+B.W6    obliczeń związanych ze sporządzaniem, rozcieńczaniem i przeliczaniem stężeń wyrażonych w standardowych i
+        niestandardowych jednostkach
+        Absolwent zna i rozumie podstawy kinetyki reakcji chemicznych oraz podstawowe prawa termochemii,
+B.W7
+        elektrochemii i zjawisk powierzchniowych
+        Absolwent zna i rozumie nomenklaturę, właściwości oraz metody identyﬁkacji związków nieorganicznych oraz
+B.W9
+        kompleksowych
+Wygenerowano: 2026-11-03 18:48                                                                                       6/6

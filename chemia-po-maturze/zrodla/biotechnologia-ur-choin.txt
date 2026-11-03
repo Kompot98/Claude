@@ -1,0 +1,201 @@
+adres: https://www.ur.edu.pl/files/ur/import/private/113/Sylabusy%20-%20rok%201%2C%20Biotechnologia%20%2C%20studia%20stacjonarne%2C%201%20stopie%C5%84%20cykl%20od%202023_2024/Chemia%20og%C3%B3lna%20i%20nieorganiczna.pdf
+uczelnia: Uniwersytet Rzeszowski
+kierunek: biotechnologia
+przedmiot lub dokument: Chemia ogólna i nieorganiczna
+rok akademicki: cykl 2023/24–2026/27
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+                                                    Załącznik nr 1.5 do Zarządzenia Rektora UR nr 7/2023
+                                          SYLABUS
+                        DOTYCZY CYKLU KSZTAŁCENIA 2023/2024-2026/2027
+                                                          (skrajne daty)
+                                     Rok akademicki 2023/2024
+1. PODSTAWOWE INFORMACJE O PRZEDMIOCIE
+ Nazwa przedmiotu        Chemia ogólna i nieorganiczna
+ Kod przedmiotu*
+ Nazwa jednostki
+ prowadzącej kierunek    Kolegium Nauk Przyrodniczych
+ Nazwa jednostki
+                         Kolegium Nauk Przyrodniczych, Instytut Biotechnologii
+ realizującej przedmiot
+ Kierunek studiów        Biotechnologia
+ Poziom studiów          I stopień
+ Profil                  ogólnoakademicki
+ Forma studiów           stacjonarne
+ Rok i semestr/y studiów rok I, semestr 1
+ Rodzaj przedmiotu       podstawowy
+ Język wykładowy         język polski
+ Koordynator             dr hab. Robert Pązik, prof. UR
+ Imię i nazwisko osoby
+                         dr hab. Robert Pązik, prof. UR (wykład), dr inż. Magdalena Podbielska
+ prowadzącej / osób
+                         (ćwiczenia), dr inż. Anna Górka (ćwiczenia)
+ prowadzących
+* -opcjonalnie, zgodnie z ustaleniami w Jednostce
+  1.1.Formy zajęć dydaktycznych, wymiar godzin i punktów ECTS
+ Semestr                                                                      Inne       Liczba pkt.
+            Wykł.     Ćw.    Konw.     Lab.    Sem.       ZP     Prakt.
+   (nr)                                                                     (jakie?)        ECTS
+    1         30                        30                                                     6
+  1.2. Sposób realizacji zajęć
+       ☒zajęcia w formie tradycyjnej
+       ☐ zajęcia realizowane z wykorzystaniem metod i technik kształcenia na odległość
+  1.3 Forma zaliczenia przedmiotu (z toku) (egzamin, zaliczenie z oceną, zaliczenie bez oceny)
+Wykład: egzamin pisemny
+Laboratorium: zaliczenie z oceną, ustalenie oceny zaliczeniowej na podstawie ocen cząstkowych
+2.WYMAGANIA WSTĘPNE
+  Wiadomości z chemii z zakresu szkoły średniej na poziomie podstawowym egzaminu
+  maturalnego z chemii.
+3. CELE, EFEKTY UCZENIA SIĘ, TREŚCI PROGRAMOWE I STOSOWANE METODY DYDAKTYCZNE
+     3.1 Cele przedmiotu
+    C1      Zapoznanie z terminologią i nomenklaturą chemiczną.
+            Wyrobienie umiejętności posługiwania się podstawowymi pojęciami i prawami
+    C2
+            chemicznymi.
+            Przybliżenie budowy elektronowej pierwiastków, rodzajów wiązań występujących
+    C3
+            w związkach chemicznych.
+    C4      Zapoznanie z rodzajami reakcji chemicznych.
+    C5      Charakterystyka związków nieorganicznych i kompleksowych.
+    C6      Zapoznanie z procesami oksydacyjno-redukcyjnymi.
+    C7      Wprowadzenie podstaw chemii analitycznej.
+            Wyrobienie umiejętności opisu reakcji chemicznych za pomocą równań,
+            wykonywania prostych obliczeń chemicznych, wykonywania analiz ilościowych i
+    C8      jakościowych w zakresie niezbędnym do wyjaśniania zjawisk i procesów
+            biologicznych, bezpiecznego wykonywania doświadczeń chemicznych i posługiwania
+            się sprzętem laboratoryjnym.
+     3.2 Efekty uczenia się dla przedmiotu
+                                                                                                Odniesienie do
+      EK (efekt
+                        Treść efektu uczenia się zdefiniowanego dla przedmiotu                      efektów
+     uczenia się)
+                                                                                                kierunkowych 1
+                      Student posługuje się podstawowymi pojęciami z zakresu
+                      chemii ogólnej i nieorganicznej opisuje budowę materii,
+                      oddziaływania międzycząsteczkowe, procesy chemiczne
+    Ek_01                                                                                      K_W02, K_U12
+                      oraz poprawnie stosuje prawa chemiczne. Opisuje
+                      właściwości poszczególnych grup związków
+                      nieorganicznych.
+                      Student wykonuje proste analizy chemiczne ilościowe                      K_U01, K_U11,
+    Ek_02
+                      i jakościowe oraz obliczenia stechiometryczne                            K_K06
+                      Student potrafi posługiwać się podstawowym sprzętem
+                      w pracowni, organizuje pracę, pracuje zarówno                            K_W09, K_U10,
+    Ek_03             samodzielnie jak i w zespole oraz zna zasady zakresu BHP                 K_U11, K_K02,
+                      umożliwiające bezpieczną pracę w laboratorium                            K_K06
+                      chemicznym
+1
+ W przypadku ścieżki kształcenia prowadzącej do uzyskania kwalifikacji nauczycielskich uwzględnić również efekty
+uczenia się ze standardów kształcenia przygotowującego do wykonywania zawodu nauczyciela.
+  3.3 Treści programowe
+     A. Problematyka wykładu
+Treści merytoryczne
+Materia i jednostki miary. Podstawowe pojęcia stosowane w chemii. Stany skupienia,
+pierwiastek, związek, mieszanina (jednorodna, niejednorodna), wielkości intensywne,
+ekstensywne, jednostki miary.
+Atomy, molekuły i jony. Podstawowe prawa chemiczne, Struktura atomowa, radioaktywność,
+liczba masowa, liczba atomowa, izotopy, wyznaczanie masy atomowej. Układ okresowy,
+prawo okresowości, zapis wzorów chemicznych i nomenklatura związków nieorganicznych.
+Reakcje chemiczne i stechiometria. Zapis równań reakcji chemicznych i ich bilansowanie. Masa
+molowa, prawo Avogadro, przeliczanie podstawowych wielkości, związki pomiędzy
+wielkościami, przykładowe obliczenia chemiczne.
+Reakcje w roztworach wodnych. Pojęcie roztworu, silne i słabe kwasy oraz zasady, elektrolity,
+rozpuszczalność substancji, rodzaje reakcji, zapis i bilansowanie reakcji jonowych. Stopnie
+utleniania, stężenie molowe, przykłady obliczeń.
+Struktura elektronowa atomu. Dualizm korpuskularno falowy, reguła nieoznaczoności, liczby
+kwantowe, typy i kształt orbitali, zakaz Pauliego, reguła Hunda i zasada rozbudowy powłok
+elektronowych, termy atomowe i ich szeregowanie (reguły Hunda).
+Właściwości pierwiastków w oparciu o prawo periodyczności. Efektywny ładunek jądra,
+przewidywanie trendów – promień atomowy, promień jonowy, energia jonizacji,
+powinowactwo elektronowe. Metale i niemetale – charakterystyka podstawowych
+właściwości, krótka charakterystyka tlenowców, fluorowców i gazów szlachetnych.
+Pojęcie wiązania chemicznego. Cykl Borna-Habera, energia sieci krystalicznej, konfiguracja
+elektronowa jonów, elektroujemność, reguła oktetu i wyjątki.
+Symetria molekuł i teoria tworzenia wiązań chemicznych. Przewidywanie kształtu molekuł
+(VSEPR), polarność, teoria wiązań walencyjnych (VB), hybrydyzacja, teoria orbitali
+molekularnych (MO).
+Związki koordynacyjne. Kompleksy jonowe i obojętne, liczba koordynacyjna, ligandy, trwałość
+związków kompleksowych i ich budowa, nomenklatura, dysocjacja i izomeria związków
+kompleksowych.
+Redukcja i utlenianie. Potencjał redukcyjny, równanie Nernsta, dysproporcjonowanie,
+bilansowanie reakcji redoks.
+    B. Problematyka ćwiczeń, konwersatoriów, laboratoriów, zajęć praktycznych
+Treści merytoryczne
+Przepisy BHP. Regulamin Pracowni Chemii.
+Prawa chemiczne - podstawy obliczeń chemicznych.
+Stężenia roztworów, iloczyn rozpuszczalności – obliczenia
+Sporządzanie roztworów, rozpuszczalność związków chemicznych, bufory – obliczenia.
+Przygotowanie roztworów o określonym stężeniu procentowym i molowym, rozcieńczanie
+roztworów.
+Związki trudno rozpuszczalne: analiza wybranych kationów i anionów.
+Procesy utleniania-redukcji.
+Analiza ilościowa na przykładzie alkacymetrii.
+Pracownia zaliczeniowa
+    3.4 Metody dydaktyczne
+Wykład – wykład z prezentacją multimedialną.
+Ćwiczenia laboratoryjne – praca w laboratorium, praca w grupach, zajęcia praktyczne
+i obliczeniowe.
+4. METODY I KRYTERIA OCENY
+    4.1 Sposoby weryfikacji efektów uczenia się
+                               Metody oceny efektów uczenia się                 Forma zajęć
+   Symbol efektu      (np.: kolokwium, egzamin ustny, egzamin pisemny,        dydaktycznych
+                      projekt, sprawozdanie, obserwacja w trakcie zajęć)         (w, ćw, …)
+  Ek_01, Ek_02       Egzamin pisemny, kolokwium, sprawozdanie               w, ćw. lab.
+  Ek_03              Obserwacja podczas zajęć                               ćw. lab.
+    4.2 Warunki zaliczenia przedmiotu (kryteria oceniania)
+  Ćwiczenia: aktywne uczestnictwo we wszystkich zajęciach laboratoryjnych; ocenianie ciągłe,
+  cząstkowe kolokwia pisemne, pozytywne zaliczenie kolokwiów cząstkowych oraz oddanie
+  sprawozdań z ćwiczeń.
+  Wykład: egzamin pisemny z pytaniami otwartymi (w tym równania reakcji i obliczenia)
+  Warunkiem zaliczenia przedmiotu jest osiągnięcie wszystkich założonych efektów uczenia się.
+  Metody i kryteria oceny:
+  A: Pytania z zakresu wiadomości do zapamiętania;
+  B: Pytania z zakresu wiadomości do rozumienia;
+  C: Rozwiązywanie zadania pisemnego typowego;
+  D: Rozwiązywanie zadania pisemnego nietypowego;
+  Kryteria oceny:
+  - za niewystarczające rozwiązanie zadań tylko z obszaru A i B =ocena 2,0
+  - za rozwiązanie zadań tylko z obszaru A i B możliwość uzyskania max oceny 3,0
+  - za rozwiązanie zadań z obszaru A + B + C możliwość uzyskania max oceny 4,0
+  - za rozwiązanie zadań z obszaru A + B + C + D możliwość uzyskania oceny 5,0
+5. CAŁKOWITY NAKŁAD PRACY STUDENTA POTRZEBNY DO OSIĄGNIĘCIA ZAŁOŻONYCH
+   EFEKTÓW W GODZINACH ORAZ PUNKTACH ECTS
+                                                    Średnia liczba godzin na zrealizowanie
+                 Forma aktywności
+                                                                  aktywności
+  Godziny z harmonogramu studiów                                      60
+  Inne z udziałem nauczyciela akademickiego                             7
+  (udział w konsultacjach, egzaminie)
+  Godziny niekontaktowe – praca własna                                 85
+  studenta
+  (przygotowanie do zajęć, egzaminu, napisanie
+  referatu itp.)
+ SUMA GODZIN                                                         152
+ SUMARYCZNA LICZBA PUNKTÓW ECTS                                       6
+  * Należy uwzględnić, że 1 pkt ECTS odpowiada 25-30 godzin całkowitego nakładu pracy
+  studenta.
+6. PRAKTYKI ZAWODOWE W RAMACH PRZEDMIOTU
+      wymiar godzinowy                                     -
+      zasady i formy odbywania                             -
+      praktyk
+7. LITERATURA
+      Literatura podstawowa:
+      1. A. Bielański, Podstawy Chemii Nieorganicznej, Wydawnictwo Naukowe
+         PWN, Warszawa, 1998
+      2. L. Kolditz, Chemia Nieorganiczna, Wydawnictwo Naukowe PWN,
+         Warszawa, 1994
+      3. H. Całus, Podstawy obliczeń chemicznych. WNT, Warszawa, 1983
+      4. M. Dżugan, J. Kisała, A. Pasternakiewicz, Chemia Dla Kierunków
+         Przyrodniczych, Część 1: Chemia Ogólna i Analityczna, Wydawnictwo
+         Uniwersytetu Rzeszowskiego, Rzeszów, 2013
+      5. K. M. Pazdro, Zbiór Zadań z Chemii, Oficyna Edukacyjna, Warszawa,
+         1994
+      Literatura uzupełniająca:
+      1. T. Penkala, Podstawy Chemii Ogólnej, Wydawnictwo Naukowe PWN,
+      2. L. Pauling, P. Pauling, Chemia, Wydawnictwo Naukowe PWN,
+         Warszawa, 1997
+      3. P. Atkins, L. Jones, Chemia Ogólna, Cząsteczki, Materia, Reakcje,
+         Wydawnictwo Naukowe PWN, 2012
+    Akceptacja Kierownika Jednostki lub osoby upoważnionej

@@ -1,0 +1,278 @@
+adres: https://wydzialy.uksw.edu.pl/wp-content/uploads/sites/5/2025/09/BT_25-26_1S_O_Chemia-ogolna-I-1.pdf
+uczelnia: Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie
+kierunek: biotechnologia
+przedmiot lub dokument: Chemia ogólna I
+rok akademicki: 2025/26 (przedmiot obowiązuje od 2024/25)
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+                                            Załącznik do Zarządzenia Nr 37/2025 Rektora UKSW z dnia 27 maja 2025 r.
+                                      Załącznik Nr 2 do Zarządzenia Nr 10/2022 Rektora UKSW z dnia 24 lutego 2022 r.
+                                   Informacje podstawowe
+Nazwa przedmiotu                         Chemia ogólna I
+Prowadzący                               dr hab. Małgorzata Wszelaka-Rylik, prof. ucz.
+Wydział                                  Wydział Biologii i Nauk o Środowisku
+Kierunek                                 Biotechnologia
+Poziom studiów                           I stopień
+Profil studiów                           ogólnoakademicki
+Forma studiów                            stacjonarne
+Moduł specjalnościowy/ścieżka
+                                         -
+(jeśli dotyczy)
+Dyscyplina naukowa, do której
+                                         nauki chemiczne
+odnoszą się efekty uczenia się
+Przedmiot obowiązuje od roku
+                                         2024/2025
+akademickiego
+Rok studiów                              I
+Semestr                                  I
+Język wykładowy                          polski
+Status przedmiotu
+(obowiązkowy, obowiązkowy z              obowiązkowy
+grupy do wyboru)
+                                         BIO1_W01
+Odniesienie do kierunkowych
+                                         BIO1_U01
+efektów uczenia się (symbole)
+                                         BIO1_U07
+                                         Wykład informacyjny z prezentacją multimedialną. Wykład
+                                         monograficzny/problemowy/konwersatoryjny. Studenci są
+Rodzaj zajęć (wybór z listy*)            aktywizowani do dyskusji.
+                                         Ćwiczenia: metoda ćwiczeniowa, aktywizująca, praca w grupie.
+                                         Laboratorium: wykonywanie ćwiczeń praktycznych.
+Liczba godzin                            30W/30Ćw/30L
+Liczba ECTS                              7
+Wymagania wstępne                        Wiedza z chemii ogólnej ze szkoły średniej.
+                                         Poznanie podstawowych pojęć i procesów chemicznych z
+                                         zakresu chemii ogólnej. Przeprowadzanie obliczeń z
+Opis i cele przedmiotu
+                                         zastosowaniem poznanej wiedzy. Zdobycie umiejętności
+                                         projektowania i przeprowadzania doświadczeń chemicznych.
+ Prawa autorskie do sylabusa przysługują UKSW. Sylabus może być wykorzystywany jedynie dla celów związanych
+ z kształceniem na studiach odbywających się w UKSW, korzystanie z niego w innych celach wymaga zgody UKSW.
+                                                                                                                       1
+                                           Załącznik do Zarządzenia Nr 37/2025 Rektora UKSW z dnia 27 maja 2025 r.
+                                     Załącznik Nr 2 do Zarządzenia Nr 10/2022 Rektora UKSW z dnia 24 lutego 2022 r.
+                                      Treści programowe
+                            Temat/blok zajęć: Wykład                                          Liczba godzin
+ 1.    Budowa materii. Pierwiastki i związki chemiczne. Pojęcia atomu,
+       izotopu, pierwiastka, cząsteczki. Pochodzenie pierwiastków.
+       Metale, niemetale i półmetale. Charakterystyka układu okresowego.                              4
+       Związki chemiczne (cząsteczkowe, jonowe), wzory chemiczne.
+       Nomenklatura chemiczna.
+ 2.    Układ metryczny. Jednostki układu SI i jednostki pochodne.
+                                                                                                      2
+       Dokładność i precyzja. Mol i masa molowa.
+ 3.    Obliczenia chemiczne. Stechiometria reakcji i podstawy obliczeń
+       chemicznych. Wydajność reakcji. Analiza elementarna.                                           6
+       Wyznaczanie wzorów chemicznych.
+ 4.    Stany skupienia materii. Reakcje powstawania gazów. Właściwości
+       gazów. Molekularny charakter gazów i pojęcie ciśnienia. Prawa
+       gazowe: Boyle'a, Charlesa i Gay-Lussaca, Avogadro oraz równanie
+                                                                                                      4
+       stanu gazu doskonałego.. Gazy rzeczywiste. Przemiany fazowe:
+       prężność pary, wrzenie, krzepnięcie, topnienie, wykresy fazowe.
+       Mieszaniny gazów.
+ 5.    Mieszaniny, typy mieszanin i metody rozdzielania. Roztwory.
+       Reakcje chemiczne. Równania reakcji chemicznych. Reakcje
+       kwasów i zasad. Kwasy (zasady) mocne i słabe. Dysocjacja
+       elektrolityczna. Prawo rozcieńczeń Ostwalda. Stopień dysocjacji.
+       Reakcje zobojętnienia. Skala pH. Kwasy i zasady Bronsteda i                                    6
+       Lowry'ego. Przewidywanie względnej mocy kwasów. Równowagi
+       w roztworach wodnych. Jony jako kwasy i zasady i pH roztworu
+       soli. Wskaźniki. Bufory. Reakcje zobojętniania. Reakcje redoks
+       (utleniania i redukcji). Utleniacze i reduktory.
+ 6.    Szybkość reakcji. Równowaga chemiczna. Pojęcie szybkości
+       reakcji: chwilowa szybkość reakcji, stała szybkości i okres
+       półtrwania. Rzędowość reakcji. Wpływ temperatury. Kataliza.
+                                                                                                      4
+       Odwracalność reakcji chemicznych i stała równowagi. Szybkość
+       reakcji a równowaga. Równowagi heterogeniczne i w fazie
+       gazowej. Stopień przereagowania i kierunek reakcji.
+ 7.    Molekularna interpretacja rozpuszczania. Rozpuszczalność: wpływ
+       temperatury i ciśnienia. Iloczyn rozpuszczalności. Reakcje strącania                           4
+       i ich zastosowania.
+                                                           Łącznie godzin:                            30
+                    Temat/blok zajęć: Ćwiczenia audytoryjne                                   Liczba godzin
+ 1.    Pojęcie mola, masy molowej, objętość molowa gazu doskonałego w
+       warunkach normalnych. Gazy doskonałe. Skład procentowy,                                        6
+       obliczenia stechiometryczne.
+ 2.    Systematyka związków nieorganicznych. Otrzymywanie związków
+                                                                                                      2
+       nieorganicznych i ich właściwości.
+ 3.    Reakcje kwasów i zasad. Reakcje zobojętniania.                                                 2
+Prawa autorskie do sylabusa przysługują UKSW. Sylabus może być wykorzystywany jedynie dla celów związanych
+z kształceniem na studiach odbywających się w UKSW, korzystanie z niego w innych celach wymaga zgody UKSW.
+                                                                                                                      2
+                                                 Załącznik do Zarządzenia Nr 37/2025 Rektora UKSW z dnia 27 maja 2025 r.
+                                           Załącznik Nr 2 do Zarządzenia Nr 10/2022 Rektora UKSW z dnia 24 lutego 2022 r.
+       4.    Reakcje utleniania-redukcji.                                                                   2
+       5.    Stężenia molowe, ułamek molowy, mieszanie roztworów,
+             rozcieńczanie, zatężanie, przeliczanie stężenia molowego na                                    6
+             procentowe i odwrotnie.
+       6.    Skala pH, mocne kwasy i zasady, słabe kwasy i zasady-obliczenia.                               6
+       7.    Reakcje strącania i ich zastosowania. rozpuszczalność i iloczyn
+                                                                                                            6
+             rozpuszczalności-obliczenia.
+                                                              Łącznie godzin:                               30
+                        Temat/blok zajęć: Ćwiczenia laboratoryjne                                   Liczba godzin
+       1.    Zasady BHP                                                                                   3
+       2.    Analiza miareczkowa. Alkacymetria                                                            3
+       3.    Analiza miareczkowa. Redoksymetria.                                                          3
+       4.    Analiza miareczkowa. Metoda Mohra                                                            3
+       5.    Wyznaczanie stopnia i stałej dysocjacji słabych elektrolitów                                 3
+       6.    Wyznaczanie stałej szybkości reakcji chemicznej                                              3
+       7.    Badania właściwości fizyko-chemicznych wody                                                  3
+       8.    pH roztworów elektrolitów                                                                    3
+       9.    Oznaczanie fosforanów metodą krzywej wzorcowej                                               3
+                                                                Łącznie godzin:                          30
+                       Opis przedmiotowych efektów uczenia się
+                               i sposoby ich weryfikacji
+                       Kierunkowe                                                                               Sposoby
+                                                                Opis przedmiotowych
+                    efekty uczenia się                                                                     weryfikacji efektów
+                                                                 efektów uczenia się
+                                                                                                               uczenia się
+                                                                      Student...                               (np.: kolokwium
+ Symbol            (zgodne z programem                 (wyłącznie czasownikami operacyjnymi -              pisemne, egzamin ustny,
+  efektu              na BIPUKSW)                        czynności, które da się zweryfikować,                egzamin pisemny,
+                                                     mierzalne; w nawiasie należy podać numery                  sprawozdanie,
+                        Absolwent…
+                                                      tematów zajęć, które realizują dany efekt)                prezentacja na
+                 (zna i rozumie/potrafi/jest                                                                  zajęciach, raport,
+                           gotów)                                       Student…                            projekt indywidualny,
+                                                                                                                  grupowy..)
+         Absolwent zna i rozumie w
+                                                     Student rozumie w zaawansowanym
+         zaawansowanym        stopniu
+                                                     stopniu wybrane zagadnienia z chemii
+         wybrane zagadnienia z chemii
+BIO1_W01                                             ogólnej niezbędne do rozumienia                         egzamin pisemny
+         ogólnej    niezbędne      do
+                                                     podstawowych       procesów       w
+         rozumienia    podstawowych
+                                                     biotechnologii.
+         procesów w biotechnologii.
+      Prawa autorskie do sylabusa przysługują UKSW. Sylabus może być wykorzystywany jedynie dla celów związanych
+      z kształceniem na studiach odbywających się w UKSW, korzystanie z niego w innych celach wymaga zgody UKSW.
+                                                                                                                              3
+                                                Załącznik do Zarządzenia Nr 37/2025 Rektora UKSW z dnia 27 maja 2025 r.
+                                          Załącznik Nr 2 do Zarządzenia Nr 10/2022 Rektora UKSW z dnia 24 lutego 2022 r.
+            Absolwent zna i wykorzystuje
+                                                    Student wykorzystuje wiedzę z chemii
+            wiedzę z chemii ogólnej do
+BIO1_U01                                            ogólnej do rozwiązywania zadań w                      kolokwium pisemne
+            rozwiązywania zadań w
+                                                    obszarze biotechnologii.
+            obszarze biotechnologii.
+            Absolwent posługuje się
+                                                    Student posługuje się technikami
+BIO1_U07    technikami laboratoryjnymi z                                                                      sprawozdanie
+                                                    laboratoryjnymi z zakresu chemii ogólnej.
+            zakresu chemii ogólnej.
+                                          Metody dydaktyczne
+                             (dostosowane do przedmiotowych efektów uczenia się)
+      Wykład
+      Ćwiczenia audytoryjne
+      Ćwiczenia laboratoryjne
+                         Opis nakładu pracy studenta w ECTS
+         Kontakt z                                                                  Liczba          Razem liczba
+                                               Aktywność
+       prowadzącym                                                                  godzin         godzin / ECTS
+                            udział w zajęciach                                        90
+        bezpośredni         udział w zaliczeniach poza zajęciami                       2                97/4,0
+                            udział w konsultacjach                                     5
+                            przygotowanie do egzaminu                                 30
+                            przygotowanie do zajęć laboratoryjnych                    20
+       praca własna                                                                                     90/3,0
+                            przygotowanie do sprawozdań                               10
+                            przygotowanie do kolokwium                                30
+                                      Kryteria oceny końcowej
+        (Opis składowych oceny końcowej zajęć, rozkład procentowy lub punktowy, informacja o
+                          dopuszczalnej liczbie nieobecności, inne kryteria)
+      Wszystkie formy zajęć są ze sobą ściśle powiązane i uzupełniają się wzajemnie.
+      Metoda oceny: Egzamin pisemny. Do zaliczenia egzaminu wymagane jest zaliczenie
+      ćwiczeń i laboratorium. Na egzaminie obowiązują zagadnienia z danego zakresu omawiane
+      na wszystkich formach zajęć.
+      Ćwiczenia: Warunkiem zaliczenia ćwiczeń jest obecność na ćwiczeniach i zaliczenie dwóch
+      kolokwiów. Na kolokwiach obowiązują zagadnienia omawiane na wykładach i realizowane
+      na laboratorium.
+      Laboratorium: Metody oceny: kolokwium wstępne, zaliczenie poszczególnych ćwiczeń na
+      podstawie sprawozdania, kolokwium końcowe z całości materiału.
+     Prawa autorskie do sylabusa przysługują UKSW. Sylabus może być wykorzystywany jedynie dla celów związanych
+     z kształceniem na studiach odbywających się w UKSW, korzystanie z niego w innych celach wymaga zgody UKSW.
+                                                                                                                             4
+                                           Załącznik do Zarządzenia Nr 37/2025 Rektora UKSW z dnia 27 maja 2025 r.
+                                     Załącznik Nr 2 do Zarządzenia Nr 10/2022 Rektora UKSW z dnia 24 lutego 2022 r.
+ Ocena końcowa jest średnią wszystkich ocen uzyskanych z poszczególnych ćwiczeń.
+ Wykład:
+ Egzamin
+ Końcowa ocena:
+ Punktacja:
+ ≥95% - 5.0
+ ≥90% - 4.5
+ ≥80% - 4.0
+ ≥70% - 3.5
+ ≥60% - 3.0
+ <60% - 2.0
+ Ćwiczenia:
+ Kolokwium
+ Końcowa ocena:
+ Punktacja:
+ ≥95% - 5.0
+ ≥90% - 4.5
+ ≥80% - 4.0
+ ≥70% - 3.5
+ ≥60% - 3.0
+ <60% - 2.0
+ Laboratorium
+ Na ocenę z przedmiotu składają się punkty uzyskane z kolokwiów i sprawozdań:
+ Punktacja:
+ ≥95% - 5.0
+ ≥90% - 4.5
+ ≥80% - 4.0
+ ≥70% - 3.5
+ ≥60% - 3.0
+ <60% - 2.0
+                                 Literatura obowiązkowa
+                 L.L Jones, P.W. Atkins, "Chemia ogólna. Cząsteczki, materia, reakcje"
+ 1.
+                 PWN Warszawa 2009 i wcześniejsze wydania.
+                 Galus Z. (ed.) "Ćwiczenia rachunkowe z chemii analitycznej". PWN
+ 2.
+                 Warszawa 2007.
+                 Halina Kowalczyk-Dembińska "Ćwiczenia rachunkowe z podstaw
+ 3.
+                 chemii", UNIVERSITAS, 2007
+                 Podręcznik do ćwiczeń "Laboratorium chemiczne" wydany w bibliotece
+ 4.              Szkoły Nauk Ścisłych (wyd. I. Warszawa 2000, ISBN 83-909206-3-8; wyd.
+                 II.
+                                 Literatura uzupełniająca
+       1.        A. Bielański, "Chemia nieorganiczna". PWN Warszawa 2008.
+Prawa autorskie do sylabusa przysługują UKSW. Sylabus może być wykorzystywany jedynie dla celów związanych
+z kształceniem na studiach odbywających się w UKSW, korzystanie z niego w innych celach wymaga zgody UKSW.
+                                                                                                                      5
+                                           Załącznik do Zarządzenia Nr 37/2025 Rektora UKSW z dnia 27 maja 2025 r.
+                                     Załącznik Nr 2 do Zarządzenia Nr 10/2022 Rektora UKSW z dnia 24 lutego 2022 r.
+                 Zygmunt Marczenko, Jerzy Minczewski "Chemia analityczna". PWN
+        2.
+                 Warszawa 2008.
+* lista rodzajów zajęć
+    -    ćwiczenia (audytoryjne, translatoryjne, terenowe, warsztatowe, projektowe)
+    -    ćwiczenia laboratoryjne, komputerowe
+    -    lektorat języka obcego nowożytnego/starożytnego
+    -    wykład kierunkowy
+    -    wykład monograficzny lub konwersatorium monograficzne
+    -    seminarium dyplomowe
+         (sem. magisterskie, licencjackie lub inżynierskie, na którym student pod kierunkiem
+         opiekuna pracy przygotowuje pracę dyplomową, wykorzystując metody adekwatne do
+         realizowanej tematyki badawczej)
+    -    pracownia dyplomowa (programistyczna, chemiczna, fizyczna, biologiczna,
+         inżynierska)
+         (zajęcia laboratoryjne, na których student pod kierunkiem opiekuna pracy
+         przygotowuje pracę dyplomową wykorzystując metody adekwatne do realizowanej
+         tematyki badawczej)
+Prawa autorskie do sylabusa przysługują UKSW. Sylabus może być wykorzystywany jedynie dla celów związanych
+z kształceniem na studiach odbywających się w UKSW, korzystanie z niego w innych celach wymaga zgody UKSW.
+                                                                                                                      6

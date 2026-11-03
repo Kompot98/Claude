@@ -1,0 +1,200 @@
+adres: https://up.lublin.pl/weterynaria/wp-content/uploads/sites/3/2025/09/1-rok-wet.-ST.pdf
+uczelnia: Uniwersytet Przyrodniczy w Lublinie
+kierunek: weterynaria
+przedmiot lub dokument: rozkład zajęć semestru 1
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+                                                                                                               Rozkład zajęć
+                                                                                      I rok Weterynaria - stacjonarne - Studia Jednolite Magisterskie
+                                                                                                      Semestr zimowy 2025-2026 r.
+Grupy: Grupa 1, Grupa 2, Grupa 3, Grupa 4, Grupa 5, Grupa 6
+             Poniedziałek                                            Wtorek                                          Środa                                    Czwartek                                           Piątek
+07:45 -               Ćw. Biofizyka                08:00 -           Ćw. Anatomia zwierząt            08:00 -           Ćw. Język obcy            07:45 -     Ćw. Wychowanie fizyczne         07:45 -         Wy. Histologia i embriologia
+                      przez 10 tyg.                                                                                                                                pływalnia/sale
+ 09:15                                              10:30                                              09:30                                       11:00                                       09:15
+                                                                            Grupa 1                             rozkłady zajęć z języków obcych                 Grupa 1, 2, 3, 4, 5, 6                             Grupa wykładowa
+                         Grupa 3                                            A PROS                                    ul. Głęboka 28 CIW                           ul. Głęboka 31                                    AULA AGRO I
+                         15 ZOOT
+                                                   08:00 -           Ćw. Anatomia zwierząt            08:00 -            Ćw. Chemia               11:30 -           Ćw. Język obcy            09:30 -            Wy. Biologia komórki
+07:45 -    Ćw. Biologia świata zwierząt i roślin                                                                                                                                                                       co 2 tyg.
+                                                    10:30                                              10:15                                       13:00                                       11:00
+                         co 2 tyg.                                          Grupa 2                                                                         rozkłady zajęć z języków obcych                       Grupa wykładowa
+ 09:15
+                         Grupa 2                                            B PROS                                         Grupa 1                                ul. Głęboka 28 CIW                                 AULA AGRO I
+                         401 WET                                                                                           120 WET
+                                                   09:45 -               Ćw. Biofizyka                                                            11:30 -         Ćw. Język łaciński          09:30 -     Wy. Biologia świata zwierząt i roślin
+07:45 -        Ćw. Histologia i embriologia                              przez 10 tyg.                09:45 -           Ćw. Język obcy                                co 2 tyg.                                         co 2 tyg.
+                                                    11:15                                                                                          13:00                                       11:00
+                                                                                                                        Język niemiecki                             Grupa 5 A i B                                  Grupa wykładowa
+ 09:15                                                                                                 11:15
+                         Grupa 1                                            Grupa 5                             rozkłady zajęć z języków obcych                       234 CIW                                        AULA AGRO I
+                         236 WET                                            15 ZOOT                                   ul. Głęboka 28 CIW                             Ćw. Chemia                                 Wy. Anatomia zwierząt
+                                                                                                                                                  11:30 -                                     11:15 -
+07:45 -           Ćw. Biologia komórki             10:45 -           Ćw. Anatomia zwierząt            10:25 -            Ćw. Chemia
+                                                                                                                                                   13:45                                       12:45
+                        co 2 tyg.                                                                                                                                                                                  Grupa wykładowa
+ 09:15                                              13:15                                              12:40                                                           Grupa 6
+                        Grupa 2                                             Grupa 4                                                                                                                                  AULA AGRO I
+                        401 WET                                             B PROS                                         Grupa 2                                     120 WET
+                                                                                                                                                                                              13:00 -                 Wy. Chemia
+                                                                                                                           120 WET
+09:30 -           Ćw. Biologia komórki             10:45 -           Ćw. Anatomia zwierząt                                                        15:00 -           Ćw. Język obcy             14:30
+                        co 2 tyg.                                                                     12:50 -            Ćw. Chemia                                                                                    co 2 tyg.
+ 11:00                                              13:15                                                                                          16:30                                                           Grupa wykładowa
+                        Grupa 1                                             Grupa 3                                                                         rozkłady zajęć z języków obcych
+                                                                                                       15:05
+                        401 WET                                             A PROS                                                                                ul. Głęboka 28 CIW                                 AULA AGRO I
+               Ćw. Histologia i embriologia                              Ćw. Biofizyka                                     Grupa 3                          Ćw. Technologie informacyjne                 Wy. Bezpieczeństwo pracy i ergonomia
+09:30 -                                            11:30 -                                                                 120 WET                16:00 -                                     13:00 -
+                                                                         przez 10 tyg.                                                                                                                                 co 2 tyg.
+ 11:00                                              13:00                                                                                          17:30                                       14:30
+                         Grupa 2                                                                                      Ćw. Język łaciński                              Grupa 1 A                                    Grupa wykładowa
+                                                                                                      13:15 -
+                         236 WET                                            Grupa 2                                       co 2 tyg.                                   228 CIW                                        AULA AGRO I
+                                                                            15 ZOOT
+                                                                                                       14:45
+                      Ćw. Biofizyka                                                                                     Grupa 6 A i B                       Ćw. Technologie informacyjne
+09:30 -                                                                                                                  205 Agro II              16:00 -
+                      przez 10 tyg.
+                                                   13:30 -   Ćw. Wykorzystanie zwierząt w badaniach                                                                                           14:45 -   Wy. Wykorzystanie zwierząt w badaniach
+ 11:00                                                                                                                                             17:30
+                                                                          naukowych
+                                                                                                      15:00 -           Ćw. Biofizyka                                 Grupa 1 B                                      naukowych
+                         Grupa 4
+                                                    15:00                                                                                                                                      16:15
+                                                                           co 2 tyg.                                    przez 10 tyg.                                 216 CIW                                         co 2 tyg.
+                         15 ZOOT                                            Grupa 1
+                                                                                                       16:30                                                                                                      Grupa wykładowa
+                                                                                                                                                  16:45 -           Ćw. Język obcy
+                                                                            A WET                                          Grupa 6                                                                                  AULA AGRO I
+09:30 -    Ćw. Biologia świata zwierząt i roślin
+                                                                                                                           15 ZOOT                 18:15
+                         co 2 tyg.                 13:30 -             Ćw. Język łaciński                                                                   rozkłady zajęć z języków obcych   14:45 -                Wy. Biofizyka
+ 11:00
+                         Grupa 1                                           co 2 tyg.                  15:15 -            Ćw. Chemia                               ul. Głęboka 28 CIW
+                         401 WET
+                                                    15:00                                                                                                                                      16:15
+                                                                         Grupa 4 A i B                                                                             Wy. Psychologia                                     co 2 tyg.
+                                                                           234 CIW
+                                                                                                       17:30                                      18:30 -                                                          Grupa wykładowa
+11:15 -        Ćw. Histologia i embriologia
+                                                                                                                                                   20:00                                                             AULA AGRO I
+                                                             Ćw. Wykorzystanie zwierząt w badaniach                        Grupa 4                                Grupa wykładowa
+ 12:45                                             13:30 -                                                                 120 WET
+                         Grupa 3                                          naukowych                                                                                    A WET                                         Wy. Filozofia
+                                                    15:00                                                                                                                                     16:30 -
+                         236 WET                                           co 2 tyg.
+                                                                                                      15:30 -   Ćw. Technologie informacyjne
+                                                                                                                                                                                               18:00
+                      Ćw. Biofizyka                                         Grupa 2                                                                                                                                Grupa wykładowa
+11:15 -                                                                     A WET
+                                                                                                       17:00
+                      przez 10 tyg.                                                                                       Grupa 5 B                                                                                  AULA AGRO I
+ 12:45                                                                                                                    216 CIW
+                                                   13:30 -           Ćw. Anatomia zwierząt
+                         Grupa 1
+                                                                                                      15:30 -   Ćw. Technologie informacyjne
+                         15 ZOOT
+                                                    16:00
+                                                                            Grupa 5
+                                                                                                       17:00
+                                                                            A PROS                                        Grupa 3 A
+                                                                                                                          217 CIW
+            Poniedziałek                                            Wtorek                                         Środa
+11:15 -          Ćw. Biologia komórki             13:30 -           Ćw. Anatomia zwierząt            15:30 -   Ćw. Technologie informacyjne
+                       co 2 tyg.
+ 12:45                                             16:00                                              17:00
+                       Grupa 4                                             Grupa 6                                      Grupa 3 B
+                       401 WET                                             B PROS                                       228 CIW
+11:15 -   Ćw. Biologia świata zwierząt i roślin   15:15 -   Ćw. Wykorzystanie zwierząt w badaniach   17:00 -   Ćw. Technologie informacyjne
+                        co 2 tyg.                                        naukowych
+ 12:45                                             16:45                                              18:30
+                        Grupa 4                                           co 2 tyg.                                     Grupa 6 A
+                        401 WET                                            Grupa 4                                      217 CIW
+                                                                           A WET
+13:00 -       Ćw. Histologia i embriologia                                                           17:00 -   Ćw. Technologie informacyjne
+                                                  15:15 -   Ćw. Wykorzystanie zwierząt w badaniach
+ 14:30                                                                                                18:30
+                        Grupa 4                                          naukowych                                      Grupa 6 B
+                                                   16:45
+                        236 WET                                           co 2 tyg.                                     228 CIW
+            Ćw. Technologie informacyjne                                   Grupa 3                                  Ćw. Język łaciński
+13:00 -                                                                    A WET                     17:15 -
+                                                                                                                        co 2 tyg.
+ 14:30                                                                                                18:45
+                       Grupa 5 A
+                                                  17:00 -   Ćw. Wykorzystanie zwierząt w badaniach                       Grupa 3
+                       228 CIW                                           naukowych                                      234 CIW
+                                                   18:30
+                 Ćw. Biologia komórki                                     co 2 tyg.                                    Ćw. Chemia
+13:00 -                                                                    Grupa 5                   17:40 -
+                       co 2 tyg.
+ 14:30                                                                     A WET                      19:55
+                       Grupa 3
+                       401 WET
+                                                  17:00 -   Ćw. Wykorzystanie zwierząt w badaniach                      Grupa 5
+                                                                                                                        120 WET
+13:00 -   Ćw. Biologia świata zwierząt i roślin    18:30
+                                                                         naukowych
+                        co 2 tyg.                                         co 2 tyg.
+ 14:30                                                                     Grupa 6
+                        Grupa 3
+                        401 WET                                            A WET
+                   Ćw. Język łaciński             18:30 -               Ćw. Język obcy
+13:15 -
+                       co 2 tyg.                   20:00
+ 14:45                                                          rozkłady zajęć z języków obcych
+                     Grupa 2 A i B
+                       234 CIW                                        ul. Głęboka 28 CIW
+14:45 -       Ćw. Histologia i embriologia
+ 16:15
+                        Grupa 5
+                        236 WET
+15:00 -            Ćw. Język łaciński
+                       co 2 tyg.
+ 16:30
+                     Grupa 1 A i B
+                       234 CIW
+16:00 -     Ćw. Technologie informacyjne
+ 17:30
+                       Grupa 4 A
+                       217 CIW
+16:00 -     Ćw. Technologie informacyjne
+ 17:30
+                       Grupa 4 B
+                       228 CIW
+16:00 -     Ćw. Technologie informacyjne
+ 17:30
+                       Grupa 2 A
+                       216 CIW
+16:30 -          Ćw. Biologia komórki
+                       co 2 tyg.
+ 18:00
+                       Grupa 5
+                       401 WET
+            Poniedziałek
+16:30 -       Ćw. Histologia i embriologia
+ 18:00
+                        Grupa 6
+                        236 WET
+16:30 -   Ćw. Biologia świata zwierząt i roślin
+                        co 2 tyg.
+ 18:00
+                        Grupa 5
+                        401 WET
+17:30 -     Ćw. Technologie informacyjne
+ 19:00
+                       Grupa 2 B
+                       216 CIW
+18:15 -   Ćw. Biologia świata zwierząt i roślin
+                        co 2 tyg.
+ 19:45
+                        Grupa 6
+                        401 WET
+18:15 -          Ćw. Biologia komórki
+                       co 2 tyg.
+ 19:45
+                       Grupa 6
+                       401 WET

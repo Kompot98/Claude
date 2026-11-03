@@ -1,0 +1,370 @@
+adres: https://wl.cm.uj.edu.pl/cm/uploads/2024/10/PLAN-STUDIOW-2024-2025-lek-dent-akt-9.10.24.pdf
+uczelnia: Uniwersytet Jagielloński Collegium Medicum
+kierunek: stomatologia
+przedmiot lub dokument: plan studiów
+rok akademicki: 2024/25
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+                            PLAN STUDIÓW
+                NA KIERUNKU LEKARSKO-DENTYSTYCZNYM
+                                 I-V
+                       ROK AKADEMICKI 2024/2025
+                                          I rok
+                                Opiekun: Prof. Grzegorz Lis
+                                Cykl dydaktyczny 2024/25
+Rok             Przedmiot             Semestr           Koordynator           Forma
+                                                                             weryfikacji
+I     Anatomia z embriologią i         1,2      Dr Jarosław Zawiliński     Egzamin
+      podstawy genetyki
+      Anatomia z embriologią i
+      podstawy genetyki
+I     Histologia z cytofizjologią      1,2      Prof. Grzegorz Lis         Egzamin
+      Histologia z cytofizjologią
+I     Materiałoznawstwo i sprzęt       1,2      Dr hab. Wojciech           Egzamin
+      stomatologiczny                           Ryniewicz
+      Materiałoznawstwo i sprzęt
+      stomatologiczny
+I     Język angielski                  1,2      Mgr Anna Krause-Baran      Zaliczenie -
+      Język angielski                                                      kontynuacja
+                                                                           w semestrach
+                                                                           3,4,5 oraz 6
+I     Wychowanie fizyczne              1,2      Dr Dorota Palik            Zaliczenie bez
+      Wychowanie fizyczne                                                  oceny
+I     Medycyna cyfrowa                  1       Dr Piotr Walecki           Zaliczenie –
+      Medycyna cyfrowa                                                     kontynuacja w
+                                                                           semestrze 4
+I     Propedeutyka medycyny i           1       Prof. Jolanta Pytko-       Zaliczenie na
+      stomatologii                              Polończyk                  ocenę
+      Propedeutyka medycyny i
+      stomatologii
+I     Historia medycyny i               1       Prof. Ryszard Gryglewski   Egzamin
+      stomatologii
+      Historia medycyny i
+      stomatologii
+I     Filozofia                         1       Prof. Jan Hartman          Zaliczenie na
+      Filozofia                                                            ocenę
+I     BHK                               1       Mgr inż. Katarzyna         Zaliczenie bez
+      BHK                                       Bartochowska,              oceny
+                                                Mgr Anna Blaschke
+I     Pierwsza pomoc i elementy         2       Dr Jarosław Garlicki       Zaliczenie na
+      pielęgniarstwa                                                       ocenę
+      Pierwsza pomoc i elementy
+      pielęgniarstwa
+I   Epidemiologia i medycyna          2     Dr Elżbieta Sochacka-         Zaliczenie na
+    środowiskowa                            Tatara                        ocenę
+    Epidemiologia i medycyna
+    środowiskowa
+I   Profilaktyka stomatologiczna      2     Prof. Marta Cześnikiewicz -   Zaliczenie na
+    Profilaktyka stomatologiczna            Guzik                         ocenę
+I   Fakultet – nauki behawioralne                                         Zaliczenie na
+                                                                          ocenę
+I   Praktyka w zakresie             Prof. Tomasz Kaczmarzyk               Zaliczenie
+    organizacji ochrony zdrowia
+I   Praktyka w zakresie chirurgii   Prof. Tomasz Kaczmarzyk               Zaliczenie
+    ogólnej, chorób wewnętrznych
+    lub chirurgii szczękowo-
+    twarzowej
+                                           II rok
+                            Opiekun: Dr hab. Katarzyna Szczeklik
+                                Cykl dydaktyczny 2023/24
+Rok             Przedmiot              Semestr           Koordynator             Forma
+                                                                                weryfikacji
+II    Biochemia z elementami            3,4      Dr Patrycja Bronowicka-      Egzamin
+      chemii                                     Adamska
+      Biochemia z elementami                     Dr Dominika Szlęzak
+      chemii
+II    Fizjologia człowieka              3,4      Dr hab. Aleksandra           Egzamin
+      Fizjologia człowieka                       Szlachcic
+II    Propedeutyka stomatologii         3,4      Prof. Jolanta Pytko-         Zaliczenie –
+      zintegrowanej                              Polończyk                    kontynuacja w
+      Propedeutyka stomatologii                                               semestrze 5
+      zintegrowanej
+II    Język angielski                   3,4      Mgr Anna Krause-Baran        Zaliczenie -
+      Język angielski                                                         kontynuacja w
+                                                                              semestrach 4
+                                                                              oraz 5
+II    Biofizyka medyczna                 3       Prof. Grzegorz Tatoń         Egzamin
+      Biofizyka medyczna                         Dr Tomasz Rok
+II    Epidemiologia i medycyna           3       Prof. Agnieszka Pac          Zaliczenie na
+      środowiskowa                                                            ocenę
+      Epidemiologia i medycyna
+      środowiskowa
+II    Materiałoznawstwo i sprzęt         3       Dr hab. Wojciech             Egzamin
+      stomatologiczny                            Ryniewicz
+      Materiałoznawstwo i sprzęt
+      stomatologiczny
+II    Psychologia lekarska               3       Dr Roksana Epa               Zaliczenie na
+      Psychologia lekarska                                                    ocenę
+II    Immunologia                        4       Prof. Krzysztof Bryniarski   Zaliczenie na
+      Immunologia                                Dr hab. Katarzyna Nazimek    ocenę
+II    Radiologia ogólna                  4       Prof. Tadeusz Popiela        Zaliczenie na
+      Radiologia ogólna                          Prof. Wadim                  ocenę
+                                                 Wojciechowski
+II    Fizjologia narządu żucia           4       Dr Andrzej Gala              Egzamin
+      Fizjologia narządu żucia
+II    Socjologia medycyny w              4       Prof. Małgorzata Bała        Zaliczenie na
+      stomatologii                               Dr Ilona Barańska            ocenę
+      Socjologia medycyny w
+      stomatologii
+II    Fakultet – naukowe podstawy medycyny                                    Zaliczenie na
+                                                                              ocenę
+II    Praktyka w zakresie asysty      Prof. Tomasz Kaczmarzyk                 Zaliczenie
+      lekarzowi dentyście
+                                          III rok
+                         Opiekun: Prof. Jolanta Pytko-Polończyk
+                              Cykl dydaktyczny 2022/23
+Rok   Przedmiot                       Semestr   Koordynator                 Forma
+                                                                            weryfikacji
+III   Patologia                         5,6     Prof. Magdalena-            Egzamin
+      Patologia                                 Ulatowska-Białas
+                                                Dr hab. Andrzej Bugajski
+III   Farmakologia z elementami         5,6     Prof. Rafał Olszanecki      Egzamin
+      farmakologii klinicznej                   Dr Magdalena Bartuś
+      Farmakologia z elementami
+      farmakologii klinicznej
+III   Choroby wewnętrzne z              5,6     Prof. Tomasz Guzik          Egzamin
+      fizjoterapią i rehabilitacją              Dr Adam Ignacak
+      Choroby wewnętrzne z
+      fizjoterapią i rehabilitacją
+III   Stomatologia zachowawcza z        5,6     Prof. Joanna Zarzecka       Zaliczenie -
+      endodoncją                                                            kontynuacja w
+      Stomatologia zachowawcza z                                            semestrach
+      endodoncją                                                            7,8,9 oraz 10
+III   Język angielski                   5,6     Mgr Anna Krause-Baran       Egzamin
+      Język angielski
+III   Anestezjologia i reanimacja        5      Prof. Rafał Drwiła          Zaliczenia na
+      Anestezjologia i reanimacja                                           ocenę
+III   Chirurgia ogólna z onkologią       5      Prof. Antoni Szczepanik     Egzamin
+      Chirurgia ogólna z onkologią              Prof. Aleksander Konturek
+III   Propedeutyka stomatologii          5      Prof. Jolanta Pytko-        Egzamin
+      zintegrowanej                             Polończyk
+      Propedeutyka stomatologii
+      zintegrowanej
+III   Fizjologia ciąży                   5      Prof. Tomasz Milewicz       Zaliczenie na
+      Fizjologia ciąży                                                      ocenę
+III   Mikrobiologia i mikrobiologia      5      Dr Paweł Krzyściak          Egzamin
+      jamy ustnej z mykologią
+      Mikrobiologia i mikrobiologia
+      jamy ustnej z mykologią
+III   Bioetyka                           5      Dr Zbigniew Zalewski        Zaliczenie na
+      Bioetyka                                                              ocenę
+III   Prawo medyczne i deontologia       6      Dr Paweł Lipowski           Zaliczenie na
+      lekarska                                                              ocenę
+      Prawo medyczne i deontologia
+      lekarska
+III   Biochemia jamy ustnej              6      Dr Barbara Ostrowska        Zaliczenie na
+      Biochemia jamy ustnej                                                 ocenę
+III   Wstęp do radiologii                6      Prof. Tadeusz Popiela       Egzamin
+      stomatologicznej                          Prof. Wadim
+      Wstęp do radiologii                       Wojciechowski
+      stomatologicznej
+III   Informatyka i statystyka            6     Dr Piotr Walecki          Zaliczenie na
+      medyczna                                                            ocenę
+      Informatyka i statystyka
+      medyczna
+III   Propedeutyka chirurgii              6     Prof. Tomasz Kaczmarzyk   Zaliczenie na
+      stomatologicznej                                                    ocenę
+      Propedeutyka chirurgii
+      stomatologicznej
+III   Zdrowie publiczne                   6     Prof. Małgorzata Bała     Zaliczenie na
+      Zdrowie publiczne                         Dr Agnieszka Magiera      ocenę
+III   Ratownictwo medyczne                6     Mgr Katarzyna Długosz     Zaliczenie na
+      Ratownictwo medyczne                                                ocenę
+III   Fakultet – nauki przedkliniczne                                     Zaliczenie na
+                                                                          ocenę
+III   Praktyka lekarsko-                Prof. Marta Cześnikiewicz-Guzik   Zaliczenie
+      dentystyczna w gabinecie
+      stomatologicznym
+                                         IV rok
+                  Opiekun: Dr hab. Grażyna Wyszyńska-Pawelec, Prof. UJ
+                               Cykl dydaktyczny 2021/22
+Rok   Przedmiot                      Semestr   Koordynator                Forma
+                                                                          weryfikacji
+IV    Choroby przyzębia i błony        7,8     Dr Dagmara Darczuk         Zaliczenie -
+      śluzowej jamy ustnej                                                kontynuacja w
+      Choroby przyzębia i błony                                           semestrach 9
+      śluzowej jamy ustnej                                                oraz 10
+IV    Stomatologia zachowawcza z       7,8     Prof. Joanna Zarzecka      Zaliczenie –
+      endodoncją                                                          kontynuacja w
+      Stomatologia zachowawcza z                                          semestrach 9
+      endodoncją                                                          oraz 10
+IV    Chirurgia stomatologiczna        7,8     Prof. Tomasz Kaczmarzyk    Zaliczenie –
+      Chirurgia stomatologiczna                                           kontynuacja w
+                                                                          semestrach 9
+                                                                          oraz 10
+IV    Protetyka stomatologiczna        7,8     Prof. Małgorzata Pihut     Zaliczenie -
+      Protetyka stomatologiczna                                           kontynuacja w
+                                                                          semestrach 9
+                                                                          oraz 10
+IV    Dermatologia z wenerologią i      7      Prof. Anna Wojas-Pelc      Egzamin
+      alergologia w stomatologii
+      Dermatologia z wenerologią i
+      alergologia w stomatologii
+IV    Pediatria                         7      Dr Andrzej Wędrychowicz    Egzamin
+      Pediatria
+IV    Medycyna sądowa                   7      Dr Artur Moskała           Zaliczenie na
+      Medycyna sądowa                                                     ocenę
+IV    Medycyna katastrof i              7      Mgr Katarzyna Długosz      Zaliczenie na
+      medycyna ratunkowa                                                  ocenę
+      Medycyna katastrof i
+      medycyna ratunkowa
+IV    Stomatologia dziecięca            7      Dr hab. Anna Jurczak       Zaliczenie –
+      Stomatologia dziecięca                                              kontynuacja w
+                                                                          semestrze
+                                                                          10
+IV    Podstawy psychiatrii              7      Prof. Dominika Dudek       Zaliczenie na
+      Podstawy psychiatrii                                                ocenę
+IV    Ortodoncja                        7      Dr Wojciech Stós           Zaliczenie -
+      Ortodoncja                                                          kontynuacja w
+                                                                          semestrach 9
+                                                                          oraz 10
+IV    Chirurgia szczękowo-              8      Prof. Grażyna Wyszyńska-   Zaliczenie -
+      twarzowa                                 Pawelec                    kontynuacja w
+      Chirurgia szczękowo-                                                semestrach 9
+      twarzowa                                                            oraz 10
+IV   Clinical and experimental          8    Prof. Marta Cześnikiewicz-   Zaliczenie na
+     dentistry                               Guzik                        ocenę
+     Clinical and experimental
+     dentistry
+IV   Choroby zakaźne                    8    Prof. Monika Bociąga-Jasik   Egzamin
+     Choroby zakaźne
+IV   Choroby narządów zmysłów z         8    Lek. Aleksandra Sucherska    Egzamin
+     elementami neurologii
+     Choroby narządów zmysłów z
+     elementami neurologii
+IV   Fakultet – nauki kliniczne kierunkowe                                Zaliczenie na
+                                                                          ocenę
+IV   Praktyka lekarsko-              Prof. Marta Cześnikiewicz-Guzik      Zaliczenie
+     dentystyczna w gabinecie
+     stomatologicznym
+                                        V rok
+                            Opiekun: Dr Dagmara Darczuk
+                             Cykl dydaktyczny 2020/21
+Rok   Przedmiot                    Semestr   Koordynator                Forma
+                                                                        weryfikacji
+V     Choroby przyzębia i błony     9,10     Dr Dagmara Darczuk         Egzamin
+      śluzowej jamy ustnej
+      Choroby przyzębia i błony
+      śluzowej jamy ustnej
+V     Stomatologia zachowawcza z    9,10     Prof. Joanna Zarzecka      Egzamin
+      endodoncją
+      Stomatologia zachowawcza z
+      endodoncją
+V     Chirurgia stomatologiczna     9,10     Prof. Tomasz Kaczmarzyk    Egzamin
+      Chirurgia stomatologiczna
+V     Protetyka stomatologiczna     9,10     Prof. Małgorzata Pihut     Egzamin
+      Protetyka stomatologiczna
+V     Ortodoncja                    9,10     Dr Wojciech Stós           Egzamin
+      Ortodoncja
+V     Chirurgia szczękowo-          9,10     Prof. Grażyna Wyszyńska-   Egzamin
+      twarzowa                               Pawelec
+      Chirurgia szczękowo-
+      twarzowa
+V     Gerostomatologia                9      Dr Dagmara Darczuk         Zaliczenie na
+      Gerostomatologia                                                  ocenę
+V     Stomatologia zintegrowana       9      Prof. Iwona Gregorczyk-    Zaliczenie na
+      wieku rozwojowego                      Maga                       ocenę
+      Stomatologia zintegrowana
+      wieku rozwojowego
+V     Stomatologia zintegrowana      10      Prof. Jolanta Pytko-       Zaliczenie na
+      wieku dorosłego                        Polończyk                  ocenę
+      Stomatologia zintegrowana
+      wieku dorosłego
+V     Stomatologia dziecięca         10      Dr hab. Anna Jurczak       Egzamin
+      Stomatologia dziecięca
+         Sekwencyjność przedmiotów- kierunek lekarsko-dentystyczny WL UJ CM
+Przedmiot na roku II                          Przedmiot z roku poprzedniego, którego
+(rok akademicki 24/25)                        zaliczenie lub pozytywny wynik egzaminu jest
+                                              warunkiem dopuszczającym do zaliczenie lub
+                                              egzaminu z przedmiotu roku II
+Biochemia z elementami chemii                 -
+Fizjologia człowieka                          Anatomia z embriologią i podstawy genetyki;
+                                              Histologia z cytofizjologią
+Propedeutyka stomatologii zintegrowanej       Propedeutyka medycyny i stomatologii;
+                                              Profilaktyka stomatologiczna
+Lektorat języka angielskiego                  Lektorat języka angielskiego: semestry 1 oraz 2
+Biofizyka medyczna                            -
+Materiałoznawstwo i sprzęt stomatologiczny    Materiałoznawstwo i sprzęt stomatologiczny:
+                                              semestr 2
+Psychologia lekarska                          -
+Epidemiologia i medycyna środowiskowa         -
+Immunologia                                   Anatomia z embriologią i podstawy genetyki
+Radiologia ogólna                             Anatomia z embriologią i podstawy genetyki
+Fizjologia narządu żucia                      Propedeutyka medycyny i stomatologii
+Socjologia medycyny w stomatologii            -
+Przedmiot na roku III                         Przedmiot z roku/lat poprzednich,
+(rok akademicki 24/25 oraz 25/26)             którego/których zaliczenie lub pozytywny wynik
+                                              egzaminu jest warunkiem dopuszczającym do
+                                              zaliczenie lub egzaminu z przedmiotu roku III
+Patologia                                     Fizjologia człowieka
+Farmakologia z elementami farmakologii        Fizjologia człowieka; Biochemia z elementami
+klinicznej                                    chemii
+Choroby wewnętrzne z fizjoterapią i           Fizjologia człowieka; Biochemia z elementami
+rehabilitacją                                 chemii
+Stomatologia zachowawcza z endodoncją         Propedeutyka stomatologii zintegrowanej:
+                                              semestry 3 oraz 4
+Lektorat języka angielskiego                  Lektorat języka angielskiego: semestry 3 oraz 4
+Anestezjologia i reanimacja                   Pierwsza pomoc i elementy pielęgniarstwa
+Chirurgia ogólna z onkologią                  Fizjologia człowieka
+Mikrobiologia i mikrobiologia jamy ustnej z   -
+mykologią
+Bioetyka                                      -
+Propedeutyka stomatologii zintegrowanej       Propedeutyka stomatologii zintegrowanej:
+                                              semestry 3 oraz 4
+Fizjologia ciąży                              -
+Prawo medyczne i deontologia lekarska         -
+Zdrowie publiczne                             -
+Wstęp do radiologii stomatologicznej          Radiologia ogólna
+Propedeutyka chirurgii stomatologicznej       Propedeutyka stomatologii zintegrowanej
+Ratownictwo medyczne                          Pierwsza pomoc i elementy pielęgniarstwa
+Biochemia jamy ustnej                         Biochemia z elementami chemii
+Informatyka i statystyka medyczna             -
+Przedmiot na roku IV                              Przedmiot z roku/lat poprzednich,
+(rok akademicki 24/25, 25/26 oraz 26/27)          którego/których zaliczenie lub pozytywny wynik
+                                                  egzaminu jest warunkiem dopuszczającym do
+                                                  zaliczenie lub egzaminu z przedmiotu roku IV
+Choroby przyzębia i błony śluzowej jamy           Propedeutyka stomatologii zintegrowanej
+ustnej
+Stomatologia zachowawcza z endodoncją             Stomatologia zachowawcza z endodoncją:
+                                                  semestry 5 oraz 6
+Chirurgia stomatologiczna                         Propedeutyka chirurgii stomatologicznej
+Protetyka stomatologiczna                         Propedeutyka stomatologii zintegrowanej
+Dermatologia z wenerologią i alergologia w        Patologia; Choroby wewnętrzne z fizjoterapią i
+stomatologii                                      rehabilitacją; Farmakologia z elementami
+                                                  farmakologii klinicznej
+Pediatria                                         Patologia; Choroby wewnętrzne z fizjoterapią i
+                                                  rehabilitacją
+Podstawy psychiatrii                              -
+Medycyna sądowa                                   Patologia; Farmakologia z elementami
+                                                  farmakologii klinicznej
+Medycyna katastrof i medycyna ratunkowa           Anestezjologia i reanimacja;
+                                                  Ratownictwo medyczne
+Stomatologia dziecięca                            Propedeutyka stomatologii zintegrowanej
+Ortodoncja                                        Propedeutyka stomatologii zintegrowanej
+Choroby zakaźne                                   Patologia; Choroby wewnętrzne z fizjoterapią i
+                                                  rehabilitacją
+Choroby narządów zmysłów z elementami             Patologia; Choroby wewnętrzne z fizjoterapią i
+neurologii                                        rehabilitacją; Farmakologia z elementami
+                                                  farmakologii klinicznej; Radiologia ogólna
+Chirurgia szczękowo-twarzowa                      Chirurgia ogólna z onkologią
+Clinical and experimental dentistry               Lektorat języka angielskiego
+Przedmiot na roku V                               Przedmiot z roku/ lat poprzednich,
+(rok akademicki 24/25, 25/26, 26/27 oraz 27/28)   którego/których zaliczenie lub pozytywny wynik
+                                                  egzaminu jest warunkiem dopuszczającym do
+                                                  zaliczenie lub egzaminu z przedmiotu roku V
+Choroby przyzębia i błony śluzowej jamy           Choroby przyzębia i błony śluzowej jamy
+ustnej                                            ustnej: semestry 7 oraz 8
+Stomatologia zachowawcza z endodoncją             Stomatologia zachowawcza z endodoncją:
+                                                  semestry 7 oraz 8
+Chirurgia stomatologiczna                         Chirurgia stomatologiczna: semestry 7 oraz 8
+Protetyka stomatologiczna                         Protetyka stomatologiczna: semestry 7 oraz 8
+Ortodoncja                                        Ortodoncja: semestr 7
+Chirurgia szczękowo-twarzowa                      Chirurgia szczękowo-twarzowa: semestr 8
+Gerostomatologia                                  Propedeutyka stomatologii zintegrowanej
+Stomatologia zintegrowana wieku                   Stomatologia dziecięca: semestr 7
+rozwojowego
+Stomatologia zintegrowana wieku dorosłego         Stomatologia zachowawcza z endodoncją
+                                                  oraz Chirurgia stomatologiczna: semestry 7
+                                                  oraz 8
+Stomatologia dziecięca                            Stomatologia dziecięca: semestr 7

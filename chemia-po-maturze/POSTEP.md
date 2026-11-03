@@ -33,3 +33,9 @@ Zrobione: sekcje chemii ogólnej i nieorganicznej, fizycznej, analitycznej, bioc
 Ograniczenia: Khan Academy, Chemistry World, Education in Chemistry, Compound Interest i PubChem (strona) blokują automaty. Artykuły popularnonaukowe z obietnicy kursu („książki, kanały, artykuły”) są więc reprezentowane tylko przez serwisy z artykułami objaśniającymi (Master Organic Chemistry, Chemguide, Chemistry Steps, LibreTexts). Pytanie do zleceniodawcy w raporcie.
 
 Dalej: sylabusy (etap 4).
+
+## 2026-11-03, etap 4: sylabusy
+
+Zrobione: 22 źródła (Z-003 do Z-024) dla ośmiu kierunków, kopie tekstowe w `zrodla/`, tabela zbiorcza i lista braków w `robocze/sylabusy-tabela.md`. Najciekawsze ustalenia do rozdziału 2: na kierunku lekarskim WUM i na stomatologii UJ CM pierwszy rok nie ma przedmiotu chemicznego, a w UMB chemia i biochemia są na pierwszym roku; na analityce medycznej WUM pierwszy rok ma cztery przedmioty chemiczne; „Chemia ogólna i nieorganiczna” na PP ma inny wymiar na technologii chemicznej (45+30 h, 7 ECTS) i na inżynierii chemicznej i procesowej (30+30 h, 5 ECTS); w tym przedmiocie już w pierwszym semestrze jest „stężenie a aktywność”.
+
+Dalej: rozdział 2 i odgałęzienia w rozdziale 3.

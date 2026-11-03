@@ -1,0 +1,583 @@
+adres: https://wf.wum.edu.pl/sites/wf.wum.edu.pl/files/Przewodniki%20dydaktyczne/przewodnik-i-rok-analityka-medyczna-2025-2026_5.pdf
+uczelnia: Warszawski Uniwersytet Medyczny
+kierunek: analityka medyczna
+przedmiot lub dokument: przewodnik I roku
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+PRZEWODNIK DYDAKTYCZNY
+   DLA STUDENTÓW I ROKU
+ KIERUNKU ANALITYKA MEDYCZNA
+    Rok akademicki 2025/2026
+               1
+WSTĘP
+     Przewodnik dydaktyczny wprowadza studentów w tok pracy I roku studiów na
+Wydziale Farmaceutycznym Warszawskiego Uniwersytetu Medycznego.
+     Zgodnie z programem ministerialnym, studentów I roku obowiązują następujące
+przedmioty: Anatomia; Biologia medyczna; Bezpieczeństwo i higiena pracy; Biofizyka
+medyczna;; Chemia analityczna; Chemia fizyczna; Chemia ogólna i nieorganiczna; Chemia
+organiczna; Fizjologia; Higiena i epidemiologia; Histologia; Historia medycyny i
+diagnostyki laboratoryjnej; Język obcy; Kwalifikowana pierwsza pomoc; Naukowa
+informacja medyczna; Ochrona danych osobowych i własności intelektualnej;
+Przysposobienie biblioteczne; Socjologia; Statystyka z elementami matematyki;
+Technologie informacyjne w medycynie laboratoryjnej; Wychowanie fizyczne, Zajęcia
+Fakultatywne
+     Oddany do użytku studentów I roku Przewodnik dydaktyczny przedstawia organizację
+jednostek, które prowadzą zajęcia z wyżej wymienionych przedmiotów, cele i formy
+nauczania, regulaminy oraz piśmiennictwo w zakresie podręczników i czasopism naukowych.
+     Przewodnik dydaktyczny ma pomóc studentom I roku w poznaniu ich obowiązków
+i warunków studiowania.
+     Opiekunem I roku studiów jest Pani dr Agnieszka Zielińska z Zakładu Chemii
+Organicznej i Fizycznej.
+                                                   Dziekan Wydziału Farmaceutycznego
+                                                           dr hab. n. farm. Piotr Luliński
+                                          2
+                        WŁADZE
+         WARSZAWSKIEGO UNIWERSYTETU MEDYCZNEGO
+                                      REKTOR
+                             prof. dr hab. Rafał Krenke
+                       Prorektor ds. Studenckich i Kształcenia
+                              prof. dr hab. Marek Kuch
+                     Prorektor ds. Nauki i Transferu Technologii
+                            prof. dr hab. Marcin Sobczak
+                        Prorektor ds. Klinicznych i Inwestycji
+                   prof. dr hab. Agnieszka Cudnoch - Jędrzejewska
+                    Prorektor ds. Personalnych i Organizacyjnych
+                      prof. dr hab. Dorota Olczak – Kowalczyk
+              Prorektor ds. Umiędzynarodowienia, Promocji i Rozwoju
+                              prof. dr hab. Michał Grąt
+                 DZIEKAN WYDZIAŁU FARMACEUTYCZNEGO
+                            dr hab. n. farm. Piotr Luliński
+Prodziekan ds. kształcenia na kierunku Analityka Medyczna Wydziału Farmaceutycznego
+                             prof. dr hab. Olga Ciepiela
+     Prodziekan ds. kształcenia na kierunku Farmacja Wydziału Farmaceutycznego
+                              dr hab. Agnieszka Bazylko
+                                          3
+DZIEKANAT WYDZIAŁU FARMACEUTYCZNEGO
+                   Adres:
+            ul. Żwirki i Wigury 61
+             02-091 Warszawa
+                  Pokój 513
+                  Telefon:
+                22 57 20 779
+                   E-mail:
+            dziekfoam@wum.edu.pl
+       Godziny przyjęć interesantów
+          Poniedziałek:       10.00-14.00
+          Wtorek:             10.00-14.00
+          Środa:              10.00-14.00
+          Czwartek:           10.00-14.00
+                          4
+                                                             Numer
+L.p.                             Nazwa przedmiotu
+                                                             strony
+1.     Anatomia                                                6
+2.     Biologia medyczna                                       13
+3.     Bezpieczeństwo i higiena pracy                          22
+4.     Biofizyka medyczna                                      28
+5.     Chemia analityczna                                      36
+6.     Chemia fizyczna                                         42
+7.     Chemia ogólna i nieorganiczna                           48
+8.     Chemia organiczna                                       55
+9.     Fizjologia                                              60
+10.    Higiena i epidemiologia                                 68
+11.    Histologia                                              74
+12.    Historia medycyny i diagnostyki laboratoryjnej          80
+13.    Język obcy                                              85
+14.    Kwalifikowana pierwsza pomoc                            92
+15.    Naukowa informacja medyczna                             97
+16.    Ochrona danych osobowych i własności intelektualnej    102
+17.    Przysposobienie biblioteczne                           107
+18.    Socjologia                                             112
+19.    Statystyka z elementami matematyki                     117
+20.    Technologie informacyjne w medycynie laboratoryjnej    122
+21.    Wychowanie fizyczne                                    127
+22.    Zajęcia fakultatywne                                   134
+                                            5
+                               Sylabus przedmiotu dla kierunków regulowanych
+                                                 Anatomia
+   1. METRYCZKA
+Rok akademicki              2025/2026
+Wydział                     Farmaceutyczny
+Kierunek studiów            Analityka Medyczna
+Dyscyplina wiodąca          Nauki Medyczne
+Profil studiów              ogólnoakademicki
+Poziom kształcenia          I stopnia jednolite magisterskie
+Forma studiów               stacjonarne
+Typ modułu/przedmiotu       obowiązkowy
+Forma weryfikacji efektów   egzamin
+uczenia się
+Jednostka prowadząca        ZAKŁAD ANATOMII PRAWIDŁOWEJ i KLINICZNEJ
+/jednostki prowadzące       CENTRUM BIOSTRUKTURY
+                            Warszawa, ul. Chałubińskiego 5, tel.22 629-52-83
+                            e-mail : anatomy@wum.edu.pl
+Kierownik
+jednostki/kierownicy        Prof. dr hab. Bogdan Ciszek anatomy@wum.edu.pl
+jednostek
+Koordynator przedmiotu      Lek Ewa Rzeźnicka ewa.rzeznicka@wum.edu.pl
+Osoba odpowiedzialna za
+                            Lek Ewa Rzeźnicka
+sylabus)
+Prowadzący zajęcia
+   2. INFORMACJE PODSTAWOWE
+Rok i semestr                                                         Liczba punktów 5.00
+studiów                                                               ECTS
+FORMA PROWADZENIA ZAJĘĆ
+                                           6
+Godziny kontaktowe z nauczycielem akademickim                              Liczba             Kalkulacja punktów ECTS
+                                                                           godzin
+wykład (W)                                                                 40                 1,4
+seminarium (S)                                                             20                 1,0
+ćwiczenia (C)
+e-learning (e-L)
+zajęcia praktyczne (ZP)
+praktyka zawodowa (PZ)
+Samodzielna praca studenta
+Przygotowanie do zajęć i zaliczeń                                          65                 2,6
+    3. CELE KSZTAŁCENIA
+        Poznanie podstawowych wiadomości o budowie i topografii ciała ludzkiego, podstawowych pojęć,
+  C1    terminologii z zakresu anatomii, poznanie budowy, topografii i funkcjonowania wszystkich układów
+        oraz narządów w organizmie człowieka
+  C2    Zapoznanie z prawidłową i jednoznaczną nomenklaturą anatomiczną
+  C3    Zastosowanie wiedzy z zakresu anatomii i czynności organizmu człowieka w działaniach praktycznych
+        zastosowania zdobytej wiedzy w postępowaniu klinicznym i przyszłej praktyki zawodowej studentów
+  C4    Opanować umiejętności logicznej interpretacji informacji podawanych na wykładach i na ćwiczeniach
+        4. STANDARD KSZTAŁCENIA – SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ
+ Symbol            Efekty w zakresie (zgodnie z załącznikiem do Rozporządzenia Ministra NiSW z 26 lipca 2019)
+ i numer
+ efektu
+ uczenia się
+ zgodnie ze
+ standardami
+ uczenia się
+Wiedzy – Absolwent* zna i rozumie:
+       W1          mianownictwo anatomiczne, histologiczne i embriologiczne
+       W2          budowę ciała ludzkiego w podejściu topograficznym oraz czynnościowy (układ kostno-
+                   stawowy, układ mięśniowy, układ krążenia, układ oddechowy, układ pokarmowy, układ
+                   moczowy, układy płciowe, układ nerwowy, narządy zmysłów, powłoka wspólna
+       W3          prawidłową budowę i funkcje komórek, tkanek, narządów i układów organizmu ludzkiego oraz
+                   rozumie współzależności ich budowy i funkcji w warunkach zdrowia i choroby
+       W4          mechanizmy regulacji funkcji narządów i układów organizmu człowieka
+                                                         7
+          W5            mechanizmy działania hormonów oraz konsekwencje zaburzeń regulacji hormonalnej
+ Umiejętności – Absolwent* potrafi:
+         U1             przedstawiać topografię narządów ciała ludzkiego, posługując się nazewnictwem
+                        anatomicznym
+         U2             stosować nazewnictwo anatomiczne do opisu stanu zdrowia i choroby
+                        wskazywać różnice w budowie i funkcjonowaniu organizmu na poszczególnych etapach
+         U3
+                        rozwoju osobniczego
+*W załącznikach do Rozporządzenia Ministra NiSW z 26 lipca 2019 wspomina się o „absolwencie”, a nie studencie
+      5. POZOSTAŁE EFEKTY UCZENIA SIĘ
+   Numer                (pole nieobowiązkowe)
+   efektu               Efekty w zakresie
+   uczenia się
+ Wiedzy – Absolwent zna i rozumie:
+          W1
+          W2
+ Umiejętności – Absolwent potrafi:
+         U1
+         U2
+ Kompetencji społecznych – Absolwent jest gotów do:
+          K1
+          K2
+      6. ZAJĘCIA
+ Podane niżej programy wykładów i ćwiczeń zostały określone w ogólnym i krótkim brzmieniu
+ Program może ulegać niewielkiej modyfikacji w zależności od układu kalendarza.
+            Szczegółowy program wykładów i ćwiczeń zostanie podany na początku roku
+                                                                                                                Efekty
+ Forma zajęć              Treści programowe
+                                                                                                                uczenia się
+   W1-Wykład 1            Ogólna budowa tkanek. Wybrane zagadnienia układu kostnego                             A.W1, A.W2
+   W2-Wykład 2            Układ mięśniowy.                                                                      W3, W5
+   W3-Wykład 3            Ośrodkowy układ nerwowy.                                                              W2, W3
+   W4-Wykład 4            Układ nerwowy obwodowy.                                                               W1, W2
+   W5-Wykład 5            Narządy zmysłów.                                                                      W5
+   W6-Wykład 6            Budowa, unaczynienie i unerwienie serca. Układ krążenia.                              W3
+   W7-Wykład 7            Układ oddechowy. Układ limfatyczny i limfa.                                           W3, W5
+                                                                 8
+ W8-Wykład 8      Układ pokarmowy.                                                                                     W3
+ W9-Wykład 9      Trawienie i wchłanianie wrotne. Podstawowe zagadnienia budowy wątroby i                              W3, W5
+                  trzustki. Przemiana materii.
+W10-Wykład 10 Układ moczowy.                                                                                           W3, W5
+W11-Wykład 11 Układ rozrodczy.                                                                                         W3, W5
+W12-Wykład 12 Układ dokrewny.                                                                                          W4, W5
+S1- seminarium    OSTEOLOGIA Osie, płaszczyzny, linie ciała. Ogólny podział, połączenia i budowa kości.                W1, W2, U1,
+       1          Kręgosłup. Kości klatki piersiowej, kończyny górnej i dolnej. Miednica jako całość. Kości czaszki,   U2, U3
+                  mózgoczaszki, trzewioczaszki, czaszka noworodka
+S2- seminarium    UKŁAD MIĘŚNIOWY Budowa ogólna mięśni. Topografia mięśni powierzchownych.                             W3, W5, U1,
+       2          Analiza działania tłoczni brzusznej i jej znaczenie. Ocena przydatności mięśni do wstrzyknięć        U2, U3
+                  domięśniowych
+S3- seminarium    UKŁAD NERWOWY Podział układu nerwowego Podstawowe pojęcia - nerw, włókno nerwowe,                    W2, W3, U1,
+       3          splot, zwój, ośrodek, mediator, synapsa, odruch, łuk odruchowy. Budowa mózgowia:                     U2, U3
+                  kresomózgowie międzymózgowie, śródmózgowie, tyłomózgowie. Budowa rdzenia kręgowego w
+                  przekroju poprzecznym. Opony. Płyn mózgowo-rdzeniowy
+S4- seminarium    UKŁAD NERWOWY Układ nerwowy obwodowy - część współczulna i W1, W2, W6,
+       4          przywspółczulna. Narządy zmysłów                           U1, U2, U3
+S5- seminarium    UKŁAD KRĄŻENIA Położenie serca w stosunku do innych narządów. Budowa, W5, U1, U2,
+       5          czynność, unerwienie, unaczynienie serca. Układ przewodzący serca. Budowa i U3
+                  podział naczyń krwionośnych. Przebieg głównych pni tętniczych i żylnych.
+                  Krążenie małe, duże, wrotne, płodowe. Śledziona
+S6- seminarium    UKŁAD ODDECHOWY Podział układu oddechowego. Budowa nosa zewnętrznego, krtani. Podział                W3, W5, U1,
+       6          tchawicy. Różnice anatomiczne oskrzela prawego i lewego. Płuca - budowa zewnętrzna i                 U2, U3
+                  wewnętrzna, topografia. Opłucna - budowa, znaczenie zachyłków opłucnowych
+S7- seminarium     UKŁAD TRAWIENNY Podział układu trawiennego                                                          W3, W5, U1,
+       7           Budowa jamy ustnej. Zęby - budowa ogólna, kolejność wyrzynania się zębów. Język - budowa,           U2, U3
+                   podział, położenie ślinianki. Budowa gardła, przełyku.
+                   Żołądek:- położenie w stosunku do innych narządów. Budowa ścian żołądka. Budowa z
+                  uwzględnieniem odcinków, krzywizn.
+                  Jelito cienkie i grube - podział, budowa, położenie dwunastnicy, jelita czczego i krętego
+S8- seminarium    UKŁA D TRAWIENNY Podział układu trawiennego; Wątroba - położenie w stosunku do innych                W3.W6, U1,
+       8          narządów. Budowa ogólna i mikroskopowa, drogi wyprowadzające żółć,                                   U2, U3
+                   układ wrotny wątroby
+                  Trzustka - położenie w stosunku do innych narządów. Budowa części zewnątrz- i
+                  wewnątrzwydzielniczej. Unaczynienie i unerwienie narządów jamy brzusznej.
+S9- seminarium    UKŁAD MOCZOWY Podział narządów moczowych. Nerki: położenie w stosunku do innych                      W3, W5, U1,
+       9          narządów. Budowa nefronu. Moczowód. Położenie i budowa pęcherza moczowego. Cewki                     U2, U3
+                  moczowe - żeńska i męska.
+                  NARZĄDY PŁCIOWE MĘSKIE - Budowa i topografia narządów płciowych męskich wewnętrznych i
+                  zewnętrznych - jądra, najądrza, nasieniowody, pęcherzyki nasienne, gruczoł krokowy, gruczoły
+                  opuszkowo-cewkowe, powrózek nasienny, przewody wytryskowe, prącie, moszna
+                  NARZĄDY PŁCIOWE ŻEŃSKIE - Budowa i topografia narządów płciowych żeńskich wewnętrznych:
+                  jajniki, jajowody, macica, pochwa. Podział i budowa sromu niewieściego.
+                  UKŁAD DOKREWNY                                                                                       W4, W5, U1,
+                  POWŁOKA WSPÓLNA; Podział powłoki wspólnej Budowa skóry, włosa, paznokcia Podział i                   U2, U3
+S10- seminarium   budowa gruczołów skóry
+       10
+                  Powtórzenie materiału.
+                                                      9
+   7. LITERATURA
+Obowiązkowa
+Anatomia Człowieka W.Woźniak Urban & Partner Wrocław
+Mały atlas anatomiczny Aleksandrowicz R. , wyd. PZWL
+Anatomia Czynnościowa R.Maciejewski, K.Torres
+Czelej
+Uzupełniająca
+Anatomia Człowieka W. Sylwanowicz (red. Sokołowska Pituchowa) PZWL
+Anatomia Człowieka A. Bochenek M. Reicher T I-V PZWL (wybrane rozdziały)
+Atlas anatomii człowieka Sobotta, wyd. Urban &
+Partner
+       8. SPOSOBY WERYFIKACJI EFEKTÓW UCZENIA SIĘ
+    Symbol                     Sposoby weryfikacji efektu uczenia się                Kryterium zaliczenia
+przedmiotowego
+ efektu uczenia
+       się
+W1, 2, W3, W4,     Uczestnictwo w wykładach i seminariach                        Przedmiot kończy się
+W5, U1, U2, U3                                                                   egzaminem testowym i
+                   Obserwacja pracy studenta na zajęciach                        praktycznym na ocenę.
+                                                                                 Uzyskanie ≥ 65%
+                                                                                 poprawnych odpowiedzi z
+                                                                                 obu części
+                                                                                 Weryfikacja obejmuje wszystkie kategorie
+                                                                                 obszarów (wiedza, umiejętności i kompetencje
+                                                                                 społeczne).
+                                          9. INFORMACJE DODATKOWE
+Zajęcia odbywają się w pracowni dydaktycznej z użyciem modeli anatomicznych, atlasów itp
+Studenci zobowiązani są do opanowania przewidzianych programem wiadomości wg planu podanego na każde
+seminaria.
+Aby w pełni wykorzystać czas zajęć student obowiązany jest przychodzić przygotowany teoretycznie z
+aktualnego materiału obowiązującego oraz obowiązuje znajomość materiału ze wszystkich poprzednio
+odbytych wykładów i seminariów.
+Obecność na wszystkich ćwiczeniach (w swojej grupie!) jest obowiązkowa. Odrabianie zajęć z inną grupą jest
+niemożliwe.
+Warunkiem zaliczenia i dopuszczenie do egzaminu z Anatomii jest czynny udział w wykładach i seminariach.
+Egzamin z Anatomii odbywa się w sesji zimowej. Jest to egzamin testowy. Aby uzyskać ocenę pozytywną należy
+odpowiedzieć prawidłowo na 65% pytań
+Termin poprawkowy jest wyznaczony w sesji poprawkowej. Jest to egzamin testowy
+W celu obiektywnego potwierdzenia wiedzy i umiejętności należy uwzględnić odpowiednie stopniowanie
+wynikające z określonych kryteriów oceny
+       ocena                                             kryteria
+                     Brak osiągnięć zakładanych efektów kształcenia, stopień opanowania
+     2,0 (ndst)      mniejszy/równy 64%
+                                             10
+                     Osiągnięcia zakładanych efektów kształcenia, z pominięciem niektórych aspektów
+     3,0 (dost)      lub z poważnymi nieścisłościami, stopień opanowania wiedzy 65%-72%
+                     Osiągnięcia zakładanych efektów kształcenia, z pominięciem niektórych aspektów
+     3,5 (ddb)       lub z poważnymi nieścisłościami, stopień opanowania wiedzy 73%-79%
+                     Osiągnięcia zakładanych efektów kształcenia, z pominięciem niektórych aspektów
+      4,0 (db)       lub z poważnymi nieścisłościami, stopień opanowania wiedzy 80%-86%
+                     Osiągnięcia zakładanych efektów kształcenia, z pominięciem niektórych aspektów
+     4,5 (pdb)       lub z poważnymi nieścisłościami, stopień opanowania wiedzy 87%-93%
+                     Osiągnięcia zakładanych efektów kształcenia, z pominięciem niektórych aspektów
+     5,0 (bdb)       lub z poważnymi nieścisłościami, stopień opanowania wiedzy 94%-100%
+WYDZ. FARM. kierunek ANALITYKA MEDYCZNA
+Zajęcia odbywają się w pracowni dydaktycznej z użyciem modeli anatomicznych, atlasów itp
+Studenci zobowiązani są do opanowania przewidzianych programem wiadomości wg planu podanego na każde
+seminaria.
+Aby w pełni wykorzystać czas zajęć student obowiązany jest przychodzić przygotowany teoretycznie z
+aktualnego materiału obowiązującego oraz obowiązuje znajomość materiału ze wszystkich poprzednio
+odbytych wykładów i seminariów.
+Obecność na wszystkich ćwiczeniach (w swojej grupie!) jest obowiązkowa. Odrabianie zajęć z inną grupą jest
+niemożliwe.
+Warunkiem zaliczenia i dopuszczenie do egzaminu z Anatomii jest czynny udział w wykładach i seminariach.
+Egzamin z Anatomii odbywa się w sesji zimowej. Jest to egzamin testowy. Aby uzyskać ocenę pozytywną należy
+odpowiedzieć prawidłowo na 65% pytań
+Termin poprawkowy jest wyznaczony w sesji poprawkowej. Jest to egzamin testowy
+Regulamin zajęć studenckich 2025/2026
+Wszelkie informacje dotyczące zajęć dydaktycznych podane są według ustalonego harmonogramu i zamieszczone
+na tablicach ogłoszeń.
+Wszystkich Studentów przebywających na terenie Zakładu Anatomii Prawidłowej i Klinicznej obowiązuje
+bezwzględny nakaz przestrzegania przepisów BHP i PPoż, zakaz palenia tytoniu i wyrobów tytoniowych oraz
+przyjmowania środków psychoaktywnych, napoi alkocholowych jak również używania telefonów komórkowych
+oraz innych przekaźników informacji umożliwiających nagrywanie, fotografowanie.
+Student ma obowiązek przestrzegania zasad BHP i P/POŻ, z którymi został zapoznany na pierwszych zajęciach,
+co potwierdza własnoręcznym podpisem. O wszystkich wypadkach podczas zajęć na terenie Zakładu student
+ma obowiązek niezwłocznie powiadomić asystenta. Obowiązkiem studenta jest przestrzeganie zasad współżycia
+społecznego, szanowanie sprzętów i pomocy dydaktycznych.
+Wprowadzanie osób postronnych na teren Zakładu (sale dydaktyczne) jest niedozwolone.
+Wykłady, seminaria i prezentacje multimedialne wykorzystywane podczas zajęć z Anatomii stanowią
+własność intelektualną i tym samym objęte są prawem autorskim. Zabrania się wykonywanie zdjęć i/lub
+nagrywanie-kopiowanie przy użyciu jakiegokolwiek sprzętu elektronicznego oraz ich, przetwarzanie i
+rozpowszechnianie w całości lub we fragmentach bez zgody autorów.
+Złamanie tego zakazu powoduje automatyczne skierowanie sprawy do Komisji Dyscyplinarnej Uczelni.
+Przed wejściem na zajęcia student jest zobowiązany pozostawić w szatni ubrania wierzchnie.
+Seminaria odbywają się w salach dydaktycznych, w których obowiązuje bezwzględny zakaz wnoszenia
+produktów spożywczych, co równoznaczne jest z zakazem ich spożywania.
+Studenci zobowiązani są do opanowania przewidzianych programem wiadomości wg planu podanego na każde
+seminaria.
+                                             11
+ Aby w pełni wykorzystać czas zajęć student obowiązany jest przychodzić przygotowany teoretycznie z
+ aktualnego materiału obowiązującego oraz obowiązuje znajomość materiału ze wszystkich poprzednio
+ odbytych wykładów i seminariów.
+ W salach dydaktycznych przebywają tylko studenci WUM, odbywający aktualnie zajęcia (student jest
+ odpowiedzialny za swoje rzeczy osobiste. W przypadku ich uszkodzenia lub kradzieży Zakład nie ponosi
+ odpowiedzialności) przewidywane programem przedmiotu, lub w innych określonych oddzielnymi ogłoszeniami
+ posiadający legitymację oraz identyfikator.
+ W czasie korzystania z preparatów (modele anatomiczne) należy wykazać maksymalną troskę o to, aby nie
+ uległy one zniszczeniu lub zaginięciu. Każdy student korzystający z modeli anatomicznych odpowiada za ich
+ zniszczenie lub zaginięcie.
+ Po zakończeniu zajęć (korzystania z preparatów) studenci zobowiązani są do uporządkowania swojego miejsca
+ pracy wg wskazówek asystenta.
+  W czasie trwania ćwiczeń studenci nie opuszczają sal dydaktycznych.
+ 1. Warunkiem zaliczenia anatomii i dopuszczenia do egzaminu jest udział w wykładach i seminariach.
+ 2. Obecność obowiązkowa na wszystkich seminariach. Odrabianie z inną grupą jest niemożliwe.
+   * student/ka nieobecny na 1 seminarium z przyczyn losowych, po przedstawieniu usprawiedliwienia.
+   Odrobienie nieobecności na
+    seminarium polega na przygotowaniu odręcznie napisanego referatu z tematyki opuszczonego seminarium,
+   po uprzednim
+    porozumieniu z asystentem.
+  * przekroczenie 2 nieobecności usprawiedliwionych uniemożliwia zaliczenie roku i tym samym oznacza
+ niedopuszczenie do egzaminu.
+ 3. Egzamin z Anatomii odbywa się w sesji zimowej. Jest to egzamin testowy. Aby uzyskać ocenę pozytywną
+ należy odpowiedzieć
+    prawidłowo na 65% pytań.
+ 4.Termin poprawkowy jest wyznaczony w sesji poprawkowej. Jest to egzamin testowy
+ Zabronione jest posiadanie i używanie w trakcie wykładów, ćwiczeń i egzaminów środków łączności -TELEFON
+ KOMÓRKOWY, SMARTFON oraz wszelkiego rodzaju urządzeń elektronicznych wyposażonych w aparat
+ fotograficzny i/lub kamerę.
+ Nie zastosowanie się do tego wymogu będzie powodem do usunięcia studenta z wykładu, ćwiczeń lub egzaminu
+ oraz wpisanie oceny niedostatecznej i skierowanie sprawy do Komisji Dyscyplinarnej Uczelni.
+Wszelkie kwestie nieuregulowane Regulaminem rozstrzyga Kierownik Zakładu i/lub Koordynator przedmiotu.
+Od regulaminu nie ma odstępstw
+Prawa majątkowe, w tym autorskie, do sylabusa przysługują WUM. Sylabus może być wykorzystywany dla celów związanych z
+kształceniem na studiach odbywanych w WUM. Korzystanie z sylabusa w innych celach wymaga zgody WUM.
+                                                                   UWAGA
+Końcowe 10 minut ostatnich zajęć w bloku/semestrze/roku należy przeznaczyć na wypełnienie przez studentów
+                              Ankiety Oceny Zajęć i Nauczycieli Akademickich
+                                                              12
+                                                                    Biologia medyczna
+    1. METRYCZKA
+Rok akademicki
+                                  2025/2026
+Wydział                           Farmaceutyczny
+Kierunek studiów                  Analityka medyczna
+Dyscyplina wiodąca                Nauki medyczne
+Profil studiów                    praktyczny
+Poziom kształcenia                jednolite magisterskie
+Forma studiów                     stacjonarne
+Typ modułu/przedmiotu             obowiązkowy
+                                  egzamin
+Forma weryfikacji efektów
+uczenia się
+Jednostka prowadząca /jednostki   Katedra i Zakład Biochemii i Farmakogenomiki
+prowadzące                        Wydział Farmaceutyczny
+                                  Warszawski Uniwersytet Medyczny
+                                  ul. Banacha 1, 02-097 Warszawa
+                                  tel./fax: 22 5720735
+                                  e-mail: katedrabiochemii@wum.edu.pl
+Kierownik jednostki/kierownicy    Prof. dr hab. n. med. i n. o zdr. Monika Czerwińska
+jednostek
+Koordynator przedmiotu            Dr Ewa Szyp-Sochacka
+                                  e-mail:ewa.szyp-sochacka@wum.edu.pl
+                                                     13
+Osoba odpowiedzialna za sylabus)            Dr Ewa Szyp-Sochacka
+                                            e-mail:ewa.szyp-sochacka@wum.edu.pl
+Prowadzący zajęcia                          Prof. dr hab. Jacek Łukaszkiewicz
+                                            Dr Ewa Szyp-Sochacka
+                                            Mgr Daria Berezowska
+                                            Mgr Sylwia Lewandowska-Pachecka
+     2. INFORMACJE PODSTAWOWE
+Rok i semestr
+studiów                   Rok 1 semestr I                                                         Liczba punktów      5.00
+                                                                                                  ECTS
+FORMA PROWADZENIA ZAJĘĆ
+                                                                                  Liczba godzin   Kalkulacja punktów ECTS
+Godziny kontaktowe z nauczycielem akademickim
+wykład (W)                                                                        20              0.8
+seminarium (S)
+ćwiczenia (C)                                                                     35              1.4
+e-learning (e-L)
+zajęcia praktyczne (ZP)
+praktyka zawodowa (PZ)
+Samodzielna praca studenta
+Przygotowanie do zajęć i zaliczeń                                                 70              2,8
+     3. CELE KSZTAŁCENIA
+          usystematyzowanie i pogłębienie wiedzy oraz rozwinięcie kompetencji praktycznych z zakresu biologii, ze szczególnym
+          uwzględnieniem istotnych medycznie podstaw biologii komórek, tkanek, narządów i układów oraz organizmów i ich
+  C1
+          zbiorowisk
+                                                               14
+            wykształcenie podstawowych umiejętności oceny i analizy relacji między budową i funkcją organizmów żywych na różnych
+            poziomach organizacji ich struktury w warunkach zdrowia i choroby, ze szczególnym uwzględnieniem mechanizmów cyklu
+    C2      komórkowego, podstaw jego regulacji i konsekwencji jego zaburzenia oraz istotnych medycznie aspektów relacji
+            organizmśrodowisko
+    C3      kształtowanie postawy twórczego rozwiązywania problemów w oparciu o postęp nauk, ze szczególnym uwzględnieniem
+            potrzeby rozwoju kompetencji w zakresie posługiwania się wiedzą i umiejętnościami z zakresu biologii medycznej oraz nauk
+            pokrewnych, istotnymi w realizacji zadań zawodowych diagnosty laboratoryjnego
+      4. STANDARD KSZTAŁCENIA – SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ
+                        Efekty w zakresie (zgodnie z załącznikiem do Rozporządzenia Ministra NiSW z 26 lipca 2019)
+   Symbol i
+   numer efektu
+   uczenia się
+   zgodnie ze
+   standardami
+   uczenia się
+ Wiedzy – Absolwent* zna i rozumie:
+          W1            prawidłową budowę i funkcje komórek, tkanek, narządów i układów organizmu ludzkiego oraz rozumie
+                        współzależności ich budowy i funkcji w warunkach zdrowia i choroby
+          W2            etapy cyklu komórkowego, w tym molekularne aspekty jego regulacji
+          W3            pozytywne i negatywne efekty oddziaływań zewnętrznych czynników fizycznych na organizm
+ Umiejętności – Absolwent* potrafi:
+          U1            identyfikować i opisywać składniki strukturalne komórek, tkanek i narządów metodami mikroskopowymi oraz
+                        histochemicznymi
+                        wyjaśniać wpływ czynników środowiskowych, w tym temperatury, przyspieszenia ziemskiego, ciśnienia
+          U2            atmosferycznego, pola elektromagnetycznego oraz promieniowania jonizującego na organizm
+*W załącznikach do Rozporządzenia Ministra NiSW z 26 lipca 2019 wspomina się o „absolwencie”, a nie studencie
+      5. POZOSTAŁE EFEKTY UCZENIA SIĘ
+   Numer efektu         (pole nieobowiązkowe)
+   uczenia się          Efekty w zakresie
+ Wiedzy – Absolwent zna i rozumie:
+          W1
+          W2
+ Umiejętności – Absolwent potrafi:
+          U1
+                                                                15
+       U2
+Kompetencji społecznych – Absolwent jest gotów do:
+       K1
+       K2
+    6. ZAJĘCIA
+Forma zajęć                 Treści programowe                                                               Efekty uczenia się
+                                                                                                            A.W3
+                            1. Komórka jako podstawowa jednostka strukturalna i funkcjonalna organizmów
+                            żywych.
+         Wykłady            Zakres tematyczny: hipotezy dotyczące powstania życia na Ziemi, podstawowe
+                            cechy życia, teoria endosymbiozy, teoria komórkowa M. Schlejden’a i T.
+                            Schwann’a, teoria Virchowa, dowody na wspólne pochodzenie wszystkich
+                            komórek, komórka jako samodzielny organizm, skład chemiczny komórki
+                                                                                                            A.W3
+                            2. Budowa i funkcje komórek, porównanie komórek prokariotycznych i
+                            eukariotycznych.
+                            Zakres tematyczny: makrocząsteczki w strukturze komórki komórka
+                            prokariotyczna i eukariotyczna, różnorodność kształtu i funkcji biologicznych
+                            komórek, wielkość komórek, organella komórkowe
+                            3. Budowa komórki eukariotycznej                                                A.W3
+                            Zakres tematyczny: budowa i właściwości błon biologicznych, cytoplazmy,
+                            rybosomów, jądra komórkowego, mitochondriów, siateczki śródplazmatycznej,
+                            aparatu Golgiego, , lizosomów, peroksysomów, cytoszkieletu komórkowego
+                                                                                                            A.W3, A.W4
+                            4. Błony biologiczne, mechanizmy transportu przez błony.
+                            Zakres tematyczny: model płynnej mozaiki, zrąb błony biologicznej, białka
+                            błonowe, zróżnicowanie mechanizmów transportu przez błony biologiczne,
+                            transport przez błony biologiczne
+                                                                                                            A.W3, A.W4
+                            5. Cytoszkielet
+                            Składowe części cytoszkieletu, ich funkcja w kształtowaniu się komórki, w
+                            przepływie informacji, podziałach komórkowych i przemieszczaniu się komórek.
+                            Połączenia między komórkami w różnych typach tkanek, mitoza, etapy
+                            podziałów komórki
+                                                                                                            A.W4
+                            6 Przemiany energii w komórce
+                            Zakres tematyczny: utlenianie chemiczne, istota funkcjonowania łańcucha
+                            oddechowego, teoria chemiosmotyczna, budowa i funkcjonowanie syntazy ATP,
+                            czynniki rozprzęgające łańcuch oddechowy
+                                                                                                            A.W3
+                            7. Genomy prokariotyczne i eukariotyczne
+                            Zakres tematyczny: Organizacja DNA; nukleosom; struktura chromatyny;
+                            upakowanie chromatyny a ekspresja genów; remodeling chromatyny;
+                                                          16
+                                                                                               A.W22
+            8.Genom człowieka genom człowieka, organizacja DNA, aktywność
+            transkrypcyjna, genenom jadrowy i mitochondrialny,zróżnicowanie
+            stopnia kondensacji chromatyny; gęstość genów; rodziny genów
+                                                                                               A.W3, A.W22
+            9. Ekspresja genów
+            Zakres tematyczny: transkrypcja u prokariota i eukariota; czynniki cis i trans;
+            rola enhancerów; regulacja aktywności genu; sygnały zakończenia transkrypcji;
+            modyfikacje RNA u eukariota; translacja u prokariota i eukariota; rola sekwencji
+            sygnałowej; kontrola ekspresji genów u prokariota i eukariota; operony;
+            atenuacja
+                                                                                               A.W3, A.W22
+            10. Koncepcja “Jedno Zdrowie”-mechanizmy i konsekwencje relacji organizm –
+            środowisko biotyczne i abiotyczne w warunkach zdrowia i choroby, znaczenie
+            złożonych interakcji biocenotycznych dla prawidłowej kondycji organizmu
+            żywego. Człowiek jako integralny element środowiska. Przepływ informacji
+            między środowiskiem a organizmem oraz pomiędzy komórkami jako podstawa
+            zachowania homeostazy
+Ćwiczenia                                                                                      A.W3, A.U13
+            1. Część praktyczna: budowa mikroskopu świetlnego, zasady mikroskopowania i
+            rysowania obrazu spod mikroskopu, budowa komórek bakteryjnych, mikrobiota
+            i jej wpływ na organizm człowieka, obserwacje mikroskopowe bakterii
+            Część teoretyczna: Metody badania komórek, analityczne metody rozdziału
+            struktur komórkowych, zaburzenia budowy i funkcji organelli komórkowych –
+            przykłady chorób
+            2. Część praktyczna: Zastosowanie podstawowych technik badań                       A.W3, A.U13
+            mikroskopowych do identyfikacji i oceny struktury komórek, ocena kształtu,
+            wielkości i wzajemnego układu komórek w wybranych tkankach zwierzęcych z
+            zastosowaniem klasycznej mikroskopii świetlnej
+            Część teoretyczna: Poziomy organizacji żywej materii – komórka, tkanka, narząd,
+            budowa i funkcje tkanek zwierzęcych, zróżnicowanych funkcjonalnie tkanek
+            organizmu ludzkiego oraz wybranych organizmów zwierzęcych.
+                                                                                               A.W4, A.U13
+            3.Część praktyczna: Podziały komórkowe; budowa chromosomu; etapy cyklu
+            komórkowego; mechanizmy kontroli cyklu komórkowego, mitotyczny i
+            mejotyczny mechanizm kariokinezy, ocena fazy podziału komórki z
+            zastosowaniem mikroskopii świetlnej
+                                                                                               A.W3
+            Część teoretyczna: Etapy cyklu komórkowego; mechanizmy kontroli cyklu
+            komórkowego, mitotyczny i mejotyczny mechanizm kariokinezy,
+            (punkty kontroli, udział cyklin, kinaz białkowych zależnych od cyklin, cytokiny,
+            inhibitory CDK), geny supresorowe, metody badania przebiegu cyklu
+            komórkowego, choroby proliferacyjne jako efekt zaburzeń cyklu komórkowego
+                                           17
+4.Część praktyczna: Wykrywanie aminokwasów, węglowodanów, ketonów w                 A.U16
+materiale biologicznym. Wykrywanie wybranych produktów metabolizmu
+drożdży- – wybrane aspekty technik laboratoryjnych - kamienie milowe
+diagnostyki laboratoryjnej
+Część teoretyczna: Embriogeneza; typy rozmnażania, przebieg oogenezy,
+kontrola hormonalna gametogenezy, zaplemnienie; zapłodnienie; blastulacja;
+gastrulacja; tworzenie mezodermy; różnicowanie zarodka; błony płodowe;
+budowa łożyska, kształtowanie się płci człowieka, układy chromosomów płci;          A.W3
+determinacja płci; zaburzenia determinacji płci; geny sprzężone z płcią
+                                                                                    A.U16
+5. Część praktyczna: Dziedziczenie grup krwi, genetyczne podstawy konfliktu
+serologicznego; ; układy grupowe antygenów erytrocytarnych; dziedziczenie
+układu ab0; zasady krwiolecznictwa; częstotliwość występowania grup krwi w
+Polsce; konflikt serologiczny w układzie AB0, konflikt serologiczny w układzie
+Rh-; Dziedziczenie mendlowskie i niemendlowskie, dziedziczenie chorób
+genetycznych, analiza rodowodów rozwiązanie zadań genetycznych na                   A.W3
+dziedziczenie cech
+Część teoretyczna: Podstawowe pojęcia genetyki (informacja genetyczna,gen,
+allel, homozygota, heterozygota, genotyp, genotyp), podstawy dziedziczenia,
+prawo Mendla, odstępstwa od I Prawa Mendla (kodominacja, częściowa
+dominacja, plejotropizm, allele letalne, II prawo Mendla, epistaza;
+rekombinacja; Crossing-over; prawo Morgana; interferencja; dziedziczenie
+mateczne; dziedziczenie wieloczynnikowe;
+6.Część praktyczna Mechanizmy i konsekwencje oddziaływania wybranych                A.W22, A.U13
+biologicznych, chemicznych i fizycznych patogenów środowiskowych ,choroby
+genetyczne; fenyloketonuria; alkaptonuria; tyrozynemia; albinizm; hemofilia;
+anemia sierpowata; talasemia; galaktozemia; choroba tay-sachsa; pląsawica
+Huntingtona; choroba Parkinsona; zespół łamliwego chromosomu x; daltonizm;
+zespół Duchenne’a; zespół cri-du-chat; trisomia chromosomu 10; zespół Patau
+trisomia chromo

@@ -1,0 +1,205 @@
+adres: https://sylabus.uj.edu.pl/pl/document/178d7bc0-6040-44e8-8a4d-c5f3640310a6.pdf
+uczelnia: Uniwersytet Jagielloński
+kierunek: chemia
+przedmiot lub dokument: Podstawy chemii
+rok akademicki: 2025/26 (cykl w sylabusie); w USOS zajęcia w semestrze zimowym 2026/27
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+adres: https://sylabus.uj.edu.pl/pl/document/178d7bc0-6040-44e8-8a4d-c5f3640310a6.pdf
+uczelnia: UJ
+kierunek: chemia
+przedmiot: Podstawy chemii
+rok akademicki:
+data odczytu: 2026-11-03
+odpowiedź: 200 application/pdf
+                                             Podstawy chemii
+                                           Karta opisu przedmiotu
+                                          Informacje podstawowe
+ Kierunek studiów                                           Cykl kształcenia
+ Chemia                                                     2025/26
+ Ścieżka                                                    Rok realizacji
+ -                                                          2025/26
+ Jednostka organizacyjna                                    Kod przedmiotu
+ Wydział Chemii                                             UJ.WChCHES.11.14077.25
+ Poziom kształcenia                                         Języki wykładowe
+ pierwszego stopnia                                         polski
+ Forma studiów                                              Dyscypliny
+ studia stacjonarne                                         Nauki chemiczne
+ Proﬁl studiów                                              Klasyﬁkacja ISCED
+ ogólnoakademicki                                           0531 Chemia
+ Obligatoryjność                                            Kod USOS
+ obowiązkowy                                                WCh-CL-O103-19
+ Koordynator                  Wacław Makowski
+ przedmiotu
+ Prowadzący zajęcia           Kinga Góra-Marek, Gabriela Grzybek, Paweł Kozyra, Krzysztof Kruczała, Piotr
+                              Pietrzyk, Wacław Makowski
+Okres                         Forma weryﬁkacji uzyskanych efektów uczenia się                          Liczba
+Semestr 1                     egzamin                                                                  punktów ECTS
+                                                                                                       7.0
+                              Forma prowadzenia i godziny zajęć
+                              wykład: 30
+                              ćwiczenia: 30
+                              konwersatorium: 30
+                                    Cele kształcenia dla przedmiotu
+         Celem kursu jest przypomnienie, utrwalenie i poszerzenie podstawowych wiadomości i umiejętności z zakresu
+C1
+         chemii ogólnej, poznanych na wcześniejszych etapach edukacji.
+Wygenerowano: 2026-11-03 18:47                                                                                       1/5
+                                   Efekty uczenia się dla przedmiotu
+                                                                    Kierunkowe efekty
+Kod         Efekty w zakresie                                                           Metody weryﬁkacji
+                                                                    uczenia się
+Wiedzy – Student zna i rozumie:
+W1          podstawowe pojęcia, teorie i prawa umożliwiające 1.     CHE_K1_W05          egzamin pisemny,
+            sprawne posługiwanie się terminologią i nomenklaturą                        egzamin ustny,
+            chemiczną oraz omówienie właściwości pierwiastków                           zaliczenie na ocenę
+            i prostych związków nieorganicznych w oparciu
+            o układ okresowy 2. jakościowy i ilościowy opis fazy
+            gazowej, z uwzględnienie modelu gazu doskonałego
+            oraz odstępstw od tego modelu 3. jakościowy
+            i ilościowy opis równowag fazowych oraz równowag
+            chemicznych (w fazie gazowej, w układach
+            heterogenicznych oraz w roztworach wodnych
+            elektrolitów) 4. omówienie reakcji kwasowo
+            zasadowych (z uwzględnieniem koncepcji Brønsteda
+            i Lewisa) oraz reakcji utleniania i redukcji 5.
+            termodynamiczny i kinetyczny opis przebiegu reakcji
+            chemicznych (jakościowy i ilościowy) 6. elementarny
+            opis fazy stałej (z uwzględnieniem najważniejszych
+            typów sieci przestrzennych dla metali i związków
+            jonowych oraz teorii pasmowej)
+W2          wykorzystanie podstawowych pojęć chemii kwantowej       CHE_K1_W06          egzamin pisemny,
+            do opisu budowy atomów wodoru, atomów                                       egzamin ustny,
+            wieloelektronowych i ich jonów (z uwzględnieniem                            zaliczenie na ocenę
+            konﬁguracji elektronowej i efektywnej liczby
+            atomowej) oraz prostych cząsteczek dwuatomowych
+            i wieloatomowych (z uwzględnieniem hybrydyzacji
+            oraz orbitali zdelokalizowanych)
+W3          elementarne zależności właściwości                      CHE_K1_W07          egzamin pisemny,
+            ﬁzykochemicznych (paramagnetyzm, diamagnetyzm,                              egzamin ustny,
+            właściwości kwasowo-zasadowe oraz redoksowe)                                zaliczenie na ocenę
+            prostych związków nieorganicznych i organicznych
+            od ich charakterystyki na poziomie molekularnym
+            (elektroujemność, moment dipolowy, stopień
+            utlenienia, konﬁguracja elektronowa, symetria
+            cząsteczki) oraz strukturalnym
+Umiejętności – Student potraﬁ:
+U1          wykorzystać posiadaną wiedzę do matematycznego          CHE_K1_U01          egzamin pisemny,
+            opisu: 1. fazy gazowej, 2. równowag chemicznych (w                          egzamin ustny,
+            fazie gazowej, w układach heterogenicznych oraz                             zaliczenie na ocenę
+            w roztworach elektrolitów) 3. półogniw i ogniw
+            elektrochemicznego 4. termochemii reakcji 5. kinetyki
+            reakcji
+U2          sprawnie i dokładnie rozwiązywać typowe problemy        CHE_K1_U09          egzamin pisemny,
+            obliczeniowe z zakresu stechiometrii, modelu gazu                           egzamin ustny,
+            doskonałego, termochemii, równowag w fazie                                  zaliczenie na ocenę
+            gazowej, równowag w roztworach elektrolitów (z
+            uwzględnieniem stopnia i stałej dysocjacji słabych
+            kwasów i zasad, pH, hydrolizy soli, roztworów
+            buforowych, iloczynu rozpuszczalności i tworzenia
+            związków koordynacyjnych) oraz proste problemy
+            obliczeniowe z zakresu elektrochemii i kinetyki
+U3          samodzielnie przygotowywać się do ćwiczeń               CHE_K1_U13          egzamin pisemny,
+            rachunkowych, konwersatoriów i egzaminu,                                    egzamin ustny,
+            wykorzystując różnorodne materiały (zalecane                                zaliczenie na ocenę
+            i uzupełniające)
+Wygenerowano: 2026-11-03 18:47                                                                                2/5
+                                                                    Kierunkowe efekty
+ Kod         Efekty w zakresie                                                                  Metody weryﬁkacji
+                                                                    uczenia się
+ Kompetencji społecznych – Student jest gotów do:
+ K1          starannego dokumentowania rozwiązań problemów          CHE_K1_K02                  zaliczenie na ocenę
+             chemicznych, w sposób umożliwiający innym osobom
+             zrozumienie zastosowanej metody i sprawdzenie
+             poprawności obliczeń
+                                             Bilans punktów ECTS
+                                                             Średnia liczba godzin* przeznaczonych
+ Forma aktywności studenta
+                                                             na zrealizowane rodzaje zajęć
+ wykład                                                                                  30
+ ćwiczenia                                                                               30
+ konwersatorium                                                                          30
+ przygotowanie do ćwiczeń                                                                40
+ przygotowanie do egzaminu                                                               41
+ uczestnictwo w egzaminie                                                                 4
+                                                                    Liczba godzin                       ECTS
+ Łączny nakład pracy studenta
+                                                                         175                             7.0
+* godzina (lekcyjna) oznacza 45 minut
+                                              Treści programowe
+                                                                                                Efekty uczenia się dla
+ Lp.         Treści programowe
+                                                                                                przedmiotu
+ 1.          Klasyczne pojęcia i prawa chemiczne. Stechiometria reakcji chemicznych. Model      W1, W2, W3, U1, U2, U3,
+             gazu doskonałego a gazy rzeczywiste. Energetyka reakcji chemicznych z              K1
+             elementami termodynamiki. Równowaga chemiczna w układach jedno- i
+             wielofazowych. Kwasy i zasady według Brönsteda. Reakcje redoksowe i ogniwa
+             elektrochemiczne. Kinetyka chemiczna jako konsekwencja teorii zderzeń.
+             Katalizatory i inhibitory. Podstawy doświadczalne mechaniki kwantowej. Równanie
+             Schrödingera dla atomu wodoru, liczby kwantowe, orbitale atomowe. Atomy
+             wieloelektronowe w przybliżeniu jednoelektronowym, koncepcja Slatera. Orbitale
+             molekularne jako kombinacje liniowe orbitali atomowych, homojądrowe cząsteczki
+             dwuatomowe. Heterojądrowe cząsteczki dwuatomowe, elektroujemność
+             pierwiastków, polaryzacja wiązań chemicznych. Hybrydyzacja jako skuteczne
+             narzędzie opisu struktury cząsteczek wieloatomowych. Przykłady struktury
+             cząsteczek dla podstawowych typów hybrydyzacji : sp3, sp, sp2, Wiązania
+             donorowo-akceptorowe, kwasy i zasady Lewisa, związki kompleksowe.
+             Delokalizacja elektronów, węglowodory aromatyczne. Podstawowe elementy
+             symetrii cząsteczek. Sieć krystaliczna, komórki elementarne układu regularnego i
+             heksagonalnego. Elementy teorii pasmowej ciał stałych, przewodniki,
+             półprzewodniki i izolatory.
+Wygenerowano: 2026-11-03 18:47                                                                                        3/5
+                                            Informacje rozszerzone
+Metody nauczania :
+metody e-learningowe, rozwiązywanie zadań, dyskusja, wykład z prezentacją multimedialną, wykład konwersatoryjny,
+wykład konwencjonalny, seminarium, konsultacje
+ Rodzaj zajęć              Formy zaliczenia           Warunki zaliczenia przedmiotu
+ wykład                    egzamin pisemny,           Zdanie testowego egzaminu pisemnego oraz ewentualnego
+                           egzamin ustny              dodatkowego egzaminu ustnego. Pisemny egzamin testowy zdają
+                                                      wszyscy, dodatkowy egzamin ustny a) na ocenę dst zdają osoby,
+                                                      które na egzaminie pisemnym zdobyły niewystarczającą liczbę
+                                                      punktów (od 50 do 59%), b) na oceną bdb zdają osoby, które
+                                                      zdobyły powyżej 80% puntów, ale nie uzyskały ocen bdb z ćwiczeń i
+                                                      konwersatorium.
+ ćwiczenia                 zaliczenie na ocenę        Zaliczenie na co najmniej 50% punktów każdego z czterech
+                                                      kolokwiów LUB kolokwium zaliczeniowego, organizowanego przed I
+                                                      terminem egzaminu. W przypadku, gdy brakuje zaliczenia tylko
+                                                      jednego z czterech kolokwiów, kolokwium zaliczeniowe dotyczy
+                                                      tylko tego materiału. W przypadku niezaliczenia większej liczby
+                                                      kolokwiów, kolokwium zaliczeniowe dotyczy całości materiału.
+ konwersatorium            zaliczenie na ocenę        Zdobycie co najmniej 50% punktów (z kolokwiów testowych,
+                                                      kartkówek lub punktów za aktywny udział w zajęciach) lub
+                                                      zaliczenie kolokwium zaliczeniowego, organizowanego przed I
+                                                      terminem egzaminu.
+                                                      Literatura
+Obowiązkowa
+   1. Adam Bielański, Podstawy chemii nieorganicznej, (wydanie V zmienione, PWN 2002 lub późniejsze, tom 1)
+Dodatkowa
+   1. Loretta Jones, Peter Atkins, Chemia ogólna - Cząsteczki, materie, reakcje, PWN, 2004 lub Loretta Jones, Peter Atkins,
+      Laverman Leroy, Chemia ogólna, PWN, 2020
+Wygenerowano: 2026-11-03 18:47                                                                                          4/5
+Kierunkowe efekty uczenia się
+    Kod                                                      Treść
+              Absolwent jest gotów do dbania o jakość i staranność wykonywanych zadań, podejmowania
+CHE_K1_K02
+              odpowiedzialności za ich skutki
+              Absolwent potraﬁ posługiwać się metodami matematycznymi w chemii, posiada umiejętność opisu
+CHE_K1_U01    matematycznego zjawisk i procesów ﬁzycznych i chemicznych oraz zdolność abstrakcyjnego rozumienia
+              problemów z zakresu ﬁzyki i chemii.
+              Absolwent potraﬁ rozwiązywać proste problemy o charakterze jakościowym i ilościowym, w tym potraﬁ
+CHE_K1_U09    planować i wykonywać badania (eksperymentalne bądź teoretyczne) oraz odpowiednio analizować ich
+              wyniki
+CHE_K1_U13    Absolwent potraﬁ uczyć się samodzielnie
+           Absolwent zna i rozumie zagadnienia z zakresu podstawowych działów chemii pozwalające na posługiwanie
+           się terminologią i nomenklaturą chemiczną; omówienie właściwości pierwiastków i związków chemicznych
+CHE_K1_W05
+           w oparciu o układ okresowy oraz stanów materii, charakteryzowanie podstawowych typów reakcji
+           chemicznych oraz ich mechanizmów w aspekcie termodynamicznym i kinetycznym
+              Absolwent zna i rozumie zaasady wykorzystania podstawowych metod kwantowochemicznych do opisu
+CHE_K1_W06
+              właściwości, struktury i reaktywności układów chemicznych.
+              Absolwent zna i rozumie metody określania podstawowych właściwości w tym także stereochemii oraz
+CHE_K1_W07
+              reaktywności związków nieorganicznych i organicznych oraz głownych metod ich syntezy
+Wygenerowano: 2026-11-03 18:47                                                                                    5/5

@@ -1,0 +1,161 @@
+adres: https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/KIERUNKI/Lekarski/plany_studiow/lekarski_plan_na_cykl_2025-2031.docx
+uczelnia: Uniwersytet Medyczny w Białymstoku
+kierunek: medycyna
+przedmiot lub dokument: plan I roku
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+rok I
+Lp.
+Nazwa przedmiotu
+Razem
+[godz.]
+ECTS
+Forma zajęć [godz.]
+Forma
+zakończenia
+wykłady
+seminaria
+ćwiczenia
+1.
+Anatomia i anatomia zintegrowana
+Zakład Anatomii Prawidłowej Człowieka
+190
+14,5
+40
+0
+150
+egzamin
+2.
+Histologia, embriologia i cytofizjologia
+Zakład Histologii i Embriologii
+100
+7,5
+20
+6
+74
+egzamin
+3.
+Biofizyka
+Zakład Biofizyki
+45
+3,5
+10
+10
+25
+egzamin
+4.
+Chemia
+Zakład Chemii Medycznej
+30
+2
+8
+2
+20
+zal.
+5.
+Biochemia
+Zakład Biochemii Lekarskiej
+145
+11
+50
+20
+75
+egzamin
+6.
+Technologie informacyjne
+Zakład Biostatystyki i Informatyki Medycznej
+30
+1,5
+0
+0
+30
+zal.
+7.
+Pierwsza pomoc medyczna z elementami pielęgniarstwa
+Klinika Anestezjologii i Intensywnej Terapii
+Klinika Anestezjologii i Intensywnej Terapii Dzieci i Młodzieży z Pododdziałem Pooperacyjnym i Leczenia Bólu
+Klinika Chirurgii Naczyń i Transplantacji
+40
+3
+10
+10
+20
+egzamin
+8.
+Język angielski specjalistyczny
+Studium Języków Obcych
+50
+4
+0
+0
+50
+zal.
+9.
+Historia medycyny
+Samodzielna Pracownia Historii Medycyny i Farmacji
+25
+1,5
+25
+0
+0
+zal.
+10.
+Socjologia medycyny
+Zakład Zdrowia Publicznego
+25
+1,5
+10
+0
+15
+zal.
+11.
+Podstawy medycyny prewencyjnej z elementami telemedycyny
+Zakład Medycyny Populacyjnej i Prewencji Chorób Cywilizacyjnych
+40
+2,5
+0
+40
+0
+zal.
+12.
+Zajęcia fakultatywne
+30
+1
+0
+0
+30
+zal.
+13.
+Bezpieczeństwo i higiena pracy
+Zakład Higieny, Epidemiologii i Zaburzeń Metabolicznych
+4
+0
+4
+0
+0
+zal.
+14.
+Wychowanie fizyczne
+Studium Wychowania Fizycznego i Sportu
+30
+0
+0
+0
+30
+zal.
+Ogółem:
+784
+53,5
+177
+88
+519
+5 egz.
+Praktyka
+120
+4
+zal.
+PLAN STUDIÓW
+na kierunku lekarskim
+Wydział Lekarski z Oddziałem Stomatologii i Oddziałem Nauczania w Języku Angielskim na cykl kształcenia rozpoczynający się w roku akademickim 2025/2026

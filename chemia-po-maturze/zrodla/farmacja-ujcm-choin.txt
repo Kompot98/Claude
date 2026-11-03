@@ -1,0 +1,235 @@
+adres: https://sylabus.cm-uj.krakow.pl/pl/document/73687d82-4f77-4111-bf0f-1300657a4af3.pdf
+uczelnia: Uniwersytet Jagielloński Collegium Medicum
+kierunek: farmacja
+przedmiot lub dokument: Chemia ogólna i nieorganiczna
+rok akademicki: 2026/27
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+adres: https://sylabus.cm-uj.krakow.pl/pl/document/73687d82-4f77-4111-bf0f-1300657a4af3.pdf
+uczelnia: UJ CM
+kierunek: farmacja
+przedmiot: Chemia ogólna i nieorganiczna
+rok akademicki: ?
+data odczytu: 2026-11-03
+odpowiedź: 200 application/pdf
+                                  Chemia ogólna i nieorganiczna
+                                           Karta opisu przedmiotu
+                                          Informacje podstawowe
+ Jednostka organizacyjna                                   Cykl dydaktyczny
+ Wydział Farmaceutyczny                                    2026/27
+ Kierunek studiów                                          Rok realizacji
+ Farmacja                                                  2026/27
+ Poziom kształcenia                                        Języki wykładowe
+ jednolite magisterskie                                    polski
+ Forma studiów                                             Blok zajęciowy
+ stacjonarne                                               obowiązkowy do zaliczenia roku
+ Proﬁl studiów                                             Obligatoryjność
+ ogólnoakademicki                                          obowiązkowy
+ Dyscypliny                                                Forma weryﬁkacji uzyskanych efektów uczenia się
+ Nauki farmaceutyczne                                      egzamin
+ Klasyﬁkacja ISCED                                         Grupa zajęć standardu
+ 0916 Farmacja                                             B. Fizykochemiczne podstawy farmacji
+ Kod USOS
+ FA.FA.JS.1o0135
+ Koordynator                  Agata Kryczyk-Poprawa
+ przedmiotu
+ Prowadzący zajęcia           Pełna lista prowadzących dostępna na stronie usosweb.uj.edu.pl w zakładce Katalog
+                              → Przedmioty.
+ Okres                       Forma weryﬁkacji uzyskanych efektów uczenia się                         Liczba
+ Semestr 1                   egzamin                                                                 punktów ECTS
+                                                                                                     7.0
+                             Forma prowadzenia i godziny zajęć
+                             wykład: 2
+                             seminarium: 14
+                             ćwiczenia: 72
+                                   Wymagania wstępne i dodatkowe
+Wymagania wstępne
+Znajomość zagadnień chemicznych na poziomie szkoły średniej w zakresie rozszerzonym. Obowiązkowa obecność na
+zajęciach seminaryjnych i laboratoryjnych.
+Wygenerowano: 2026-11-03 18:48                                                                                    1/6
+                                     Cele kształcenia dla przedmiotu
+        Przekazywanie wiedzy teoretycznej oraz umiejętności praktycznych niezbędnych do studiowania innych
+C1      przedmiotów, takich jak: chemia analityczna ilościowa, chemia ﬁzyczna, chemia organiczna, biochemia i chemia
+        leków.
+        Zapoznanie studentów z problemami jakie mogą napotkać w trakcie wykonywania, opisywania i interpretowania
+C2
+        doświadczeń w oparciu o prawa chemiczne, co daje możliwość rozwiązywania problemów analitycznych.
+                                   Efekty uczenia się dla przedmiotu
+                                                                    Kierunkowe efekty
+Kod         Efekty w zakresie                                                                Metody weryﬁkacji
+                                                                    uczenia się
+Wiedzy – Student zna i rozumie:
+W1          właściwości pierwiastków, w tym izotopów                B.W4                     egzamin pisemny,
+            promieniotwórczych, w aspekcie ich wykorzystania                                 egzamin praktyczny,
+            w diagnostyce i terapii chorób;                                                  kolokwia teoretyczne
+W2          mechanizmy tworzenia i rodzaje wiązań chemicznych       B.W5                     egzamin pisemny,
+            oraz mechanizmy oddziaływań                                                      kolokwia teoretyczne
+            międzycząsteczkowych;
+W3          rodzaje i właściwości roztworów oraz metody ich         B.W6                     egzamin pisemny,
+            sporządzania;                                                                    egzamin praktyczny,
+                                                                                             kolokwia teoretyczne,
+                                                                                             zaliczenie pisemne
+W4          podstawowe typy reakcji chemicznych;                    B.W7                     egzamin pisemny,
+                                                                                             egzamin praktyczny,
+                                                                                             kolokwia teoretyczne,
+                                                                                             zaliczenie pisemne
+W5          farmakopealne metody identyﬁkacji substancji            B.W8                     egzamin pisemny,
+            nieorganicznych;                                                                 egzamin praktyczny,
+                                                                                             kolokwia teoretyczne
+Umiejętności – Student potraﬁ:
+U1          wyszukiwać, analizować i interpretować informacje       O.U4                     egzamin praktyczny
+            dotyczące substancji i produktów leczniczych;
+U2          komunikować się ze współpracownikami w zespole          O.U10                    egzamin praktyczny
+            i dzielić się wiedzą;
+U3          prowadzić badania substancji i produktów leczniczych,   O.U3                     egzamin praktyczny
+            w tym prowadzić badania chemiczne, farmaceutyczne,
+            farmakologiczne, toksykologiczne oraz badania
+            skuteczności i bezpieczeństwa substancji i produktów
+            leczniczych;
+U4          identyﬁkować metodami farmakopealnymi substancje        B.U3                     egzamin pisemny,
+            nieorganiczne;                                                                   egzamin praktyczny,
+                                                                                             kolokwia teoretyczne
+Kompetencji społecznych – Student jest gotów do:
+K1          korzystania z obiektywnych źródeł informacji;           O.K7                     egzamin pisemny,
+                                                                                             kolokwia teoretyczne
+K2          formułowania wniosków z własnych pomiarów lub           O.K8                     egzamin praktyczny
+            obserwacji;
+Wygenerowano: 2026-11-03 18:48                                                                                       2/6
+                                               Bilans punktów ECTS
+                                                               Średnia liczba godzin* przeznaczonych
+ Rodzaje zajęć studenta
+                                                               na zrealizowane rodzaje zajęć
+ wykład                                                                                       2
+ seminarium                                                                                   14
+ ćwiczenia                                                                                    72
+ przygotowanie do ćwiczeń                                                                     36
+ przygotowanie do kolokwium                                                                   26
+ przygotowanie do egzaminu                                                                    60
+                                                                                         Liczba godzin
+ Łączny nakład pracy studenta
+                                                                                              210
+                                                                                         Liczba godzin
+ Liczba godzin kontaktowych
+                                                                                              88
+ Nakład pracy związany z zajęciami o charakterze                                         Liczba godzin
+ praktycznym                                                                                  72
+* godzina (lekcyjna) oznacza 45 minut
+                                                Treści programowe
+                                                                        Efekty uczenia się dla     Formy prowadzenia
+ Lp.          Treści programowe
+                                                                        przedmiotu                 zajęć
+ 1.           Pierwiastki i ich związki nieorganiczne, izotopy          W1, U1, U2, K1, K2         wykład, ćwiczenia
+              promieniotwórcze w aspekcie ich wykorzytsania w
+              farmacji i medycynie.
+ 2.           Wiązania chemiczne. Teorie dysocjacji elektrolitycznej.   W2, U2, K1, K2             wykład, ćwiczenia,
+              Podstawowe zależności wynikające z prawa działania                                   seminarium
+              mas Gulberga i Waagego, stała i stopień dysocjacji
+ 3.           Roztwory rzeczywiste, koloidalne, zawiesiny i ich         W3, U2, K1, K2             ćwiczenia
+              cechy. Amfoteryczność, hydroliza, pH, bufory,
+              wskaźniki alkacymetryczne. Równanie Nernsta:
+              potencjał normalny i warunkowy, ogniwa, elektroliza.
+              Czynniki wpływające na przebieg reakcji utlenienia i
+              redukcji. Związki kompleksowe: nazewnictwo, budowa
+              i trwałość. Budowa osadów. Iloczyn rozpuszczalności.
+ 4.           Wybrane reakcje charakterystyczne i specyﬁczne w      W4, W5, U2, U3, U4, K1,        ćwiczenia
+              analizie jakościowej. Podziały kationów i anionów na  K2
+              grupy analityczne. Warunki wykonywania reakcji
+              analitycznych. Przegląd reakcji specyﬁcznych z
+              uwzględnieniem zalecanych do identyﬁkacji przez
+              Farmakopeę Polską i Farmakopeę Europejską, zarówno
+              dla związków rozpuszczalnych jak i nierozpuszczalnych
+              w wodzie.
+Wygenerowano: 2026-11-03 18:48                                                                                          3/6
+                                                                       Efekty uczenia się dla    Formy prowadzenia
+ Lp.          Treści programowe
+                                                                       przedmiotu                zajęć
+ 5.           Metody oznaczania niektórych zanieczyszczeń              W5, U2, U3, U4, K1, K2    ćwiczenia
+              nieorganicznych zgodnie z wymogami
+              farmakopealnymi. Wybrane zagadnienia z chemii
+              bionieorganicznej.
+ 6.           Problematyka związana ze sporządzaniemroztworów,         W3, K1                    seminarium
+              przeliczaniaem stężeń, pH. Obliczenia prowadzone na
+              podstawie stechiometrii reakcji utleniania - redukcji,
+              rozpuszczalności, iloczynu rozpuszczalności, stałych
+              trwałości i nietrwałości związków kompleksowych.
+              Zagadnienia zakresu elektrochemii - ogniwa i
+              elektroliza.
+                                             Informacje rozszerzone
+Metody nauczania:
+Burza mózgów, Ćwiczenia laboratoryjne, Dyskusja, E-learning, Praca w grupie, Rozwiązywanie zadań, Seminarium, Wykład,
+Zajęcia typu Problem Based Learning
+ Rodzaj zajęć               Metody zaliczenia Warunki zaliczenia przedmiotu
+ wykład                                            Warunki zaliczenia podano w opisie.
+ seminarium                                        Uzyskanie zaliczenia kolokwium pisemnego z obliczeń chemicznych.
+                                                   Poprawne rozwiązanie trzech z pięciu zadań.
+ ćwiczenia                                         Warunki zaliczenia podano w opisie.
+Dodatkowy opis
+Egzamin praktyczny:
+1. Wykonanie analizy jakościowej soli (kation i anion) z podanej studentom puli jonów. Przeprowadzona analiza musi być
+udokumentowana odpowiednim opisem oraz równaniami reakcji zapisanymi cząsteczkowo z odczynnikami grupowymi oraz
+jedną reakcją charakterystyczną dla każdego wykrytego jonu. Ta część egzaminu obejmuje również wykonanie prób
+tożsamościowych dla wykrytych jonów według podanego przepisu.
+2. Wykonanie doświadczeń z zakresu chemii ogólnej zgodnie z podaną instrukcją. W tej części egzaminu punktowane jest
+poprawne wykonanie
+doświadczenia, zapis obserwacji, równania reakcji przedstawiające zachodzące procesy oraz udzielenie odpowiedzi na
+pytanie dołączone do zestawu.
+Łączna ilość punktów: 24 pkt.
+Ocena: <12 pkt. – niedostateczny 12 -15.5 pkt. – dostateczny 16 – 17.5 pkt. –
+dostateczny plus 18 – 19.5 pkt. – dobry 20 – 21.5 pkt. – dobry plus 22 -
+24 pkt. – bardzo dobry
+Egzamin pisemny:
+Liczba pytań 30 (14 testowych i 16 opisowych).
+Maksymalna ilość punktów – 60
+Oceny: <30 pkt. niedostateczny 30,0 – 35,0 pkt. dostateczny 35,5 – 40,0 pkt. dostateczny plus 40,5 – 45,5 pkt. dobry 46,0 –
+50,5 pkt. dobry plus 51,0 – 60,0 pkt. bardzo dobry.
+Ocena końcowa z przedmiotu Chemia ogólna i nieorganiczna jest ustalana na podstawie średniej ważonej z uzyskanych
+przez studenta ocen z egzaminu praktycznego i teoretycznego. Waga uzyskanych ocen do oceny końcowej:
+egzamin praktyczny - 0.3
+egzamin teoretyczny - 0.7
+Ocena końcowa z przedmiotu:
+mniej niż 3.00 - niedostateczny
+3.00 - 3.25 - dostateczny
+3.30 - 3.70 - dostateczny plus
+Wygenerowano: 2026-11-03 18:48                                                                                         4/6
+3.75 - 4.25 - dobry
+4.30 - 4.70 dobry plus
+4.75 - 5.00 - bardzo dobry
+                                                     Literatura
+Obowiązkowa
+    1. Praca zbiór., Kocjan R. red.: Chemia analityczna. Tom I, PZWL, 2023.
+    2. Rzeszutko W., Opoka W. Somogyi E.: Chemia analityczna jakościowa. WUJ, Kraków 2003.
+    3. Rzeszutko W., Opoka W, Krzek J., Hubicka U., Apola A., Stolarczyk M,: Zestaw wybranych zadań z chemii. WUJ, Kraków
+       2017.
+Dodatkowa
+    1. Bielański A.: Podstawy chemii nieorganicznej. Tom I, PWN, 2013.
+    2. Minczewski J., Marczenko Z.: Chemia analityczna. Tom I, PWN, 2008.
+    3. Weller M., Overton T., Rourke J., Armstrong F. Chemia nieorganiczna. PWN, 2018
+                                     Zasady korzystania z narzędzi SI
+Korzystanie z narzędzi sztucznej inteligencji odbywa się wyłącznie z zachowaniem wymogów określonych w obowiązujących
+przepisach prawa. Wykorzystanie narzędzi sztucznej inteligencji nie może prowadzić do naruszenia zasad rzetelności i
+uczuciowości akademickiej, w szczególności poprzez przypisywanie sobie autorstwa treści, wyników lub efektów pracy
+wytworzonych z wykorzystaniem sztucznej inteligencji.
+Wygenerowano: 2026-11-03 18:48                                                                                      5/6
+Kierunkowe efekty uczenia się
+ Kod                                                         Treść
+O.K7    Absolwent jest gotów do korzystania z obiektywnych źródeł informacji;
+O.K8    Absolwent jest gotów do formułowania wniosków z własnych pomiarów lub obserwacji;
+        Absolwent potraﬁ prowadzić badania substancji i produktów leczniczych, w tym prowadzić badania chemiczne,
+O.U3    farmaceutyczne, farmakologiczne, toksykologiczne oraz badania skuteczności i bezpieczeństwa substancji i
+        produktów leczniczych;
+        Absolwent potraﬁ wyszukiwać, analizować i interpretować informacje dotyczące substancji i produktów
+O.U4
+        leczniczych;
+O.U10 Absolwent potraﬁ komunikować się ze współpracownikami w zespole i dzielić się wiedzą;
+B.U3    Absolwent potraﬁ identyﬁkować metodami farmakopealnymi substancje nieorganiczne;
+        Absolwent zna i rozumie właściwości pierwiastków, w tym izotopów promieniotwórczych, w aspekcie ich
+B.W4
+        wykorzystania w diagnostyce i terapii chorób;
+        Absolwent zna i rozumie mechanizmy tworzenia i rodzaje wiązań chemicznych oraz mechanizmy oddziaływań
+B.W5
+        międzycząsteczkowych;
+B.W6    Absolwent zna i rozumie rodzaje i właściwości roztworów oraz metody ich sporządzania;
+B.W7    Absolwent zna i rozumie podstawowe typy reakcji chemicznych;
+B.W8    Absolwent zna i rozumie farmakopealne metody identyﬁkacji substancji nieorganicznych;
+Wygenerowano: 2026-11-03 18:48                                                                                      6/6

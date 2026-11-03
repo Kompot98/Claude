@@ -1,0 +1,233 @@
+adres: https://chemfarmbiomat.wum.edu.pl/sites/chemfarmbiomat.wum.edu.pl/files/2024-10/sylabus-choin-2024-2025.pdf
+uczelnia: Warszawski Uniwersytet Medyczny
+kierunek: farmacja
+przedmiot lub dokument: Chemia ogólna i nieorganiczna
+rok akademicki: 2024/25 (nowszego nie znaleziono)
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+                                  Chemia ogólna i nieorganiczna
+    1. METRYCZKA
+Rok akademicki                    2024/2025
+Wydział                           Wydział Farmaceutyczny
+Kierunek studiów                  farmacja
+Dyscyplina wiodąca                nauki farmaceutyczne
+Profil studiów                    profil praktyczny
+Poziom kształcenia                jednolite studia magisterskie
+Forma studiów                     studia stacjonarne
+Typ modułu/przedmiotu             obowiązkowy
+Forma weryfikacji efektów         egzamin
+uczenia się
+Jednostka prowadząca              Katedra i Zakład Chemii Farmaceutycznej i Biomateriałów
+                                  ul. Banacha 1, 02-097 Warszawa
+Kierownik jednostki               prof. dr hab. inż. Marcin Sobczak
+Kierownik przedmiotu              prof. dr hab. inż. Marcin Sobczak (marcin.sobczak@wum.edu.pl)
+Osoba odpowiedzialna za sylabus   dr Sylwester Krukowski (sylwester.krukowski@wum.edu.pl)
+– koordynator przedmiotu          dr Małgorzata Warowna-Grześkiewicz (mgrzeskiewicz@wum.edu.pl)
+Prowadzący zajęcia                dr inż. Monika Budnicka
+                                  mgr Natalia Byra
+                                  dr Sylwester Krukowski
+                                  dr Karolina Mulas
+                                  dr hab. inż. Ewa Olędzka
+                                  dr hab. Edyta Pindelska
+                                  dr inż. Urszula Piotrowska
+                                  prof. dr hab. inż. Marcin Sobczak
+                                  dr Małgorzata Warowna-Grześkiewicz
+                                                                                                  1/6
+     2. INFORMACJE PODSTAWOWE
+Rok i semestr             rok: I, semestr I i II                                                   Liczba punktów      11
+studiów                                                                                            ECTS
+FORMA PROWADZENIA ZAJĘĆ
+                                                                                Liczba godzin      Kalkulacja punktów ECTS
+Godziny kontaktowe z nauczycielem akademickim
+wykłady (W)                                                                     25                 1
+seminaria (S)                                                                   10                 0,4
+ćwiczenia (C)                                                                   90                 3,6
+e-learning (e-L)                                                                -                  -
+zajęcia praktyczne (ZP)                                                         -                  -
+praktyka zawodowa (PZ)                                                          -                  -
+Samodzielna praca studenta
+przygotowanie do zajęć i zaliczeń                                               150                6
+     3. CELE KSZTAŁCENIA
+C1        Opanowanie podstaw chemii ogólnej, nieorganicznej i analitycznej potrzebnych w trakcie studiów farmaceutycznych.
+C2        Zapoznanie z właściwościami substancji nieorganicznych (w tym z wybranymi substancjami farmakopealnymi) oraz reakcjami
+          zachodzącymi między nimi w roztworach wodnych.
+C3        Opanowanie praktycznych umiejętności przeprowadzania reakcji chemicznych, zapoznanie się z techniką i metodyką pracy
+          analitycznej, przyswojenie zasad BHP i wykształcenie dobrych nawyków w pracy laboratoryjnej.
+C4        Wykształcenie umiejętności dokonywania obserwacji objawów reakcji chemicznych i prawidłowego wyciągania wniosków
+          z przeprowadzonych doświadczeń.
+     4. STANDARD KSZTAŁCENIA – SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ
+Symbol               Efekty w zakresie (zgodnie z załącznikiem do Rozporządzenia Ministra NiSW z 26 lipca 2019)
+i numer efektu
+uczenia się
+zgodnie ze
+standardami
+uczenia się
+Wiedzy – Absolwent* zna i rozumie:
+B.W5.                budowę atomu i cząsteczki, układ okresowy pierwiastków chemicznych i właściwości pierwiastków, w tym izotopów
+                     promieniotwórczych w aspekcie ich wykorzystania w diagnostyce i terapii;
+B.W6.                mechanizmy tworzenia i rodzaje wiązań chemicznych oraz mechanizmy oddziaływań międzycząsteczkowych;
+                                                                                                                                 2/6
+ B.W7.                  rodzaje i właściwości roztworów oraz metody ich sporządzania;
+ B.W8.                  podstawowe typy reakcji chemicznych;
+ B.W9.                  charakterystykę metali i niemetali oraz nomenklaturę i właściwości związków nieorganicznych stosowanych
+                        w diagnostyce i terapii chorób;
+ B.W10.                 metody identyfikacji substancji nieorganicznych, w tym metody farmakopealne;
+ B.W15.                 kwantowe podstawy budowy materii;
+ Umiejętności – Absolwent* potrafi:
+ B.U1.                  mierzyć lub wyznaczać wielkości fizykochemiczne z zastosowaniem odpowiedniej aparatury laboratoryjnej oraz
+                        wykonywać obliczenia chemiczne;
+ B.U4.                  identyfikować substancje nieorganiczne, w tym metodami farmakopealnymi;
+ B.U7.                  potrafi wykonywać analizy jakościowe pierwiastków oraz związków chemicznych (w tym wybranych substancji
+                        farmakopealnych);
+*W załącznikach do Rozporządzenia Ministra NiSW z 26 lipca 2019 wspomina się o „absolwencie”, a nie studencie
+       5. POZOSTAŁE EFEKTY UCZENIA SIĘ (nieobowiązkowe)
+     Numer efektu       Efekty w zakresie
+     uczenia się
+ Wiedzy – Absolwent zna i rozumie:
+ -                      -
+ Umiejętności – Absolwent potrafi:
+ -                      -
+ Kompetencji społecznych – Absolwent jest gotów do:
+ -                      -
+       6. ZAJĘCIA
+ Forma zajęć                      Treści programowe                                                             Efekty uczenia się
+ Wykłady                          Tematy wykładów z chemii ogólnej i nieorganicznej             B.W5–10; B.W15
+                                   • Mechaniczno-kwantowa teoria atomu, orbitale atomowe.
+                                   • Układ okresowy pierwiastków a budowa atomu. Izotopy
+                                     promieniotwórcze.
+                                   • Wiązania chemiczne w ujęciu klasycznym.
+                                   • Wiązania chemiczne a orbitale molekularne.
+                                   • Oddziaływania międzycząsteczkowe. Elementy krystalografii.
+                                   • Elementy termodynamiki chemicznej, równowaga chemiczna.
+                                   • Układ okresowy pierwiastków a okresowość właściwości
+                                     chemicznych.
+                                                                                                                                     3/6
+            •   Przegląd poszczególnych grup pierwiastków: wodór, helowce,
+                fluorowce, tlenowce, azotowce, węglowce, borowce, berylowce,
+                litowce, pierwiastki grup przejściowych.
+            Tematy wykładów z analizy jakościowej
+             • Farmakopea, przykłady farmakopealnego oznaczenia tożsamości
+               jonów i preparatów farmaceutycznych, podział pierwiastków na
+               mikro-, makro- i ultraelementy.
+             • Analiza systematyczna kationów. Oddzielenie I grupy kationów
+               tworzących nierozpuszczalne chlorki. Wybór optymalnych
+               warunków strącania. Reakcje analityczne kationów I grupy. Analiza
+               systematyczna I grupy kationów
+             • Wybór optymalnego pH do wytrącenia siarczków II gr. i ich
+               własności. Reakcje analityczne kationów grupy II. Analiza różnych
+               mieszanin kationów grupy II.
+             • Reakcje analityczne kationów grupy III. Analiza różnych mieszanin
+               kationów grupy III.
+             • pH roztworu węglanu amonu. Reakcje analityczne kationów grupy
+               IV i V. Analiza różnych mieszanin kationów grup IV i V.
+             • Podział anionów na grupy analityczne według Bunsena. Omówienie
+               reakcji charakterystycznych poszczególnych anionów z grup I-VI.
+               Analiza różnych mieszanin anionów z grup I-VI.
+             • Identyfikacja substancji prostych i związków chemicznych.
+               Farmakopealne potwierdzenie tożsamości różnych substancji
+               rozpuszczalnych i nierozpuszczalnych w wodzie. Farmakopealne
+               potwierdzenie tożsamości mikro-, makro i ultraelementów.
+Seminaria   •   Obliczenia chemiczne: stężenia roztworów, pH mocnych B.W5–9
+                elektrolitów, rozpuszczalność, rozpuszczalność molowa i iloczyn
+                rozpuszczalności (w tym efekt wspólnego jonu).
+            •   Nazewnictwo związków nieorganicznych, w tym kompleksowych.
+                Wiązania chemiczne.
+            •   Reakcje utleniania-redukcji.
+Ćwiczenia   Semestr zimowy (podstawy pracy laboratoryjnej, wprowadzenie do B.U1; B.U4; B.U7
+            analizy jakościowej):
+            1. Mieszaniny i roztwory (sporządzanie i badanie właściwości mieszanin,
+               w tym roztworów wodnych).
+            2. Dysocjacja i amfoteryczność (pomiar przewodności roztworów
+               elektrolitów i nieelektrolitów, porównywanie mocy elektrolitów,
+               wypieranie kwasów i zasad, badanie amfoteryczności tlenków,
+               wodorotlenków i soli).
+            3. Odczyn i pH roztworu (zapoznanie z barwami wybranych wskaźników
+               kwasowo-zasadowych, pomiar pehametryczny). Roztwory buforowe
+               (sporządzanie i badanie właściwości).
+            4. Hydroliza (badanie odczynu soli i obserwacja objawów towarzyszących
+               hydrolizie, wpływ stężenia i temperatury na hydrolizę).
+            5. Rozpuszczalność i strącanie (sporządzanie roztworów nasyconych
+               i przesyconych, efekt wspólnego jonu, strącanie frakcjonowane,
+               efektywne usuwanie jonów z roztworu metodą strącania osadu).
+            6. Związki kompleksowe (zapoznanie z podstawowymi rodzajami
+               kompleksów, porównywanie ich trwałości, maskowanie/blokowanie
+               jonów przez kompleksowanie, kompleksy labilne i bierne).
+            7. Reakcje utleniania i redukcji cz. I (badanie wybranych typowych
+               utleniaczy i reduktorów, wpływ odczynu na przebieg reakcji redoks,
+               reakcje kom- i dysproporcjonowania).
+            8. Reakcje utleniania i redukcji cz. II (przewidywanie kierunku przebiegu
+               reakcji redoks, reakcje metali w roztworach soli, roztwarzanie
+               i pasywacja metali).
+                                                                                              4/6
+                              Semestr letni (analiza          jakościowa   z   uwzględnieniem   metod
+                              farmakopealnych):
+                              I. Analiza kationów
+                              1. Analiza kationów pierwiastków toksycznych i ultraelementów
+                                 z I grupy analitycznej. Próby wstępne, w tym reakcje farmakopealne.
+                                 Wykrywanie pojedynczych kationów oraz analiza mieszaniny
+                                 kationów grupy I.
+                              2. Analiza wybranych kationów z II grupy analitycznej, w tym
+                                 mikroelementów i kationów pierwiastków toksycznych. Próby
+                                 wstępne, w tym reakcje farmakopealne. Analiza mieszaniny kationów
+                                 grupy II.
+                              3. Analiza wybranych mikroelementów i kationów pierwiastków
+                                 toksycznych z III grupy kationów. Próby wstępne, w tym reakcje
+                                 farmakopealne. Wykrywanie pojedynczych kationów z grup I-III oraz
+                                 analiza mieszaniny kationów grupy III.
+                              4. Analiza wybranych makroelementów z IV–V grupy kationów oraz
+                                 jonów Ba2+ i NH4+. Próby wstępne, w tym reakcje farmakopealne.
+                                 Wykrywanie pojedynczych kationów oraz analiza mieszaniny
+                                 kationów grup IV–V.
+                              II. Analiza anionów
+                              5. Analiza anionów cz. I. Próby wstępne wybranych anionów z grup I–III,
+                                 w tym reakcje farmakopealne. Wykrywanie pojedynczych anionów
+                                 grup I–III oraz analizy wybranych mieszanin.
+                              6. Analiza anionów cz. II. Próby wstępne wybranych anionów z grup
+                                 IV–VI, w tym reakcje farmakopealne. Wykrywanie pojedynczych
+                                 anionów grup IV–VI oraz analizy wybranych mieszanin.
+                              III. Identyfikacje substancji
+                              7. Identyfikacje cz. I. Identyfikacja substancji rozpuszczalnych w wodzie
+                                 (w     tym      farmakopealnych).        Potwierdzanie      tożsamości
+                                 zidentyfikowanych jonów metodami farmakopealnymi.
+                              8. Identyfikacje cz. II. Identyfikacja substancji trudno rozpuszczalnych
+                                 w wodzie.
+     7. LITERATURA
+Obowiązkowa
+1. Bielański A.: Podstawy chemii nieorganicznej, PWN, Warszawa 2016.
+2. Galus Z. (red.): Ćwiczenia rachunkowe z chemii analitycznej, PWN, Warszawa 2016.
+3. Kocjan R. (red.): Chemia analityczna, tom I, PZWL, Warszawa 2014.
+Uzupełniająca
+1.   Atkins P., Jones L.: Chemia ogólna, PWN, Warszawa 2016.
+2.   Cotton F. A., Wilkinson G., Gaus P. L.: Chemia nieorganiczna, PWN, Warszawa 2002.
+3.   Lee J. D.: Zwięzła chemia nieorganiczna, PWN, Warszawa 1994.
+4.   Minczewski J., Marczenko Z.: Chemia analityczna, PWN, Warszawa 2016.
+5.   Pajdowski L.: Chemia ogólna, PWN, Warszawa 1999.
+6.   Stasicka Z. (red.): Nomenklatura chemii nieorganicznej (zalecenia 1990), Wydawnictwo Uniwersytetu Wrocławskiego, Wrocław 1998.
+                                                                                                                               5/6
+      8. SPOSOBY WERYFIKACJI EFEKTÓW UCZENIA SIĘ
+ Symbol                     Sposoby weryfikacji efektu uczenia się                                             Kryterium zaliczenia
+ przedmiotowego
+ efektu uczenia się
+ B.W7–10                   Punktowane kolokwia i sprawdziany
+                                                                                                               50% + 1 pkt
+ B.U1, B.U4, B.U7          Punktowane sprawozdania z wykonanych zadań, samodzielne wykonywanie
+                           analiz
+ B.W5–10, B.W15            Egzamin pisemny (pytania otwarte)                                                   2,0 (ndst): 0–50%
+                                                                                                               3,0 (dst): 51–60%
+                                                                                                               3,5 (ddb): 61–70%
+                                                                                                               4,0 (db): 71–80%
+                                                                                                               4,5 (pdb): 81–90%
+                                                                                                               5,0 (bdb): 91–100%
+      9. INFORMACJE DODATKOWE
+ Kryterium punktowe dopuszczające do egzaminu: 50% + 1 punkt na podstawie całorocznego podsumowania punktacji z kolokwiów,
+ sprawdzianów, sprawozdań i aktywności (zaliczenie na podstawie całorocznej pracy studenta – termin pierwszy). W przypadku
+ uzyskania niewystarczającej liczby punktów student może przystąpić do kolokwium poprawkowego dopuszczającego do egzaminu
+ (zaliczenie kolokwium – termin drugi). Łącznie student ma dwie możliwości dopuszczenia do egzaminu.
+ Egzamin organizowany jest w dwóch terminach, zgodnie z regulaminem studiów: pierwszym (w sesji letniej) oraz poprawkowym
+ (w letniej sesji poprawkowej).
+ W Katedrze funkcjonują koła naukowe: SKN Spectrum, SKN Biomat oraz SKN Crystals. Osoby zainteresowane pracą w kole naukowym
+ proszone są o zgłaszanie pytań do prowadzących zajęcia.
+Prawa majątkowe, w tym autorskie, do sylabusa przysługują WUM. Sylabus może być wykorzystywany dla celów związanych z kształceniem na studiach
+odbywanych w WUM. Korzystanie z sylabusa w innych celach wymaga zgody WUM.
+                                                                                                                                             6/6

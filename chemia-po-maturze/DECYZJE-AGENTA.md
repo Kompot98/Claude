@@ -61,3 +61,15 @@ Format wpisu: co, dlaczego, co odrzucone. Wpisów nie kasuję; zmianę zapisuję
 **Co:** 04c ma około 4,8 strony zamiast 2–3. Zostawiam.
 **Dlaczego:** spektroskopia to w praktyce cztery metody (MS, IR, NMR, UV-Vis), a UV-Vis ma dwa różne zastosowania (budowa w organicznej, stężenie w analityce). Skrócenie do trzech stron oznaczałoby wyrzucenie jednej metody albo zastosowania analitycznego, które dotyczy kierunków medycznych. Część o zasobach zajmuje około jednej strony.
 **Odrzucone:** pominięcie spektrometrii mas (jest w podręcznikach organicznej obok IR i NMR) albo przeniesienie zasobów do rozdziału 3 (zlecenie chce „skąd uczyć się dalej” w każdym wprowadzeniu).
+
+## D-11, 2026-11-03: niepełny łańcuch certyfikatów na serwerach uczelni
+
+**Co:** część serwerów uczelni (sylabus.uj.edu.pl, sylabus.sggw.edu.pl, www.pum.edu.pl) wysyła tylko własny certyfikat, bez pośredniego. Przeglądarki dociągają brakujący certyfikat same z adresu zapisanego w certyfikacie (AIA). Zrobiłem to samo: pobrałem certyfikat pośredni z adresu AIA (np. GEANT TLS RSA 1 z crt.harica.gr) i dołączyłem go do pakietu zaufanych urzędów używanego przez curl. Weryfikacja TLS pozostała włączona przez cały czas.
+**Dlaczego:** bez tego nie dało się pobrać sylabusów UJ i SGGW, a to strony publiczne, które uczeń otworzy w przeglądarce bez problemu.
+**Odrzucone:** wyłączenie weryfikacji certyfikatów.
+
+## D-12, 2026-11-03: zakres zbioru sylabusów
+
+**Co:** 22 źródła dla ośmiu kierunków, po dwie, trzy uczelnie. Tam, gdzie pełny sylabus był niedostępny, użyłem planu studiów albo listy przedmiotów z godzinami i ECTS (typ „program studiów” w `zrodla.csv`). Na kierunkach medycznych plan jest zresztą ważniejszy od pojedynczego sylabusu, bo pokazuje, czy chemia w ogóle jest na pierwszym roku. Kopie lokalne to tekst wyciągnięty z PDF lub DOCX, z nagłówkiem; długie dokumenty skrócone do 40 000 znaków.
+**Dlaczego:** zlecenie traktuje 24 zestawy jako górną granicę i każe zapisywać braki zamiast szukać bez końca.
+**Odrzucone:** opieranie się na pojedynczych sylabusach II roku (UWr, UKSW organiczna, PP organiczna), które wyszły w wyszukiwaniu; nie dotyczą pierwszego roku.

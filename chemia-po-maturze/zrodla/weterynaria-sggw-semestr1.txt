@@ -1,0 +1,216 @@
+adres: https://sylabus.sggw.edu.pl/pl/1/22/3/7/40/2/41
+uczelnia: Szkoła Główna Gospodarstwa Wiejskiego
+kierunek: weterynaria
+przedmiot lub dokument: plan semestru 1
+rok akademicki: 2026/27
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+Przejdź do treści
+[Godło Rzeczypospolitej Polskiej] [SGGW Logo]
+Tryb zwiększonego kontrastu
+Standardowa wielkość czcionki A⁻
+Standardowa wielkość czcionki A⁺
+Zaloguj się
+pl en
+pl en
+Sylabus SGGW
+Tryb zwiększonego kontrastu
+Standardowa wielkość czcionki A⁻
+Standardowa wielkość czcionki A⁺
+Zaloguj się
+[Godło Rzeczypospolitej Polskiej] [SGGW Logo]
+[Logo HR Excellence in research] [UNIgreen The green European University]
+1.  Strona główna
+2.  Wydział Medycyny Weterynaryjnej
+3.  weterynaria
+Sylabus SGGW
+Kierunek weterynaria
+2026/27, jednolite studia magisterskie, studia stacjonarne
+-   Opis kierunku
+-   Semestr 1
+-   Semestr 2
+-   Semestr 3
+-   Semestr 4
+-   Semestr 5
+-   Semestr 6
+-   Semestr 7
+-   Semestr 8
+-   Semestr 9
+-   Semestr 10
+-   Semestr 11
+Studia na kierunku weterynaria prowadzone są w języku polskim w formie studiów jednolitych magisterskich. Rozpoczynają się od semestru zimowego, trwają 11 semestrów (5,5 roku) i kończą się uzyskaniem tytułu zawodowego lekarza weterynarii.
+Grupy przedmiotów w trakcie studiów weterynaryjnych są opisane w Rozporządzeniu Ministra Edukacji i Nauki z dnia 17 lipca 2019 roku w sprawie standardu kształcenia przygotowującego do zawodu lekarza weterynarii. W trakcie studiów studenci kierunku weterynaria mają możliwość zapoznania się z najnowszymi osiągnięciami naukowymi w zakresie nauk weterynaryjnych  i wykorzystania zdobytej wiedzy w praktyce. W programie studiów znajdują się przedmioty podstawowe (anatomia, histologia i embriologia, biologia, chemia oraz fizjologia zwierząt), przedmioty przedkliniczne (farmakologia, parazytologia, mikrobiologia) oraz przedmioty kliniczne a także grupa przedmiotów związanych z szeroko rozumianą ochroną zdrowia publicznego i administracją weterynaryjną.
+Absolwent kierunku weterynaria ma szeroką wiedzę z zakresu rozpoznawania i leczenia chorób zwierząt, administracji weterynaryjnej oraz ochrony zdrowia publicznego. Posiada niezbędne umiejętności praktyczne w zakresie czynności lekarsko-weterynaryjnych. Rozumie przyczyny chorób, potrafi rozpoznać i zinterpretować objawy zmian anatomopatologicznych oraz wdrożyć odpowiednie leczenie w poszczególnych jednostkach chorobowych. Potrafi stosować odpowiednie programy profilaktyczne. Zna przepisy prawa, zasady orzekania i sporządzania opinii dla sądów, organów administracji państwowej i samorządowej oraz samorządu zawodowego.
+Studenci kończący studia weterynaryjne znajdują zatrudnienie w lecznicach weterynaryjnych, Inspekcji weterynaryjnej, stacjach sanitarno-epidemiologicznych, laboratoriach kontrolnych i badawczych, weterynaryjnych laboratoriach diagnostycznych, stacjach hodowli zwierząt, placówkach naukowych, ogrodach zoologicznych, zakładach farmaceutycznych.
+Do końca pierwszego semestru student zobowiązany jest do realizacji szkolenia BHP, szkolenia bibliotecznego oraz szkolenia z zakresu dyskryminacji i jej przeciwdziałania. Wszystkie szkolenia odbywają się z wykorzystaniem technik kształcenia na odległość, na platformie: szkolenia.sggw.pl
+>> Link do strony wydziału
+Program studiów
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Przedmiot                                                                                                             | Liczba godzin                       | Punkty ECTS | Forma weryfikacji   | Obligatoryjność        |
++=======================================================================================================================+=====================================+=============+=====================+========================+
+| Szkolenie BHP                                                                                                         | Szkolenie BHP: 4                    | -           | Zaliczenie          | Przedmioty obowiązkowe |
+|                                                                                                                       |                                     |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Szkolenie BHP: 4 godz.                                                                                        |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 0                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Zaliczenie                                                                                     |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Anatomia zwierząt (1)                                                                                                 | Wykład: 45                          | 8           | Zaliczenie na ocenę | Przedmioty obowiązkowe |
+|                                                                                                                       | Ćwiczenia laboratoryjne: 60         |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Wykład: 45 godz.                                                                                              |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Ćwiczenia laboratoryjne: 60 godz.                                                                             |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 8                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Zaliczenie na ocenę                                                                            |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Histologia i embriologia (1)                                                                                          | Wykład: 15                          | 3           | Zaliczenie na ocenę | Przedmioty obowiązkowe |
+|                                                                                                                       | Ćwiczenia laboratoryjne: 15         |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Wykład: 15 godz.                                                                                              |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Ćwiczenia laboratoryjne: 15 godz.                                                                             |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 3                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Zaliczenie na ocenę                                                                            |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Biologia komórki                                                                                                      | Wykład: 15                          | 2           | Egzamin             | Przedmioty obowiązkowe |
+|                                                                                                                       | Ćwiczenia laboratoryjne: 15         |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Wykład: 15 godz.                                                                                              |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Ćwiczenia laboratoryjne: 15 godz.                                                                             |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 2                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Egzamin                                                                                        |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Biologia                                                                                                              | Wykład: 30                          | 2           | Zaliczenie na ocenę | Przedmioty obowiązkowe |
+|                                                                                                                       |                                     |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Wykład: 30 godz.                                                                                              |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 2                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Zaliczenie na ocenę                                                                            |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Technologia informacyjna                                                                                              | Ćwiczenia laboratoryjne: 15         | 1           | Zaliczenie na ocenę | Przedmioty obowiązkowe |
+|                                                                                                                       |                                     |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Ćwiczenia laboratoryjne: 15 godz.                                                                             |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 1                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Zaliczenie na ocenę                                                                            |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Biofizyka                                                                                                             | Wykład: 30                          | 2           | Egzamin             | Przedmioty obowiązkowe |
+|                                                                                                                       |                                     |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Wykład: 30 godz.                                                                                              |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 2                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Egzamin                                                                                        |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Chemia                                                                                                                | Wykład: 15                          | 4           | Egzamin             | Przedmioty obowiązkowe |
+|                                                                                                                       | Ćwiczenia laboratoryjne: 30         |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Wykład: 15 godz.                                                                                              |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Ćwiczenia laboratoryjne: 30 godz.                                                                             |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 4                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Egzamin                                                                                        |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Język łaciński (1)                                                                                                    | Ćwiczenia audytoryjne: 15           | 1           | Zaliczenie na ocenę | Przedmioty obowiązkowe |
+|                                                                                                                       |                                     |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Ćwiczenia audytoryjne: 15 godz.                                                                               |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 1                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Zaliczenie na ocenę                                                                            |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Ochrona własności intelektualnej                                                                                      | Wykład: 15                          | 1           | Zaliczenie na ocenę | Przedmioty obowiązkowe |
+|                                                                                                                       |                                     |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|         Wykład: 15 godz.                                                                                              |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 1                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Zaliczenie na ocenę                                                                            |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Przedmioty obowiązkowe                                                                           |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Wychowanie fizyczne                                                                                                   | Zajęcia z wychowania fizycznego: 30 | -           | Zaliczenie          | Obowiązkowa grupa      |
+|                                                                                                                       |                                     |             |                     |                        |
+| Dane przedmiotu                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Punkty ECTS: 0                                                                                                    |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Forma weryfikacji: Zaliczenie                                                                                     |                                     |             |                     |                        |
+|                                                                                                                       |                                     |             |                     |                        |
+|     Obligatoryjność: Obowiązkowa grupa                                                                                |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Student wybiera jeden przedmiot                                                                                       |                                     |             |                     |                        |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------+-------------+---------------------+------------------------+
+| Wychowanie fizyczne                                                                                                   | Zajęcia z wychowania fizycznego: 30 | -           | Zaliczenie          | Przedmioty do wyboru   |
+|                                                                                                                       |                                     |             |                     |                        |
+| Dane przedmiotu                          

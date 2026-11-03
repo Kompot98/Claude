@@ -1,0 +1,212 @@
+adres: https://put.poznan.pl/cards/2026_2027/Technologia%20chemiczna/stacjonarne/studia%20pierwszego%20stopnia/1/Chemia%20og%C3%B3lna%20i%20nieorganiczna%20(COiN1).pdf
+uczelnia: Politechnika Poznańska
+kierunek: inżynieria
+przedmiot lub dokument: Chemia ogólna i nieorganiczna
+rok akademicki: 2026/27
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+                      POLITECHNIKA POZNAŃSKA
+                      EUROPEJSKI SYSTEM TRANSFERU I AKUMULACJI PUNKTÓW (ECTS)
+KARTA OPISU PRZEDMIOTU - SYLABUS
+Nazwa przedmiotu
+Chemia ogólna i nieorganiczna [S1TCh2>COiN1]
+Przedmiot
+Kierunek studiów                                    Rok/Semestr
+Technologia chemiczna                               1/1
+Studia w zakresie (specjalność)                     Profil studiów
+–                                                   ogólnoakademicki
+Poziom studiów                                      Język oferowanego przedmiotu
+pierwszego stopnia                                  polski
+Forma studiów                                       Wymagalność
+stacjonarne                                         obligatoryjny
+Liczba godzin
+Wykład                             Laboratorium                      Inne
+45                                 0                                 0
+Ćwiczenia                          Projekty/seminaria
+30                                 0
+Liczba punktów ECTS
+7,00
+Koordynatorzy                                       Wykładowcy
+dr inż. Andrzej Szymański                           dr inż. Andrzej Szymański
+andrzej.szymanski@put.poznan.pl                     andrzej.szymanski@put.poznan.pl
+dr hab. inż. Bogdan Wyrwas prof. PP                 dr inż. Anna Modrzejewska-Sikorska
+bogdan.wyrwas@put.poznan.pl                         anna.modrzejewska-sikorska@put.poznan.pl
+                                                    dr hab. inż. Bogdan Wyrwas prof. PP
+                                                    bogdan.wyrwas@put.poznan.pl
+Wymagania wstępne
+W1) Ma teoretyczną wiedzę na poziomie szkoły średniej z zakresu chemii ogólnej i nieorganicznej, a w
+szczególności: zna podstawowe prawa, pojęcia i wielkości chemiczne, a także nazwy i symbole
+pierwiastków chemicznych. W2) Ma wiedzę na poziomie szkoły średniej z zakresu fizyki, a szczególnie zna
+podstawy budowy materii i identyfikuje elementy składowe jądra atomowego oraz atomu. W3) Ma wiedzę
+na poziomie szkoły średniej z matematyki, a szczególnieo budowaniu proporcji i wykorzystywaniu ich w
+prostych obliczeniach. Student: U1) Pisze wzory sumaryczne prostych związków nieorganicznych U2)
+Pisze proste reakcje chemiczne z udziałem reagentów nieorganicznych U3) Wykonuje podstawowe
+obliczenia chemiczne, a w szczególności: potrafi liczyć i wzajemnie przeliczać procentowe i molowe
+stężenia roztworów; potrafi wykonać inne obliczenia oparte na umiejętności układania proporcji
+(procentowy skład związku chemicznego, czystość i stopień przereagowania substratów, wydajność
+produktów reakcji). Student: K1) Jest zdeterminowany do zdobywania wiedzy z zakresu chemii, jako
+przedmiotu ścisłego, będącego podstawą gruntownego wykształcenia w wielu zawodach inżynierskich. K2)
+                                                                                                          1
+Wykazuje zainteresowanie sposobami realizowania w skali przemysłowej użytecznych procesów
+chemicznych, a jednocześnie jest wrażliwy na problemy ochrony środowiska, w tym głównie na problemy
+minimalizacji zanieczyszczenia substancjami chemicznymi.
+Cel przedmiotu
+Pokazanie chemii jako nauki w stałym, dynamicznym rozwoju. Poszerzenie i ugruntowanie umiejętności
+wykonywania obliczeń z zakresu stężeń roztworów i stechiometrii oraz podstawowych obliczeń
+termodynamicznych. Poszerzenie wiedzy z chemii ogólnej i nieorganicznej oraz jej usystematyzowanie w
+oparciu o typy reakcji chemicznych i prawo okresowości. Pokazanie zależności między właściwościami
+związków a rodzajem wiązań chemicznych w ich cząsteczkach. Usystematyzowanie wiedzy teoretycznej z
+zakresu chemizmu i efektów towarzyszących reakcjom charakterystycznym kationów i anionów. Poznanie
+chemizmu głównych procesów nieorganicznych o znaczeniu technologicznym. Zapoznanie z globalnymi
+efektami środowiskowymi.
+Przedmiotowe efekty uczenia się
+Wiedza:
+1. Student ma rozszerzoną wiedzę o budowie materii; identyfikuje składniki materii oraz charakteryzuje
+oddziaływania między nimi; zna budowę atomów i genezę ich powstania; definiuje i objaśnia prawa
+rządzące oddziaływaniami składników materii zarówno na poziomie wewnątrzjądrowym jak i atomowym
+K_W02
+2. Wskazuje właściwości pierwiastków wynikające z konfiguracji elektronowej ich atomów i położenia w
+układzie okresowym, a zwłaszcza zna i tłumaczy zależność pomiędzy konfiguracją elektronową atomów
+a reaktywnością pierwiastków
+K_W03
+3. Wymienia reakcje z udziałem związków nieorganicznych, o dużym, praktycznym znaczeniu
+przemysłowym. Opisuje, objaśnia i charakteryzuje ich chemizm (sposób przebiegu i towarzyszące im
+efekty).
+K_W08, K_W09
+4. Wymienia i opisuje najważniejsze szkodliwe efekty oddziaływania na środowisko niektórych
+pierwiastków oraz związków nieorganicznych, a także identyfikuje najważniejsze źródła, z których
+emitowane są one do środowiska.
+K_W07, K_W08
+Umiejętności:
+1. Student analizuje i interpretuje treści zadań obliczeniowych oraz wykonuje obliczenia chemiczne
+(głównie z zakresu przeliczania stężeń, stechiometrii oraz podstaw termodynamiki reakcji chemicznych)
+K_U01
+2. Posługuje się układem okresowym pierwiastków i potrafi wykorzystywać go jako podstawowe źródło
+informacji o właściwościach fizykochemicznych pierwiastków oraz ich związków
+K_U01, K_U24
+3. Posługuje się aktualną nomenklaturą związków nieorganicznych, a zwłaszcza potrafi połączyć
+prawidłową nazwę związku z jego poprawnym wzorem sumarycznym (stechiometrycznym), który potrafi
+prawidłowo zapisać, a na tej podstawie sporządzić jego wzór strukturalny
+K_U01, K_U17, K_U19
+4. Zapisuje i poprawnie bilansuje reakcje chemiczne pomiędzy reagentami nieorganicznymi (także z
+udziałem prostych związków organicznych); przewiduje kierunek przebiegu reakcji chemicznych
+dowolnego typu (w tym reakcji utleniania i redukcji) oraz umie scharakteryzować ilościowo ustalający się
+stan równowagi reakcji (potrafi obliczać stałą równowagi reakcji chemicznej).
+K_U01, K_U18
+Kompetencje społeczne:
+1. Student ma świadomość ciągłego, szybkiego powiększania się wiedzy z zakresu chemii nieorganicznej,
+a na tym tle - poziomu swojej wiedzy z tej dziedziny, co wywołuje u niego zdeterminowanie i aktywną
+postawę w dalszym studiowaniu oraz przyswajaniu nowej wiedzy z własnej inicjatywy
+K_K01
+2. Jest świadomy, że wiedza z zakresu chemii nieorganicznej jest szeroko stosowana w przemyśle i
+gospodarce; rozumie w związku z tym i liczy się z koniecznością praktycznego wykorzystywania w
+przyszłości zdobytej wiedzy i umiejętności; ma świadomość związanej z tym odpowiedzialności.
+                                                                                                           2
+K_K02, K_K06
+Metody weryfikacji efektów uczenia się i kryteria oceny
+Efekty uczenia się przedstawione wyżej weryfikowane są w następujący sposób:
+Kontrola postępu w przyswajaniu wiedzy z wykładów i ćwiczeń realizowana jest na bieżąco, w formie
+pisemnych sprawdzianów. Po zakończeniu określonej partii materiału, prowadzący ćwiczenia organizuje
+- w z góry ustalonych terminach - minimum dwie, duże, pisemne prace kolokwialne. Każde z kolokwiów
+składa się z 5-7 zadań różnie punktowanych. Próg zaliczeniowy wynosi 50% punktów. Student ma także
+możliwość zdobywania dodatkowych punktów na każdych zajęciach. Ostateczną formą kontroli postępu
+w przyswajaniu wiedzy jest egzamin pisemny.
+Treści programowe
+Zagadnienia dotyczące chemii ogólnej i nieorganicznej.
+Tematyka zajęć
+Wykład:
+1. Obliczenia chemiczne. Różne rodzaje stężeń. Stężenie procentowe. Mol i stężenie molowe.
+Gramorównoważnik i stężenie normalne. Przeliczanie stężeń. Obliczenia stechiometryczne.
+2. Budowa materii. Wielki wybuch. Nukleony i pierwotna nukleosynteza. Izotopy. Procesy chemiczne w
+gwiazdach. Sztuczne reakcje jądrowe. Rozpowszechnienie pierwiastków. Atom. Liczby kwantowe.
+Konfiguracje elektronowe pierwiastków. Układ okresowy i okresowość zmian właściwości
+fizykochemicznych pierwiastków. Prawidłowości układu okresowego.
+3. Wiązania chemiczne. Elektroujemność. Wiązanie jonowe. Wiązanie atomowe - struktury Lewisa.
+Moment dipolowy - polaryzacja wiązania atomowego. Wiązanie atomowe-koordynacyjne. Wiązanie
+metaliczne. Siły van der Waalsa. Wiązanie wodorowe. Wiązania chemiczne a właściwości związków.
+4. Termodynamika i kinetyka reakcji. Efekty cieplne reakcji. Entropia i entalpia. Energia Gibbsa. Wpływ
+temperatury i ciśnienia na równowagę reakcji. Właściwości gazów i ich mieszanin. Termodynamika
+cieczy, potencjał chemiczny, roztwory nieelektrolitów, równowagi gaz-ciecz i ciecz-ciało stałe (wykresy
+fazowe). Termodynamika ciała stałego. Kinetyka reakcji chemicznych. Reakcje I i II rzędu, reakcje jedno- i
+dwucząsteczkowe. Teoria kompleksu aktywnego, równania Arrheniusa i Eyringa. Reakcje odwracalne,
+równolegle i następcze. Reakcje łańcuchowe. Reakcje spalania i wybuchowe. Reakcje fotochemiczne.
+Kataliza hetero- i homogeniczna - katalizatory.
+5. Kwasy i zasady. Dysocjacja elektrolityczna. Elektrolity mocne i słabe. Stężenie a aktywność -
+współczynniki aktywności, siła jonowa. Teorie kwasów i zasad. Iloczyn jonowy wody i skala pH. Moc
+kwasów i zasad. Wskaźniki kwasowo-zasadowe. Stopień a stała kwasowa. Roztwory buforowe. Amfolity.
+Alkacymetria. Odczyn roztworów wodnych kwasów, zasad i soli. Hydroliza. Pomiar pH.
+6. Osady. Budowa związków a rozpuszczalność. Iloczyn rozpuszczalności. Rozpuszczalność. Efekt
+wspólnego jonu. Efekt solny. Wpływ pH na rozpuszczanie i selektywne wytrącanie osadów.
+Rozpuszczalność związków a ich toksyczność. Twardość wody - usuwanie twardości.
+7. Analiza jakościowa. Podział anionów i kationów na grupy analityczne - odczynniki grupowe. Reakcje
+charakterystyczne wybranych kationów i anionów.
+8. Związki kompleksowe - budowa i rodzaje. Równowagi w roztworach kompleksów - stopniowe
+tworzenie kompleksów. Stała trwałości i nietrwałości kompleksu. Wpływ pH na reakcje kompleksowania.
+Rozpuszczalność osadów a tworzenie kompleksów. Zastosowanie kompleksów w analityce.
+9. Reakcje utleniania i redukcji (redoks). Pojęcia podstawowe. Reakcje połówkowe, stała równowagi
+reakcji redoks, równanie Nernsta, potencjał normalny, bilansowanie reakcji redoks. Wpływ pH na
+reakcje redoks. Obrazowanie właściwości redoks - wykresy potencjał-pH (Pourbaix)). Ustalanie kierunku
+reakcji na podstawie wykresów Pourbaix. Termodynamiczna trwałość wody. Silne utleniacze i reduktory
+w roztworach wodnych. Omówienie chemicznych właściwości podstawowych pierwiastków na
+podstawie wykresu potencjał-pH. Mechanizmy korozji żelaza i technologie ochrony.
+10. Właściwości chemiczne pierwiastków i ich związków. Charakterystyka pierwiastków bloku „s”
+(litowce, berylowce), „p” (borowce, węglowce, azotowce, tlenowce, fluorowce i helowce) oraz
+pierwiastków d- i f-elektronowych. Niemetale i ich związki. Wodór. Tlen. Chlor i fluorowce. Siarka. Azot.
+Fosfor. Krzemiany. Glinokrzemiany. Metale. Tlenki, wodorotlenki i siarczki metali. Przegląd metali z
+zastosowaniem wykresów potencjał-pH. Otrzymywanie najważniejszych metali. Związki
+metaloorganiczne. Otrzymywanie i zastosowania najważniejszych związków nieorganicznych.
+11. Związki nieorganiczne a środowisko. Emisja zanieczyszczeń do atmosfery. Kwaśne deszcze. Efekt
+                                                                                                             3
+cieplarniany. Ozon - dziura ozonowa. Zanieczyszczenia wody i gleby - metale ciężkie w środowisku.
+Ćwiczenia:
+1. Ćwiczenia w oparciu o układ okresowy (nazwy i symbole pierwiastków, konfiguracje elektronowe,
+wzory sumaryczne i strukturalne związków, nomenklatura nieorganiczna);
+2. Przeliczanie stężeń (rodzaje stężeń, stężenie procentowe i molowe, gęstość roztworu i masa
+molowa/cząsteczkowa w obliczeniach);
+3. Obliczenia stechiometryczne (wzór sumaryczny i skład procentowy związku, wydajność produktu,
+czystość substratu, pozyskiwanie danych z reakcji);
+4. Roztwory elektrolitów (pisanie reakcji dysocjacji i hydrolizy, reakcje kationów jako kwasów i anionów
+jako zasad, woda jako rozpuszczalnik - iloczyn jonowy wody i skala pH, obliczanie pH roztworów
+wodnych kwasów, zasad, soli i roztworów buforowych, stała dysocjacji kwasowej i stopień dysocjacji);
+5. Obliczenia z wykorzystaniem ciepła reakcji (entalpia, entropia, potencjał termodynamiczny, stała
+równowagi i stała szybkości reakcji);
+6. Osady (zależność między iloczynem rozpuszczalności i rozpuszczalnością - obliczanie rozpuszczalności
+związku, kationu i anionu);
+7. Związki kompleksowe (budowa kompleksów - wzory sumaryczne, nomenklatura, obliczanie
+równowag w roztworach kompleksów - stała trwałości i stała nietrwałości kompleksów);
+8. Reakcje utleniania i redukcji (bilansowanie reakcji redoks, przewidywanie kierunku reakcji redoks na
+podstawie potencjałów utleniająco-redukujących, rysowanie wykresów Pourbaix i omawianie na ich
+podstawie właściwości pierwiastków.
+Metody dydaktyczne
+1. Wykład interaktywny: prezentacja multimedialna, ilustrowana przykładami podawanymi na tablicy i
+demonstracjami prostych doświadczeń często z uczestnictwem studentów, dyskusja.
+2. Ćwiczenia: wspólne wykonywanie zadań podanych przez prowadzącego i zaproponowanych przez
+studentów - ćwiczenia praktyczne. Przekazywanie zadań i zagadnień do samodzielnego opracowania
+przez studentów. Obliczeniowe zadania problemowe związane z współczesnymi aspektami życia.
+Literatura
+Podstawowa:
+1. A. Bielański, Podstawy chemii nieorganicznej, t.1-3, PWN, Warszawa 2012
+2. L. Jones, P. Atkins, Chemia ogólna. Cząsteczki, materia, reakcje, tom 1 i 2, PWN, Warszawa 2009
+3. G. Charlot, Analiza nieorganiczna jakościowa, PWN, Warszawa 1976
+4. J.D. Lee, Zwięzła chemia nieorganiczna, PWN, Warszawa 1999
+5. A. Śliwa, Obliczenia chemiczne, PWN, Warszawa 1987
+6. K. M. Pazdro, Zbiór zadań z chemii, Oficyna Edukacyjna 2007
+7. L. Pajdowski, Chemia ogólna, PWN, Warszawa 1992
+Uzupełniająca:
+1. A. Ciszewski, M. Baraniak, Aktywność chemiczna i elektrochemiczna pierwiastków w środowisku
+wody, Wydawnictwo PP, Poznań 2006
+2. F.A. Cotton, G. Wilkinson, C. Murillo, M. Bochmann, Chemia nieorganiczna. Podstawy, PWN,
+Warszawa 1995
+3. L. Kolditz, Chemia nieorganiczna, PWN, Warszawa 1994
+4. M.J. Sienko, R.A. Plane, Chemia. Podstawy i zastosowania, WNT, Warszawa 2002
+5. W. Ufnalski, Podstawy obliczeń chemicznych z programami komputerowymi, WNT, W-wa 1999
+6. G.W. van Loon, S. J. Duffy, Chemia środowiska, PWN, Warszawa 2008
+Bilans nakładu pracy przeciętnego studenta
+                                                                          Godzin          ECTS
+ Łączny nakład pracy                                                      175             7,00
+ Zajęcia wymagające bezpośredniego kontaktu z nauczycielem                88              3,50
+ Praca własna studenta (studia literaturowe, przygotowanie do zajęć       87              3,50
+ laboratoryjnych/ćwiczeń, przygotowanie do kolokwiów/egzaminu,
+ wykonanie projektu)
+                                                                                                           4

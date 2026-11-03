@@ -1,0 +1,46 @@
+adres: https://bip.wum.edu.pl/attachments/5181/download
+uczelnia: Warszawski Uniwersytet Medyczny
+kierunek: medycyna
+przedmiot lub dokument: plan I i II roku
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+Program studiów - I rok - Kierunek Lekarski (w roku akad. 2025/2026)
+                                                            Forma      Wymiar          w tym           Punkty
+                         przedmiot
+                                                          zaliczenia   godzin wyk. sem. ćw. pr.         ECTS
+ 1 Anatomia prawidłowa                                     egzamin      180      20        160          21
+ 2 Histologia z embriologią i cytofizjologią               egzamin      120      20   30    70          12
+ 3 Bezpieczeństwo i higiena pracy                         zaliczenie      4       4
+ 4 Biofizyka                                              zaliczenie     30       5   10    15           2
+ 5 Statystyka i informatyka medyczna                      zaliczenie     35       5    6    24           2
+ 6 Etyka lekarska z elementami filozofii                  zaliczenie     30      20   10                 2
+ 7 Historia medycyny                                      zaliczenie     35      35                      2
+ 8 Język obcy                                             zaliczenie     60                 60           4
+ 9 Pierwsza pomoc i elementy pielęgniarstwa               zaliczenie     45      15    6    24           3
+10 Podstawy biologii molekularnej                         zaliczenie     20            5    15           2
+11 Propedeutyka medycyny uzależnień                       zaliczenie     15            5    10           1
+12 Psychologia medyczna                                   zaliczenie     20           10    10           2
+13 Komunikacja medyczna                                   zaliczenie     18      18                      1
+14 Przysposobienie biblioteczne                           zaliczenie      2            2
+15 Wychowanie fizyczne                                    zaliczenie     60                 60
+16 Praktyki zawodowe                                      zaliczenie    120                    120       4
+17 Przedmiot do wyboru                                    zaliczenie     90           90                 6
+                                                                        884      142 174 448 120        64
+                       Program studiów - II rok - Kierunek Lekarski (w roku akad. 2026/2027)
+                                                              Forma     Wymiar           w tym         Punkty
+                           przedmiot
+                                                            zaliczenia   godzin wyk. sem. ćw. pr.       ECTS
+ 1 Biochemia z elementami chemii                             egzamin      180      30   65    85        17
+ 2 Fizjologia z patofizjologią                               egzamin      220      40   99    81        19
+ 3 Immunologia                                               egzamin       40      15   25               3
+ 4 Język obcy                                                egzamin       60                 60         4
+ 5 Parazytologia                                             egzamin       35           10    25         2
+ 6 Genetyka                                                 zaliczenie     25           8     17         2
+ 7 Komunikacja medyczna                                     zaliczenie     35      15   8     12         2
+ 8 Metodologia badań naukowych                              zaliczenie     35       5   15    15         2
+ 9 Higiena i epidemiologia                                  zaliczenie     30           10    20         2
+10 Praktyki zawodowe                                        zaliczenie    120                    120     4
+11 Przedmiot do wyboru                                      zaliczenie     90           90               6
+                                                                          870     105 330 315 120       63

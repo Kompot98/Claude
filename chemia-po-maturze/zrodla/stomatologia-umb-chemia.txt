@@ -1,0 +1,160 @@
+adres: https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/iza/sylabusy_25-26/i_rok/chemia_zintegrowana_z_materialoznawstwem.doc
+uczelnia: Uniwersytet Medyczny w Białymstoku
+kierunek: stomatologia
+przedmiot lub dokument: Chemia zintegrowana z materiałoznawstwem
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+﻿SYLABUS
+na cykl kształcenia rozpoczynający się w roku akademickim 2025/2026
+Nazwa przedmiotu/modułu
+Chemia zintegrowana z materiałoznawstwem
+Nazwa jednostki/-ek w której/ -ych jest przedmiot realizowany
+Zakład Chemii Medycznej
+e-mail jednostki
+zachemog@umb.edu.pl
+Wydział
+Lekarski z Oddziałem Stomatologii i Oddziałem Nauczania w Języku Angielskim
+Nazwa kierunku studiów
+lekarsko-dentystyczny
+Poziom kształcenia
+Studia  jednolite magisterskie.
+Forma studiów
+stacjonarne ■                                   niestacjonarne ■
+Język przedmiotu
+polski ■                                                    angielski 
+Rodzaj przedmiotu
+obowiązkowy ■                                 fakultatywny 
+Rok studiów/semestr
+I ■   II    III    IV    V   VI 
+1 ■   2    3    4    5    6    7    8    10 
+11    12 
+Przedmioty wprowadzające wraz z wymaganiami wstępnymi
+Zaliczenie przedmiotów zgodnie z postępowaniem rekrutacyjnym.
+Liczba godzin zajęć dydaktycznych z podziałem na formy prowadzenia zajęć
+20h (w tym on-line)
+Wykłady – 6
+Ćwiczenia – 14
+Założenia i cele przedmiotu
+Student powinien nabyć wiedzę z zakresu: znaczenia pierwiastków głównych i śladowych w procesach zachodzących w organizmie; gospodarki wodno-elektrolitowej i równowagi kwasowo-zasadowej; znaczenia elektrolitów i układów buforowych w organizmie człowieka.
+Student powinien umieć: sporządzać stosowane w stomatologii roztwory o podanym stężeniu procentowym i molowym oraz określać ich odczyn; zastosować wiedzę z zakresu chemii w pracy lekarza-dentysty.
+Metody dydaktyczne
+- przekazywanie wiedzy w formie wykładu (on line na platformie edukacyjnej Blackboard Collaborate)
+- konsultacje (dwa razy w tygodniu: środa i piątek w godz. 12.30-13.30)
+- dyskusja
+- samodzielne dochodzenie do wiedzy
+- zajęcia laboratoryjne (pokaz, obserwacja, samodzielne doświadczenia).
+Imię i nazwisko osoby prowadzącej przedmiot
+Pracownicy naukowo-dydaktyczni zatrudnieni w Zakładzie Chemii Medycznej.
+Imię i nazwisko osoby odpowiedzialnej za dydaktykę
+dr hab. n. med. Iwona Radziejewska
+Symbol
+i numer efektu uczenia się
+Opis kierunkowych efektów uczenia się
+Forma zajęć
+Metody weryfikacji osiągnięcia zamierzonych efektów uczenia się
+wiedza
+B.W1
+Zna znaczenie pierwiastków głównych i śladowych w procesach zachodzących w organizmie, z uwzględnieniem ich podaży, wchłaniania i transportu
+W, Ćw
+Metody podsumowujące:
+- pisemny sprawdzian końcowy
+Metody formujące:
+- obserwacja pracy studenta
+- ocena aktywności w czasie zajęć
+- ocena przygotowania do zajęć
+- dyskusja w czasie zajęć
+- zaliczenia cząstkowe
+B.W2
+znaczenie elektrolitów, układów buforowych i reakcji chemicznych w układach biologicznych
+W, Ćw
+B.W19
+zna zasady równowagi kwasowo-zasadowej oraz transportu tlenu i dwutlenku węgla w organizmie
+W, Ćw
+umiejętności
+B.U5
+umie określać pH roztworu i wpływ zmian pH na związki nieorganiczne i organiczne
+Ćw
+Metody podsumowujące:
+- realizacja określonego zadania
+Metody formujące:
+- obserwacja pracy studenta
+- ocena aktywności w czasie zajęć
+- zaliczenie poszczególnych czynności
+- ocena przygotowania do zajęć
+- dyskusja w czasie zajęć
+I.U24
+umie sporządzać stosowane w stomatologii roztwory o podanym stężeniu oraz określać ich odczyn
+Ćw
+kompetencje społeczne
+K1
+Rozpoznaje własne ograniczenia diagnostyczne i lecznicze, potrzeby edukacyjne, planuje aktywność edukacyjną
+Ćw
+Metody podsumowujące:
+- ocenianie ciągłe przez nauczyciela (obserwacja)
+Metody formujące:
+- obserwacja pracy studenta
+- dyskusja w czasie zajęć
+- opinie kolegów
+K2
+Umie pracować w zespole profesjonalistów, w środowisku wielokulturowym i wielonarodowościowym
+Ćw
+K3
+Wdraża zasady koleżeństwa zawodowego i współpracy z przedstawicielami innych zawodów w zakresie ochrony zdrowia
+Ćw
+Punkty ECTS
+1
+Obciążenie pracą studenta
+Forma aktywności
+Liczba godzin na zrealizowanie aktywności
+Zajęcia wymagające udziału prowadzącego:
+    1. Realizacja przedmiotu: wykłady (wg planu studiów)
+  6 h
+    2. Realizacja przedmiotu: ćwiczenia (wg planu studiów)
+14 h
+    3. Realizacja przedmiotu: seminaria (wg planu studiów)
+    4. Realizacja przedmiotu: fakultety
+    5. Udział w konsultacjach
+ 4 h
+godziny razem:  24 h
+Samodzielna praca studenta:
+    1. Samodzielne przygotowanie się do zajęć teoretycznych i praktycznych (wykonanie projektu, dokumentacji, opisu przypadku itp.)
+    2. Samodzielne przygotowanie się do zaliczeń/kolokwiów
+    3. Samodzielne przygotowanie się do egzaminu/zaliczenia końcowego
+10 h
+godziny razem: 10 h
+Treści programowe przedmiotu:
+Efekty uczenia się
+(symbol i numer)
+tematyka
+B.W1 - zna znaczenie pierwiastków głównych i śladowych w procesach zachodzących w organizmie, z uwzględnieniem ich podaży, wchłaniania
+B.W2 - znaczenie elektrolitów, układów buforowych i reakcji chemicznych w układach biologicznych
+B.W19 - zna zasady równowagi kwasowo-zasadowej oraz transportu tlenu i dwutlenku węgla w organizmie
+B.U5 - umie określać pH roztworu i wpływ zmian pH na związki nieorganiczne i organiczne umie sporządzać stosowane w stomatologii roztwory o podanym stężeniu oraz określać ich odczyn
+I.U24 - umie sporządzać stosowane w stomatologii roztwory o podanym stężeniu oraz określać ich odczyn
+Wykłady:
+Pierwiastki w organizmie człowieka – rola w prawidłowym funkcjonowaniu organizmu. Właściwości wody i jej znaczenie biologiczne. Główne jony płynów ustrojowych.
+Mieszaniny buforowe - mechanizm stabilizacji pH, pojemność buforowa. Rola buforów fizjologicznych w utrzymywaniu stałego pH płynów fizjologicznych.
+Roztwory - rodzaje roztworów, rozpuszczalność, iloczyn rozpuszczalności, sposoby wyrażania stężeń roztworów.
+Ćwiczenia:
+Reakcje charakterystyczne dla jonów biologicznie ważnych.
+Sporządzanie roztworów, rozcieńczanie i określanie stężeń.
+Roztwory buforowe – sporządzanie buforów i oznaczanie ich pH przy pomocy wskaźników i pehametru. Określanie wpływu rozcieńczenia buforu na pH i pojemność buforową.
+Badanie odczynu roztworów wodnych kwasów i zasad stosowanych w stomatologii.
+Literatura podstawowa:
+Teresa Kędryna: Chemia ogólna z elementami biochemii dla studentów kierunków medycznych i przyrodniczych. ZamKor, Kraków 2013
+Literatura uzupełniająca:
+Powers JM, Wataha JC. Materiały stomatologiczne. Wrocław, Elsevier Urban & Partner 2013
+Kryteria oceny osiągniętych efektów kształcenia oraz forma i warunki uzyskania zaliczenia przedmiotu:
+Warunkiem zaliczenia przedmiotu jest obecność na wszystkich zajęciach, zaliczenie ćwiczeń i pisemnego sprawdzianu końcowego. W przypadku nieobecności usprawiedliwionej, opuszczone ćwiczenie należy odrobić w ciągu 2 tygodni po powrocie ze zwolnienia. Nieobecność nieusprawiedliwiona na ćwiczeniu, jak również nieobecność usprawiedliwiona na 3 lub 4 ćwiczeniach (ponad 50%) skutkuje niezaliczeniem przedmiotu.
+Zaliczenie ćwiczeń następuje w wyniku uzyskania przez studenta odpowiedniej ilości punktów, przyznawanych za cząstkowy sprawdzian pisemny, wykonanie ćwiczenia i przedstawienie sprawozdania.
+Na każdym ćwiczeniu można otrzymać:
+    • sprawdzian pisemny                     9 pkt.
+    • wykonanie ćwiczenia                   1 pkt.
+    • przygotowanie sprawozdania     2 pkt.
+Maksymalna punktacja z wszystkich ćwiczeń wynosi 48 punktów. Warunkiem zaliczenia ćwiczeń i dopuszczenia do sprawdzianu końcowego jest uzyskanie 24 pkt. Nieosiągnięcie powyższej punktacji skutkuje niezaliczeniem przedmiotu. Studenci, którzy uzyskają łącznie na ćwiczeniach co najmniej 34 punkty, a ze sprawdzianu pisemnego na każdym ćwiczeniu nie mniej niż 5 pkt. (łącznie ze sprawdzianów cząstkowych co najmniej 25 punktów) będą zwolnieni ze sprawdzianu końcowego.
+Sprawdzian końcowy obejmuje tematykę ćwiczeń i wykładów; warunkiem jego zaliczenia jest uzyskanie 56% maksymalnej punktacji. Student ma prawo wglądu do własnej pracy zaliczeniowej w terminie 7 dni od daty umieszczenia wyników na stronie internetowej Zakładu. W przypadku niezaliczenia sprawdzianu końcowego przysługują dwa terminy poprawkowe. Nieobecność usprawiedliwiona na sprawdzianie końcowym upoważnia do przystąpienia do zaliczenia w terminie poprawkowym. Nieobecność nieusprawiedliwiona uniemożliwia przystąpienie do sprawdzianu końcowego w kolejnym terminie.
+dr hab. Iwona Radziejewska
+……………………………………………………………………………….
+(data i podpis kierownika jednostki prowadzącej zajęcia lub koordynatora przedmiotu)

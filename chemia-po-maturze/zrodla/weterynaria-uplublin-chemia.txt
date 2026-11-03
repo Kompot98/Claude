@@ -1,0 +1,73 @@
+adres: https://up.lublin.pl/weterynaria/wp-content/uploads/sites/3/2021/04/Chemia-1.pdf
+uczelnia: Uniwersytet Przyrodniczy w Lublinie
+kierunek: weterynaria
+przedmiot lub dokument: Chemia
+rok akademicki: rok niepodany w dokumencie (plik z kwietnia 2021)
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+M WE_1                               M WE_SEM1 M1
+Kierunek lub kierunki studiów        Weterynaria
+Nazwa modułu kształcenia, także      Chemia
+nazwa w języku angielskim            Chemistry
+Język wykładowy                      polski
+Rodzaj modułu kształcenia            obowiązkowy
+(obowiązkowy/fakultatywny)
+Poziom modułu kształcenia            Studia jednolite magisterskie
+Rok studiów dla kierunku             I
+Semestr dla kierunku                 1
+Liczba punktów ECTS z podziałem na   4 (2/2)
+kontaktowe/ niekontaktowe
+Imię i nazwisko osoby                Marta Kankofer
+odpowiedzialnej
+Jednostka oferująca przedmiot        Katedra Biochemii
+Cel modułu                           Poszerzenie wiedzy chemicznej ze szkoły średniej, głównie o
+                                     wybrane, specyficzne zagadnienia z zakresu chemii
+                                     nieorganicznej, ogólnej oraz organicznej, które są niezbędne dla
+                                     zrozumienia zagadnień biochemicznych omawianych w kolejnych
+                                     semestrach. Uzyskanie podstaw do prawidłowego wykonywania
+                                     analiz chemicznych mających zastosowanie w laboratoriach o
+                                     różnym profilu w tym chemii klinicznej i badania żywności
+                                     rozszerzy umiejętności absolwenta.
+Treści modułu kształcenia –          Podstawowe pojęcia chemiczne, teoria atomistyczna. Biologiczne
+zwarty opis ok. 100 słów.            znaczenie wybranych pierwiastków. Stechiometria wzorów
+                                     chemicznych i równań chemicznych. Roztwory i sposoby
+                                     wyrażania stężeń. Dysocjacja elektrolityczna i iloczyn jonowy
+                                     wody, pH, hydroliza, bufory. Procesy utleniania-redukcji.
+                                     Podstawy chemii analitycznej. Chemia organiczna –
+                                     nomenklatura,  przedstawiciele
+                                          przemianami    biochemicznymi głównych    grup związków
+                                                                             zachodzącymi     w komórkach i
+                                     organicznych,
+                                         tkankach aidentyfikacja
+                                                      niezbędnymigrup     funkcyjnychfunkcjonowania
+                                                                      do właściwego     tych połączeń.
+                                     Węglowodany,    Tłuszcze,
+                                         całego organizmu     orazAminokwasy.
+                                                                    z niektórymi technikami
+                                     Identyfikacja wybranych
+                                         laboratoryjnymi         kationów w
+                                                           stosowanymi      i anionów
+                                                                               pracownioraz  grup funkcyjnych
+                                                                                         biochemicznej.
+                                     związków,  właściwości
+                                         Znajomość              buforów,
+                                                      tych przemian       alkacymetia,
+                                                                       jest  niezbędna doredoksymetria,
+                                                                                            zrozumienia
+                                     precypitometria,  dializa, identyfikacja
+                                         procesów patologicznych                cukrów
+                                                                       na poziomie      i składników
+                                                                                      komórki  oraz lipidów.
+                                         interpretacji wyników testów laboratoryjnych, przyswajanych
+Zalecana lista lektur lub lektury    1. Kędryna    T.: Chemia
+                                         na przedmiotach              ogólna z elementami Biochemii.
+                                                             klinicznych.
+obowiązkowe                             Wydawnictwo “Zamiast korepetycji” s-c. Kraków. 1998.
+                                     2. Brzyska W.: Podstawy chemii. Wydawnictwo UMCS Lublin.
+                                        2001.
+                                     3. Żak – Chemia medyczna. Śląska Akademia Medyczna,
+                                        Katowice 2001
+Planowane                            Ćwiczenia laboratoryjne, wykłady, materiały do samonauki
+formy/działania/metody               na stronie www jednostki oraz internetowe dostępne za
+dydaktyczne                          hasłem (VikiWet, Casus)

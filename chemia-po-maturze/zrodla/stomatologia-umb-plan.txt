@@ -1,0 +1,189 @@
+adres: https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/iza/plan_na_rok_26-27/lekarsko-dentystyczny_cykl_2026-2031.docx
+uczelnia: Uniwersytet Medyczny w Białymstoku
+kierunek: stomatologia
+przedmiot lub dokument: plan I roku
+rok akademicki: 2026/27
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+﻿PLAN STUDIÓW
+na kierunku lekarsko-dentystycznym
+Wydział Lekarski z Oddziałem Stomatologii i Oddziałem Nauczania w Języku Angielskim na cykl kształcenia rozpoczynający się w roku akademickim 2026/2027
+rok I
+Lp.
+Nazwa przedmiotu
+Razem [godz.]
+ECTS
+Forma zajęć [godz.]
+Forma zakończenia
+wykłady
+seminaria
+ćwiczenia
+1.
+Anatomia człowieka
+Zakład Anatomii Prawidłowej Człowieka
+155
+11
+40
+-
+115
+Egz.
+2.
+Histologia, cytofizjologia i embriologia
+Zakład Histologii i Embriologii
+90
+7
+20
+-
+70
+Egz.
+3.
+Biofizyka
+Zakład Biofizyki Medycznej
+45
+2,5
+13
+-
+32
+Zal
+4.
+Biologia
+Zakład Biologii Medycznej
+20
+1
+5
+-
+15
+Zal
+5.
+Chemia zintegrowana z materiałoznawstwem
+Zakład Chemii Medycznej
+20
+1
+6
+-
+14
+Zal
+6.
+Biochemia
+Zakład Biochemii Lekarskiej
+85
+6
+25
+-
+60
+Egz.
+7.
+Technologie informacyjne
+Zakład Biostatystyki i Informatyki Medycznej
+30
+1,5
+-
+-
+30
+Zal
+8.
+Pierwsza pomoc medyczna
+Klinika Medycyny Ratunkowej
+30
+2
+9
+-
+21
+Zal
+9.
+Język angielski specjalistyczny
+Studium Języków Obcych
+25
+1,5
+-
+-
+25
+Zal
+10.
+Historia stomatologii
+Samodzielna Pracownia Historii Medycyny i Farmacji
+20
+  1
+20
+-
+-
+Zal
+11.
+Nauczanie przedkliniczne w stomatologii
+Zakład Propedeutyki Stomatologii
+146
+9
+23
+9
+114
+Egz.
+12.
+Ergonomia w stomatologii
+Zakład Propedeutyki Stomatologii
+33
+2
+9
+-
+24
+Zal
+13.
+Bezpieczeństwo i higiena pracy
+Zakład Higieny, Epidemiologii i Zaburzeń Metabolicznych
+4
+  0
+4
+-
+-
+Zal
+14.
+Stomatologia społeczna
+Samodzielna Pracownia Gerostomatologii
+Zakład Higieny, Epidemiologii i Zaburzeń Metabolicznych
+60
+4
+25
+30
+5
+Zal
+15.
+Materiałoznawstwo stomatologiczne
+Zakład Protetyki Stomatologicznej
+Zakład Propedeutyki Stomatologii Zakład Technik Dentystycznych
+70
+4,5
+16
+-
+54
+Zal
+16.
+Zajęcia fakultatywne
+20
+2
+-
+-
+20
+Zal
+17.
+Wychowania fizyczne
+Studium Wychowania Fizycznego i Sportu
+30
+0
+0
+5
+25
+Zal.
+Ogółem:
+883
+56
+215
+44
+624
+4 Egz.
+Praktyka w zakresie asysty lekarzowi dentyście
+120
+4
+Zal.
+PLAN STUDIÓW
+na kierunku lekarsko-dentystycznym
+Wydział Lekarski z Oddziałem Stomatologii i Oddziałem Nauczania w Języku Angielskim na cykl kształcenia rozpoczynający się w roku akademickim 2026/2027

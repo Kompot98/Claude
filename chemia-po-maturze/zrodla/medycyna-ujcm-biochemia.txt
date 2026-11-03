@@ -1,0 +1,523 @@
+adres: https://sylabus.cm-uj.krakow.pl/pl/document/157676fa-b95b-4d38-b60a-b8a55e2c1fc1.pdf
+uczelnia: Uniwersytet Jagielloński Collegium Medicum
+kierunek: medycyna
+przedmiot lub dokument: Biochemia
+rok akademicki: 2026/27
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+adres: https://sylabus.cm-uj.krakow.pl/pl/document/157676fa-b95b-4d38-b60a-b8a55e2c1fc1.pdf
+uczelnia: UJ CM
+kierunek: medycyna
+przedmiot: Biochemia
+rok akademicki: ?
+data odczytu: 2026-11-03
+odpowiedź: 200 application/pdf
+                                                   Biochemia
+                                               Karta opisu przedmiotu
+                                          Informacje podstawowe
+ Jednostka organizacyjna                                    Cykl dydaktyczny
+ Wydział Lekarski                                           2026/27
+ Kierunek studiów                                           Rok realizacji
+ Kierunek lekarski, program w języku polskim                2026/27
+ Poziom kształcenia                                         Języki wykładowe
+ jednolite magisterskie                                     polski
+ Forma studiów                                              Blok zajęciowy
+ stacjonarne                                                obowiązkowy do zaliczenia roku
+ Proﬁl studiów                                              Obligatoryjność
+ ogólnoakademicki                                           obowiązkowy
+ Dyscypliny                                                 Forma weryﬁkacji uzyskanych efektów uczenia się
+ Nauki medyczne                                             egzamin
+ Klasyﬁkacja ISCED                                          Grupa zajęć standardu
+ 0512 Biochemia                                             B. NAUKOWE PODSTAWY MEDYCYNY
+ Przedmiot powiązany z badaniami naukowymi
+ Tak
+ Kod USOS
+ LE.LE.JS.1o0080
+ Koordynator                  Beata Kuśnierz-Cabala, Paulina Dumnicka, Kinga Kocemba-Pilarczyk
+ przedmiotu
+ Prowadzący zajęcia           Pełna lista prowadzących dostępna na stronie usosweb.uj.edu.pl w zakładce Katalog
+                              → Przedmioty.
+Okres                         Forma weryﬁkacji uzyskanych efektów uczenia się                        Liczba
+Semestr 1                     zaliczenie                                                             punktów ECTS
+                                                                                                     0.0
+                              Forma prowadzenia i godziny zajęć
+                              wykłady e-learning: 22, w tym zajęcia zdalne:
+                              • wykłady e-learning synchroniczne: 1
+                              • wykłady e-learning asynchroniczne: 21
+                              seminarium: 18
+                              ćwiczenia laboratoryjne: 28
+Wygenerowano: 2026-11-03 18:48                                                                                    1 / 13
+ Okres                         Forma weryﬁkacji uzyskanych efektów uczenia się                         Liczba
+ Semestr 2                     egzamin                                                                 punktów ECTS
+                                                                                                       12.0
+                               Forma prowadzenia i godziny zajęć
+                               wykłady e-learning: 26, w tym zajęcia zdalne:
+                               • wykłady e-learning asynchroniczne: 20
+                               • wykłady e-learning synchroniczne: 6
+                               seminarium: 34
+                               ćwiczenia laboratoryjne: 20
+                                    Wymagania wstępne i dodatkowe
+Wymagania wstępne
+Obecność na zajęciach jest obowiązkowa. W przypadku uspawiedliwionej nieobecności (zgodnie z Regulaminem studiów),
+student w terminie do 7 dni od ustania przyczyny przedkłada do Koordynatora przedmiotu zaświadczenie lekarskie lub
+poświadczenie od Dziekana usprawiedliwiające nieobecność z powodu reprezentowania UJ CM w ważnych wydarzeniach
+ogólnouczelnianych, w celu ustalenia terminu odrobienia zajęć z inną grupą. W wyjątkowych przypadkach, kiedy ze względu
+na harmonogram zajęć przedmiotu Biochemia podobne odrobienie zajęć z innymi grupami nie byłoby już możliwe, w
+zakresie sposobu odrobienia zajęć decyzję podejmuje Koordynator przedmiotu.
+Wymagania wstępne - brak
+                                     Cele kształcenia dla przedmiotu
+         Zapoznanie studentów z podstawowymi procesami biochemicznymi zachodzącymi w organizmie człowieka i ich
+ C1      mechanizmami, koniecznymi do zrozumienia poznawanych w czasie studiów zjawisk ﬁzjologicznych
+         i patologicznych.
+         Zapoznanie studentów z podstawowymi biochemicznymi technikami laboratoryjnymi, wprowadzenie
+ C2      do planowania eksperymentów i wnioskowania w oparciu o dane eksperymentalne i wyniki laboratoryjne oraz
+         korzystania z nowoczesnych źródeł informacji (baz danych).
+         Rozwijanie i kształtowanie umiejętności poszukiwania informacji w dziedzinie biochemii. Uświadomienie
+ C3      konieczności stałego poszerzania wiedzy dotyczącej biochemicznego podłoża procesów zachodzących
+         w organizmie.
+         Uświadomienie przydatności wiedzy z zakresu biochemii dla zrozumienia procesów patologicznych u człowieka,
+ C4
+         wskazanie powiązań biochemii z medycyną kliniczną i laboratoryjną.
+                                    Efekty uczenia się dla przedmiotu
+                                                                     Kierunkowe efekty
+ Kod         Efekty w zakresie                                                                 Metody weryﬁkacji
+                                                                     uczenia się
+ Wiedzy – Student zna i rozumie:
+ W1          gospodarkę wodno-elektrolitową w układach               B.W1                      obserwacja pracy
+             biologicznych                                                                     studenta, odpowiedź
+                                                                                               ustna, sprawozdanie z
+                                                                                               wykonania zadania, test
+                                                                                               uzupełnień, test
+                                                                                               wielokrotnego wyboru
+ W2          równowagę kwasowo-zasadową i mechanizm działania        B.W2                      obserwacja pracy
+             buforów oraz ich znaczenie w homeostazie ustrojowej                               studenta, odpowiedź
+                                                                                               ustna, sprawozdanie z
+                                                                                               wykonania zadania, test
+                                                                                               uzupełnień, test
+                                                                                               wielokrotnego wyboru
+Wygenerowano: 2026-11-03 18:48                                                                                    2 / 13
+                                                                      Kierunkowe efekty
+Kod         Efekty w zakresie                                                             Metody weryﬁkacji
+                                                                      uczenia się
+W3          pojęcia rozpuszczalności, ciśnienia osmotycznego,         B.W3                obserwacja pracy
+            izotonii, roztworów koloidalnych i równowagi Gibbsa-                          studenta, odpowiedź
+            Donnana                                                                       ustna, sprawozdanie z
+                                                                                          wykonania zadania, test
+                                                                                          uzupełnień, test
+                                                                                          wielokrotnego wyboru
+W4          budowę lipidów i polisacharydów oraz ich funkcje          B.W9                obserwacja pracy
+            w strukturach komórkowych i pozakomórkowych                                   studenta, odpowiedź
+                                                                                          ustna, sprawozdanie z
+                                                                                          wykonania zadania, test
+                                                                                          uzupełnień, test
+                                                                                          wielokrotnego wyboru
+W5          struktury I-, II-, III- i IV-rzędową białek oraz          B.W10               obserwacja pracy
+            modyﬁkacje potranslacyjne i funkcjonalne białka oraz                          studenta, odpowiedź
+            ich znaczenie                                                                 ustna, sprawozdanie z
+                                                                                          wykonania zadania, test
+                                                                                          uzupełnień, test
+                                                                                          wielokrotnego wyboru
+W6          funkcje nukleotydów w komórce, struktury I- i II-         B.W11               obserwacja pracy
+            rzędową DNA i RNA oraz strukturę chromatyny                                   studenta, odpowiedź
+                                                                                          ustna, sprawozdanie z
+                                                                                          wykonania zadania, test
+                                                                                          uzupełnień, test
+                                                                                          wielokrotnego wyboru
+W7          funkcje genomu, transkryptomu i proteomu człowieka        B.W12               obserwacja pracy
+            oraz metody stosowane w ich badaniu, procesy                                  studenta, odpowiedź
+            replikacji, naprawy i rekombinacji DNA, transkrypcji                          ustna, test uzupełnień,
+            i translacji oraz degradacji DNA, RNA i białek, a także                       test wielokrotnego
+            koncepcje regulacji ekspresji genów                                           wyboru
+W8          podstawowe szlaki kataboliczne i anaboliczne,             B.W13               obserwacja pracy
+            sposoby ich regulacji oraz wpływ na nie czynników                             studenta, odpowiedź
+            genetycznych i środowiskowych                                                 ustna, sprawozdanie z
+                                                                                          wykonania zadania, test
+                                                                                          uzupełnień, test
+                                                                                          wielokrotnego wyboru
+W9          podstawowe metody wykorzystywane w diagnostyce            B.W14               obserwacja pracy
+            laboratoryjnej, w tym elektroforezę białek i kwasów                           studenta, odpowiedź
+            nukleinowych                                                                  ustna, sprawozdanie z
+                                                                                          wykonania zadania, test
+                                                                                          uzupełnień, test
+                                                                                          wielokrotnego wyboru
+W10         przemiany metaboliczne zachodzące w narządach             B.W15               obserwacja pracy
+            oraz metaboliczne, biochemiczne i molekularne                                 studenta, odpowiedź
+            podłoże chorób i terapii                                                      ustna, sprawozdanie z
+                                                                                          wykonania zadania, test
+                                                                                          wielokrotnego wyboru
+W11         sposoby komunikacji między komórkami i między             B.W16               obserwacja pracy
+            komórką a macierzą zewnątrzkomórkową oraz szlaki                              studenta, odpowiedź
+            przekazywania sygnałów w komórce, a także                                     ustna, test wielokrotnego
+            przykłady zaburzeń w tych procesach prowadzących                              wyboru
+            do rozwoju nowotworów i innych chorób
+W12         procesy: cykl komórkowy, proliferacja, różnicowanie       B.W17               obserwacja pracy
+            i starzenie się komórek, apoptoza i nekroza oraz ich                          studenta, odpowiedź
+            znaczenie dla funkcjonowania organizmu                                        ustna, test wielokrotnego
+                                                                                          wyboru
+Wygenerowano: 2026-11-03 18:48                                                                                 3 / 13
+                                                                   Kierunkowe efekty
+Kod         Efekty w zakresie                                                          Metody weryﬁkacji
+                                                                   uczenia się
+W13         czynność i mechanizmy regulacji wszystkich narządów    B.W20               obserwacja pracy
+            i układów organizmu człowieka oraz zależności między                       studenta, odpowiedź
+            nimi                                                                       ustna, test wielokrotnego
+                                                                                       wyboru
+Umiejętności – Student potraﬁ:
+U1          obliczać stężenia molowe i procentowe związków oraz    B.U3                obserwacja pracy
+            stężenia substancji w roztworach izoosmotycznych,                          studenta, odpowiedź
+            jedno- i wieloskładnikowych                                                ustna, sprawozdanie z
+                                                                                       wykonania zadania, test
+                                                                                       uzupełnień, test
+                                                                                       wielokrotnego wyboru
+U2          obliczać rozpuszczalność związków nieorganicznych,     B.U4                obserwacja pracy
+            określać chemiczne podłoże rozpuszczalności                                studenta, odpowiedź
+            związków organicznych lub jej braku oraz jej                               ustna, sprawozdanie z
+            praktyczne znaczenie dla dietetyki i terapii                               wykonania zadania, test
+                                                                                       uzupełnień, test
+                                                                                       wielokrotnego wyboru
+U3          określać pH roztworu i wpływ zmian pH na związki       B.U5                obserwacja pracy
+            nieorganiczne i organiczne                                                 studenta, odpowiedź
+                                                                                       ustna, sprawozdanie z
+                                                                                       wykonania zadania, test
+                                                                                       uzupełnień, test
+                                                                                       wielokrotnego wyboru
+U4          przewidywać kierunek procesów biochemicznych           B.U6                obserwacja pracy
+            w zależności od stanu energetycznego komórek                               studenta, odpowiedź
+                                                                                       ustna, sprawozdanie z
+                                                                                       wykonania zadania, test
+                                                                                       uzupełnień, test
+                                                                                       wielokrotnego wyboru
+U5          korzystać z medycznych baz danych oraz właściwie       B.U8                obserwacja pracy
+            interpretować zawarte w nich informacje potrzebne                          studenta, odpowiedź
+            do rozwiązywania problemów z zakresu nauk                                  ustna, sprawozdanie z
+            podstawowych i klinicznych                                                 wykonania zadania, test
+                                                                                       wielokrotnego wyboru
+U6          planować i wykonywać badania naukowe oraz              B.U11               obserwacja pracy
+            interpretować ich wyniki i formułować wnioski                              studenta, odpowiedź
+                                                                                       ustna, sprawozdanie z
+                                                                                       wykonania zadania, test
+                                                                                       uzupełnień, test
+                                                                                       wielokrotnego wyboru
+U7          posługiwać się podstawowymi technikami                 B.U12               obserwacja pracy
+            laboratoryjnymi i molekularnymi                                            studenta, odpowiedź
+                                                                                       ustna, sprawozdanie z
+                                                                                       wykonania zadania
+Kompetencji społecznych – Student jest gotów do:
+K1          formułowania wniosków z własnych pomiarów lub          O.K8                obserwacja pracy
+            obserwacji                                                                 studenta, odpowiedź
+                                                                                       ustna, sprawozdanie z
+                                                                                       wykonania zadania
+                                            Bilans punktów ECTS
+Wygenerowano: 2026-11-03 18:48                                                                             4 / 13
+Semestr 1
+                                                   Średnia liczba godzin* przeznaczonych
+ Rodzaje zajęć studenta
+                                                   na zrealizowane rodzaje zajęć
+ wykłady e-learning                                                        22
+ seminarium                                                                18
+ ćwiczenia laboratoryjne                                                   28
+ przygotowanie do zajęć                                                    20
+ przygotowanie do kolokwium                                                40
+                                                                      Liczba godzin
+ Łączny nakład pracy studenta
+                                                                           128
+                                                                      Liczba godzin
+ Liczba godzin kontaktowych
+                                                                           68
+ Nakład pracy związany z zajęciami o charakterze                      Liczba godzin
+ praktycznym                                                               28
+* godzina (lekcyjna) oznacza 45 minut
+Semestr 2
+                                                   Średnia liczba godzin* przeznaczonych
+ Rodzaje zajęć studenta
+                                                   na zrealizowane rodzaje zajęć
+ wykłady e-learning                                                        26
+ seminarium                                                                34
+ ćwiczenia laboratoryjne                                                   20
+ przygotowanie do zajęć                                                    20
+ przygotowanie do kolokwium                                                40
+ przygotowanie do egzaminu                                                 60
+                                                                      Liczba godzin
+ Łączny nakład pracy studenta
+                                                                           200
+                                                                      Liczba godzin
+ Liczba godzin kontaktowych
+                                                                           80
+ Nakład pracy związany z zajęciami o charakterze                      Liczba godzin
+ praktycznym                                                               20
+* godzina (lekcyjna) oznacza 45 minut
+                                         Treści programowe
+Wygenerowano: 2026-11-03 18:48                                                             5 / 13
+                                                                     Efekty uczenia się dla   Formy prowadzenia
+Lp.         Treści programowe
+                                                                     przedmiotu               zajęć
+1.          Biochemia a medycyna - wprowadzenie. Woda jako           W1, W3                   wykłady e-learning
+            rozpuszczalnik. Skład płynów ustrojowych. Woda jako
+            reagent - reakcja hydrolizy. Cząsteczki polarne i
+            niepolarne. Słabe oddziaływania w roztworach
+            wodnych – wiązania wodorowe, hydrofobowe i van der
+            Waalsa. Błony półprzepuszczalne. Ciśnienie
+            osmotyczne i onkotyczne. Równowagi Donnana.
+2.          Zasady pracy w laboratorium. Podstawowe                  U1, U2, U7, K1           ćwiczenia laboratoryjne
+            umiejętności/czynności laboratoryjne. Podstawowe
+            obliczenia chemiczne (stężenie, rozcieńczenie,
+            rozpuszczalność). Podstawy spektrofotometrii i
+            znaczenie w badaniach medycznych.
+3.          Dializa. Oznaczanie stężenia kreatyniny. Sporządzanie    W10, W3, U1, K1          seminarium, ćwiczenia
+            roztworów hypo-, i izotonicznych. Obliczanie ciśnienia                            laboratoryjne
+            osmotycznego w roztworach wieloskładnikowych.
+            Przeliczanie stężeń.
+4.          Równowagi jonowe, równowaga kwasowo-zasadowa.            W2                       wykłady e-learning
+            Podstawy homeostazy pH w organizmie człowieka.
+            Roztwory buforowe i ich mechanizm działania.
+            Równanie Hendersona-Hasselbalcha. Bufory
+            biologiczne (bufor wodorowęglanowy, fosforanowy,
+            białczanowy, hemoglobinowy). Proste zaburzenia
+            równowagi kwasowo-zasadowej.
+5.          Określanie pH roztworów buforowych. Wpływ składu         W2, U3, K1               ćwiczenia laboratoryjne
+            mieszaniny buforowej i rozcieńczenia na możliwości
+            buforowania. Proste obliczenia dotyczące buforów.
+            Interpretacja wyników gazometrii krwi tętniczej i
+            włośniczkowej.
+6.          Nukleozydy i nukleotydy. Oligo- i polinukleotydy –       W6, W7                   wykłady e-learning
+            właściwości ﬁzykochemiczne. DNA – struktura,
+            właściwości. Reakcja polimeryzacji oraz hydrolizy
+            kwasu nukleinowego (polimerazy, endo- i
+            egzonukleazy). Cechy genomu pro- i eukariotycznego.
+            Genom człowieka. Replikacja DNA w komórkach
+            prokariotycznych i eukariotycznych.
+7.          Budowa, struktura i własności RNA (mRNA, hnRNA,          W6, W7                   wykłady e-learning
+            tRNA, rRNA, snRNA, snoRNA, miRNA) oraz ich formy
+            występowania. Polimerazy RNA w komórce
+            eukariotycznej i prokariotycznej. Ogólne porównanie
+            przebiegu transkrypcji w komórce prokariotycznej i
+            eukariotycznej. Regulacja transkrypcji. Promotory
+            polimerazy RNA, czynniki transkrypcyjne, sekwencje
+            wzmacniające oraz wyciszające. Szlak interferencji
+            RNA, microRNA.
+Wygenerowano: 2026-11-03 18:48                                                                                     6 / 13
+                                                                       Efekty uczenia się dla   Formy prowadzenia
+Lp.         Treści programowe
+                                                                       przedmiotu               zajęć
+8.          Biosynteza białek I. Kod genetyczny. Synteza               W5, W7                   wykłady e-learning
+            aminoacylo-tRNA. Interakcja kodon-antykodon.
+            Rybosomy bakteryjne i eukariotyczne. Etapy translacji
+            u eukariota. Porównanie procesu translacji u pro- i
+            eukariota. Regulacja syntezy białka na etapie
+            translacji. Inhibitory procesu translacji u prokariota i
+            ich zastosowanie. Antybiotyki działające na procesy
+            inne niż translacja. Inhibitory procesu translacji u
+            eukariota. Dojrzewanie białek – fałdowanie,
+            modyﬁkacje potranslacyjne. Glikozylacja białek – typy
+            glikoprotein. Rola glikozylacji w kierowaniu białek do
+            lizosomów. Acylacje. Hydroksylacje. Karboksylacja
+            zależna od witaminy K i jej znaczenie. Fosforylacja.
+            Modyﬁkacja przez proteolizę. Wewnątrzkomórkowa
+            degradacja białek.
+9.          Mutacje – rodzaje, przyczyny powstawania mutacji,          W7                       seminarium
+            mechanizmy naprawy uszkodzonego DNA. Związki
+            interkalujące, karcynogeny. Rearanżacja genetyczna.
+            Sekwencjonowanie Sangerowskie.
+10.         Podstawy kancerogenezy, geny supresorowe,                  W11, W12                 wykłady e-learning
+            onkogeny. Transdukcja sygnału i transformacja
+            nowotworowa komórki.
+11.         Epigenetyka: metylacja DNA, posttranslacyjne        W12, W13, W7                    wykłady e-learning
+            modyﬁkacje histonów, epigenetyczna regulacja
+            ekspresji genów, piętnowanie genomowe i inaktywacja
+            chromosomu X. Epigenetyka nowotworów.
+12.         Podstawowe metody molekularne wykorzystywane w             W9                       seminarium
+            diagnostyce laboratoryjnej.
+13.         Projektowanie eksperymentu naukowego, którego          W5, W6, W7, U6               ćwiczenia laboratoryjne
+            celem jest analiza ekspresji genu na poziomie izoform.
+            Transkrypcja (pojęcie nici kodującej i matrycowej
+            DNA), cechy eukariotycznego mRNA (kodony START i
+            STOP, rejony nie podlegające translacji – UTR),
+            Alternatywny splicing – znaczenie. Sekwencje
+            sygnałowe w białkach wydzielanych z komórki. Zasada
+            techniki PCR. Odwrotna transkrypcja – synteza cDNA.
+            Korzystanie z baz danych.
+14.         Posługiwanie się podstawowymi technikami                   W9, U6, U7, K1           ćwiczenia laboratoryjne
+            laboratoryjnymi i molekularnymi. Elektroforeza
+            kwasów nukleinowych. Analiza wyników reakcji PCR i
+            RT-PCR. Analiza, interpretacja oraz omówienie
+            wyników eksperymentu naukowego przygotowanego
+            w ramach wcześniejszych ćwiczeń.
+15.         Warsztat: wprowadzenie do nowych technik                   U5, U6, U7               ćwiczenia laboratoryjne
+            molekularnych (QF-PCR, NGS, analiza zmian
+            epigenetycznych w diagnostyce, CRISPR/Cas9).
+            Znaczenie modyﬁkacji potranslacyjnej białek w
+            epigenetyce. Podstawy biochemiczne nowych metod
+            biologii molekularnej, analiza wyników.
+16.         Szlaki przekazywania sygnałów w komórce, przykłady         W10, W11, W12            seminarium
+            zaburzeń prowadzących do rozwoju nowotworów. Cykl
+            komórkowy, proliferacja. Terapie celowane: CML -
+            inhibitory kinaz tyrozynowych.
+Wygenerowano: 2026-11-03 18:48                                                                                       7 / 13
+                                                                     Efekty uczenia się dla   Formy prowadzenia
+Lp.         Treści programowe
+                                                                     przedmiotu               zajęć
+17.         Aminokwasy - rodzaje, właściwości, znaczenie dla       W5                         seminarium
+            budowy i funkcjonowania peptydów i białek. Wiązanie
+            peptydowe. Typy interakcji w zależności od rodzaju
+            łańcucha bocznego. Struktura i fałdowanie łańcuchów
+            polipeptydowych – struktury I-IV rzędowe. Domeny,
+            podjednostki. Białka ﬁbrylarne i globularne. Zmiany pH
+            a konformacja i funkcjonowanie peptydów/białek.
+18.         Białka złożone – metaloproteiny, hemoproteiny. Rola      W5                       wykłady e-learning
+            hemoprotein – mioglobina, hemoglobina, cytochromy.
+            Struktura i właściwości mioglobiny i hemoglobiny,
+            krzywe wysycenia tlenem. Allosteria (struktury T i R),
+            kooperatywność, p50, efektory allosteryczne.
+            Transport dwutlenku węgla, rola anhydrazy
+            węglanowej. Efekt Bohra. Znaczenie 2,3 BPG.
+            Hemoglobina F. Toksyczność CO. Talasemie.
+19.         Molekularne podłoże zaburzeń ogólnoustrojowych na        W10, W2, W9              seminarium
+            przykładzie anemii sierpowatokrwinkowej.
+            Hemoglobina - struktura a funkcja. Typy łańcuchów
+            globinowych i hemoglobin. Adaptacja do dużych
+            wysokości. Hemoglobiny patologiczne.
+20.         Ocena pI aminokwasów. Chromatograﬁa                      W2, W9, U3, U7, K1       ćwiczenia laboratoryjne
+            aminokwasów. Widmo albuminy,wyznaczanie stężenia
+            białka w oparciu o absorbancję w UV. Widma
+            hemoglobiny. Wysalanie, denaturacja/renaturacja
+            białek.
+21.         Białka włókienkowe. Składniki macierzy                   W10, W5                  wykłady e-learning
+            pozakomórkowej. Keratyny. Kolageny – struktura i
+            funkcja. Typy kolagenów. Zaburzenia struktury
+            kolagenu uwarunkowane genetycznie. Elastyna -
+            struktura, właściwości, rola. Rola ﬁbronektyny i
+            lamininy. Choroby konformacyjne – amyloidozy.
+22.         Białka osocza. Oznaczenie białka całkowitego w           W9, U7, K1               ćwiczenia laboratoryjne
+            surowicy metodą biuretową. Elektroforeza białek
+            surowicy - charakterystyka frakcji białkowych, analiza
+            wyników.
+23.         Podstawy termodynamiki – funkcje termodynamiczne,        W8                       wykłady e-learning
+            prawa termodynamiki, spontaniczność reakcji
+            chemicznej, biologiczny stan standardowy.
+24.         Enzymy jako katalizatory biologiczne. Swoistość i        W8                       wykłady e-learning
+            wydajność katalityczna. Klasyﬁkacja enzymów.
+            Podstawowe informacje o koenzymach. Centrum
+            aktywne enzymów. Kompleks enzym - substrat.
+            Mechanizm działania enzymów na wybranych
+            przykładach.
+25.         Kinetyka enzymatyczna. Pojęcie Vo, zależność od [S] i    W10, W13, W8, U4         seminarium, ćwiczenia
+            [E]. Równanie Michaelisa-Menten. Znaczenie stałej                                 laboratoryjne
+            Km. Równanie Lineweavera-Burka. Mechanizmy
+            regulacji aktywności enzymatycznej. Inhibicja reakcji
+            enzymatycznych. Warunki optymalne – pomiar
+            aktywności enzymów w diagnostyce laboratoryjnej.
+            Jednostki aktywności enzymatycznej (zadania).
+            Znaczenie enzymów w diagnostyce klinicznej,
+            izoenzymy.
+Wygenerowano: 2026-11-03 18:48                                                                                     8 / 13
+                                                                      Efekty uczenia się dla   Formy prowadzenia
+Lp.         Treści programowe
+                                                                      przedmiotu               zajęć
+26.         Aspekty biochemiczne chorób – wpływ ksenobiotyków         W10, W8                  seminarium
+            na funkcjonowanie organizmu. Zatrucie inhibitorami
+            esterazy acetylocholinowej. Inhibitory enzymów jako
+            leki.
+27.         Podstawy bioenergetyki. Rola ATP. Anabolizm i             W10, W13, W8             wykłady e-learning
+            katabolizm. Związki wysokoenergetyczne. Procesy
+            fosforylacji oksydacyjnej i substratowej. Łańcuch
+            oddechowy.
+28.         Cykl Krebsa - centralny szlak metaboliczny. Źródła        W10, W8, U4              seminarium
+            acetylo-CoA. Multienzymatyczny kompleks
+            dehydrogenazy pirogronianowej. Reakcje
+            anaplerotyczne. Inhibitory utleniania komórkowego,
+            czynniki rozprzęgające.
+29.         Łańcuch oddechowy. Strategie metaboliczne – kryteria      W10, W13, W8, U4         ćwiczenia laboratoryjne
+            spontaniczności reakcji. Zatrucie cyjankami – studium
+            przypadku.
+30.         Węglowodany - klasyﬁkacja, struktura, właściwości,        W10, W13, W4, W8         seminarium
+            funkcje. Trawienie węglowodanów w przewodzie
+            pokarmowym, wchłanianie heksoz do komórek
+            (transportery GLUT). Rola fosforylacji – kinazy heksoz,
+            izoenzymy heksokinazy. Kluczowe metabolity
+            przemiany węglowodanowej.
+31.         Glikoliza i glukoneogeneza. Metabolizm fruktozy i         W10, W13, W4, W8         wykłady e-learning
+            galaktozy. Szlak pentozofosforanowy.
+32.         Metabolizm glikogenu, regulacja hormonalna.               W10, W13, W4, W8         wykłady e-learning
+            Mechanizmy regulacyjne szlaków przemiany
+            węglowodanowej. Wybrane defekty metaboliczne
+            przemiany węglowodanowej (fawizm, choroby
+            spichrzania glikogenu).
+33.         Laboratoryjne metody oceny aktywności                     W8, U4, K1               ćwiczenia laboratoryjne
+            metabolicznej komórek; metody pomiaru stężenia
+            glukozy.
+34.         Wybrane aspekty współdziałania szlaków przemiany          W10, W13, W4, W8, U4     seminarium
+            węglowodanowej. Pochodzenie glukozy we krwi
+            (posiłek, rezerwy glikogenowe, glukoneogeneza).
+            Regulacja przemian węglowodanów. Specyﬁka
+            tkankowa (wątroba, mięsień szkieletowy).
+35.         Lipidy - klasyﬁkacja, struktura, właściwości, funkcje.    W4, W8                   seminarium
+            Trawienie lipidów w przewodzie pokarmowym.
+            Kluczowe metabolity przemiany lipidowej. Lipazy.
+36.         Aktywacja i utlenianie kwasów tłuszczowych. Synteza       W10, W13, W4, W8         wykłady e-learning
+            ciał ketonowych i ich rola. Biosynteza kwasów
+            tłuszczowych nasyconych i nienasyconych. Biosynteza
+            triacylogliceroli, glicerofosfolipidów i sﬁngolipidów.
+            Wybrane zaburzenia przemiany lipidowej.
+37.         Biosynteza cholesterolu, kontrola przebiegu procesu       W10, W13, W4, W8         wykłady e-learning
+            syntezy cholesterolu. Synteza kwasów żółciowych i
+            regulacja tego procesu. Synteza hormonów
+            steroidowych. Eikozanoidy.
+38.         Transport lipidów w polarnym środowisku organizmu.        W10, W13, W4, W8         seminarium
+            Metabolizm frakcji lipoproteinowych.
+            Hiperlipoproteinemie. Witaminy rozpuszczalne w
+            tłuszczach.
+Wygenerowano: 2026-11-03 18:48                                                                                      9 / 13
+                                                                   Efekty uczenia się dla   Formy prowadzenia
+Lp.         Treści programowe
+                                                                   przedmiotu               zajęć
+39.         Współzależności metabolizmu węglowodanów i             W10, W13, W4, W8, U4     seminarium
+            lipidów.
+40.         Obrót białkowy. Trawienie białek, wchłanianie          W10, W8                  seminarium
+            aminokwasów. Degradacja białek
+            wewnątrzkomórkowych. Podstawowe reakcje
+            metabolizmu aminokwasów – transaminacja,
+            deaminacja, wiązanie azotu (aminacja). Usuwanie
+            azotu białkowego z organizmu. Rola dehydrogenazy
+            glutaminianowej. Synteza mocznika. Toksyczność
+            amoniaku.
+41.         Losy aminokwasów w organizmie, aminokwasy gluko- i W10, W13, W8                 wykłady e-learning
+            ketogenne. Degradacja wybranych aminokwasów;
+            metabolizm szkieletów węglowych (glicyna, seryna,
+            metionina, fenyloalanina, cysteina). Synteza i
+            degradacja ważnych pochodnych aminokwasów –
+            katecholamin, melanin i in. Synteza aminokwasów
+            endogennych.
+42.         Defekty metabolizmu związków azotowych. Wrodzone       W10, W13, W8, U4         seminarium
+            defekty metabolizmu aminokwasów: kwasica
+            metylomalonowa, fenyloketonuria, alkaptonuria,
+            albinizm, choroba syropu klonowego.
+43.         Metabolizm porﬁryn. Wchłanianie, transport i rola      W10, W8                  seminarium
+            jonów żelaza. Porﬁrie. Żółtaczki.
+44.         Powstawanie i rola fragmentów jednowęglowych oraz      W10, W6, W8              wykłady e-learning
+            transmetylacji w metabolizmie związków azotowych.
+            Biosynteza i degradacja nukleotydów purynowych i
+            pirymidynowych. Biochemiczne podstawy terapii
+            chorób proliferacyjnych.
+45.         Integracja przemian związków azotowych.                W10, W6, W8              seminarium
+            Biochemiczne konsekwencje niedoboru witamin B6,
+            B12, kwasu foliowego. Choroby dziedziczne
+            spowodowane niedoborami enzymów przemiany
+            azotowej. Dna moczanowa.
+46.         Reaktywne formy tlenu, procesy detoksykacji.           W10, W13, W8             wykłady e-learning
+47.         Uszkodzenie niedokrwienno-reperfuzyjne mięśnia         W10, W12, W13, W8        wykłady e-learning
+            sercowego – diagnostyka i aspekty kliniczne.
+48.         Biochemiczne konsekwencje niedokrwienia i reperfuzji   W10, W12, W13, W8        seminarium
+            na podstawie przypadków klinicznych: ostry zespół
+            wieńcowy, ostre uszkodzenie nerek.
+49.         Stres oksydacyjny a potencjał antyoksydacyjny osocza   W10, W8, K1              ćwiczenia laboratoryjne
+            w wybranych stanach chorobowych.
+50.          Wpływ przemian etanolu na procesy metaboliczne, w     W10, W13, W8, U4         seminarium
+            tym procesy biotransformacji leków. Mechanizm
+            alkoholowego uszkodzenia wątroby.
+51.         Integracja przemian metabolicznych na poziomie         W10, W13, W8             wykłady e-learning
+            komórkowym: regulacja przepływu metabolitów
+            pośrednich pomiędzy różnymi szlakami
+            metabolicznymi. Specjalizacja metaboliczna
+            wybranych tkanek: wątroba, tkanka tłuszczowa,
+            mięsie

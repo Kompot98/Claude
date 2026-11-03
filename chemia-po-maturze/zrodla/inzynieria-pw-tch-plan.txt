@@ -1,0 +1,13 @@
+adres: https://www.ch.pw.edu.pl/layout/set/print/content/download/12174/77877/file/INFORMATOR_TCh%20I%20stopie%C5%84%20profil%20og%C3%B3ln._nowy%20dla%20student%C3%B3w%20rozpoczynaj%C4%85cych%20studia%2001.10.2025.pdf
+uczelnia: Politechnika Warszawska
+kierunek: inżynieria
+przedmiot lub dokument: plan semestrów 1–3
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+Kierunek Technologia Chemiczna
+                                                                 Semestr 1
+                                                                 Semestr 2
+                                                                 Semestr 3
+              Program studiów:

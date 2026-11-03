@@ -1,0 +1,176 @@
+adres: https://put.poznan.pl/cards/2025_2026/Technologia%20chemiczna/stacjonarne/studia%20pierwszego%20stopnia/2/Chemia%20og%C3%B3lna%20i%20nieorganiczna%20(COiN2).pdf
+uczelnia: Politechnika Poznańska
+kierunek: inżynieria
+przedmiot lub dokument: Chemia ogólna i nieorganiczna 2
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+                      POLITECHNIKA POZNAŃSKA
+                      EUROPEJSKI SYSTEM TRANSFERU I AKUMULACJI PUNKTÓW (ECTS)
+KARTA OPISU PRZEDMIOTU - SYLABUS
+Nazwa przedmiotu
+Chemia ogólna i nieorganiczna [S1TCh2>COiN2]
+Przedmiot
+Kierunek studiów                                    Rok/Semestr
+Technologia chemiczna                               1/2
+Studia w zakresie (specjalność)                     Profil studiów
+–                                                   ogólnoakademicki
+Poziom studiów                                      Język oferowanego przedmiotu
+pierwszego stopnia                                  polski
+Forma studiów                                       Wymagalność
+stacjonarne                                         obligatoryjny
+Liczba godzin
+Wykład                             Laboratorium                     Inne
+0                                  60                               0
+Ćwiczenia                          Projekty/seminaria
+0                                  0
+Liczba punktów ECTS
+4,00
+Koordynatorzy                                       Wykładowcy
+dr inż. Andrzej Szymański                           dr inż. Andrzej Szymański
+andrzej.szymanski@put.poznan.pl                     andrzej.szymanski@put.poznan.pl
+dr hab. inż. Bogdan Wyrwas prof. PP                 dr hab. inż. Bogdan Wyrwas prof. PP
+bogdan.wyrwas@put.poznan.pl                         bogdan.wyrwas@put.poznan.pl
+                                                    dr inż. Włodzimierz Zembrzuski
+                                                    wlodzimierz.zembrzuski@put.poznan.pl
+Wymagania wstępne
+Student: ma wiedzę wynikającą z zaliczenia w I semestrze przedmiotu Chemia ogólna i nieorganiczna, a w
+szczególności: W1) Ma rozszerzoną wiedzę o budowie materii; identyfikuje składniki materii oraz
+charakteryzuje oddziaływania między nimi; zna budowę atomów i genezę ich powstania; definiuje i
+objaśnia prawa rządzące oddziaływaniami składników materii zarówno na poziomie wewnątrzjądrowym jak
+i atomowym W2) Wskazuje właściwości pierwiastków wynikające z konfiguracji elektronowej ich atomów i
+położenia w układzie okresowym, a zwłaszcza zna i tłumaczy zależność pomiędzy konfiguracją
+elektronową atomów a reaktywnością pierwiastków W3) Wymienia reakcje z udziałem związków
+nieorganicznych, o dużym, praktycznym znaczeniu przemysłowym. Opisuje, objaśnia i charakteryzuje ich
+chemizm (sposób przebiegu i towarzyszące im efekty) Student: ma umiejętności wynikające z zaliczenia w
+I semestrze przedmiotu Chemia ogólna i nieorganiczna, a w szczególności: U1) Analizuje i interpretuje
+treści zadań obliczeniowych oraz wykonuje obliczenia chemiczne (głównie z zakresu przeliczania stężeń,
+stechiometrii oraz podstaw termodynamiki reakcji chemicznych) U2) Posługuje się układem okresowym
+                                                                                                         1
+pierwiastków i potrafi wykorzystywać go jako podstawowe źródło informacji o właściwościach
+fizykochemicznych pierwiastków oraz ich związków U3) Posługuje się aktualną nomenklaturą związków
+nieorganicznych, a zwłaszcza potrafi połączyć prawidłową nazwę związku z jego poprawnym wzorem
+sumarycznym (stechiometrycznym), który potrafi prawidłowo zapisać, a na tej podstawie sporządzić jego
+wzór strukturalny U4 Zapisuje i poprawnie bilansuje reakcje chemiczne pomiędzy reagentami
+nieorganicznymi (także z udziałem prostych związków organicznych); przewiduje kierunek przebiegu
+reakcji chemicznych dowolnego typu (w tym reakcji utleniania i redukcji) oraz charakteryzuje ilościowo
+ustalający się stan równowagi reakcji (potrafi obliczać stałą równowagi reakcji chemicznej) W4) Wymienia i
+opisuje najważniejsze szkodliwe efekty oddziaływania na środowisko naturalne niektórych pierwiastków i
+związków nieorganicznych oraz identyfikuje główne źródła, z których emitowane są one do środowiska K1)
+Ma świadomość ciągłego, szybkiego powiększania się wiedzy z zakresu chemii nieorganicznej, a na tym
+tle - poziomu swojej wiedzy z tej dziedziny, co wywołuje u niego zdeterminowanie i aktywną postawę w
+dalszym studiowaniu oraz przyswajaniu nowej wiedzy z własnej inicjatywy K2) Jest świadomy, że wiedza z
+zakresu chemii nieorganicznej jest szeroko stosowana w przemyśle i gospodarce; rozumie w związku z
+tym i liczy się z koniecznością praktycznego wykorzystywania w przyszłości zdobytej wiedzy i umiejętności;
+ma świadomość związanej z tym odpowiedzialności
+Cel przedmiotu
+Ugruntowanie wiedzy z chemii ogólnej i nieorganicznej oraz poszerzenie jej o wiedzę i umiejętności
+praktyczne, związane z pracą w laboratorium chemicznym. Zapoznanie z zasadami bezpiecznej pracy w
+laboratorium. Zapoznanie z organizacją pracy laboratoryjnej i podstawowymi technikami stosowanymi w
+pracy laboratoryjnej. Nauczenie poprawnej interpretacji wyników badań
+Przedmiotowe efekty uczenia się
+Wiedza:
+1. Ma ugruntowaną wiedzę teoretyczną w zakresie chemii nieorganicznej i ogólnej, a zwłaszcza opisuje
+budowę materii na poziomie jądrowym, atomowym oraz molekularnym; identyfikuje właściwości
+pierwiastków i ich związków, tłumacząc je w powiązaniu z miejscem pierwiastka w układzie okresowym
+K_W03, K_W08
+2. Zna zasady bezpieczeństwa i higieny pracy w laboratorium chemicznym, a szczególnie zasadę dbania o
+porządek w miejscu pracy; zna podstawowe zasady pierwszej pomocy w razie nieszczęśliwych
+wypadków i zdarzeń
+K_W018
+3. Wymienia i charakteryzuje podstawowe techniki pracy laboratoryjnej
+K_W15
+4. Wie jak zaplanować i przeprowadzić prosty eksperyment chemiczny oraz jak przeanalizować,
+opracować i opisać jego wyniki
+Umiejętności:
+1. Ma ugruntowane umiejętności w zakresie obliczeń chemicznych, korzystania z układu okresowego
+pierwiastków, notacji wzorów sumarycznych i strukturalnych związków chemicznych oraz pisania i
+bilansowania dowolnego typu reakcji chemicznych z udziałem związków nieorganicznych
+K_U01, K_U18
+2. Umie analizować i rozwiązywać typowe problemy chemiczne w oparciu o wiedzę z różnych źródeł, w
+tym o wiedzę wyszukiwaną samodzielnie; umie porównywać wiedzę pochodzącą z różnych źródeł
+K_U01, K_U16
+3. Potrafi zorganizować własną pracę w laboratorium chemicznym; poprawnie stosuje techniki pracy
+laboratoryjnej; prawidłowo posługuje się sprzętem laboratoryjnym i właściwie interpretuje uzyskane
+wyniki
+K_U01, K_U07, K_U20
+4. Wdraża praktycznie zasady bezpiecznej pracy w laboratorium chemicznym
+K_U10, K_U28
+Kompetencje społeczne:
+1. Postrzega relację pomiędzy bezpieczeństwem własnym i innych osób pracujących w laboratorium
+chemicznym, a postępowaniem zgodnie z przepisami obowiązującymi w laboratorium chemicznym;
+wyrabia w sobie nawyk dbałośc o porządek w miejscu pracy
+K_K03
+                                                                                                             2
+2. Ma świadomość zagrożenia dla środowiska naturalnego ze strony niektórych powszechnie
+stosowanych, nieorganicznych związków chemicznych; rozumie konieczność działań w kierunku
+minimalizowania tych szkodliwych efektów
+K_K02, K_K07
+Metody weryfikacji efektów uczenia się i kryteria oceny
+Efekty uczenia się przedstawione wyżej weryfikowane są w następujący sposób:
+Prowadzący zajęcia laboratoryjne kontroluje na bieżąco teoretyczne przygotowanie studentów do
+wykonania przewidzianego planem ćwiczenia. Kontrola odbywa się poprzez odpytywanie i/lub w formie
+pisemnych sprawdzianów. Prowadzący obserwuje i ocenia zachowanie się studentów w laboratorium, w
+tym umiejętność organizowania sobie pracy laboratoryjnej oraz umiejętności manualne podczas
+wykonywania przewidzianych planem ćwiczeń. Ocenie podlegają sprawozdania pisemne z wykonanych
+ćwiczeń. Końcowa ocena z przedmiotu jest wypadkową wymienionych wyżej trzech części składowych.
+Treści programowe
+Praktyczne aspekty chemii ogólnej i nieorganicznej.
+Tematyka zajęć
+Laboratorium:
+1. Skala pH
+2. Reakcje w układzie kwas-zasada
+3. Odczyn roztworów wodnych soli
+4. Roztwory buforowe
+5. Reakcje kompleksowania I (stopniowe tworzenie kompleksów, roztwór buforowy związku
+kompleksowego)
+6. Reakcje kompleksowania II (właściwości związków kompleksowych: kompleksy a kwasowość, trwałość
+związków kompleksowych)
+7. Reakcje utleniania i redukcji I (redukcja metalami, jon wodorowy jako utleniacz, moc utleniaczy
+i reduktorów, wpływ temperatury na reakcję redoks)
+8. Reakcje utleniania i redukcji II (wpływ pH na reakcje redoks, reakcje dysproporcjonowania)
+9. Rozdział przez strącanie
+10. Rozdział przez ekstrakcję
+11. Walidacja pipet automatycznych
+12. Analiza jakościowa kationów (według podziału Freseniusa na pięć grup analitycznych)
+13. Analiza jakościowa anionów (według podziału Aleksiejewa na trzy grupy analityczne)
+14. Analiza jakościowa soli
+Metody dydaktyczne
+Zajecia mają charakter praktyczny, polegają na samodzielnym wykonywaniu przez studentów ćwiczeń
+objętych planem przedmiotu. Ćwiczenia wykonywane są zgodnie z załączoną instrukcją wykonania.
+Prowadzący zajęcia osobiście pokazuje i objaśnia sposób przeprowadzenia czynności i operacji z którymi
+studenci spotykają się po raz pierwszy. Prowadzący zajęcia laboratoryjne nieustannie kontroluje sposób
+zachowania się studenta w laboratorium i sposób wykonywania przez niego poszczególnych prac.
+Natychmiast zwraca uwagę na nieprawidłowości i koryguje je.
+Literatura
+Podstawowa:
+1. J. Minczewski, Z. Marczenko Chemia analityczna t. I PWN Warszawa 1976
+2. G. Charlot, Analiza nieorganiczna jakościowa, PWN, Warszawa 1976
+3. A. Bielański, Podstawy chemii nieorganicznej, t.1-3, PWN, Warszawa 2012
+4. L. Jones, P. Atkins, Chemia ogólna. Cząsteczki, materia, reakcje, tom 1 i 2, PWN, Warszawa 2009
+5. J.D. Lee, Zwięzła chemia nieorganiczna, PWN, Warszawa 1999
+6. F. Domka, J. Jasiczak, Analiza jakościowa, Wydawnictwo AE, Poznań 2004
+7. K. M. Pazdro, Zbiór zadań z chemii, Oficyna Edukacyjna 2007
+8. L. Pajdowski, Chemia ogólna, PWN, Warszawa 1992
+                                                                                                         3
+Uzupełniająca:
+1. A. Ciszewski, M. Baraniak, Aktywność chemiczna i elektrochemiczna pierwiastków w środowisku
+wody, Wydawnictwo PP, Poznań 2006
+3. B. Chmielewska-Bojarska, Chemia analityczna. Analiza jakościowa kationów i anionów, Wydawnictwo
+Uniwersytetu Łódzkiego 2012
+3. W. N. Aleksiejew, Analiza jakościowa, PWN, Warszawa 1968
+4. F.A. Cotton, G. Wilkinson, C. Murillo, M. Bochmann, Chemia nieorganiczna. Podstawy,
+PWN, Warszawa 1995
+5. L. Kolditz, Chemia nieorganiczna, PWN, Warszawa 1994
+6. M.J. Sienko, R.A. Plane, Chemia. Podstawy i zastosowania, WNT, Warszawa 2002
+7. W. Ufnalski, Podstawy obliczeń chemicznych z programami komputerowymi, WNT, W-wa 1999
+8. G.W. van Loon, S. J. Duffy, Chemia środowiska, PWN, Warszawa 2008
+Bilans nakładu pracy przeciętnego studenta
+                                                                       Godzin          ECTS
+Łączny nakład pracy                                                    100             4,00
+Zajęcia wymagające bezpośredniego kontaktu z nauczycielem              60              2,50
+Praca własna studenta (studia literaturowe, przygotowanie do zajęć     40              1,50
+laboratoryjnych/ćwiczeń, przygotowanie do kolokwiów/egzaminu,
+wykonanie projektu)
+                                                                                                     4

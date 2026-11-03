@@ -1,0 +1,289 @@
+adres: https://bionieorganiczna.umed.pl/wp-content/uploads/2025/09/Sylabus-Chemia-ogolna-i-nieorganiczna-AM-2025-2026.pdf
+uczelnia: Uniwersytet Medyczny w Łodzi
+kierunek: analityka medyczna
+przedmiot lub dokument: Chemia ogólna i nieorganiczna
+rok akademicki: 2025/26
+data odczytu: 2026-11-03
+metoda: pobranie pliku i zamiana na tekst (pdftotext, pandoc, LibreOffice)
+
+                                     KARTA PRZEDMIOTU
+ Chemia ogólna i nieorganiczna - Analityka Medyczna (2025/2026)
+Wydział                Wydział Farmaceutyczny
+Kierunek               Analityka Medyczna
+Rodzaj                 Stacjonarne
+Typ                    Jednolite Magisterskie
+Semestr                1
+Kod przedmiotu         10016565/5/12/18/32/1/2025
+Kierownik przedmiotu dr hab. n. med. profesor uczelni Joanna Sikora
+Nazwa przedmiotu       Chemia ogólna i nieorganiczna
+Jednostka              Wydział Farmaceutyczny
+Profil kształcenia     praktyczny
+Poziom kształcenia Jednolite Magisterskie
+Cele przedmiotu: Poznanie właściwości pierwiastków i ich funkcji w układach biologicznych,
+mechanizmów tworzenia związków chemicznych i rodzajów występujących w nich wiązań
+chemicznych, mechanizmów reakcji, właściwości związków chemicznych. Nabycie umiejętności
+wykonywania podstawowych obliczeń chemicznych oraz przeprowadzania reakcji chemicznych
+związków nieorganicznych.
+Forma zajęć:
+                                                               Zajęcia               Liczba pkt
+          Przedmiot     Samokształcenie Wykład Ćwiczenia                  e-learning
+                                                            laboratoryjne              ECTS
+       Chemia ogólna
+                              35          15        10           35           5           4
+       i nieorganiczna
+Punkty ECTS:
+      SEMESTR I - 4         Łącznie                                Punkty Łącznie Ogólnie
+                                      Godzin Element
+      ECTS                  godziny                                 ECTS      ECTS      ECTS
+                                        15    wykłady                 0,6
+                                              zajęcia
+                                        35    laboratoryjne           1,4
+      Godziny                                 z chemii ogólnej
+      kontaktowe                65                                              2,6
+                                              ćwiczenia
+      z nauczycielem
+                                        10    z chemii ogólnej        0,4
+                                              (rachunkowe)
+                                         5    e-learning              0,2
+                                              teoretyczne
+                                              przygotowanie
+                                        10    do zajęć                0,4                 4,0
+                                              laboratoryjnych
+                                              z chemii ogólnej
+                                              teoretyczne
+      Samokształcenie           35                                              1,4
+                                              przygotowanie
+                                         5                            0,2
+                                              do ćwiczeń
+                                              rachunkowych
+                                              Przygotowanie
+                                        20    do egzaminu             0,8
+                                              z chemii ogólnej
+      Razem godziny                                    100
+KIEROWNIK PRZEDMIOTU: dr hab. n. med. profesor uczelni Joanna Sikora.
+NAUCZYCIELE PROWADZĄCY: dr n. farm. Angelika Adamus-Grabicka, dr n. farm. Małgorzata
+Fabijańska, dr n. farm. Andrzej Łazarenkow, mgr inż. Monika Kawka-Człapińska, dr n. farm. inż.
+Dominik Żyro
+                                                  1
+Wymagania wstępne: Wiadomości z chemii ogólnej i nieorganicznej na poziomie rozszerzonym szkoły
+średniej.
+Metody dydaktyczne:
+- Wykłady (przekaz słowny, prezentacje);
+- Prowadzenie dyskusji w trakcie zajęć laboratoryjnych;
+- Praca grupowa przy zapoznawaniu się z podstawowymi czynnościami laboratoryjnymi;
+- Samodzielna praca studenta polegająca na zapisaniu obserwacji i wniosków w dzienniku
+laboratoryjnym (ćwiczenia laboratoryjne z chemii ogólnej);
+- Uzupełnianie wiedzy teoretycznej – samodzielna praca studenta z podręcznikami;
+- Samodzielne wykonywanie analiz oraz rozwiązywanie zadań rachunkowych.
+Treści programowe:
+Wykłady:
+- Struktura elektronowa. Układ okresowy pierwiastków: promień atomowy i jonowy, potencjał
+jonizacyjny, powinowactwo elektronowe, elektroujemność, przewidywanie właściwości fizycznych
+i chemicznych pierwiastków na podstawie struktury elektronowej i parametrów fizykochemicznych.
+(3 godziny)
+- Wiązania chemiczne: rodzaje wiązań (jonowe, kowalencyjne, koordynacyjne, metaliczne, wodorowe),
+budowa przestrzenna cząsteczek. (2 godziny)
+- Właściwości pierwiastków poszczególnych grup układu okresowego: ogólna charakterystyka
+pierwiastków bloku s, p i d, metale I i II grupy układu okresowego, deficytoelektronowość pierwiastków
+III grupy, podstawowe właściwości węglowców (różnice między węglem a krzemem), związki azotu,
+fosforu i arsenu (wodorki, tlenki i kwasy), stopnie utlenienia tlenu (przykłady związków), tlenki i kwasy
+siarki, różnice w grupie fluorowców (właściwości redoks), kwasy chloru. (9 godzin)
+- Omówienie właściwości pierwiastków mających znaczenie w układach biologicznych. (1 godzina)
+Zajęcia laboratoryjne:
+Zajęcia laboratoryjne z chemii ogólnej prowadzone są wg Instrukcji (dostępne na stronie Zakładu pod
+adresem: https://bionieorganiczna.umed.pl/studenci) do każdego z ćwiczeń opracowanych na podstawie
+skryptu p.t. „Ćwiczenia z chemii ogólnej z elementami chemii nieorganicznej i bionieorganicznej
+(Biblioteka UMed, e-skrypt).
+Ćwiczenia obejmują:
+- BHP, obsługa sprzętu laboratoryjnego niezbędnego do ćwiczeń, podstawowe czynności laboratoryjne.
+(5 godzin)
+- Szybkość reakcji chemicznych i stan równowagi, badanie wpływu różnych czynników na szybkość
+reakcji i jej stan równowagi w roztworach wodnych. Dysocjacja kwasów, zasad i soli, pH roztworów.
+(5 godzin)
+- Hydroliza soli, badanie odczynu roztworów soli, oraz wpływ różnych czynników na pH, działanie
+roztworów buforowych. (5 godzin)
+- Reakcje utlenienia i redukcji, badanie właściwości utleniających i redukujących metali i związków
+chemicznych, wpływ pH. (5 godzin)
+- Reakcje kompleksowania w roztworach wodnych ze szczególnym uwzględnieniem kationów metali
+i ligandów o znaczeniu biologicznym. (5 godzin)
+- Analiza jakościowa kationów i anionów w roztworach wodnych. Analiza substancji stałych (sole,
+kwasy i zasady nieorganiczne). (10 godzin)
+Ćwiczenia obliczeniowe:
+Treści zajęć w grupach łączonych i obejmują część obliczeniową i teoretyczną:
+- Reakcje neutralizacji (kwas + zasada) - stężenie procentowe i molowe, hydraty stała szybkości reakcji
+chemicznych. (2,5 godziny)
+- Dysocjacja elektrolityczna, hydroliza, bufory. (2,5 godziny)
+- Rozpuszczalność związków chemicznych w wodzie - stała rozpuszczalności, hydroliza tioacetamidu
+(amidu kwasu tiooctowego, AKT). (2,5 godziny)
+- Podstawy teorii związków kompleksowych oraz ich nomenklatura. (2,5 godziny)
+Każda godzina zajęć programowych jest godziną lekcyjną i trwa 45 minut.
+                                                    2
+        Efekty wiedza:
+Ogólne - Student zna i rozumie:
+O.W5. zasady wykonywania badań laboratoryjnych przy użyciu metod manualnych i technik
+zautomatyzowanych oraz autoryzacji wyników (+).
+Szczegółowe - Student zna i rozumie:
+B.W1. zagadnienia z zakresu chemii ogólnej i nieorganicznej w stopniu niezbędnym do głębszego
+zrozumienia zagadnień z dyscypliny naukowej nauki chemiczne oraz dyscypliny naukowej nauki
+biologiczne, a także zasady oznaczania związków nieorganicznych i metody postępowania
+analitycznego stosowane w laboratoriach medycznych (+++).
+B.W2. właściwości chemiczne pierwiastków i ich związków (+++).
+B.W3. podstawy budowy jądra atomowego i reakcji jądrowej, zwłaszcza rozpadu promieniotwórczego
+oraz zasady obliczeń szybkości rozpadu radionuklidów (+).
+B.W4. mechanizmy tworzenia i rodzaje wiązań chemicznych oraz mechanizmy
+oddziaływań międzycząsteczkowych w różnych stanach skupienia materii (+++).
+B.W5. analityczne metody jakościowej i ilościowej oceny związków nieorganicznych i organicznych
+oraz celowość stosowania tych metod w analizie medycznej (++).
+B.W6. zasady obliczeń chemicznych niezbędnych w medycynie laboratoryjnej, w szczególności
+obliczeń związanych ze sporządzaniem, rozcieńczaniem i przeliczaniem stężeń wyrażonych
+w standardowych i niestandardowych jednostkach (+++).
+B.W7. podstawy kinetyki reakcji chemicznych oraz podstawowe prawa termochemii, elektrochemii
+i zjawisk powierzchniowych (+).
+B.W9. nomenklaturę, właściwości oraz metody identyfikacji związków nieorganicznych
+oraz kompleksowych (+++).
+        Efekty umiejętności:
+Ogólne - Student potrafi:
+O.U3. wykonywać badania laboratoryjne oraz uzyskiwać wiarygodne wyniki (+).
+O.U9. wyszukiwać i selekcjonować informacje z różnych źródeł, dokonywać ich krytycznej oceny oraz
+formułować opinie (+).
+O.U13. komunikować się ze współpracownikami w zespole i dzielić się wiedzą (+).
+Szczegółowe - Student potrafi:
+B.U1. stosować podstawowe techniki laboratoryjne, w tym chemiczną analizę jakościową (++).
+B.U3. wykonywać obliczenia chemiczne (+++).
+B.U4. sporządzać roztwory o określonych stężeniach, a także roztwory o określonym pH, zwłaszcza
+roztwory buforowe (++).
+B.U5. opisywać właściwości chemiczne pierwiastków i związków nieorganicznych oraz oceniać
+trwałość wiązań i reaktywność związków nieorganicznych na podstawie ich budowy (+++).
+B.U6. identyfikować substancje nieorganiczne (+++).
+        Efekty kompetencje - student jest gotów do:
+O.K1. dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów
+i potrzeb edukacyjnych (++).
+O.K2. pracy w zespole, przyjmując w nim różne role, ustalając priorytety, dbając o bezpieczeństwo
+własne, współpracowników i otoczenia (+).
+O.K6. korzystania z obiektywnych źródeł informacji (++).
+O.K7. formułowania wniosków z własnych pomiarów lub obserwacji (+++).
+Literatura podstawowa:
+1. A. Bielański. Chemia nieorganiczna. PWN, 2012 lub nowsze.
+2. Z. S. Szmal, T. Lipiec. Chemia analityczna z elementami analizy instrumentalnej. PZWL, 1997.
+3. R. Kocjan. Chemia analityczna. PZWL, 2023, https://doi.org/10.53271/2023.122
+4. Praca zbiorowa pod redakcją J. Ochockiego. Ćwiczenia z chemii ogólnej z elementami chemii nieorganicznej
+i bionieorganicznej (skrypt). Wydawnictwo UM w Łodzi, 2010.
+Literatura uzupełniająca:
+1. S. J. Lippard, J. M. Berg. Podstawy chemii bionieorganicznej. PWN, 1998.
+2. P.W. Atkins, L. Jones, L. Leroy. Chemia ogólna. PWN, 2020.
+3. K.M. Pazdro, A. Rola-Noworyta. Akademicki zbiór zadań z chemii ogólnej. Oficyna Edukacyjna, Krzysztof Pazdro, Wyd.
+I, Warszawa 2013.
+4. W. Mizerski. Tablice Chemiczne. Adamantan, Warszawa 2023 lub nowsze.
+                                                           3
+Metody weryfikacji:
+Warunkiem zaliczenia przedmiotu Chemia ogólna i nieorganiczna jest osiągnięcie wszystkich efektów
+uczenia się przewidzianych programem studiów (kartą przedmiotu).
+Forma i warunki zaliczenia/egzaminu w terminach poprawkowych II/III: Egzamin testowy
+                                               WERYFIKACJA
+          ELEMENT              METODY             NABYCIA
+                                                                 MIN MAX           UWAGI
+        ZALICZENIA          WERYFIKACJI            EFEKTU
+                                                UCZENIA SIĘ
+                                              B.W1., B.W2.,
+                       Obserwacja pracy
+                                              B.W4., B.W7.,
+                       studenta i ocena
+                                              B.U1., B.U4.,
+                                                                 12,5 25 Każde z ćwiczeń
+                       sprawozdania
+                                              B.U5.,
+       Chemia ogólna                          O.W5.,O.U3.,                    podstawowych
+       – laboratorium  od  0-5 pkt. za każde                                  musi być
+                                              OU9., O.U13.,
+                       z 5 ćwiczeń. * #                                       wykonane
+                                              O.K2., O.K7.
+       (A)                                                                    i opisane przez
+                       Dwa sprawdziany                                        Studenta+
+                                              B.W6., B.W7.,
+                       (wejściówki)
+                                              O.W5., O.K1.,        5    10
+                                              O.K6.
+                       od 0-5 pkt.**
+                       Obserwacja pracy
+                                              B.W1., B.W2.,
+                       studenta i ocena
+                                              B.W5., B.U1.,
+                       sprawozdania
+                                              B.U6.,
+       Analiza                                                     5    10
+                                              O.W5.,O.U3.,
+       jakościowa      od 0 do 2,5 pkt
+                                              OU9., O.U13.,                          - // -
+                                              O.K2., O.K7.
+       (B)             za każde z 4 zadań * #
+                       Sprawdzian             B.W1., B.W5.,
+                                              B.W6., O.W5.,       2,5 5
+                        od 0-5 pkt.**         O.K1., O.K6.
+                       Ocena aktywności
+                       i umiejętności
+       Chemia ogólna rozwiązywania            B.W6., B.W7.,
+                       zadań * #                                   5    10
+                                              B.W9., B.U3.
+       ćwiczenia
+                                                                                     - // -
+       rachunkowe      w skali od 0 do 2,5 za
+                       każde z 4 zajęć
+       (C)             Sprawdzian
+                                              B.U3., B.U6.        2,5 5
+                       w skali od 0-5 **
+                                              B.W2., B.W3.,
+                       Test oceniający wiedzę
+       Egzamin                                                   12,5 25 Studentowi
+                       z zajęć oraz wykładów B.W4., B.W9.,                    przysługują dwa
+                                              O.K1., O.K6.                    terminy
+       (D)
+                                              B.U3., B.U5.,                   poprawkowe
+                       Zadania rachunkowe                          5    10
+                                              B.U6.
+* Student otrzymuje 1 punkt mniej za ćwiczenie jeśli pomimo jednokrotnego upomnienia przez prowadzącego
+zajęcia nie będzie wykonywał pracy zgodnie z zasadami BHP oraz regulaminem pracowni chemicznej (np.
+związane włosy, zapięty fartuch, brak okularów ochronnych). ** Spóźnienie na zajęcia do 15 minut nie pozwala
+na napisanie sprawdzianu. Nie ma możliwości ponownego jego napisania, Student otrzymuje wówczas 0 pkt.
+za sprawdzian. # Spóźnienie powyżej 15 minut skutkuje dodatkowo obniżeniem punktacji za wykonane ćwiczenia
+o 50%. + Student opisuje przeprowadzane doświadczenia i wnioski w zeszycie A4 o maksymalnej grubości 60
+kartek w kratkę na podstawie informacji zawartych w odpowiednich instrukcjach do ćwiczeń.
+                                                     4
+Zeszyt laboratoryjny ze sprawozdaniem Student oddaje prowadzącemu w dniu wykonania ćwiczeń przed
+opuszczeniem sali laboratoryjnej.
+Egzamin: Warunkiem przystąpienia do egzaminu jest zaliczenie zajęć laboratoryjnych, obliczeniowych
+oraz zajęć z analizy jakościowej. Egzamin z chemii ogólnej i nieorganicznej jest sprawdzianem
+nabytych umiejętności i wiedzy z wyżej wymienionych działów oraz wykładów. Egzamin w I i II
+terminie jest egzaminem pisemnym/testowym, egzamin w III terminie może być egzaminem
+pisemnym/testowym i/lub ustnym. Na końcową ocenę z przedmiotu składa się punktacja uzyskana
+przez Studenta w trakcie zajęć i egzaminu oraz obliczona wedle poniższego algorytmu:
+ 1/7 A + 1/3 (B + C) + D = PUNKTACJA KOŃCOWA (MAKS. 50 PKT.)
+Ocena końcowa jest wyliczana wedle poniższych kryteriów:
+                           uzyskane punkty - ocena końcowa (pkt)
+                             45,1 – 50,0 pkt     bardzo dobra (5)
+                             40,1 – 45,0 pkt    ponad dobra (4,5)
+                             35,1 – 40,0 pkt         dobra (4)
+                             30,1 – 35,0 pkt     dość dobra (3,5)
+                             25,0 – 30,0 pkt      dostateczna (3)
+                            poniżej 25,0 pkt   niedostateczna (2)
+Podczas pisemnych sprawdzianów i egzaminu dozwolone jest posiadanie jedynie kalkulatora (bez
+funkcji graficznych), długopisu oraz przydzielonego papieru. Posiadanie lub korzystanie z wszelkich
+innych pomocy, a także rozmowy skutkują natychmiastowym przerwaniem zaliczenia oraz
+wystawieniem oceny niedostatecznej ze wszystkich trzech terminów. W dniu pisania egzaminu Student
+nie może przebywać na zwolnieniu lekarskim. Studentowi przysługuje możliwość wglądu do swojej
+pracy po ogłoszeniu wyników zaliczenia. Termin podawany jest do wiadomości Studentów drogą
+e-mailową.
+Zasady odrabiania nieobecności na zajęciach:
+Każda nieobecność na zajęciach musi zostać wyjaśniona z nauczycielami prowadzącymi ćwiczenia
+laboratoryjne i rachunkowe. Zwolnienie lekarskie, zgodnie z Regulaminem Studiów, Student przekazuje
+do Dziekanatu Wydziału Farmaceutycznego w odpowiednim terminie. Student zgłasza się
+do nauczycieli prowadzących zajęcia w celu ustalenia terminu i sposobu odrobienia zajęć. Nieobecność
+powyżej 3 zajęć laboratoryjnych skutkuje brakiem możliwości ich odrobienia i niedopuszczeniem
+do egzaminu.
+Informacje dodatkowe:
+Podpis:
+Oświadczam, że treści programowe zawarte w niniejszej karcie przedmiotu są rezultatem mojej
+indywidualnej pracy twórczej wykonywanej w ramach stosunku pracy/współpracy wynikającej
+z umowy cywilnoprawnej oraz że osobom trzecim nie przysługują z tego tytułu autorskie prawa
+majątkowe.
+Język przedmiotu - polski
+                                                   5
