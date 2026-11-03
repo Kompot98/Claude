@@ -1,0 +1,226 @@
+adres: https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)
+tytuł: Organic Chemistry with a Biological Emphasis (Soderberg) - Chemistry LibreTexts
+
+Skip to main content
+Table of Contents menu
+[Library homepage]
+ 
+search Search
+build_circle Toolbar
+fact_check Homework
+cancel Exit Reader Mode
+ 
+-   school Campus Bookshelves
+-   menu_book Bookshelves
+-   perm_media Learning Objects
+-   login Login
+-   how_to_reg Request Instructor Account
+-   hub Instructor Commons
+Search
+Search this book
+Submit Search
+ 
+x
+Text Color
+Reset
+ Bright
+ Blues
+ Gray
+ Inverted
+Text Size
+Reset
++
+-
+ 
+Margin Size
+Reset
++
+-
+ 
+Font Type
+Enable Dyslexic Font  
+-   Downloads expand_more
+    -   Download Page (PDF)
+    -   Download Full Book (PDF)
+-   Resources expand_more
+    -   Periodic Table
+    -   Physics Constants
+    -   Scientific Calculator
+-   Reference expand_more
+    -   Reference & Cite
+-   Tools expand_more
+-   Help expand_more
+    -   Get Help
+    -   Feedback
+    -   Readability
+ 
+x
+selected template will load here
+Error
+This action is not available.
+ 
+[Library homepage]
+chrome_reader_mode Enter Reader Mode
+Organic Chemistry
+Bookshelves
+{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "01:_Introduction_to_Organic_Structure_and_Bonding_I" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "02:_Introduction_to_Organic_Structure_and_Bonding_II" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "03:_Conformations_and_Stereochemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "04:_Structure_Determination_I-_UV-Vis_and_Infrared_Spectroscopy_Mass_Spectrometry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "05:_Structure_Determination_Part_II_-_Nuclear_Magnetic_Resonance_Spectroscopy" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "06:_Overview_of_Organic_Reactivity" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "07:_Acid-base_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "08:_Nucleophilic_Substitution_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "09:_Phosphate_Transfer_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10:_Nucleophilic_Carbonyl_Addition_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "11:_Nucleophilic_Acyl_Substitution_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "12:_Reactions_at_the_-Carbon_Part_I" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "13:_Reactions_at_the_-Carbon_Part_II" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "14:_Electrophilic_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "15:_Oxidation_and_Reduction_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "16:_Radical_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "17:_The_Organic_Chemistry_of_Vitamins" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Appendix_I:_Index_of_enzymatic_reactions_by_pathway" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Appendix_II:_Review_of_laboratory_synthesis_reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "INTERCHAPTER:_Retrosynthetic_analysis_and_metabolic_pathway_prediction" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Book:_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Book:_Organic_Chemistry_-_A_Carbonyl_Early_Approach_(McMichael)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Book:_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Book:_Virtual_Textbook_of_OChem_(Reusch)_UNDER_CONSTRUCTION" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Catalytic_Asymmetric_Synthesis_(Punniyamurthy)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Complex_Molecular_Synthesis_(Salomon)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Intermediate_Physical_Organic_(Morsch)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", Introduction_to_Organic_Spectroscopy : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Logic_of_Organic_Synthesis_(Rao)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Map:_Essential_Organic_Chemistry_(Bruice)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Map:_Organic_Chemistry_(Bruice)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Map:_Organic_Chemistry_(Smith)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Map:_Organic_Chemistry_(Vollhardt_and_Schore)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Nuclear_Magnetic_Resonance:_Applications_to_Organic_Chemistry_(Roberts)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "OCLUE:_Organic_Chemistry_Life_the_Universe_and_Everything_(Copper_and_Klymkowsky)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_(Morsch_et_al.)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_(OpenStax)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_-Part_1_Fundamentals_(Malik)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_III_(Morsch_et_al.)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_II_(Morsch_et_al.)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_I_(Cortes)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_I_(Liu)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_I_(Morsch_et_al.)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_Lab_Techniques_(Nichols)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Chemistry_Nomenclature_Workbook_(O\'Donnell)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Organic_Synthesis_(Shea)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Polymer_Chemistry_(Schaller)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Radical_Reactions_of_Carbohydrates_(Binkley)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Supplemental_Modules_(Organic_Chemistry)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "Understanding_Organic_Chemistry_Through_Computation_(Boaz_and_Pearce)" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ Analytical_Chemistry : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", Biological_Chemistry : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", Environmental_Chemistry : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", General_Chemistry : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", Inorganic_Chemistry : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", Introductory_Chemistry : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", Organic_Chemistry : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", Physical_and_Theoretical_Chemistry_Textbook_Maps : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+Wed, 01 Feb 2023 20:01:39 GMT
+Organic Chemistry with a Biological Emphasis (Soderberg)
+106286
+106286
+admin
+{ }
+Anonymous
+Anonymous User
+2
+false
+false
+[ "article:topic-category", "authorname:soderbergt", "showtoc:no", "coverpage:yes", "license:ccbyncsa", "lulu@Organic Chemistry with a Biological Emphasis@Tim Soderberg@University of Minnesota Morris@Organic Chemistry with a Biological Emphasis", "licenseversion:40", "source@https://digitalcommons.morris.umn.edu/chem_facpubs/1/" ]
+[ "article:topic-category", "authorname:soderbergt", "showtoc:no", "coverpage:yes", "license:ccbyncsa", "lulu@Organic Chemistry with a Biological Emphasis@Tim Soderberg@University of Minnesota Morris@Organic Chemistry with a Biological Emphasis", "licenseversion:40", "source@https://digitalcommons.morris.umn.edu/chem_facpubs/1/" ]
+https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FBook%253A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)
+[Chemistry LibreTexts]
+1.  Search site
+    Search
+    Search
+    Go back to previous article
+2.  1.  Username
+        Password
+        Sign in
+    2.  Sign in
+        -   Sign in
+        -   Forgot password
+Expand/collapse global hierarchy
+1.   Home
+2.   Bookshelves
+3.   Organic Chemistry
+4.   Organic Chemistry with a Biological Emphasis (Soderberg)
+Expand/collapse global location
+Organic Chemistry with a Biological Emphasis (Soderberg)
+1.  
+    Last updated
+2.  Save as PDF
+3.  
+Page ID
+    106286
+-   [ ]
+-   Tim Soderberg
+-   University of Minnesota Morris
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+\( \newcommand{\dint}{\displaystyle\int\limits} \)
+\( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\(\newcommand{\longvect}{\overrightarrow}\)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\(\newcommand{\ket}[1]{\left| #1 \right>}\)
+\(\newcommand{\bra}[1]{\left< #1 \right|}\)
+\(\newcommand{\braket}[2]{\left< #1 \vphantom{#2} \right| \left. #2 \vphantom{#1} \right>}\)
+\(\newcommand{\braopket}[3]{\left< #1 \vphantom{#2}\vphantom{#3} \right| #2 \vphantom{#1}\vphantom{#3} \left| #3 \vphantom{#1}\vphantom{#2} \right>}\)
+\(\newcommand{\qmvec}[1]{\mathbf{\vec{#1}}}\)
+\(\newcommand{\op}[1]{\hat{\mathbf{#1}}}\)
+\(\newcommand{\expect}[1]{\langle #1 \rangle}\)
+\(\newcommand{\dfn}[1]{\emph{\textbf{#1}}}\)
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\) \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)
+No headers
+The traditional (and still prevalent) way to teach organic chemistry is to focus on examples that are primarily of interest to students who are planning to become professional organic chemists - that is, to focus on the molecules and reactions of organic synthesis, considering mainly non-aqueous conditions and non-biological reagents. The majority of students studying organic chemistry, however, are doing so because they are majoring in biology, biochemistry, or health sciences. They need to learn about the structure and reactivity of organic compounds because, quite simply, organic chemistry is the chemistry of life. What is most interesting and relevant to these students is the organic chemistry that takes place in the context of a living cell.
+In this textbook, a unique approach is taken to the study of organic chemistry. To the greatest extent possible, biological molecules and biochemical reactions are used to explain and illustrate the central concepts of organic chemistry. This novel approach is most evident in chapters 9-17, which cover the main organic reaction mechanisms in a biological context. However, earlier chapters on organic structure and spectroscopy also focus as much as possible on examples of interest to students of biology and the health sciences. The chemistry of lab synthesis is not ignored - however, these examples are generally grouped together in subsections and introduced to illustrate parallels between laboratory and biological chemistry.
+-   [mindtouch.page#thumbnail]Front Matter
+-   [mindtouch.page#thumbnail]1: Introduction to Organic Structure and Bonding I
+-   [mindtouch.page#thumbnail]2: Introduction to Organic Structure and Bonding II
+-   [mindtouch.page#thumbnail]3: Conformations and Stereochemistry
+-   [mindtouch.page#thumbnail]4: Structure Determination I- UV-Vis and Infrared Spectroscopy, Mass Spectrometry
+-   [mindtouch.page#thumbnail]5: Structure Determination II - Nuclear Magnetic Resonance Spectroscopy
+-   [mindtouch.page#thumbnail]6: Overview of Organic Reactivity
+-   [mindtouch.page#thumbnail]7: Acid-base Reactions
+-   [mindtouch.page#thumbnail]8: Nucleophilic Substitution Reactions
+-   [mindtouch.page#thumbnail]9: Phosphate Transfer Reactions
+-   [mindtouch.page#thumbnail]10: Nucleophilic Carbonyl Addition Reactions
+-   [mindtouch.page#thumbnail]11: Nucleophilic Acyl Substitution Reactions
+-   [mindtouch.page#thumbnail]12: Reactions at the α-Carbon, Part I
+-   [mindtouch.page#thumbnail]13: Reactions at the α-Carbon, Part II
+-   [mindtouch.page#thumbnail]INTERCHAPTER: Retrosynthetic analysis and metabolic pathway prediction
+-   [mindtouch.page#thumbnail]14: Electrophilic Reactions
+-   [mindtouch.page#thumbnail]15: Oxidation and Reduction Reactions
+-   [mindtouch.page#thumbnail]16: Radical Reactions
+-   [mindtouch.page#thumbnail]17: The Organic Chemistry of Vitamins
+-   [mindtouch.page#thumbnail]Appendix I: Index of enzymatic reactions by pathway
+-   [mindtouch.page#thumbnail]Appendix II: Review of laboratory synthesis reactions
+-   [mindtouch.page#thumbnail]Back Matter
+Thumbnail: Ball-and-stick model of the 5α-Dihydroprogesterone molecule, a steroid hormone. (CC0; 
+------------------------------------------------------------------------
+This page titled Organic Chemistry with a Biological Emphasis (Soderberg) was last modified on Wed, 01 Feb 2023 20:01:39 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Tim Soderberg via source content that was edited to the style and standards of the LibreTexts platform.
+1.  Back to top
+2.  -   Detailed Licensing
+    -   Front Matter
+-   Was this article helpful?
+-   Yes
+-   No
+-   
+Recommended articles
+1.  
+    Article type
+        Book or Unit
+    Author
+        Tim Soderberg
+    Cover Page
+        Set Cover Page/Add to Download Center
+    License
+        CC BY-NC-SA
+    License Version
+        4.0
+    Show Page TOC
+        no on page
+2.  
+    Tags
+        1.  lulu@Organic Chemistry with a Biological Emphasis@Tim Soderberg@University of Minnesota Morris@Organic Chemistry with a Biological Emphasis
+        2.  source@https://digitalcommons.morris.umn.edu/chem_facpubs/1/
+1.  © Copyright 2026 Chemistry LibreTexts
+2.  Powered by NiCE Knowledge Management ®
+The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Privacy Policy. Terms & Conditions. Accessibility Statement. For more information contact us at info@libretexts.org.
+00: Front Matter
+01: Introduction to Organic Structure and Bonding I
+02: Introduction to Organic Structure and Bonding II
+03: Conformations and Stereochemistry
+04: Structure Determination I- UV-Vis and Infrared Spectroscopy Mass Spectrometry
+05: Structure Determination Part II - Nuclear Magnetic Resonance Spectroscopy
+06: Overview of Organic Reactivity
+07: Acid-base Reactions
+08: Nucleophilic Substitution Reactions
+09: Phosphate Transfer Reactions
+10: Nucleophilic Carbonyl Addition Reactions
+11: Nucleophilic Acyl Substitution Reactions
+12: Reactions at the -Carbon Part I
+13: Reactions at the -Carbon Part II
+14: Electrophilic Reactions
+15: Oxidation and Reduction Reactions
+16: Radical Reactions
+17: The Organic Chemistry of Vitamins

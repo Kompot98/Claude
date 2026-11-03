@@ -1,0 +1,235 @@
+adres: https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/
+tytuł: Organic Chemistry I | Chemistry | MIT OpenCourseWare
+
+Browse Course Material []
+-    Syllabus
+    ------------------------------------------------------------------------
+-    Calendar
+    ------------------------------------------------------------------------
+-    Assignments
+    ------------------------------------------------------------------------
+-    Exams
+    ------------------------------------------------------------------------
+-    Lecture Handouts
+    ------------------------------------------------------------------------
+[]
+Course Info
+Instructors
+-   Dr. Sarah Tabacco
+-   Prof. Barbara Imperiali
+Departments
+-   Chemistry
+As Taught In
+Spring 2003
+Level
+Undergraduate
+Course Info
+Instructors
+-   Dr. Sarah Tabacco
+-   Prof. Barbara Imperiali
+Departments
+-   Chemistry
+As Taught In
+Spring 2003
+Level
+Undergraduate
+Topics
+-   
+    Science
+    -   
+        Chemistry
+        -    Organic Chemistry
+Topics
+-   
+    Science & Math
+    -    Chemistry
+Learning Resource Types
+grading Exams
+notes Lecture Notes
+assignment_turned_in Problem Set Solutions
+assignment Problem Sets
+------------------------------------------------------------------------
+Download Course
+menu
+[MIT OpenCourseWare]
+-   search search
+-   Give Now
+-   About OCW
+-   Help & Faqs
+-   Contact Us
+[MIT OpenCourseWare]
+search search GIVE NOW [] about ocw help & faqs contact us
+5.12 | Spring 2003 | Undergraduate
+Organic Chemistry I
+[] Menu
+-    Syllabus
+    ------------------------------------------------------------------------
+-    Calendar
+    ------------------------------------------------------------------------
+-    Assignments
+    ------------------------------------------------------------------------
+-    Exams
+    ------------------------------------------------------------------------
+-    Lecture Handouts
+    ------------------------------------------------------------------------
+Course Description
+5.12 is an introduction to organic chemistry, focusing primarily on the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic …
+Show more
+5.12 is an introduction to organic chemistry, focusing primarily on the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.
+Show less
+Course Info
+Instructors
+-   Dr. Sarah Tabacco
+-   Prof. Barbara Imperiali
+Departments
+-   Chemistry
+Topics
+-   
+    Science
+    -   
+        Chemistry
+        -    Organic Chemistry
+Course Info
+Instructors
+-   Dr. Sarah Tabacco
+-   Prof. Barbara Imperiali
+Departments
+-   Chemistry
+Topics
+-   
+    Science & Math
+    -    Chemistry
+Learning Resource Types
+grading Exams
+notes Lecture Notes
+assignment_turned_in Problem Set Solutions
+assignment Problem Sets
+[Acid-catalyzed hydration of propene. ]
+Acid-catalyzed hydration of propene. (Image courtesy of Sarah Tabacco.)
+------------------------------------------------------------------------
+Download Course
+[MIT Open Learning]
+Over 2,500 courses & materials
+Freely sharing knowledge with learners and educators around the world. Learn more
+[facebook]
+[instagram]
+[x (formerly twitter)]
+[youtube]
+[linkedin]
+[bluesky]
+[mastodon]
+© 2001–2026 Massachusetts Institute of Technology
+Accessibility
+Creative Commons License
+Terms and Conditions
+Proud member of: [Open Education Global]
+[facebook]
+[instagram]
+[x (formerly twitter)]
+[youtube]
+[linkedin]
+[bluesky]
+[mastodon]
+© 2001–2026 Massachusetts Institute of Technology
+[]
+You are leaving MIT OpenCourseWare
+close
+Please be advised that external sites may have terms and conditions, including license rights, that differ from ours. MIT OCW is not responsible for any content on third party sites, nor does a link suggest an endorsement of those sites and/or their content.
+Stay Here
+Continue
+
+--- podstrona notatek (resources/lecture-notes) ---
+Directing Effects in Electophilic Aromatic Substitution. Nucleophilic Aromatic Substitution
+Free Radical Reactions: Thermo/Kinetics
+Free Radical Reactions: Thermo/Kinetics
+General Class Information. Review of Lewis Bonding Theory
+Review of Molecular Orbital Theory, Hybridization/LCAO
+Stereochemistry
+The Alkene Double Bond: A Focus of Reactivity
+Alkyl Halides/SN2
+[] []
+Course Info
+Instructors
+-   Dr. Sarah Tabacco
+-   Prof. Barbara Imperiali
+Departments
+-   Chemistry
+As Taught In
+Spring 2003
+Level
+Undergraduate
+Course Info
+Instructors
+-   Dr. Sarah Tabacco
+-   Prof. Barbara Imperiali
+Departments
+-   Chemistry
+As Taught In
+Spring 2003
+Level
+Undergraduate
+Topics
+    Science
+        Chemistry
+        -    Organic Chemistry
+Topics
+    Science & Math
+    -    Chemistry
+Learning Resource Types
+grading Exams
+notes Lecture Notes
+assignment_turned_in Problem Set Solutions
+assignment Problem Sets
+Download Course
+[MIT Open Learning]
+Over 2,500 courses & materials
+Freely sharing knowledge with learners and educators around the world. Learn more
+[facebook]
+[instagram]
+[x (formerly twitter)]
+[youtube]
+[linkedin]
+[bluesky]
+[mastodon]
+© 2001–2026 Massachusetts Institute of Technology
+Accessibility
+Creative Commons License
+Terms and Conditions
+Proud member of: [Open Education Global]
+[facebook]
+[instagram]
+[x (formerly twitter)]
+[youtube]
+[linkedin]
+[bluesky]
+[mastodon]
+© 2001–2026 Massachusetts Institute of Technology
+You are leaving MIT OpenCourseWare
+close
+Please be advised that external sites may have terms and conditions, including license rights, that differ from ours. MIT OCW is not responsible for any content on third party sites, nor does a link suggest an endorsement of those sites and/or their content.
+Stay Here
+Continue
+
+--- podstrona egzaminów ---
+adres: https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/pages/exams/
+odpowiedź: 200 https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/pages/exams/
+tytuł: Exams | Organic Chemistry I | Chemistry | MIT OpenCourseWare
+-    Exams
+grading Exams
+assignment_turned_in Problem Set Solutions
+assignment Problem Sets
+-    Exams
+Exams
+All examinations are closed book and closed notes.
+EXAMS
+Practice Exam I (and info) (PDF)
+Practice Exam II (and info) (PDF)
+Practice Exam III (and info) (PDF)
+Practice Exam IV (and info) (PDF)
+Practice Problems for the Final Exam (PDF)
+grading Exams
+assignment_turned_in Problem Set Solutions
+assignment Problem Sets

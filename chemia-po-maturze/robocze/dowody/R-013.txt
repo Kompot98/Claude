@@ -1,0 +1,483 @@
+adres: https://www.chemistrysteps.com/organic-chemistry-topic-index/
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://www.chemistrysteps.com/organic-chemistry-topic-index/
+tytuł: Organic Chemistry 1 and 2 Topics - Chemistry Steps
+
+Skip to content
+[Chemistry Steps]
+Chemistry Steps
+[Chemistry Steps]
+[][]
+[][]Menu
+-   Live Help
+-   Topics
+-   Study Guides[]
+    -   Reagent Guide 
+-   Reaction Maps
+-   Quizzes
+-   Practice
+-   CS Benefits
+-   Log In[]
+    -   Register
+-   [][]
+[Chemistry Steps]
+[][]
+[][]Menu
+-   Live Help
+-   Topics
+-   Study Guides[]
+    -   Reagent Guide 
+-   Reaction Maps
+-   Quizzes
+-   Practice
+-   CS Benefits
+-   Log In[]
+    -   Register
+-   [][]
+Organic Chemistry 1 and 2 Topics
+ Too Much Material? Check Out These Powerful Guides! 
+[]
+Study Guides
+[]
+What to Expect in Organic Chemistry
+Structure and Bonding
+-   Lewis Structures in Organic Chemistry
+-   Valency and Formal Charges in Organic Chemistry
+-   How to Determine the Number of Lone Pairs
+-   Bonding Patterns in Organic Chemistry
+-   sp³, sp², and sp Hybridization in Organic Chemistry with Practice Problems
+-   How to Quickly Determine the sp³, sp^(2,) and sp Hybridization
+-   Bond Lengths and Bond Strengths
+-   VSEPR Theory – Molecular and Electron Geometry of Organic Molecules
+-   Dipole-dipole, London Dispersion, and Hydrogen Bonding Interactions
+-   Dipole Moment and Molecular Polarity
+-   Boiling Point and Melting Point in Organic Chemistry
+-   Boiling Point and Melting Point Practice Problems
+-   Solubility of Organic Compounds
+-   General Chemistry Overview Quiz
+Molecular Representations
+-   Bond-Line or Skeletal Structures
+-   Functional Groups in Organic Chemistry with Practice Problems
+-   Bond-line, Lewis, and Condensed Structures with Practice Problems
+-   Curved Arrows with Practice Problems
+-   Resonance Structures in Organic Chemistry with Practice Problems
+-   Rules for Drawing Resonance Structures
+-   Bonding Patterns in Organic Chemistry
+-   Major and Minor Resonance Contributor
+-   Significant Resonance Structures
+-   How to Choose the More Stable Resonance Structure
+-   Drawing Complex Patterns in Resonance Structures
+-   Localized and Delocalized Lone Pairs with Practice Problems
+-   Molecular Representations Quiz
+Acids and Bases
+-   Acids and Bases – General Chemistry
+-   Organic Acids and Bases
+-   Organic acid-base mechanisms
+-   Acid Strength and pK_(a)
+-   How to Determine the Position of Equilibrium for an Acid-Base Reaction
+-   Factors That Determine the pK_(a) and Acid Strength
+-   How Resonance Affects Acidity and Basicity
+-   Inductive and Resonance (Mesomeric) Effects
+-   How to Choose an Acid or a Base to Protonate or Deprotonate a Given Compound
+-   Lewis Acids and Bases
+-   Basicity of Amines
+-   Organic Acids and Bases Practice Problems
+-   Organic Acids and Bases Quiz
+Alkanes and Cycloalkanes
+-   Naming Alkanes by IUPAC Nomenclature Rules Practice Problems
+-   Naming Bicyclic Compounds
+-   Naming Bicyclic Compounds-Practice Problems
+-   How to Name a Compound with Multiple Functional Groups
+-   Primary, Secondary, and Tertiary Carbon Atoms in Organic Chemistry
+-   Constitutional or Structural Isomers with Practice Problems
+-   Degrees of Unsaturation or Index of Hydrogen Deficiency
+-   The Wedge and Dash Representation
+-   Sawhorse Projections
+-   Newman Projections with Practice Problems
+-   Newman Projection of Chair Conformation
+-   Gauche Conformation
+-   Gauche Conformation, Steric, Torsional Strain Energy Practice Problems
+-   Staggered and Eclipsed Conformations
+-   Conformational Isomers of Propane
+-   Newman Projection and Conformational Analysis of Butane
+-   Ring Strain
+-   Steric vs Torsional Strain
+-   Conformational Analysis
+-   Drawing the Chair Conformation of Cyclohexane
+-   Axial and Equatorial Positions
+-   Ring Flip: Drawing Both Chair Conformations with Practice Problems
+-   1,3-Diaxial Interactions and A value for Cyclohexanes
+-   Ring-Flip: Comparing the Stability of Chair Conformations with Practice Problems
+-   Cis and Trans Decalin
+-   IUPAC Nomenclature Practice Problems
+-   IUPAC Nomenclature Summary Quiz
+-   Alkanes and Cycloalkanes Practice Quiz
+Stereochemistry
+-   How to Determine the R and S Configuration
+-   The R and S Configuration Practice Problems
+-   Chirality and Enantiomers
+-   Diastereomers: Introduction and Practice Problems
+-   Enantiomers vs Diastereomers
+-   Cis and Trans Isomers
+-   E and Z Alkene Configuration with Practice Problems
+-   Enantiomers vs Diastereomers
+-   Enantiomers, Diastereomers, the Same or Constitutional Isomers with Practice Problems
+-   Configurational Isomers
+-   Optical Activity
+-   Specific Rotation
+-   Racemic Mixtures
+-   Enantiomeric Excess (ee): Percentage of Enantiomers from Specific Rotation with Practice Problems
+-   Symmetry and Chirality. Meso Compounds
+-   Fischer Projections with Practice Problems
+-   R and S Configuration in the Fischer Projection
+-   R and S configuration on Newman projections
+-   R and S Configuration of Allenes
+-   Converting Bond-Line, Newman Projection, and Fischer Projections
+-   Resolution of Enantiomers: Separate Enantiomers by Converting to Diastereomers
+-   Stereochemistry Practice Problems
+-   Stereochemistry Practice Quiz
+Energy Changes In Organic Chemistry
+-   Energy and Organic Chemistry Reactions
+-   Bond Lengths and Bond Strengths
+-   Homolytic and Heterolytic Bond Cleavage
+-   The Heat of Reaction from Bond Dissociation Energies
+Nucleophilic Substitution Reactions
+-   Introduction to Alkyl Halides
+-   Nomenclature of Alkyl Halides
+-   Substitution and Elimination Reactions
+-   Nucleophilic Substitution Reactions – An Introduction
+-   All You Need to Know About the S_(N)2 Reaction Mechanism
+    The S_(N)2 Mechanism: Kinetics, Thermodynamics, Curved Arrows and Stereochemistry with Practice Problems
+-   The Stereochemistry of S_(N)2 Reactions
+-   Stability of Carbocations
+-   The S_(N)1 Nucleophilic Substitution Reaction
+-   Reactions of Alkyl Halides with Water
+-   The S_(N)1 Mechanism: Kinetics, Thermodynamics, Curved Arrows and Stereochemistry with Practice Problems
+-   Steric Hindrance in S_(N)2 and S_(N)1 Reactions
+-   Carbocation Rearrangements in S_(N)1 Reactions with Practice Problems
+-   Ring Expansion Rearrangements
+-   Ring Contraction Rearrangements
+-   When Is the Mechanism S_(N)1 or S_(N)2?
+-   Reactions of Alcohols with HCl, HBr, and HI Acids
+-   SOCl₂ and PBr₃ for Conversion of Alcohols to Alkyl Halides
+-   Alcohols in S_(N)1 and S_(N)2 Reactions
+-   How to Choose Molecules for Doing S_(N)2 and S_(N)1 Synthesis-Practice Problems
+-   Exceptions in S_(N)2 and S_(N)1 Reactions
+-   Nucleophilic Substitution and Elimination Practice Quiz
+-   Reactions Map of Alkyl Halides
+Alkenes: Structure, Stability, and Nomenclature
+-   Alkenes: Structure and Stability
+-   Naming Alkenes by IUPAC Nomenclature Rules
+-   Cis and Trans Isomers
+-   E and Z Alkene Configuration with Practice Problems
+Elimination Reactions
+-   Substitution and Elimination Reactions
+-   The E2 Mechanism
+-   E2 Elimination Practice Problems
+-   Zaitsev’s Rule – Regioselectivity of E2 Elimination Reactions
+-   The Hofmann Elimination of Amines and Alkyl Fluorides
+-   Stereoselectivity of E2 Elimination Reactions
+-   Stereospecificity of E2 Elimination Reactions
+-   S_(N)2 and E2 Rates of Cyclohexanes
+-   Elimination Reactions of Cyclohexanes with Practice Problems
+-   POCl₃ for Dehydration of Alcohols
+-   The E1 Mechanism with Practice Problems
+-   Regioselectivity of E1 Reactions
+-   Stereoselectivity of E1 Reactions
+-   How to tell if it is E2 or E1 Mechanism
+-   S_(N)1 vs E1 Reactions
+-   S_(N)2 vs E2 Reactions
+-   Dehydration of Alcohols by E1 and E2 Elimination
+-   Mesylates and Tosylates as Good Leaving Groups
+-   Mitsunobu Reaction
+-   S_(N)1 S_(N)2 E1 E2 – How to Choose the Mechanism
+-   Polar Protic and Polar Aprotic Solvents
+-   S_(N)1 S_(N)2 E1 or E2 – the Largest Collection of Practice Problems
+-   The Hammond Postulate
+-   The E1cB Elimination Mechanism
+-   Nucleophilic Substitution and Elimination Practice Quiz
+-   Reactions Map of Alkyl Halides
+Addition Reactions of Alkenes
+-   Electrophilic Addition Reactions to Alkenes
+-   Markovnikov’s Rule
+-   Markovnikov’s Rule with Practice Problems
+-   Addition of Water to Alkenes
+-   Acid-Catalyzed Hydration of Alkenes with Practice Problems
+-   Rearrangements in Alkene Addition Reactions
+-   Oxymercuration-Demercuration
+-   Addition of Alcohols to Alkenes
+-   Free-Radical Addition of HBr: Anti-Markovnikov Addition
+-   Hydroboration-Oxidation: The Mechanism
+-   Hydroboration-Oxidation of Alkenes: Regiochemistry and Stereochemistry with Practice Problems
+-   Halogenation of Alkenes and Halohydrin Formation
+-   The Regiochemistry of Alkene Addition Reactions
+-   The Stereochemistry of Alkene Addition Reactions
+-   Cis product in an anti-Addition Reaction of Alkenes
+-   Ozonolysis of Alkenes with Practice Problems
+-   Syn Dihydroxylation of Alkenes with KMnO₄ and OsO₄
+-   Anti-Dihydroxylation of Alkenes with MCPBA and Other Peroxides with Practice Problems
+-   Catalytic Hydrogenation
+-   Oxidative Cleavage of Alkenes with KMno₄ and O₃
+-   Alkene Reactions Practice Problems
+-   Changing the Position of a Double Bond
+-   Changing the Position of a Leaving Group
+-   Alkenes Multi-Step Synthesis Practice Problems
+-   Alkene Addition Reactions Practice Quiz
+-   Reactions Map of Alkenes
+Alkynes
+-   Introduction to Alkynes
+-   Naming Alkynes by IUPAC Nomenclature Rules – Practice Problems
+-   Preparation of Alkynes by Elimination Reactions
+-   Hydrohalogenation of Alkynes
+-   Addition of Water to Alkynes
+-   Acid-Catalyzed Hydration of Alkynes with Practice Problems
+-   Reduction of Alkynes
+-   Halogenation of Alkynes
+-   Hydroboration-Oxidation of Alkynes with Practice Problems
+-   Ozonolysis of Alkynes with Practice Problems
+-   Alkylation of Terminal Alkynes in Organic Synthesis with Practice Problems
+-   Reactions of Acetylide Ions
+-   Alkyne reactions summary practice problems
+-   Alkyne Synthesis Reactions Practice Problems
+-   Alkyne Naming and Reactions Practice Quiz
+-   Reactions Map of Alkynes
+Nuclear Magnetic Resonance (NMR) Spectroscopy
+-   NMR Spectroscopy – An Easy Introduction
+-   NMR Chemical Shift
+-   NMR Chemical Shift Range and Value Table
+-   NMR Number of Signals and Equivalent Protons
+-   Homotopic, Enantiotopic, Diastereotopic, and Heterotopic
+-   Homotopic Enantiotopic Diastereotopic Practice Problems
+-   Integration in NMR Spectroscopy
+-   Splitting and Multiplicity (N+1 rule) in NMR Spectroscopy
+-   NMR Signal Splitting N+1 Rule Multiplicity Practice Problems
+-   ¹³C Carbon NMR
+-   DEPT NMR: Signals and Problem Solving
+-   NMR Spectroscopy-Carbon-Dept-IR Practice Problems
+Organic Structure Determination
+-   NMR Spectroscopy-Carbon-Dept-IR Practice Problems
+-   Interpreting IR Spectra
+-   Infrared (IR) Spectroscopy Practice Problems
+-   Solving Mass Spectrometry Practice Problems
+-   Mass Spectrometry Practice Problems
+Radical Reactions
+-   Free-Radical Addition of HBr: Anti-Markovnikov Addition
+-   Initiation, Propagation, Termination in Radical Reactions
+-   Selectivity in Radical Halogenation
+-   Stability of Radicals
+-   Resonance Structures of Radicals
+-   Stereochemistry of Radical Halogenation with Practice Problems
+-   Allylic Bromination by NBS with Practice Problems
+-   Radical Halogenation in Organic Synthesis
+Reactions of Alcohols
+-   Nomenclature of Alcohols: Naming Alcohols based on IUPAC Rules with Practice Problems
+-   Preparation of Alcohols via Substitution or Addition Reactions
+-   Reaction of Alcohols with HCl, HBr, and HI Acids
+-   Mesylates and Tosylates as Good Leaving Groups
+-   SOCl₂ and PBr₃ for Conversion of Alcohols to Alkyl Halides
+-   Alcohols in Substitution Reactions  Practice Problems
+-   POCl₃ for Dehydration of Alcohols
+-   The Oxidation States of Organic Compounds
+-   Dehydration of Alcohols by E1 and E2 Elimination
+-   LiAlH₄ and NaBH₄ Carbonyl Reduction Mechanism
+-   Alcohols from Carbonyl Reductions – Practice Problems
+-   Grignard Reaction in Preparing Alcohols with Practice Problems
+-   Grignard Reaction in Organic Synthesis with Practice Problems
+-   Protecting Groups For Alcohols in Organic Synthesis
+-   Oxidation of Alcohols: PCC, PDC, CrO₃, DMP, Swern, and All of That
+-   Diols: Nomenclature, Preparation, and Reactions
+-   NaIO₄ Oxidative Cleavage of Diols
+-   The Pinacol Rearrangement
+-   The Williamson Ether Synthesis
+-   Alcohol Reactions Practice Problems
+-   Naming Thiols and Sulfides
+-   Reactions of Thiols
+-   Alcohols Quiz – Naming, Preparation, and Reactions
+-   Reactions Map of Alcohols
+Organic (Orgo) 1 Synthesis Practice Problems
+ 
+Ethers and Epoxides
+-   -   Preparation of Epoxides
+    -   Ring-Opening Reactions of Epoxides
+    -   Reactions of Epoxides under Acidic and Basic Conditions
+    -   Reactions of Epoxides Practice Problems
+    -   The Grignard Reaction of Epoxides
+    -   Naming Ethers
+    -   The Williamson Ether Synthesis
+    -   Reactions of Ethers-Ether Cleavage
+Conjugated Systems
+-   Resonance and Conjugated Dienes
+-   Allylic Carbocations
+-   1,2 and 1,4 Electrophilic Addition to Dienes
+-   Kinetic vs Thermodynamic Control of Electrophilic Addition to Dienes
+-   Molecular Orbitals and UV-Vis Spectroscopy
+-   Molecular Orbitals of 1,3-Butadiene
+-   1,3,5-Hexatriene Pi Molecular Orbitals
+-   The Molecular Orbitals of Allylic Systems
+-   The Molecular Orbitals of Benzene
+-   Electrocyclic Reactions
+-   Claisen and Cope Rearrangements
+-   Sigmatropic Hydrogen Shifts
+The Diels-Alder Reaction
+-   Diels-Alder Reaction: Dienes and Dienophiles
+-   Predict the Products of the Diels-Alder Reaction with Practice Problems
+-   Diels-Alder Reactions of Cyclic Dienes and Dienophiles
+-   Endo and Exo Products in Diels-Alder Reaction with Practice Problems
+-   The Regiochemistry of the Diels–Alder Reaction with Practice Problems
+-   The Retro Diels-Alder Reaction
+-   Molecular Orbitals of Diels-Alder and Other Cycloaddition Reactions
+-   Diels-Alder Reactions EWG, EDG, and HOMO-LUMO Interactions
+-   Diels-Alder Reaction Practice Problem
+-   Diels-Alder Reaction in Organic Synthesis Practice Problems
+Aromatic Compounds
+-   Naming Aromatic Compounds
+-   Introduction to Aromatic Compounds
+-   Benzene – Aromatic Structure and Stability
+    Aromaticity and Huckel’s Rule
+-   The 4n+2 Rule
+-   Identify Aromatic, Antiaromatic, or Nonaromatic Compounds
+-   Frost Circles
+-   Annulenes
+Electrophilic Aromatic Substitution
+-   Electrophilic Aromatic Substitution – The Mechanism
+-   The Halogenation of Benzene
+-   The Nitration of Benzene
+-   The Sulfonation of Benzene
+-   Activating and Deactivating Groups
+-   Friedel-Crafts Alkylation with Practice Problems
+-   Friedel-Crafts Acylation with Practice Problems
+-   Vilsmeier-Haack Reaction
+-   The Wolff-Kishner and Clemmensen Reductions
+-   The Alkylation of Benzene by Acylation-Reduction
+-   Ortho, Para, Meta in EAS with Practice Problems
+-   Ortho, Para, and Meta in Disubstituted Benzenes
+-   Why Are Halogens Ortho-, Para– Directors yet Deactivators?
+-   Is Phenyl an Ortho/Para or Meta Director?
+-   Limitations of Electrophilic Aromatic Substitution Reactions
+-   Orientation in Benzene Rings With More Than One Substituent
+-   Synthesis of Aromatic Compounds From Benzene
+-   Arenediazonium Salts in Electrophilic Aromatic Substitution
+-   Reactions at the Benzylic Position
+-   Benzylic Bromination
+-   Nucleophilic Aromatic Substitution
+-   Nucleophilic Aromatic Substitution Practice Problems
+-   Reactions of Phenols
+-   Reactions of Aniline
+-   Meta Substitution on Activated Aromatic Ring
+-   Birch Reduction
+-   Electrophilic Aromatic Substitution Practice Problems
+-   Aromatic Compounds Quiz
+-   Reactions Map of Aromatic Compounds
+Aldehydes and Ketones
+-   Nomenclature of Aldehydes and Ketones
+-   How to Name a Compound with Multiple Functional Groups
+-   Preparation of Aldehydes and Ketones
+-   Nucleophilic Addition to Carbonyl Groups
+-   Reduction of Aldehydes and Ketones
+-   Reactions of Aldehydes and Ketones with Water
+-   Reactions of Aldehydes and Ketones with Alcohols: Acetals and Hemiacetals
+-   Acetals as Protecting Groups for Aldehydes and Ketones
+-   Formation and Reactions of Imines and Enamines
+-   Reductive Amination
+-   Acetal Hydrolysis Mechanism
+-   Imine and Enamine Hydrolysis Mechanism
+-   Hydrolysis of Acetals, Imines, and Enamines: Practice Problems
+-   Reaction of Aldehydes and Ketones with CN, Cyanohydrin Formation
+-   The Wittig Reaction: Examples and Mechanism
+-   The Wittig Reaction: Practice Problems
+-   Aldehydes and Ketones to Carboxylic Acids
+-   Reactions of Aldehydes and Ketones – Practice Problems
+-   Aldehydes and Ketones Reactions Practice Quiz
+-   Reactions Map of Aldehydes
+-   Reactions Map of Ketones
+Carboxylic Acids and Their Derivatives: Nucleophilic Acyl Substitution
+-   Preparation of Carboxylic Acids
+-   Naming Carboxylic Acids
+-   Naming Nitriles
+-   Naming Esters
+-   Naming Carboxylic Acid Derivatives – Practice Problems
+-   The Addition-Elimination Mechanism
+-   Fischer Esterification
+-   Ester Hydrolysis by Acid and Base-Catalyzed Hydrolysis
+-   What is Transesterification?
+-    Esters’ Reaction with Amines – The Aminolysis Mechanism
+-   Ester Reactions Summary and Practice Problems
+-   Preparation of Acyl (Acid) Chlorides (ROCl)
+
+--- strona zadań (practice problems), fragment ---
+
+Skip to content
+[Chemistry Steps]
+Chemistry Steps
+[Chemistry Steps]
+[][]
+[][]Menu
+-   Live Help
+-   Topics
+-   Study Guides[]
+    -   Reagent Guide 
+-   Reaction Maps
+-   Quizzes
+-   Practice
+-   CS Benefits
+-   Log In[]
+    -   Register
+-   [][]
+[Chemistry Steps]
+[][]
+[][]Menu
+-   Live Help
+-   Topics
+-   Study Guides[]
+    -   Reagent Guide 
+-   Reaction Maps
+-   Quizzes
+-   Practice
+-   CS Benefits
+-   Log In[]
+    -   Register
+-   [][]
+Organic Chemistry
+Organic Chemistry Practice Problems
+Doing practice problems is the only way to master organic chemistry! At Chemistry Steps, you can find all the topics of Organic 1 and 2 and their associated practice problems. There are more than 2000 practice questions, and you can find them after each article listed below.
+Here are some examples from the topics shown below. 
+We also have a collection of Practice Problems on the Synthesis of some Essential Drugs, which combines all the topics from Organic Chemistry 1 and 2.
+ 
+ 
+Structure and Bonding
+[]
+Molecular Representations
+[]
+ 
+Synthesis of Essential Drugs
+[]
+Organic Acids and Bases
+[]
+ 
+Alkanes and Cycloalkanes
+[]
+ 
+Stereochemistry
+[]
+Energy Changes In Organic Chemistry
+[]
+ 
+Nucleophilic Substitution Reactions
+[]
+ 
+ 
+Elimination Reactions
+[]
+ 
+Addition Reactions of Alkenes
+[]
+ 
+Alkynes
+[]
+NMR Spectroscopy
+[]
+Mass Spectrometry
+[Mass spectrometry practice problems]
+Infrared (IR) Spectroscopy
+[]

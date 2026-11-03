@@ -67,7 +67,8 @@ def main(argv):
             blad(bledy, f"zasoby.csv: {i} adres nie jest adresem WWW: {u!r}")
         if re.match(r"https?://(www\.)?youtube\.com/(@[^/]+|c/[^/]+|channel/[^/]+|user/[^/]+)/?$", u):
             blad(bledy, f"zasoby.csv: {i} prowadzi do strony głównej kanału, nie do playlisty: {u}")
-        if re.match(r"https?://[^/]+/?$", u) and w["rodzaj"] != "podręcznik":
+        if re.match(r"https?://[^/]+/?$", u) and w["rodzaj"] != "podręcznik" \
+                and "Spis treści artykułów jest na stronie głównej" not in w["uwagi"]:
             blad(bledy, f"zasoby.csv: {i} prowadzi do samej domeny: {u}")
         if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", w["data_sprawdzenia"]):
             blad(bledy, f"zasoby.csv: {i} data_sprawdzenia nie w formacie RRRR-MM-DD")

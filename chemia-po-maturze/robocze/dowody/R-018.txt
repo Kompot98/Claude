@@ -1,0 +1,5 @@
+adres: https://global.oup.com/academic/product/organic-chemistry-9780199270293
+data: 2026-11-03
+metoda: agent web-fetch (strona wydawcy; curl dostaje 202/403); potwierdzenie tytułu wydania także na https://www.chemtube3d.com/ClaydenLink/
+Organic Chemistry, Second Edition, J. Clayden, N. Greeves, S. Warren; Oxford University Press, opublikowane 04.05.2012; 1260 stron; ISBN 9780199270293; 43 rozdziały, m.in.: 1 What Is Organic Chemistry?, 2 Organic Structures, 3 Determining Organic Structures, 6 Nucleophilic Addition to the Carbonyl Group, 8 Acidity, Basicity, and pKa, 12 Equilibria, Rates, and Mechanisms, 13 1H NMR, 14 Stereochemistry, 15 Nucleophilic Substitution at Saturated Carbon, 17 Elimination Reactions, 19 Electrophilic Addition to Alkenes, 20 Enols and Enolates, 21 Electrophilic Aromatic Substitution, 28 Retrosynthetic Analysis, 42 Organic Chemistry of Life, 43 Organic Chemistry Today.
+Uwaga: treść strony przekazana przez agenta jako streszczenie, nie dosłownie.

@@ -1,0 +1,50 @@
+adres: https://www.chemguide.co.uk/mechmenu.html
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://www.chemguide.co.uk/mechmenu.html
+tytuł: Understanding Chemistry - Organic Mechanisms Menu
+
+Understanding Chemistry
+ 
+ORGANIC MECHANISMS MENU
+Free radical reactions . . .
+Free radical substitution reactions in alkanes and alkyl groups. Free radical addition during the polymerisation of ethene and the reaction between HBr and alkenes in the presence of organic peroxides.
+Electrophilic addition reactions . . .
+Addition reactions of alkenes such as ethene and propene.
+Electrophilic substitution reactions . . .
+Substitution reactions of benzene and other simple arenes.
+Nucleophilic substitution reactions . . .
+Substitution reactions of halogenoalkanes such as bromoethane.
+Elimination reactions . . .
+The formation of alkenes from halogenoalkanes such as 2-bromopropane, and from the dehydration of alcohols.
+Nucleophilic addition reactions . . .
+Addition reactions of carbonyl compounds such as ethanal and propanone.
+Nucleophilic addition / elimination reactions . . .
+The reactions of acyl chlorides (acid chlorides) with water, alcohols, ammonia and amines.
+ 
+Mechanisms described elsewhere on the site
+These are discussed in a section on acid catalysis in organic chemistry.
+The hydration of ethene to make ethanol . . .
+The esterification reaction . . .
+The acid catalysed hydrolysis of esters . . .
+Go to Main Menu . . .
+------------------------------------------------------------------------
+© Jim Clark 2002 (modified December 2012)
+
+--- menu podstawowe (orgmenu.html) ---
+
+Understanding Chemistry
+ 
+BASIC ORGANIC CHEMISTRY MENU
+ 
+Bonding in organic compounds . . .
+Includes basic electronic structure, bonding in methane, ethene, benzene and carbonyl compounds, and ideas about electronegativity and bond polarity.
+Organic chemistry conventions . . .
+Includes how to name and draw organic compounds, and the use of curly arrows in reaction mechanisms.
+Isomerism in organic compounds . . .
+Includes structural isomerism and stereoisomerism (both geometric and optical).
+Organic acids and bases . . .
+Includes the acid strengths of carboxylic acids, phenols and alcohols, and the base strengths of primary amines.
+Go to Main Menu . . .
+------------------------------------------------------------------------
+© Jim Clark 2000

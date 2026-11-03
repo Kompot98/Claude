@@ -1,0 +1,9 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=2500252
+data: 2026-11-03
+metoda: API Biblioteki Narodowej (data.bn.org.pl), wyszukiwanie tytuł „Chemia organiczna” + autor Clayden
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Chemia+organiczna&limit=100&author=Clayden
+2011 | Chemia organiczna. Cz. 4 / Organic chemistry, | Clayden, Jonathan Ostrowski, Stanisław (chemia) Wydawnictwa Naukowo-Techniczne | Wydawnictwa Naukowo-Techniczne Wydawnictwa Naukowo-Techniczne, |  | 9788320435054 | 2601136 | książka
+2010 | Chemia organiczna. Cz. 3 / Organic chemistry, | Bereza, Barbara Clayden, Jonathan Soroka, Jacek Adam Wydawnictwa Naukowo-Techniczne | Wydawnictwa Naukowo-Techniczne Wydawnictwa Naukowo-Techniczne, |  | 9788320435054 | 2585257 | książka
+2010 | Chemia organiczna. Cz. 2 / Organic chemistry, | Clayden, Jonathan Mironiuk-Puchalska, Ewa (1971- ) Mizerski, Tadeusz Stępiński, Janusz Wydawnictwa Naukowo-Techniczne | Wydawnictwa Naukowo-Techniczne Wydawnictwa Naukowo-Techniczne, |  | 9788320435054 | 2585346 | książka
+2009 | Chemia organiczna. Cz. 1 / Organic chemistry, | Bal, Dominika Clayden, Jonathan Wydawnictwa Naukowo-Techniczne | Wydawnictwa Naukowo-Techniczne Wydawnictwa Naukowo-Techniczne, |  | 9788320435054 | 2500252 | książka

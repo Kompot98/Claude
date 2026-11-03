@@ -1,0 +1,12 @@
+adres: https://www.youtube.com/playlist?list=PLlhOYvtSn-fuOsYc7zGWOrHZ5InmrvcWT
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Chemia organiczna. Proste operacje laboratoryjne
+kanał: Uniwersytet Śląski
+liczba filmów: 4
+opis playlisty: Filmy zostały przygotowane na potrzeby projektu Uniwersytet Partnerem Gospodarki Opartej na Wiedzy, przez Uniwersytet Śląski w Katowicach
+
+filmy:
+  1. Krystalizacja w mikroskali [6:20]
+  2. Destylacja prosta w  mikroskali [4:10]
+  3. Sączenie pod zmniejszonym ciśnieniem w mikroskali [2:11]

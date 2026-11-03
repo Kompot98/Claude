@@ -1,0 +1,792 @@
+adres: https://www.chemtube3d.com/ClaydenLink/
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://www.chemtube3d.com/ClaydenLink/
+tytuł: Links to Organic Chemistry 2nd Edition (OUP) by Jonathan Clayden, Nick Greeves and Stuart Warren
+
+Skip to main content
+[ChemTube3D]
+MENUMENU
+-   Home
+-   Organic
+    -   Organic Chemistry Animations Introduction
+    -   Nucleophilic Addition to C=O
+        -   Borohydride reduction
+        -   Cyanide addition
+        -   Hemiacetal formation
+        -   Organometallic reagents
+        -   Grignard addition
+        -   Organolithium addition
+        -   Diastereoselective ketone reduction
+    -   Nucleophilic Substitution at C=O
+        -   Ester hydrolysis and transesterification
+        -   Amide formation from acid chloride
+        -   Acid Chloride Formation – Thionyl Chloride
+        -   Acid chloride formation-Phosphorus Pentachloride
+    -   Addition to C=O - loss of carbonyl oxygen
+        -   Acetal formation
+        -   Cyclic acetal formation
+        -   Spiroketal Formation
+        -   Enamine formation
+        -   Wittig reaction
+        -   Imine formation
+        -   Oxime formation
+        -   Hydrazone formation
+        -   Wolff-Kishner Reduction
+    -   Stereochemistry
+        -   Stereochemistry Home Page
+        -   Chiral Cyanohydrins – Configuration
+        -   Achiral cyanohydrins - Symmetry
+        -   Chiral molecules R or S
+        -   Chiral or achiral?
+        -   Molecules with a Plane of Symmetry
+        -   Molecules with a Plane of Symmetry – Feist’s Acid
+        -   Chiral Allenes Without Stereogenic Centres
+        -   BINAP C2 Axis of Symmetry
+        -   Diamides Showing a Centre of Symmetry
+        -   Non-superimposable Spiro Amides
+        -   Achiral Diastereoisomers
+        -   Symmetry of Epoxide Diastereoisomers
+        -   Conformation vs Configuration
+        -   Conformations of ethane – Newman projection
+        -   Conformations of Butane
+        -   Conformations of Butane - Newman
+        -   Conformations of Butane – energetics
+        -   Conformational Analysis – Pea Moth Pheromone
+        -   Tartaric acid – Newman projections
+        -   Cyclohexane conformations
+        -   Decalin conformations
+        -   Cis-Decalin conformations
+    -   Nucleophilic substitution
+        -   Simple S_(N)2 reaction
+        -   S_(N)1 and S_(N)2
+        -   Substrate structure controls substitution mechanism S_(N)1 or S_(N)2
+        -   Stability and structure of carbocations
+        -   S_(N)2 examples
+        -   S_(N)2 Reaction: Allyl Chloride with HS ^(–)
+        -   S_(N)2 Reaction: Benzyl Chloride with HS ^(–)
+        -   S_(N)2 Reaction: 2^(o) Benzyl Chloride with HS ^(–)
+        -   S_(N)2' Mechanism
+        -   Mitsunobu Reaction
+    -   Elimination
+        -   E2 to form cyclohexadiene
+        -   E2 stereoselective for E alkenes
+        -   E2 Stereospecific from diastereoisomers
+        -   E2 Regioselective Elimination to Menthenes A
+        -   E2 Regioselective Elimination to Menthenes B
+        -   E1 unimolecular
+        -   E1cB unimolecular conjuagte base
+        -   Nitrile Oxide Synthesis Via Oxime
+        -   Formation of Nitrosonium Ion
+        -   Formation of Diazonium Salt – Diazotization
+    -   Electrophilic addition to alkenes
+        -   Ethylene and Bromine
+        -   Stereospecific addition
+        -   Regioselective addition
+        -   Racemic mixture formation
+        -   Racemate formation - acyclic
+        -   Unsymmetrical alkenes - HBr
+        -   Epoxidation peracid
+        -   Epoxidation of E-Allyl Silanes
+        -   Butadiene bromination
+    -   Electrophilic aromatic substitution
+        -   Nitration of benzene
+        -   Friedel-Crafts alkylation
+        -   Friedel-Crafts acylation
+        -   Sulfonation of benzene
+        -   Azo-dye Synthesis
+    -   Electrophilic alkenes
+        -   Benzyne formation
+        -   Benzyne formation – Diazotization-decarboxylation
+        -   S_(N)Ar Addition-Elimination
+        -   S_(N)Ar Two Nitro Groups
+    -   Oxidation
+        -   Jones Oxidation
+        -   Swern Oxidation
+        -   Allylic Oxidation SeO₂
+        -   Oxidation of dihydropyridine by DDQ
+        -   Syn-dihydroxylation of alkenes OsO₄
+        -   Periodate Cleavage of 1,2-Diols
+        -   Glycol Oxidative Cleavage Pb(OAc)₄
+        -   Ozonolysis
+        -   Sulfoxide - -oxidation to enones
+        -   Sharpless Asymmetric Epoxidation
+        -   Epoxidation of Z-Allyl Silanes
+    -   Enols and Enolates as nucleophiles
+        -   Cyclopentanone aldol - acid cat.
+        -   Intramolecular aldol reactions
+        -   Knoevenagel condensation
+        -   Lithium enolates
+        -   Mannich reaction mechanism
+        -   Enolate alkylation
+        -   Claisen ester condensation
+        -   Enamine Acylation
+        -   Wittig Reaction
+        -   Acid-Catalysed Bromination
+        -   Base-Catalysed Bromination
+        -   Enolisation and formation of syn aldol product
+        -   Enolisation and formation of anti aldol product
+        -   Simple Diastereoselectivity - cis gives syn aldol
+        -   Simple Diastereoselectivity - trans gives anti aldol
+    -   Conjugate addition
+        -   Conjugation changes reactivity
+        -   Robinson annelation
+        -   Conjugate addition with enols
+        -   Conjugate Addition Examples
+            -   Conjugate Addition of MeSH to an Unsaturated Aldehyde
+            -   Conjugate Addition of Diethylamine to an Unsaturated Nitrile (Acrylonitrile)
+            -   Conjugate Addition of Diethylamine to an Unsaturated Ester
+            -   Conjugate Addition of Enamine to Unsaturated Imine
+        -   Conjugate addition of enolates
+        -   Robinson annelation
+        -   Dimedone synthesis
+        -   Conjugate addition of peroxide to form epoxides
+        -   Baylis-Hillman Reaction
+        -   Enantioselective Conjugate Addition
+    -   Diels-Alder reactions
+        -   Diels-Alder reaction Overview
+        -   Identifying a Diels-Alder Reaction
+        -   s-cis v s-trans conformation
+        -   Regioselectivity 2-methoxybuta-1,3-diene and acrylonitrile
+        -   Regioselectivity 1,1-dimethylbutadiene and methyl acrylate
+        -   Stereochemistry of the Diene Z,Z
+        -   Stereochemistry of Diene E,Z
+        -   Stereochemistry of Diene E,E
+        -   Stereochemistry of the dienophile - diesters
+        -   Stereochemistry of the dienophile - dinitrile
+        -   Endo vs exo
+        -   Endo vs exo again
+        -   Orbital explanation for the endo rule
+        -   Working out which product is endo
+        -   The Woodward Hoffman description of the Diels-Alder
+        -   Intramolecular Diels-Alder (E)-3-Methyldeca-1,3,9-triene
+        -   Intramolecular Diels-Alder – 1,3,9-decatrien-8-one
+        -   2,3-Dimethylbutadiene and Acrolein(propenal)
+        -   Quinone as Dienophile – Steroid Framework
+        -   Intramolecular Diels-Alder – Regioselectivity reversal
+        -   8-Phenylmenthol auxiliary-controlled Diels-Alder
+        -   DA benzyne-anthracene
+        -   Pyrone Diels-Alder
+    -   Aromatic Heterocycles - Structures
+        -   Pyrrole structure
+        -   Pyridine structure
+        -   Pyridine N-Oxide structure
+        -   Tautomerism of Hydroxy Pyridine
+    -   Aromatic Heterocycles - Synthesis
+        -   Hantzsch pyridine synthesis
+        -   Paal-Knorr pyrrole synthesis via hemiaminal
+        -   Paal-Knorr pyrrole synthesis via enamine
+        -   Knorr Pyrrole Synthesis
+        -   Thiophene ring formation
+        -   Thionation of a Ketone
+        -   Lawesson's reagent
+        -   Thiazole Formation
+        -   Pyridazine synthesis
+        -   Pyrazole synthesis
+        -   Pyrimidine synthesis
+        -   Olefin Metathesis - Pyrrole formation
+        -   1,2,3-Triazole formation
+    -   Aromatic Heterocycles - Reactions
+        -   Pyridine – Nucleophilic Substitution
+        -   Pyridine – Nucleophilic Catalyst
+        -   Vilsmeier Reaction
+        -   Mannich Reaction
+        -   Oxidation of dihydropyridine by DDQ
+        -   Ritter reaction
+        -   Friedel-Crafts Alkylation
+        -   Furan Hydrolysis
+        -   Pyrrole decarboxylation
+        -   Indole Alkylation
+        -   Indole – Mannich and Substitution
+        -   Pyridine N-Oxide – Nucleophilic Substitution
+        -   Pyridine N-Oxide – Remote Oxidation And Rearrangement
+    -   Pericyclic reactions
+        -   Introduction to Pericyclic Reactions
+        -   Cycloadditions
+            -   Ozonolysis 1,3-dipolar
+            -   1,3-dipolar cycloadditions - nitrone
+            -   1,3-Dipolar Cycloaddition Isoxazole from nitrile oxide
+            -   [4+3] Oxyallyl Cycloaddition
+            -   [4+6] Thermal Cycloaddition
+            -   1,2,3-Triazole formation
+            -   Tetrazole formation
+            -   Intramolecular carbonyl ene
+            -   Syn-dihydroxylation of alkenes OsO₄
+            -   Periodate Cleavage of 1,2-Diols
+        -   Sigmatropic rearrangements
+            -   [3,3]-Claisen rearrangement - aromatic
+            -   [3,3]-Claisen rearrangement - acyclic
+            -   [3,3]-Ireland-Claisen
+            -   [2,3]-shift sulfoxide
+            -   [1,5]-H shift
+            -   [1,7]-H shift
+            -   [3,3]-Fischer indole
+            -   Citral tandem Claisen-Cope
+        -   Electrocyclic reactions
+            -   Electrocyclic reactions are stereospecific
+            -   Conrotatory ring closure/opening - cyclobutene
+            -   Disrotatory ring closure/opening - hextriene
+            -   Endiandric Acid Cascade
+            -   Nazarov Cyclization
+            -   Norcaradiene Ring Opening
+        -   Stereospecific Cheleotropic Reactions SO₂
+    -   Rearrangements
+        -   Benzilic Acid
+        -   Neighbouring Group Migration
+        -   Pinacol
+        -   Semipinacol rearrangements of diazonium salts
+        -   Ring expansion means rearrangement
+        -   Wagner-Meerwein rearrangement
+        -   Payne rearrangement
+        -   Beckmann rearrangement
+        -   Favorskii rearrangement
+        -   Tiffeneau-Demjanov Rearrangement
+        -   Rearrangements with different nucleophiles
+        -   Retention of stereochemistry can indicate neighbouring group participation
+        -   Which Group Migrates?
+        -   Baeyer-Villiger
+        -   Neighbouring group participation: alpha-lactone formation
+    -   Radical reactions
+        -   HBr Addition to Isobutene
+        -   Termination Steps
+        -   Chlorination of alkanes
+        -   Conjugate Addition to Acrylonitrile
+        -   Bu₃SnH reduction of C-Br
+        -   Cyclisations exo/endo
+        -   Cyclisation Tin Hydride
+        -   Pinacol Coupling
+        -   Julia Olefination
+        -   Radical Copolymerization
+    -   Fragmentations
+        -   Bond polarization
+        -   Ring expansion
+        -   Beckmann fragmentation
+        -   Fragmentations are controlled by stereochemistry
+            -   Controlled by stereochemistry (Cis isomer)
+            -   Conformational flexibility (Trans)
+            -   Controlled by stereochemistry (Trans – Less severe interactions)
+            -   Controlled by stereochemistry (Trans – Severe interactions)
+        -   Fragmentation of diastereoisomers (Trans-decalin I)
+        -   Fragmentation of diastereoisomers (No ring fragmentation)
+        -   Juvenile hormone synthesis
+    -   Carbene chemistry
+        -   Photolysis of diazomethane to produce a carbene
+        -   Methylation of carboxylic acid using diazomethane
+        -   Formation
+            -   From diazocarbonyl compounds
+            -   Via alpha elimination
+            -   Thermal decomposition via hydrazone
+        -   Carbenes – Reactions
+            -   Alkene insertion – Singlet v Triplet
+            -   Alkene insertion – Singlet carbene
+            -   Alkene insertion – Triplet carbene
+            -   O-H bond insertion
+            -   C-H bond insertion
+        -   Bamford-Stevens reaction
+        -   Cyclopropanation of an Alkene by a Carbenoid
+        -   Simmons-Smith reaction
+    -   Stereoselectivity
+        -   Wittig Reaction
+        -   Cyclopropanation
+        -   Felkin-Anh reduction LiAlH₄
+        -   Chelated reduction zinc borohydride
+        -   Chelate Cram Addition MeMgBr
+        -   Beta-Keto Sulfoxide reduction
+        -   Intramolecular carbonyl ene reaction
+        -   Cyclohexene epoxide opening axial
+        -   Aldol Reaction syn product
+        -   Aldol Reaction anti product
+        -   Stereoselective Aldol Reaction – Cis gives Syn
+        -   Stereoselective Aldol Reaction - Trans gives Anti
+        -   Allyic strain - Enolate alkylation
+        -   Epoxidation of Z-Allyl Silanes
+        -   Epoxidation of E-Allyl Silanes
+    -   Baldwin's rules
+        -   Classes of cyclization
+        -   Classes of cyclization (3-exo-tet)
+        -   Classes of cyclization (5-exo-trig)
+        -   Classes of cyclization (6-endo-dig)
+        -   Endo-trig reactions
+        -   Endo-trig reactions (6-endo-trig)
+        -   Endo-trig reactions (5-endo-trig)
+        -   Endo-trig reactions (5-endo-trig orbital overlap)
+    -   Organo-main-group chemistry (B/Si/S)
+        -   Asymmetric Sulfoxidation
+        -   Sulfonium ylids
+        -   Sulfoxonium Ylids
+        -   Pummerer rearrangement
+        -   Swern Oxidation
+        -   Sulfoxide elimination
+        -   Julia Olefination
+        -   Hydroboration
+            -   Hydroboration (Addition of boron hydride to alkenes)
+            -   Hydroboration (Oxidation)
+        -   Hydroboration of cyclopentadiene Ipc
+        -   Crotyl boranes react stereospecifically
+        -   Alpine Borane
+        -   Vinyl silanes react with electrophiles
+        -   The Peterson reaction
+        -   Stereospecific Peterson reaction
+        -   Stereospecific Peterson reaction (Base )
+        -   Silicon alpha anion stabilisation
+        -   Epoxidation of Z-Allyl Silanes
+        -   Epoxidation of E-Allyl Silanes
+    -   Organometallic chemistry
+        -   Pd-Suzuki Reaction
+        -   Pd-Mizoroki-Heck Reaction
+        -   Pd-Kosugi-Migita-Stille Reaction
+        -   Pd-Carbonylative Kosugi-Migita-Stille Coupling Reaction
+        -   Pd-Butenolide Formation From Carbonylation Of A Vinyl Bromide
+        -   Pd-catalysed nucleophilic allylic substitution of functionalised compounds
+        -   TMM Pd Catalysed Cycloaddition
+        -   Ru-Hydrogenation of Ketones
+        -   Ru-Hydroformylation OXO reaction
+        -   Ru-Olefin Metathesis macrocycle
+        -   Ru-Olefin Metathesis unsaturated pyrrole
+    -   Enantioselective auxiliaries
+        -   Methylation of an enolate
+        -   Benzylation of an enolate
+        -   Evans oxazolidinone syn Aldol
+        -   Evans ent-oxazolidinone syn Aldol
+        -   Evans oxazolidinone Diels-Alder
+        -   8-Phenylmenthol Diels-Alder
+        -   Asymmetic Alkylation of SAMP Hydrazone
+        -   Conjugate Addition - Oppolzer's sultam
+        -   Meyers enolate alkylation
+        -   Schöllkopf amino acid
+    -   Enantioselective reagents
+        -   Sparteine controlled deprotonation
+        -   Hydroboration of cyclopentadiene Ipc-borane
+        -   Ketone Reduction with BINAL-H
+        -   Acetylenic Ketone Reduction – Alpine Borane
+    -   Enantioselective metal catalysts
+        -   Sharpless Asymmetric Epoxidation
+        -   Direct Sulfoxidation
+        -   Hydrogenation of Ketones – Ru(II) cat.
+        -   Cyclopropanation – allylic alcohols
+        -   Dimethyl Zinc addition to aldehydes
+    -   Enantioselective organocatalysts
+        -   Ketone reduction with CBS
+        -   Intermolecular aldol - proline
+        -   Intramolecular Aldol - proline
+        -   Aldol dimerisation - proline
+        -   Intermolecular aldol -proline – hydroxyacetone
+        -   Intramolecular S_(N)2 Me-proline
+        -   Indole Alkylation - Imidazolidinone
+        -   Pyrrole - Friedel-Crafts alkylation
+        -   Carbonyl Ene - Phosphoramide
+        -   Imine Hydrophosphonylation - Phosphate
+    -   Medicinal Chemistry at Liverpool
+        -   Medicinal Chemistry Research at the University of Liverpool
+-   Inorganic
+    -   Solid state Cubic structures
+        -   Simple cubic
+        -   Body-centred cubic – bcc
+        -   CsCl – Caesium chloride
+    -   Simple close packed
+        -   Hexagonal close packing – hcp
+        -   Cubic close packing – ccp
+    -   AB structures
+        -   NaCl – Sodium chloride
+        -   NiAs – Nickel Arsenide
+        -   ZnS – Zinc Blende
+        -   ZnS – Wurtzite
+    -   AB2 structures
+        -   CaF₂ – Fluorite
+        -   Na₂O – Antifluorite
+        -   CdCl₂ – Cadmium chloride
+        -   CdI₂ – Cadmium iodide
+        -   TiO₂ – Anatase
+        -   TiO₂ – Rutile
+    -   AB3 structures
+        -   YCl₃ – Yttrium trichloride
+        -   BiI₃ – Bismuth triiodide
+        -   Li₃Bi - Lithium Bismuthide
+    -   Advanced solid structures
+        -   ReO₃ – Rhenium trioxide
+        -   CaTiO₃ – Perovskite
+        -   MgAl₂O₄ – Spinel
+        -   Mg₂TiO₄ – Inverse Spinel
+    -   Simple Solids
+        -   Tungsten bcc
+        -   Silicon Sulfide – SiS₂
+        -   Iron-Chromium Alloys
+        -   Calcium Carbide – CaC₂
+        -   Ammonium Chloride (NH₄Cl)
+        -   Cu₃Au Auricupride
+        -   Zirconium Oxide with Calcium Impurity
+        -   Calcium Carbonate – CaCO₃ – Polymorphs
+        -   DNA/RNA Base Pairs
+        -   Lone Pair Orientation
+    -   Hydrogen
+        -   Li₂NH (antifluorite) & LiNH₂ (defect antifluorite)
+    -   Group 1 Elements
+        -   Caesium Superoxide CsO₂ 3D structure
+        -   Dipotassium Pentasulfide (K₂S₅)
+        -   Lithium nitride (Li₃N)
+        -   Na₁₇₂In₁₉₂Pt₂
+        -   K₄Ge₄
+        -   [Cs(18-crown-6)₂]⁺e^(–)
+    -   Group 2 Elements
+        -   Calcium Carbonate – CaCO₃ – Polymorphs
+    -   Group 14 Elements
+        -   Calcium Carbide – CaC₂
+        -   Kaolinite Al₂(OH)₄Si₂O₅
+        -   Muscovite – KAl₂(OH)₂Si₃AlO₁₀
+        -   Zeolites X & ZSM-5
+    -   d-block Elements
+        -   Scandium Chloride – Sc₇Cl₁₀
+        -   Garnet – Y₃Al₅O₁₂
+        -   Zirconium Chloride – ZrCl
+        -   Zircon – ZrSiO₄
+        -   Vanadium Oxide – V₂O₅
+        -   Molybdenum Disulfide – MoS₂
+        -   Copper (I) Oxide – Cu₂O
+        -   BISCO Bismuth Strontium Calcium Copper Oxide – BSCCO
+        -   HgO-Mercury(II) oxide
+        -   Hexatantalate [Ta₆O₁₉]²⁻
+    -   f-block Elements
+        -   Lanthanum(III) chloride – LaCl₃
+        -   Cerium Tetrafluoride – CeF₄
+        -   Gadolinium Orthoferrite – GdFeO₃
+        -   Garnet – Ca₃Al₂Si₃O₁₂ – Grossular
+        -   Uranium (V) Chloride – U₂Cl₁₀
+    -   Solid State Materials
+        -   Defects and Ion Transport
+        -   Metal Oxides, Nitrides and Fluorides
+        -   Chalcogenides, Intercalation Compounds and Metal-rich phases
+        -   Framework Structures
+        -   Hydrides and Hydrogen Storage Materials
+        -   Inorganic Pigments
+        -   Molecular Materials
+    -   Bioinorganic Chemistry
+        -   Bioinorganic Chemistry Gallery
+    -   Metal Organic Frameworks
+        -   MOF – home
+        -   MOF-5 (or IRMOF-1)
+        -   IRMOF-10
+        -   IRMOF-16
+        -   ZIF
+        -   HKUST-1
+        -   UiO-66
+        -   MIL-53 (Sc)
+        -   NOTT-112
+        -   AgFe mixed metal [AgFe(dppd)₃]BF₄·2DMSO·2H₂O
+        -   Zn(GlySer)₂
+        -   ZnGlySer Pore closure animation
+        -   ZnGlyThr
+        -   Zn-Carnosine
+        -   Zn-Carnosine pore animation
+        -   Ni-Asp-bipy
+    -   Lithium Ion Batteries
+        -   Lithium Ion Battery Materials – Home
+        -   Cathode (Positive electrode) material examples
+            -   Lithium Iron Phosphate-LiFePO₄ – Conduction animation
+            -   Lithium Cobalt Oxide – LiCoO₂
+            -   Lithium Manganese Oxide – LiMn₂O₄
+        -   Anode (Negative electrode) Material Examples
+            -   Graphite anode
+            -   Lithium titanate-Li₄Ti₅O₁₂– Conduction animation
+            -   Silicon Anode
+        -   LISICON – Solid Electrolyte example
+-   Structure and Bonding
+    -   Atomic Orbitals
+        -   s-orbitals
+        -   p-orbitals
+        -   3d-orbitals
+        -   4f-orbitals
+        -   5f-orbitals
+        -   5g-orbitals
+        -   6g-orbitals
+        -   Compare shape and size of 1s, 2s and 2p orbitals
+    -   Molecular Orbitals
+        -   Hydrogen
+        -   Nitrogen
+        -   Fluorine
+        -   Ammonia
+        -   Methane
+        -   Ethylene (Ethene)
+        -   Acetylene (Ethyne)
+        -   Allene
+        -   Formaldehyde(Methanal)
+        -   Acrolein
+        -   Carbon Monoxide
+        -   Hydrogen Fluoride
+        -   Allyl Anion
+        -   Butadiene
+        -   Benzene
+        -   Aromaticity of cyclic polyenes - Frost
+    -   Animated Molecular Orbitals
+    -   Spectroscopy examples
+        -   Introduction
+        -   Symbols, Terminology and Constants
+        -   Orbitals
+        -   Vibrational spectroscopy
+            -   Water
+            -   Hydrogen Chloride
+            -   Carbon Dioxide
+        -   Rotational Introduction
+            -   Rotational Examples
+        -   Ultraviolet/Visible UV/Vis
+        -   Translations
+    -   Molecular vibrations-IR
+        -   Water
+        -   Hydrogen Cyanide
+        -   Carbon Dioxide
+        -   Ammonia
+        -   Boron Trifluoride
+        -   Methane
+        -   Ethylene (Ethene)
+        -   Phophorus Pentafluoride
+        -   Sulfur hexafluoride
+        -   Nickel Tetracarbonyl
+        -   Iron Pentacarbonyl
+        -   Benzene
+        -   cis-[PdCl₂(NH₃)₂]
+        -   trans-[PdCl₂(NH₃)
+            2
+    -   UV - conjugation
+        -   Ultraviolet/Visible UV/Vis Spectroscopy
+        -   Ethylene (Ethene) and Butadiene
+        -   Linear Polyenes
+        -   Colour of Dyes
+            -   Aniline Yellow
+            -   Disperse Orange 1
+            -   Oil Red O
+            -   Janus Green B
+            -   Azo-dye Synthesis
+    -   Dipoles and Electrostatic surfaces
+        -   Small polar molecules
+        -   Unsaturated Molecules
+        -   Lone Pair Conjugation
+        -   Hydration of Carbonyl Compounds
+        -   XeF₄, ClF₃ and CCl₃Br
+    -   Introductory Organic Structures
+        -   Linoleic acid
+        -   Amino Acids
+        -   Carbon Allotropes (Diamond, Graphite, C₆₀)
+        -   Cyclooctatetraene
+        -   Cyclophanes and Annulenes
+        -   Selected Polycyclic Structures
+        -   Sucrose
+    -   Shapes of molecules VSEPR
+        -   H₂O Water
+        -   NH₃ Ammonia
+        -   CH₄ Methane
+        -   PF₅ Phosphorus Pentafluoride
+        -   SF₄ Sulfur Tetrafluoride
+        -   ClF₃ Chlorine Trifluoride
+        -   SF₆ Sulfur Hexafluoride
+        -   XeF₄, ClF₃ and CCl₃Br
+    -   Organometallics (Metal-Ligand Bonding)
+        -   Carbon Monoxide
+        -   Phosphine
+        -   Hydrogen
+        -   Ethylene
+        -   Cyclobutadiene
+        -   Butadiene
+        -   Benzene
+        -   Allyl
+        -   Cyclopentadienyl
+        -   Carbene
+    -   Symmetry
+        -   Symmetry Operations
+        -   C_(nh) | C_(nv) | S_(2n) | C_(n) Point groups
+        -   D_(nh) | D_(nd) | D_(n) Point groups
+        -   C_(s) | C_(i) | C₁ Point groups
+        -   T_(d) | T_(h) | O_(h) | I_(h) Point groups
+        -   Symmetry Decision Tree
+        -   Orbital-orbital Interactions and Symmetry Adapted Linear Combinations
+    -   Metal reaction mechanisms
+        -   Point groups of polyhedral structures
+        -   Distortions of a regular Octahedron
+        -   Distortions of a octahedral complex with chelating ligands
+        -   Berry pseudorotation
+        -   Octahedral [Ru(en)₃]²⁺ enantiomers
+        -   Delta v lambda M(L-L)₃
+        -   Ligand Substitution Square Planar Complex
+        -   Ligand Substitution mechanisms
+        -   Bailar and Ray-Dutt twists
+        -   Inner Sphere Electron Transfer Mechanism
+        -   Outer Sphere Electron Transfer Mechanism
+        -   Bent metallocenes
+        -   Jahn-Teller distortion
+    -   Protein Folding Kinetics
+        -   Framework Model of Protein Folding
+        -   Hairpin Folding from Chain
+        -   Folding Process of Myoglobin
+    -   Gold Nanoparticles
+        -   Introduction
+        -   PVP encapsulation
+        -   Possible morphologies of Au Nanoparticles
+        -   Au₂₅(SEt)₁₈, Thiolate-Protected Au₂₅ Cluster
+        -   (p-MBA)-protected Au₁₀₂ nanoparticle
+    -   Fluorination of medicinal compounds
+        -   Introduction
+        -   Amide Mimetic
+        -   Halex Reaction
+        -   Conformation Effects
+        -   Uracil and 5-Fluorouracil
+-   A Level
+    -   Atomic Orbitals
+        -   s-orbitals
+        -   p-orbitals
+        -   3d-orbitals
+        -   Comparison of 1s, 2s and 2p orbitals
+    -   Organic Reaction Mechanisms
+        -   Organic Chemistry Introduction
+        -   Electrophilic Addition Addition of bromine to an alkene
+        -   Electrophilic addition to alkenes – Symmetrical and Unsymmetrical
+        -   Reaction of carbonyl compounds with HCN
+        -   Nucleophilic Addition Addition of Hydride
+        -   Cyanohydrin Formation – Nucleophilic addition to the carbonyl group
+        -   Nucleophilic Substitution at Saturated Carbon
+        -   Nucleophilic Substitution Cyanide + Ethyl Bromide
+        -   Elimination
+        -   Elimination – E2 Stereoselective for E alkenes
+        -   Amide formation
+        -   Formation of Ethyl Ethanoate
+        -   Hydrolysis of ethanoyl chloride
+        -   Nitration of Benzene
+        -   Friedel-Crafts acylation
+        -   Friedel-Crafts alkylation
+        -   Radical Reactions Synthesis of Chloroalkanes
+        -   Radical Reactions – Initiation Step
+        -   Radical Reactions – Propagation Steps
+        -   Radical Reactions – Termination Steps
+        -   Radical Reactions CFCs and the Ozone Layer
+    -   Crystal Structures
+        -   Carbon (Diamond, Graphite C₆₀)
+        -   Ice
+        -   I₂ – Iodine
+        -   Magnesium
+        -   NaCl – Sodium chloride
+    -   Proton NMR Introduction
+        -   Ethanol Proton NMR
+        -   Propanone Proton NMR
+        -   Ethyl Acetate Proton NMR
+        -   Ethyl Benzene Proton NMR
+        -   Ethanol D₂O exchange
+        -   Ethyl Amine (D₂O) Proton Exchange
+    -   Shapes of molecules VSEPR
+        -   H₂O Water
+        -   NH₃ Ammonia
+        -   CH₄ Methane
+        -   SF₆ Sulfur Hexafluoride
+        -   SF₄ Sulfur Tetrafluoride
+        -   PF₅ Phosphorus Pentafluoride
+        -   ClF₃ Chlorine Trifluoride
+    -   Medicinal Chemistry at Liverpool
+        -   Medicinal Chemistry Research at the University of Liverpool
+    -   Polymers A Level
+        -   Terylene polyester PET
+        -   Polyvinyl Chloride Poly(chloroethene) PVC
+        -   Nylon 6,6 - polyamide
+        -   Polystyrene (PS)
+        -   DNA/RNA Base Pairs
+        -   cis-Platin and DNA
+    -   Persistent Organic Pollutants
+    -   EPQ resources
+-   Polymers
+    -   Polymer Chemistry
+    -   Poly(ether ketone)
+    -   Polyethylene Polythene (PE)
+    -   Natural Rubber
+    -   Polystyrene (PS)
+    -   Polyethylene terephthalate PET
+    -   Bisphenol A (polycarbonate)
+    -   Nylon 6,6
+    -   Poly(methyl methacrylate)
+    -   Kapton
+    -   Polyphenylene I synthesis and 3D structure
+    -   Polyphenylene II
+    -   Polyphenylene III
+    -   PAMAM Dendrimer (Polyamidoamines)
+    -   Polyvinyl Chloride PVC
+    -   Polypyrrole
+    -   Polythiophene PT
+    -   Poly(ether sulfone) PES
+    -   Poly(phenylene sulfone) PPSF or PPSU
+    -   Polydimethylsiloxane PDMS
+    -   Radical Copolymerization
+-   360° Lab Safety
+    -   Apparatus/Equipment
+        -   Reflux Exercise
+        -   Dean-Stark Exercise
+        -   Distillation Exercise
+        -   Column Chromatography Exercise
+    -   "Bad Lab" Scenes
+        -   Analytical Chemistry Lab Exercise
+        -   Titration Exercise
+        -   General Chemistry Lab Exercise
+        -   Synthetic Chemistry Lab A Exercise
+        -   Synthetic Chemistry Lab B Exercise
+        -   Synthetic Chemistry Lab C Exercise
+-   News
+    -   Feedback Form
+    -   Suggestions for Lecturers/Instructors
+    -   Visualising Symmetry Elements in Molecules
+    -   Chemistry Animations under Control
+    -   Full screen view of molecules and reactions
+    -   The importance of search and ranking in large web sites
+    -   Brief history of ChemTube3D
+    -   ChemTube3D Team
+    -   Older News
+    -   ChemTube3D Guides
+        -   Animated Reactions
+        -   Animated Polymers
+        -   Crystallography Pages
+-   Periodic Table
+-   Research at Liverpool
+    -   Research at Liverpool, Explained
+    -   Discover Our Research
+    -   Antibacterials
+    -   Anticancer
+    -   Antimalarials
+    -   Batteries
+    -   Concepts
+    -   Gold nanoparticles
+    -   Hybrid Framework Materials
+    -   Key Research Soft Skills
+    -   Long-acting injectable therapeutics
+    -   Magnetic Particle Imaging (MPI)
+    -   Materials Computational Chemistry
+    -   Nuclear Magnetic Resonance NMR
+    -   Researchers
+    -   Sulfoxonium Ylides
+    -   Sulfur Polymers
+    -   Surface Chemistry
+Home / Links to Organic Chemistry 2nd Edition (OUP) by Jonathan Clayden, Nick Greeves and Stuart Warren
+Links to Organic Chemistry 2nd Edition (OUP) by Jonathan Clayden, Nick Greeves and Stuart Warren
+()
+You have probably reached this page by clicking the cover icon on another page.
+The number on the icon gives the page number in Organic Chemistry, second edition, where you can read more about the topic.
+[Clayden front cover]
+If you do not own a copy of the textbook you can obtain one from Oxford University Press or other good booksellers.
+Kindle Edition[]
+for Kindle Fire tablet or free Kindle apps for iPad, Android tablets, PC or Mac now available.
+How useful was this page?
+Click on a star to rate it!
+-   
+-   
+-   
+-   
+-   
+Submit Rating
+Average rating / 5. Vote count:
+No votes so far! Be the first to rate this page.
+As you found this page useful...
+Follow us on social media!
+We are sorry that this page was not useful for you!
+Let us improve this page!
+Tell us how we can improve this page (in your own language if you prefer)? If you would like a response, please include your email address e.g. [email protected]
+Submit Feedback
+[Creative Commons]
+We gratefully acknowledge support from the UK Physical Sciences Centre, HEA (National Teaching Fellowship), JISC, Faculty of Science TQEF and EPSRC. Follow ChemTube3D on Kudos
+ChemTube3D by Nick Greeves is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 2.0 UK: England & Wales License
+© 2008-2026 The University of Liverpool
+Home
+News
+Privacy Policy
+Provided by the
+[]

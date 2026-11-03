@@ -1,0 +1,68 @@
+adres: https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Organic Chemistry
+kanał: CrashCourse
+liczba filmów: 51
+opis playlisty: In 50 episodes, Dr. Deboki Chakravarti will teach you organic chemistry. This course is based on sophomore-level college material, covering topics from Organic Chemistry I and II. It was developed with 9 reference texts and journal articles on specialized topics in organic chemistry, in particular: Organic Chemistry texts by Brown, Foote, Iverson and Ansyln (8th ed.); Clayden, Greeves and Warren (2nd ed.); McMurry (9th ed.) By the end of this course, you will be able to:
+
+* Recognize and name the major functional groups in organic compounds
+* Understand the influence of molecular structure and conformation on chemical properties and reactivity
+* Identify the possible reactions for a given organic compound and select reasonable reaction mechanisms given the reactant structure and functional groups
+* Sketch a mechanism for an organic reaction, showing valid arrow-pushing and formal charges
+* Develop and compare synthetic routes to a target molecule from a starting compound
+* Interpret spectra (e.g. IR, NMR, MS, UV/vis) and understand how they are used in structure determination
+* Connect the chemical properties of organic compounds to their real-world applications (e.g. in polymers, medicine, and biochemistry).
+
+filmy:
+  1. Crash Course Organic Chemistry Preview [3:34]
+  2. What Is Organic Chemistry?: Crash Course Organic Chemistry #1 [10:16]
+  3. The Basics of Organic Nomenclature: Crash Course Organic Chemistry #2 [12:48]
+  4. More Organic Nomenclature: Heteroatom Functional Groups: Crash Course Organic Chemistry #3 [12:24]
+  5. 3D Structure and Bonding: Crash Course Organic Chemistry #4 [14:33]
+  6. IR Spectroscopy and Mass Spectrometry: Crash Course Organic Chemistry #5 [13:51]
+  7. Alkanes: Crash Course Organic Chemistry #6 [11:51]
+  8. Cyclohexanes: Crash Course Organic Chemistry #7 [14:09]
+  9. Stereochemistry: Crash Course Organic Chemistry #8 [14:35]
+ 10. More Stereochemical Relationships: Crash Course Organic Chemistry #9 [12:48]
+ 11. Polarity, Resonance, and Electron Pushing: Crash Course Organic Chemistry #10 [11:46]
+ 12. Acidity: Crash Course Organic Chemistry #11 [11:18]
+ 13. Nucleophiles and Electrophiles: Crash Course Organic Chemistry #12 [12:08]
+ 14. Intro to Reaction Mechanisms: Crash Course Organic Chemistry #13 [12:43]
+ 15. E/Z Alkenes, Electrophilic Addition, & Carbocations: Crash Course Organic Chemistry #14 [14:02]
+ 16. Thermodynamics and Energy Diagrams: Crash Course Organic Chemistry #15 [11:12]
+ 17. Alkene Addition Reactions: Crash Course Organic Chemistry #16 [12:53]
+ 18. Alkene Redox Reactions: Crash Course Organic Chemistry #17 [11:09]
+ 19. Alkyne Reactions & Tautomerization: Crash Course Organic Chemistry #18 [11:56]
+ 20. Radical Reactions & Hammond's Postulate: Crash Course Organic Chemistry #19 [12:01]
+ 21. Intro to Substitution Reactions: Crash Course Organic Chemistry #20 [12:07]
+ 22. Substitution Reactions - SN1 and SN2 Mechanisms: Crash Course Organic Chemistry #21 [12:19]
+ 23. E1 and E2 Reactions: Crash Course Organic Chemistry #22 [13:58]
+ 24. Determining SN1, SN2, E1, and E2 Reactions: Crash Course Organic Chemistry #23 [13:31]
+ 25. Alcohols, Ethers, and Epoxides: Crash Course Organic Chemistry #24 [12:30]
+ 26. Synthesis and Column Chromatography: Crash Course Organic Chemistry #25 [11:37]
+ 27. How to Identify Molecules - Proton NMR: Crash Course Organic Chemistry #26 [11:27]
+ 28. An Overview of Aldehydes and Ketones: Crash Course Organic Chemistry #27 [11:34]
+ 29. Organometallic Reagents and Carbanions: Crash Course Organic Chemistry #28 [10:59]
+ 30. Aldehyde and Ketone Reactions - Hydrates, Acetals, & Imines: Crash Course Organic Chemistry #29 [13:30]
+ 31. Carboxylic Acids: Crash Course Organic Chemistry #30 [11:36]
+ 32. Carboxylic Acid Derivatives & Hydrolysis Reactions: Crash Course Organic Chemistry #31 [12:27]
+ 33. Carboxylic Acid Derivatives - Interconversion & Organometallics: Crash Course Organic Chemistry #32 [11:48]
+ 34. Chemoselectivity and Protecting Groups: Crash Course Organic Chemistry #33 [11:30]
+ 35. Retrosynthesis and Liquid-Liquid Extraction: Crash Course Organic Chemistry #34 [12:45]
+ 36. Polymer Chemistry: Crash Course Organic Chemistry #35 [13:15]
+ 37. Aromaticity, H√ºckel's Rule, and Chemical Equivalence in NMR: Crash Course Organic Chemistry #36 [13:31]
+ 38. Intro to Electrophilic Aromatic Substitution: Crash Course Organic Chemistry #37 [12:01]
+ 39. More EAS - Electron Donating and Withdrawing Groups: Crash Course Organic Chemistry #38 [11:29]
+ 40. More EAS & Benzylic Reactions: Crash Course Organic Chemistry #39 [12:20]
+ 41. Synthesis, Distillation, & Recrystallization: Crash Course Organic Chemistry #40 [13:58]
+ 42. Conjugation & UV-Vis Spectroscopy: Crash Course Organic Chemistry #41 [13:03]
+ 43. The Diels-Alder & Other Pericyclic Reactions: Crash Course Organic Chemistry #42 [13:01]
+ 44. Enols and Enolates - Reactivity, Halogenation, and Alkylation: Crash Course Organic Chemistry #43 [12:20]
+ 45. The Aldol and Claisen Reactions: Crash Course Organic Chemistry #44 [12:35]
+ 46. Crossed Aldol Reactions, Enones, and Conjugate Addition: Crash Course Organic Chemistry #45 [13:13]
+ 47. Amines: Crash Course Organic Chemistry #46 [12:11]
+ 48. Diazonium Salts & Nucleophilic Aromatic Substitution: Crash Course Organic Chemistry #47 [14:09]
+ 49. Biochemical Building Blocks & Fischer and Haworth Projections: Crash Course Organic Chemistry #48 [13:15]
+ 50. Biological Polymers: Crash Course Organic Chemistry #49 [14:30]
+ 51. Medicinal Chemistry and Penicillin Total Synthesis: Crash Course Organic Chemistry #50 [14:11]

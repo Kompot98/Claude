@@ -1,0 +1,47 @@
+adres: http://zcho.ch.pw.edu.pl/dyd_inz1.html
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://zcho.ch.pw.edu.pl/dyd_inz1.html
+tytuł: <TITLE>Katedra Chemii Organicznej
+
+Lista odnośników (tekst strony):
+dyd_inz_n01.pdf | Alkany
+dyd_inz_n02.pdf | Acykliczne węglowodory nienasycone
+dyd_inz_n03.pdf | Węglowodory alifatyczne monocykliczne
+dyd_inz_n04.pdf | Węglowodory bicykliczne
+dyd_inz_n05.pdf | Monocykliczne węglowodory aromatyczne
+dyd_inz_n06.pdf | Policykliczne węglowodory aromatyczne
+dyd_inz_n07.pdf | Fluorowcopochodne
+dyd_inz_n08.pdf | Hydroksypochodne
+dyd_inz_n09.pdf | Etery
+dyd_inz_n10.pdf | Aldehydy
+dyd_inz_n11.pdf | Ketony
+dyd_inz_n12.pdf | Kwasy karboksylowe
+dyd_inz_n13.pdf | Pochodne kwasów karboksylowych
+dyd_inz_n14.pdf | Aminy
+dyd_inz_n15.pdf | Związki azowe i sole diazoniowe
+dyd_inz_n16.pdf | Niektóre pospolite grupy uporządkowane wg reguły pierwszeństwa
+
+Sprawdzenie plików (2026-11-03): dyd_inz_n01.pdf 200 (3 strony, utworzony 2011-10-15), n09 200, n16 200; konspekty W1–W12, prace domowe, egzaminy i zadania treningowe: 404 (zakomentowane na stronie).
+
+Fragment n01:
+1
+1.
+
+ALKANY
+
+Pierwsze cztery nierozgałęzione alkany mają nazwy zwyczajowe: metan, etan, propan,
+butan. Nazwy wyższych członów szeregu homologicznego składają się z rdzenia
+liczebnikowego (w języku greckim lub łacińskim) odpowiadającego liczbie atomów węgla w
+łańcuchu oraz końcówki (przyrostka) –an.
+Tabela 1
+Liczba atomów C
+1
+2
+3
+4
+5
+6
+
+Nazwa alkanu
+metan

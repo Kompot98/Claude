@@ -1,0 +1,23 @@
+adres: https://www.youtube.com/playlist?list=PLlhOYvtSn-ftqFAE3e5a2d6zfX8CCU7ZR
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Chemia organiczna. Syntezy preparatów
+kanał: Uniwersytet Śląski
+liczba filmów: 14
+opis playlisty: (brak)
+
+filmy:
+  1. Synteza chlorku tert-butylu [6:37]
+  2. Salicylan metylu [10:47]
+  3. Synteza 1-heksenu [6:46]
+  4. Synteza N-fenyloglicyny [5:24]
+  5. Synteza kwasy acetylosalicylowago (aspiryny) [5:53]
+  6. Synteza ostanu n-butylu [8:33]
+  7. Synteza dibenzylidenoacetonu [5:28]
+  8. Synteza N-acetylu-p-toluidyny [5:01]
+  9. Synteza kwasu maleinowego [2:54]
+ 10. Synteza benzilu [7:41]
+ 11. Synteza kwasu śluzowego [7:02]
+ 12. Synteza p-nitroacetanilidu [9:47]
+ 13. Synteza diazoaminobenzenu [9:44]
+ 14. Synteza 2,5-dioksopiperazyny [9:39]

@@ -1,0 +1,463 @@
+adres: https://www.masterorganicchemistry.com/
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://www.masterorganicchemistry.com/
+tytuł: Master Organic Chemistry - An Online Organic Chemistry Resource
+
+Skip to content
+[] MasterOrganicChemistry Back to homepage
+-   Home
+-   Study Guides
+-   Reactions
+-   Quizzes
+-   MOC Membership
+-   Tutoring
+Search
+Type and Press “enter” to Search
+Searching... []
+-   Tutoring
+-   Login
+[]
+Ace Your First Organic Chemistry Exam.
+First Midterm Quiz Collection []
+First Midterm Quiz Collection
+Alkenes + Alkynes Quizzes
+SN1/SN2/E1/E2 Quizzes
+Flashcard Portal
+With the MOC Membership
+Learn more
+Also includes PDF summary sheets on:
+-   ORG 1
+-   ORG 2
+-   SPEC
+-   FLASHCARDS
+Organic Chemistry is Awesome
+Over 400+ articles to guide you through introductory Organic Chemistry, organized by subject. Tap a chapter to expand.
+00 General Chemistry Review[]
+-   []Lewis Structures
+-   []Ionic and Covalent Bonding
+-   []Chemical Kinetics
+-   []Chemical Equilibria
+-   []Valence Electrons of the First Row Elements
+-   []How Concepts Build Up In Org 1 (The Pyramid)
+01 Bonding, Structure, and Resonance[]
+-   []How Do We Know Methane (CH4) Is Tetrahedral?
+-   []Hybrid Orbitals and Hybridization
+-   []How To Determine Hybridization: A Shortcut
+-   []Orbital Hybridization And Bond Strengths
+-   []Sigma bonds come in six varieties: Pi bonds come in one
+-   []Dipole Moments and Dipoles
+-   []A Key Skill: How to Calculate Formal Charge
+-   []The Four Intermolecular Forces and How They Affect Boiling Points
+-   []3 Trends That Affect Boiling Points
+-   []How To Use Electronegativity To Determine Electron Density (and why NOT to trust formal charge)
+-   []Introduction to Resonance
+-   []How To Use Curved Arrows To Interconvert Resonance Structures
+-   []Evaluating Resonance Structures: The Fewer Charges, The Better
+-   []How To Find The Best Resonance Structure By Applying Electronegativity
+-   []Resonance Structures Should Have Full Octets (If Possible!)
+-   []Resonance Structures: Negative Charges Are Best Placed On The Least Basic Atom
+-   []Pi-Donation and Pi-Donors
+-   []Exploring Resonance: Pi-acceptors
+-   []In Summary: How To Evaluate Resonance Structures
+-   []Drawing Resonance Structures: 3 Common Mistakes To Avoid
+-   []How to apply electronegativity and resonance to understand reactivity
+-   []Bond Hybridization Practice
+-   []Structure and Bonding Practice Quizzes
+-   []Resonance Structures Practice
+02 Acid Base Reactions[]
+-   []Introduction to Acid-Base Reactions
+-   []Acid Base Reactions In Organic Chemistry
+-   []Five Key Factors That Influence Acidity
+-   []Factors That Affect Base Strength In Organic Chemistry
+-   []Acid-Base Reactions: Introducing Ka and pKa
+-   []How to Use a pKa Table
+-   []The pKa Table Is Your Friend
+-   []A Handy Rule of Thumb for Acid-Base Reactions
+-   []Acid Base Reactions Are Fast
+-   []pKa Values Span 60 Orders Of Magnitude
+-   []How Protonation and Deprotonation Affect Reactivity
+-   []Acid Base Practice Problems
+03 Alkanes and Nomenclature[]
+-   []Meet the (Most Important) Functional Groups
+-   []Condensed Formulas: Deciphering What the Brackets Mean
+-   []Hidden Hydrogens, Hidden Lone Pairs, Hidden Counterions
+-   []Don't Be Futyl, Learn The Butyls
+-   []Primary, Secondary, Tertiary, Quaternary In Organic Chemistry
+-   []Branching, and Its Affect On Melting and Boiling Points
+-   []The Many, Many Ways of Drawing Butane
+-   []Wedge And Dash Convention For Tetrahedral Carbon
+-   []Common Mistakes in Organic Chemistry: Pentavalent Carbon
+-   []Table of Functional Group Priorities for Nomenclature
+-   []Summary Sheet - Alkane Nomenclature
+-   []Organic Chemistry IUPAC Nomenclature Demystified With A Simple Puzzle Piece Approach
+-   []Boiling Point Quizzes
+-   []Organic Chemistry Nomenclature Quizzes
+04 Conformations and Cycloalkanes[]
+-   []Staggered vs Eclipsed Conformations of Ethane
+-   []Conformational Isomers of Propane
+-   []Newman Projection of Butane (and Gauche Conformation)
+-   []Introduction to Cycloalkanes
+-   []Geometric Isomers In Small Rings: Cis And Trans Cycloalkanes
+-   []Calculation of Ring Strain In Cycloalkanes
+-   []Cycloalkanes: Ring Strain In Cyclopropane And Cyclobutane
+-   []Cyclohexane Conformations
+-   []Cyclohexane Chair Conformation: An Aerial Tour
+-   []How To Draw The Cyclohexane Chair Conformation
+-   []The Cyclohexane Chair Flip
+-   []The Cyclohexane Chair Flip - Energy Diagram
+-   []Substituted Cyclohexanes: Axial vs Equatorial
+-   []Ranking The Bulkiness Of Substituents On Cyclohexanes: "A-Values"
+-   []Cyclohexane Chair Conformation Stability: Which One Is Lower Energy?
+-   []Fused Rings: Cis-Decalin and Trans-Decalin
+-   []Naming Bicyclic Compounds - Fused, Bridged, and Spiro
+-   []Bredts Rule (And Summary of Cycloalkanes)
+-   []Newman Projection Practice
+-   []Cycloalkanes Practice Problems
+05 A Primer On Organic Reactions[]
+-   []The Most Important Question To Ask When Learning a New Reaction
+-   []Curved Arrows (for reactions)
+-   []Nucleophiles and Electrophiles
+-   []The Three Classes of Nucleophiles
+-   []Nucleophilicity vs. Basicity
+-   []What Makes A Good Nucleophile?
+-   []What Makes A Good Leaving Group?
+-   []3 Factors That Stabilize Carbocations
+-   []Equilibrium and Energy Relationships
+-   []7 Factors that stabilize negative charge in organic chemistry
+-   []7 Factors That Stabilize Positive Charge in Organic Chemistry
+-   []What Is a Transition State?
+-   []Hammonds Postulate
+-   []Learning Organic Chemistry Reactions: A Checklist (PDF)
+06 Free Radical Reactions[]
+-   []Free Radical Reactions
+-   []3 Factors That Stabilize Free Radicals
+-   []Bond Strengths And Radical Stability
+-   []Free Radical Initiation: Why Is "Light" Or "Heat" Required?
+-   []Initiation, Propagation, Termination
+-   []Monochlorination Products Of Propane, Pentane, And Other Alkanes
+-   []Selectivity In Free Radical Reactions
+-   []Selectivity in Free Radical Reactions: Bromination vs. Chlorination
+-   []Halogenation At Tiffanys
+-   []Allylic Bromination
+-   []Bonus Topic: Allylic Rearrangements
+-   []In Summary: Free Radicals
+-   []Synthesis (2): Reactions of Alkanes
+-   []Free Radicals Practice Quizzes
+07 Stereochemistry and Chirality[]
+-   []Types of Isomers: Constitutional Isomers, Stereoisomers, Enantiomers, and Diastereomers
+-   []How To Draw The Enantiomer Of A Chiral Molecule
+-   []How To Draw A Bond Rotation
+-   []Introduction to Assigning (R) and (S): The Cahn-Ingold-Prelog Rules
+-   []Assigning Cahn-Ingold-Prelog (CIP) Priorities (2): The Method of Dots
+-   []Enantiomers vs Diastereomers vs The Same? Two Methods For Solving Problems
+-   []Assigning R/S To Newman Projections (And Converting Newman To Line Diagrams)
+-   []How To Determine R and S Configurations On A Fischer Projection
+-   []The Meso Trap
+-   []Optical Rotation, Optical Activity, and Specific Rotation
+-   []Optical Purity and Enantiomeric Excess
+-   []What Is a Racemic Mixture?
+-   []Chiral Allenes And Chiral Axes
+-   []Stereochemistry Practice Problems and Quizzes
+08 Substitution Reactions[]
+-   []Nucleophilic Substitution Reactions - Introduction
+-   []Two Types of Nucleophilic Substitution Reactions
+-   []The SN2 Mechanism
+-   []Why the SN2 Reaction Is Powerful
+-   []The SN1 Mechanism
+-   []The Conjugate Acid Is A Better Leaving Group
+-   []Comparing the SN1 and SN2 Reactions
+-   []Polar Protic? Polar Aprotic? Nonpolar? All About Solvents
+-   []Steric Hindrance is Like a Fat Goalie
+-   []Common Blind Spot: Intramolecular Reactions
+-   []Substitution Practice - SN1
+-   []Substitution Practice - SN2
+09 Elimination Reactions[]
+-   []Elimination Reactions (1): Introduction And The Key Pattern
+-   []Elimination Reactions (2): The Zaitsev Rule
+-   []Elimination Reactions Are Favored By Heat
+-   []Two Elimination Reaction Patterns
+-   []The E1 Reaction
+-   []The E2 Mechanism
+-   []E1 vs E2: Comparing the E1 and E2 Reactions
+-   []Antiperiplanar Relationships: The E2 Reaction and Cyclohexane Rings
+-   []Bulky Bases in Elimination Reactions
+-   []Comparing the E1 vs SN1 Reactions
+-   []Elimination (E1) Reactions With Rearrangements
+-   []E1cB: Elimination (Unimolecular) Conjugate Base
+-   []Elimination (E1) Practice Problems And Solutions
+-   []Elimination (E2) Practice Problems and Solutions
+10 Rearrangements[]
+-   []Introduction to Rearrangement Reactions
+-   []Rearrangement Reactions (1): Hydride Shifts
+-   []Carbocation Rearrangement Reactions (2): Alkyl Shifts
+-   []Pinacol Rearrangement
+-   []The SN1, E1, and Alkene Addition Reactions All Pass Through A Carbocation Intermediate
+11 SN1/SN2/E1/E2 Decision[]
+-   []Identifying Where Substitution and Elimination Reactions Happen
+-   []Deciding SN1/SN2/E1/E2 (1): The Substrate
+-   []Deciding SN1/SN2/E1/E2 (2): The Nucleophile/Base
+-   []SN1 vs E1 and SN2 vs E2 : The Temperature
+-   []Deciding SN1/SN2/E1/E2: The Solvent
+-   []Wrapup: The Key Factors For Determining SN1/SN2/E1/E2
+-   []Alkyl Halide Reaction Map And Summary
+-   []SN1 SN2 E1 E2 Practice Problems
+12 Alkene Reactions[]
+-   []E and Z Notation For Alkenes (+ Cis/Trans)
+-   []Alkene Stability
+-   []Alkene Addition Reactions: Regioselectivity and Stereoselectivity (Syn/Anti)
+-   []Stereoselective and Stereospecific Reactions
+-   []Hydrohalogenation of Alkenes and Markovnikov's Rule
+-   []Hydration of Alkenes With Aqueous Acid
+-   []Rearrangements in Alkene Addition Reactions
+-   []Halogenation of Alkenes and Halohydrin Formation
+-   []Oxymercuration Demercuration of Alkenes
+-   []Hydroboration Oxidation of Alkenes
+-   []m-CPBA (meta-chloroperoxybenzoic acid)
+-   []OsO4 (Osmium Tetroxide) for Dihydroxylation of Alkenes
+-   []Palladium on Carbon (Pd/C) for Catalytic Hydrogenation of Alkenes
+-   []Cyclopropanation of Alkenes
+-   []A Fourth Alkene Addition Pattern - Free Radical Addition
+-   []Alkene Reactions: Ozonolysis
+-   []Oxidative Cleavage of Vicinal Diols With NaIO4 and Pb(OAc)4
+-   []Summary: Three Key Families Of Alkene Reaction Mechanisms
+-   []Synthesis (4): Alkene Reaction Map, Including Alkyl Halide Reactions
+-   []Alkene Reactions Practice Problems
+13 Alkyne Reactions[]
+-   []Acetylides from Alkynes, And Substitution Reactions of Acetylides
+-   []Partial Reduction of Alkynes With Lindlar Catalyst
+-   []Partial Reduction of Alkynes With Na/NH3 To Obtain Trans Alkenes
+-   []Alkyne Hydroboration With R2BH
+-   []Hydration and Oxymercuration of Alkynes
+-   []Hydrohalogenation of Alkynes
+-   []Alkyne Halogenation: Bromination and Chlorination of Alkynes
+-   []Oxidation of Alkynes With O3 and KMnO4
+-   []Alkenes To Alkynes Via Halogenation And Elimination Reactions
+-   []Alkynes Are A Blank Canvas
+-   []Synthesis (5): Reactions of Alkynes
+-   []Alkyne Reactions Practice Problems With Answers
+14 Alcohols, Epoxides and Ethers[]
+-   []Alcohols: Nomenclature and Properties
+-   []Alcohols Can Act As Acids Or Bases (And Why It Matters)
+-   []Alcohols: Acidity and Basicity
+-   []The Williamson Ether Synthesis
+-   []Ethers From Alkenes, Tertiary Alkyl Halides and Alkoxymercuration
+-   []Alcohols To Ethers via Acid Catalysis
+-   []Cleavage Of Ethers With Acid
+-   []Epoxides - The Outlier Of The Ether Family
+-   []Opening of Epoxides With Acid
+-   []Epoxide Ring Opening With Base
+-   []Making Alkyl Halides From Alcohols
+-   []Tosylates And Mesylates
+-   []PBr3 and SOCl2
+-   []Elimination Reactions of Alcohols
+-   []Elimination of Alcohols To Alkenes With POCl3
+-   []Alcohol Oxidation: "Strong" and "Weak" Oxidants
+-   []Demystifying The Mechanisms of Alcohol Oxidations
+-   []Protecting Groups For Alcohols
+-   []Thiols And Thioethers
+-   []Calculating the oxidation state of a carbon
+-   []Oxidation and Reduction in Organic Chemistry
+-   []Oxidation Ladders
+-   []SOCl2 Mechanism For Alcohols To Alkyl Halides: SN2 versus SNi
+-   []Alcohol Reactions Roadmap (PDF)
+-   []Alcohol Reaction Practice Problems
+-   []Epoxide Reaction Quizzes
+-   []Oxidation and Reduction Practice Quizzes
+15 Organometallics[]
+-   []What's An Organometallic?
+-   []Formation of Grignard and Organolithium Reagents
+-   []Organometallics Are Strong Bases
+-   []Reactions of Grignard Reagents
+-   []Protecting Groups In Grignard Reactions
+-   []Synthesis Problems Involving Grignard Reagents
+-   []Grignard Reactions And Synthesis (2)
+-   []Organocuprates (Gilman Reagents): How They're Made
+-   []Gilman Reagents (Organocuprates): What They're Used For
+-   []The Heck, Suzuki, and Olefin Metathesis Reactions (And Why They Don't Belong In Most Introductory Organic Chemistry Courses)
+-   []Reaction Map: Reactions of Organometallics
+-   []Grignard (and Organometallics) Practice Problems
+16 Spectroscopy[]
+-   []Degrees of Unsaturation (or IHD, Index of Hydrogen Deficiency)
+-   []Conjugation And Color (+ How Bleach Works)
+-   []Introduction To UV-Vis Spectroscopy
+-   []UV-Vis Spectroscopy: Absorbance of Carbonyls
+-   []UV-Vis Spectroscopy: Practice Questions
+-   []Bond Vibrations, Infrared Spectroscopy, and the Ball and Spring Model
+-   []Infrared (IR) Spectroscopy: A Quick Primer On Interpreting Spectra
+-   []IR Spectroscopy: 4 Practice Problems
+-   []1H NMR: How Many Signals?
+-   []Homotopic, Enantiotopic, Diastereotopic
+-   []Diastereotopic Protons in 1H NMR Spectroscopy: Examples
+-   []13-C NMR - How Many Signals
+-   []Liquid Gold: Pheromones In Doe Urine
+-   []Natural Product Isolation (1): Extraction
+-   []Natural Product Isolation (2): Purification Techniques, An Overview
+-   []Structure Determination Case Study: Deer Tarsal Gland Pheromone
+17 Dienes and MO Theory[]
+-   []What To Expect In Organic Chemistry 2
+-   []Are these molecules conjugated?
+-   []Conjugation And Resonance In Organic Chemistry
+-   []Bonding And Antibonding Pi Orbitals
+-   []Molecular Orbitals of The Allyl Cation, Allyl Radical, and Allyl Anion
+-   []Pi Molecular Orbitals of Butadiene
+-   []Reactions of Dienes: 1,2 and 1,4 Addition
+-   []Thermodynamic and Kinetic Products
+-   []More On 1,2 and 1,4 Additions To Dienes
+-   []s-cis and s-trans
+-   []The Diels-Alder Reaction
+-   []Cyclic Dienes and Dienophiles in the Diels-Alder Reaction
+-   []Stereochemistry of the Diels-Alder Reaction
+-   []Exo vs Endo Products In The Diels Alder: How To Tell Them Apart
+-   []HOMO and LUMO In the Diels Alder Reaction
+-   []Why Are Endo vs Exo Products Favored in the Diels-Alder Reaction?
+-   []Diels-Alder Reaction: Kinetic and Thermodynamic Control
+-   []The Retro Diels-Alder Reaction
+-   []The Intramolecular Diels Alder Reaction
+-   []Regiochemistry In The Diels-Alder Reaction
+-   []The Cope and Claisen Rearrangements
+-   []Electrocyclic Reactions
+-   []Electrocyclic Ring Opening And Closure (2): Six (or Eight) Pi Electrons
+-   []Diels Alder Practice Problems
+-   []Dienes and Conjugated Systems Practice
+18 Aromaticity[]
+-   []Introduction To Aromaticity
+-   []Rules For Aromaticity
+-   []Huckels Rule: What Does 4n+2 Mean?
+-   []Aromatic, Non-Aromatic, or Antiaromatic? Some Practice Problems
+-   []Antiaromatic Compounds and Antiaromaticity
+-   []The Pi Molecular Orbitals of Benzene
+-   []The Pi Molecular Orbitals of Cyclobutadiene
+-   []Frost Circles
+-   []Aromaticity Practice Quizzes
+19 Reactions of Aromatic Molecules[]
+-   []Electrophilic Aromatic Substitution: Introduction
+-   []Activating and Deactivating Groups In Electrophilic Aromatic Substitution
+-   []Electrophilic Aromatic Substitution: The Mechanism
+-   []Ortho-, Para- and Meta- Directors in Electrophilic Aromatic Substitution
+-   []Understanding Ortho, Para, and Meta Directors
+-   []Why are halogens ortho- para- directors?
+-   []Disubstituted Benzenes: The Strongest Electron-Donor "Wins"
+-   []Electrophilic Aromatic Substitutions (1): Halogenation of Benzene
+-   []Electrophilic Aromatic Substitutions (2): Nitration and Sulfonation
+-   []EAS Reactions (3: Friedel-Crafts Acylation and Friedel-Crafts Alkylation
+-   []Intramolecular Friedel-Crafts Reactions
+-   []Nucleophilic Aromatic Substitution (NAS)
+-   []Nucleophilic Aromatic Substitution (2) - The Benzyne Mechanism
+-   []Reactions on the Benzylic Carbon: Bromination And Oxidation
+-   []The Wolff-Kishner, Clemmensen, And Other Carbonyl Reductions
+-   []More Reactions on the Aromatic Sidechain: Reduction of Nitro Groups and the Baeyer Villiger
+-   []Aromatic Synthesis (1): Order Of Operations
+-   []Synthesis of Benzene Derivatives (2): Polarity Reversal
+-   []Aromatic Synthesis (3): Sulfonyl Blocking Groups
+-   []Birch Reduction
+-   []Synthesis (7): Reaction Map of Benzene and Related Aromatic Compounds
+-   []Aromatic Reactions and Synthesis Practice
+-   []Electrophilic Aromatic Substitution Practice Problems
+20 Aldehydes and Ketones[]
+-   []What Is The Alpha Carbon In Carbonyl Compounds?
+-   []Nucleophilic Addition To Carbonyls
+-   []Aldehydes and Ketones: 14 Reactions With The Same Mechanism
+-   []Sodium Borohydride (NaBH4) Reduction of Aldehydes and Ketones
+-   []Grignard Reagents For Addition To Aldehydes and Ketones
+-   []Wittig Reaction
+-   []Hydrates, Hemiacetals, and Acetals
+-   []Imines: Properties, Formation, Reactions, and Mechanisms
+-   []All About Enamines
+-   []Breaking Down Carbonyl Reaction Mechanisms: Reactions of Anionic Nucleophiles (Part 2)
+-   []Aldehydes Ketones Reaction Practice
+21 Carboxylic Acid Derivatives[]
+-   []Nucleophilic Acyl Substitution (With Negatively Charged Nucleophiles)
+-   []Addition-Elimination Mechanisms With Neutral Nucleophiles (Including Acid Catalysis)
+-   []Basic Hydrolysis of Esters: Saponification
+-   []Transesterification
+-   []Proton Transfer
+-   []Fischer Esterification: Carboxylic Acid to Ester Under Acidic Conditions
+-   []Lithium Aluminum Hydride (LiAlH4) For Reduction of Carboxylic Acid Derivatives
+-   []LiAlH[Ot-Bu]3 For The Reduction of Acid Halides To Aldehydes
+-   []Di-isobutyl Aluminum Hydride (DIBAL) For The Partial Reduction of Esters and Nitriles
+-   []Amide Hydrolysis
+-   []Thionyl Chloride (SOCl2) And Conversion of Carboxylic Acids to Acid Halides
+-   []Diazomethane (CH2N2)
+-   []Carbonyl Chemistry: Learn Six Mechanisms For the Price Of One
+-   []Making Music With Mechanisms (PADPED)
+-   []Carboxylic Acid Derivatives Practice Questions
+22 Enols and Enolates[]
+-   []Keto-Enol Tautomerism
+-   []Enolates: Formation, Stability, and Simple Reactions
+-   []Kinetic Versus Thermodynamic Enolates
+-   []Aldol Addition and Condensation Reactions
+-   []Reactions of Enols: Acid-Catalyzed Aldol, Halogenation, and Mannich Reactions
+-   []Claisen Condensation and Dieckmann Condensation
+-   []Decarboxylation
+-   []The Malonic Ester and Acetoacetic Ester Synthesis
+-   []The Michael Addition Reaction and Conjugate Addition
+-   []The Robinson Annulation
+-   []Haloform Reaction
+-   []The Hell–Volhard–Zelinsky Reaction
+-   []Enols and Enolates Practice Quizzes
+23 Amines[]
+-   []The Amide Functional Group: Properties, Synthesis, and Nomenclature
+-   []Basicity of Amines And pKaH
+-   []5 Key Basicity Trends of Amines
+-   []The Mesomeric Effect And Aromatic Amines
+-   []Nucleophilicity of Amines
+-   []Alkylation of Amines (Sucks!)
+-   []Reductive Amination
+
+--- przewodnik po reakcjach (reaction-guide), fragment ---
+
+Skip to content
+[] MasterOrganicChemistry Back to homepage
+-   Home
+-   Study Guides
+-   Reactions
+-   Quizzes
+-   MOC Membership
+-   Tutoring
+Search
+Type and Press “enter” to Search
+Searching... []
+[]
+-   Tutoring
+-   Login
+[]
+Reactions and Mechanisms
+The Organic Chemistry Reaction and Mechanism Guide will help you understand more than 185 of the most common reactions encountered in undergraduate organic chemistry.
+The guide covers all the necessary reactions from the beginning of Org 1 (Structure and Bonding) to the end of Org 2 (Amino Acids) and everything in-between (Stereochemistry, Alkene & Alkyne Reactions, SN1/SN2/E1/E2, Dienes, Alcohols, Aldehydes, and Ketones…)
+Each of the reactions include  step-by-step explanations, reagents, mechanisms, multiple examples, nuances, special cases, and rules, as well as practice quizzes from real-world exams.
+Show practice flashcards
+Loading flashcards…
+Anyone can access the reactions highlighted in red.
+*To save time scrolling, use CNTL-F to find specific text*
+If you’d like to unlock unlimited access to all the reactions in the guide, check out The Master Organic Chemistry Membership, where you’ll also get full access to 3000+ organic chemistry practice quizzes from real-world exams, as well as 200+ printable flashcards that will help you identify and plug the gaps in your knowledge.
+“The Reaction Guide was my key resource for exams. The concise, consistent format for each and every reaction I needed meant I could memorize reactions and spit them out on exams automatically. It worked, I surprised myself and got an A in Org 1.” -Kathleen N, City College, CUNY, NY.
+Alkanes Alkenes Alkynes Substitution (SN2) Substitution (SN1) Elimination Reactions Reactions of Organometallics Reactions of Epoxides Reactions of Alcohols and Thiols Reactions of Dienes Reactions of Aromatics (Arenes) Reactions of Aldehydes and Ketones Reactions of Carboxylic Acids Reactions of Esters Reactions of Acyl Halides Reactions of α,β-unsaturated ketones [enones] Reactions of Amines and Amides Reactions of Nitriles Miscellaneous
+Alkanes
+Free radical chlorination [hν, Cl₂]
+Free radical bromination [hν, Br₂]
+Allylic bromination [NBS]
+back to top
+Alkenes
+Addition of HCl
+Addition of HBr
+Addition of H₃O(+)
+Addition of HI
+Chlorination [Cl₂]
+Bromination [Br₂]
+Iodination [I₂]
+Chlorohydrin formation [Cl₂/H₂O]
+Bromohydrin formation [Br₂/H₂O]
+Ether Formation [H+/ROH]
+Oxymercuration [Hg(OAc)₂/H₂O]
+Oxymercuration [Hg(OAc)₂/ROH]
+Hydroboration
+Epoxidation [RCO₃H]
+Dihydroxylation [OsO₄]
+Dihydroxylation [KMnO₄]
+Cyclopropanation (Simmons-Smith)
+Dichlorocyclopropanation
+Ozonolysis (Reductive workup)
+Ozonolysis (Oxidative workup)
+Oxidative Cleavage [KMnO₄]
+Hydrogenation

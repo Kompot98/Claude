@@ -1,0 +1,306 @@
+adres: https://www.organic-chemistry.org/namedreactions/
+data: 2026-11-03
+metoda: curl + pandoc (tekst strony)
+odpowiedź: 200 https://www.organic-chemistry.org/namedreactions/
+tytuł: Name Reactions
+
+Organic Chemistry Portal
+Reactions
+Name Reactions
+Please use the following URL if you want to set a link: https://www.organic-chemistry.org/namedreactions/ .
+------------------------------------------------------------------------
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+------------------------------------------------------------------------
+[] a
+Acetoacetic Ester Condensation
+Acetoacetic Ester Synthesis
+Acyloin Condensation
+Alder-Ene Reaction
+Aldol Addition
+Aldol Condensation
+Appel Reaction
+Arbuzov Reaction
+Arndt-Eistert Synthesis
+Azide-Alkyne 1,3-Dipolar Cycloaddition
+Azo Coupling
+[] b
+Baeyer-Villiger Oxidation
+Baker-Venkataraman Rearrangement
+Balz-Schiemann Reaction
+Bamford-Stevens Reaction
+Barton Decarboxylation
+Barton-McCombie Reaction (Barton Desoxygenation)
+Baylis-Hillman Reaction
+Beckmann Rearrangement
+Benzilic Acid Rearrangement
+Benzoin Condensation
+Bergman Cyclization
+Bestmann-Ohira Reagent
+Biginelli Reaction
+Birch Reduction
+Bischler-Napieralski Reaction
+Blaise Reaction
+Blanc Reaction
+Bohlmann-Rahtz Pyridine Synthesis
+Boronic Acid Mannich Reaction
+Bouveault-Blanc Reduction
+Brook Rearrangement
+Brown Hydroboration
+Bucherer-Bergs Reaction
+Buchwald-Hartwig Cross Coupling Reaction
+[] c
+Cadiot-Chodkiewicz Coupling
+Cannizzaro Oxidation Reduction
+CBS Reduction
+Chan-Lam Coupling
+Claisen Condensation
+Claisen Rearrangement
+Clemmensen Reduction
+Click Chemistry
+Collins Reagent
+Cope Elimination
+Cope Rearrangement
+Conia-Ene Reaction
+Corey-Bakshi-Shibata Reduction
+Corey-Chaykovsky Reaction
+Corey-Fuchs Reaction
+Corey-Kim Oxidation
+Corey-Seebach Reaction
+Corey-Suggs Reagent
+Corey-Winter Olefin Synthesis
+Coumarin Synthesis
+Criegee Mechanism for Ozonolysis
+Cross Metathesis
+Curtius Rearrangement (Reaction)
+[] d
+Dakin Reaction
+Darzens Condensation
+Darzens Reaction
+Davis Oxidation
+De Kimpe Aziridine Synthesis
+Delépine Reaction
+Dess-Martin Oxidation
+Diazotisation
+Dieckmann Condensation
+Diels-Alder Reaction
+1,3-Dipolar Cycloaddition
+Directed ortho Metalation
+Doebner Modification
+[] e
+Eglinton Reaction
+Ene Reaction
+Enyne Metathesis
+Epoxidation
+Eschweiler-Clarke Reaction
+Ester Pyrolysis
+Esterification
+[] f
+Favorskii Reaction
+Finkelstein Reaction
+Fischer Esterification
+Fischer Indole Synthesis
+Fleming-Tamao Oxidation
+Friedel-Crafts Acylation
+Friedel-Crafts Alkylation
+Friedlaender Synthesis
+Fries Rearrangement
+Fukuyama Coupling
+Fukuyama Reduction
+[] g
+Gabriel Synthesis
+Gewald Reaction
+Glaser Coupling
+Griesbaum Coozonolysis
+Grignard Reaction
+Grubbs Reaction
+[] h
+Haloform Reaction
+Hantzsch Dihydropyridine Synthesis (Pyridine Synthesis)
+Hay Coupling
+Heck Reaction
+Hell-Volhard-Zelinsky Reaction
+Henry Reaction
+Hiyama Coupling
+Hiyama-Denmark Coupling
+Hofmann Elimination
+Hofmann's Rule
+Horner-Wadsworth-Emmons Reaction
+Hosomi-Sakurai Reaction
+Huisgen Cycloaddition
+Hunsdiecker Reaction
+Hydroboration
+[] i
+Ireland-Claisen Rearrangement
+Itsuno-Corey Reduction
+Iwanow Reaction (Reagent)
+[] j
+Jacobsen Epoxidation
+Jacobsen-Katsuki Epoxidation
+Jocic Reaction
+Johnson-Corey-Chaykovsky Reaction
+Jones Oxidation
+Julia-Lythgoe Olefination
+Julia-Kocienski Olefination
+[] k
+Kabachnik-Fields Reaction
+Kindler Reaction
+Knoevenagel Condensation
+Kochi Reaction
+Kolbe Electrolysis
+Kolbe Nitrile Synthesis
+Kolbe-Schmitt Reaction
+Koser's Reagent
+Kowalski Ester Homologation
+Kulinkovich Reaction
+Kulinkovich-de Meijere Reaction
+Kulinkovich-Szymoniak Reaction
+Kumada Coupling
+[] l
+Lawesson's Reagent
+Leuckart Thiophenol Reaction
+Luche Reduction
+[] m
+Malonic Ester Synthesis
+Mannich Reaction
+Markovnikov's Rule
+McMurry Reaction
+Meerwein-Ponndorf-Verley Reduction
+Myers' Modification of the Ramberg-Bäcklund Reaction
+Myers-Saito Cyclization
+Michael Addition
+Michaelis-Arbuzov Reaction
+Mitsunobu Reaction
+Miyaura Borylation Reaction
+Modified Julia Olefination
+Mukaiyama Aldol Addition
+[] n
+Nazarov Cyclization
+Nef Reaction
+Negishi Coupling
+Newman-Kwart Rearrangement
+Nitroaldol Reaction
+Nozaki-Hiyama Coupling
+Nucleophilic Substitution (S_(N)1 / S_(N)2)
+[] o
+O'Donnell Amino Acid Synthesis
+Ohira-Bestmann Reagent
+Olefin Metathesis
+Oppenauer Oxidation
+Overman Rearrangement
+Oxy-Cope Rearrangement
+Ozonolysis
+[] p
+Paal-Knorr Furan Synthesis
+Paal-Knorr Pyrrole Synthesis
+Paal-Knorr Thiophene Synthesis
+Passerini Reaction
+Paterno-Büchi Reaction
+Pauson-Khand Reaction
+Pechmann Condensation
+Petasis Reaction
+Peterson Olefination
+Pinacol Coupling Reaction
+Pinacol Rearrangement
+Pinner Reaction
+Prévost Reaction
+Prilezhaev Reaction
+Prins Reaction
+Pschorr Reaction
+[] q
+[] r
+Ramberg-Bäcklund Reaction
+Reformatsky Reaction
+Ring Closing Metathesis
+Ring Opening Metathesis (Polymerization)
+Ritter Reaction
+Robinson Annulation
+Rosenmund Reduction
+Rosenmund-von Braun Reaction
+Rubottom Oxidation
+[] s
+Sakurai Reaction
+Sandmeyer Reaction
+Saytzeff's Rule
+Schiemann Reaction
+Schlosser Modification
+Schmidt Reaction
+Schotten-Baumann Reaction
+Seebach Umpolung
+Seyferth-Gilbert Homologation
+Sarett Reagent
+Shapiro Reaction
+Sharpless Aminohydroxylation
+Sharpless Dihydroxylation
+Sharpless Epoxidation
+Shi Epoxidation
+Simmons-Smith Reaction
+Sonogashira Coupling
+Staudinger Cycloaddition
+Staudinger Reaction
+Staudinger Reduction
+Staudinger Synthesis
+Steglich Esterification
+Stetter Reaction
+Stille Coupling
+Strecker Synthesis
+Suzuki Coupling
+Swern Oxidation
+[] t
+Tamao-Kumada Oxidation
+Tebbe Olefination
+Tishchenko Reaction
+Tsuji-Trost Reaction
+Trost Allylation
+[] u
+Ugi Reaction
+Ullmann Reaction
+Upjohn Dihydroxylation
+[] v
+Van Leusen Imidazole Synthesis
+Van Leusen Oxazole Synthesis
+Van Leusen Reaction
+Vicarious Nucleophilic Substitution
+Vilsmeier Reaction
+[] w
+Wacker-Tsuji Oxidation
+Weinreb Ketone Synthesis
+Wenker Synthesis
+Willgerodt-Kindler Reaction
+Williamson Synthesis
+Wittig-Horner Reaction
+Wittig Reaction
+[1,2]-Wittig Rearrangement
+[2,3]-Wittig Rearrangement
+Wohl-Ziegler Reaction
+Wolff-Kishner Reduction
+Wolff Rearrangement
+Woodward cis-Hydroxylation
+Woodward Reaction
+Wurtz Reaction
+Wurtz-Fittig Reaction
+[] x
+[] y
+Yamaguchi Esterification
+[] z
+Why are there Name Reactions?
+Name reactions honor the discoverers of groundbreaking chemical reactions or refinements of earlier known transformations in the way that many scientists have their names attached to an effect or a phenomenon, an equation, a constant, etc. In some cases, the person whose name is associated with the reaction was not the first to discover the reaction, but instead managed to popularize it. Reaction names can also simply describe the reaction type, often by using the initials or referring to structural features.
+As an example, a very important field in chemical synthesis is carbon-carbon bond formation, and a great many name reactions exist that describe such transformations. In this field, the development of a procedure for using organomagnesium compounds by Victor Grignard led to totally new addition reactions that expanded the scope of organic synthesis tremendously. In a historical twist, Grignard was not the first to use such reagents but rather simplified the procedure by generating the highly reactive reagent in situ. This popularized the use of the related transformations, which had previously been quite tedious as the sensitive organomagnesium reagents needed to be prepared separately and stored. What we now know as Grignard reagents are most often used in additions to carbonyl compounds that provide alcohols or other products in high yields, and this process is nowadays referred to as the Grignard reaction. In another important case, many C-C bond forming reactions are promoted by palladium catalysis, which results in a more efficient use of reagents and more readily accessible conditions. An example is the synthesis of biaryl moieties, substructures that occur frequently in compounds of interest in medicinal chemistry. As an indication of how useful these reactions are, the named reactions for many variants of these palladium-catalyzed biaryl coupling reactions became current within just a few years after discovery, even during lifetime of the respective authors, such as (Makoto) Kumada, (John Kenneth, or J.K.) Stille and (Akira) Suzuki coupling. Other chemists, who develop specific variants or improvements or hybrid conditions, have their names are appended as in the Kumada-Tamao-Corriu coupling.
+In addition to the use of the names of chemists, we also have groundbreaking reactions that come to be known by abbreviations of a descriptive name, such as "RCM" (ring-closing metathesis) or INOC (intramolecular nitrile oxide cyclization). We seldom use the name of the chemist who developed RCM (Robert Grubbs) to refer to the reaction, but his contribution is instead acknowledged by applying his name to the ruthenium-catalysts used. Thus, we speak of the "Grubbs catalyst" or "2nd generation Grubbs catalyst". Besides names such as "RCM", some frequently used reactions are named for structural features of the precursor or product. Examples include the "aldol reaction" ("aldol" is an abbreviation of a compound that contains both aldehyde and alcohol functionalities) or the "pinacol rearrangement".
+Why must we learn dozens (or hundreds!) of name reactions?
+As mentioned above, name reactions are used to refer to groundbreaking reactions or the associated mechanisms or principles that are worthwhile knowing and keeping straight. Just as physicians must learn the names of organs and geologists the names of minerals, chemists or students of chemistry use name reactions as a way to organize their knowledge and communicate about chemical transformations. In laboratory discussions, people very often use name reactions to refer to experiments they are running or the chemical problems they are investigating. The name reaction is a type of shorthand that avoids the need to give a lengthier explanation of the features of a particular transformation of interest. Mentioning the name reaction allows a knowledgeable listener to bring to mind the possible substrates, reaction conditions, or mechanistic details. Everyone in the field is expected to know a basic set of name reactions by heart, and this makes discussions less time-consuming. In this way, name reactions have become part of the shared vocabulary of organic synthesis chemists. When meeting a fellow chemist, for example at a conference or during a job interview, it is possible to make an initial assessment of your listener’s level and depth of expertise and experience by referring to an exotic name reaction. Such recognition can signal that a listener (or job candidate) has command of a particular area of chemistry. This means that he or she would be capable of understanding details of the synthetic routes in the work described, and could possibly develop alternatives.
+[Organic Chemistry]
+Site Search
+any all words
+Main Categories
+-   Organic Reactions
+-   Org. Chem. Highlights
+-   Abstracts
+-   Chemicals
+-   Job Market
+-   Presentations
+-   Chemistry Tools
+-   Ads & Imprint
+Popular Subcategories
+-   Name Reactions
+-   Protecting Groups
+-   Organic Synthesis

@@ -1,0 +1,31 @@
+adres: https://www.youtube.com/playlist?list=PLlhOYvtSn-fsrcj8e9zH8Qd8Kwke1pfpR
+data: 2026-11-03
+metoda: yt-dlp --flat-playlist -J (bez logowania; opisy pojedynczych filmów i transkrypcje niedostępne)
+tytuł playlisty: Chemia organiczna (2017/2018)
+kanał: Uniwersytet Śląski
+liczba filmów: 19
+opis playlisty: (brak)
+
+filmy:
+  1. prof. Jarosław Polański: Chemia organiczna. Wykład 1 [61:32]
+  2. prof. Jarosław Polański: Chemia organiczna. Wykład 2 [38:41]
+  3. prof. Jarosław Polański: Chemia organiczna. Wykład 3 [66:44]
+  4. prof. Jarosław Polański: Chemia organiczna. Wykład 4 [50:47]
+  5. prof. Jarosław Polański: Chemia organiczna. Wykład 5 [83:49]
+  6. prof. Jarosław Polański: Chemia organiczna. Wykład 6 [42:10]
+  7. prof. Jarosław Polański: Chemia organiczna. Wykład 7 [77:13]
+  8. prof. Jarosław Polański: Chemia organiczna. Wykład 8 [38:27]
+  9. prof. Jarosław Polański: Chemia organiczna. Wykład 9 [75:01]
+ 10. prof. Jarosław Polański: Chemia organiczna. Wykład 10 [38:25]
+ 11. prof. Jarosław Polański: Chemia organiczna. Wykład 11 [52:05]
+ 12. prof. Jarosław Polański: Chemia organiczna. Wykład 12 [68:46]
+ 13. prof. Jarosław Polański: Chemia organiczna. Wykład 13 [80:00]
+ 14. prof. Jarosław Polański: Chemia organiczna. Wykład 14. [43:48]
+ 15. prof. Jarosław Polański: Chemia organiczna. Wykład 15. [78:07]
+ 16. prof. Jarosław Polański: Chemia organiczna. Wykład 16. [32:40]
+ 17. prof. Jarosław Polański: Chemia organiczna. Wykład 17. [51:32]
+ 18. prof. Jarosław Polański: Chemia organiczna. Wykład 18. [50:23]
+ 19. prof. Jarosław Polański: Chemia organiczna. Wykład 19. [111:50]
+
+--- opis filmu „Wykład 1” (strona filmu, curl, 2026-11-03): data publikacji Apr 20, 2018; „Pierwszy wykład z chemii organicznej prof. zw. dr. hab. inż. Jarosława Polańskiego – kierownika Zakład Chemii Organicznej UŚ.”
+Playlista nie jest widoczna w zakładce playlist kanału; adres odczytany ze strony filmu (pole superTitleLink).
