@@ -93,7 +93,7 @@ Zasady licencji: tylko CC BY, CC BY-SA, CC0 albo domena publiczna, sprawdzone pr
 ### F-21 (04d-laboratorium.md)
 
 - Co pokazuje: Zdjęcie osoby pracującej pod dygestorium w okularach ochronnych i zapiętym fartuchu.
-- Podpis: „Okulary, fartuch, dygestorium: trzy rzeczy, od których zaczyna się każda pracownia.”
+- Podpis: „Okulary ochronne, zapięty fartuch, dygestorium: podstawa bezpiecznej pracy.”
 - Szukać: laboratory fume hood safety goggles lab coat photo
 - Gdzie: Wikimedia Commons (licencja przy pliku), ewentualnie inne repozytoria z licencją CC BY lub CC BY-SA
 - Licencja: CC BY, CC BY-SA, CC0 albo domena publiczna, sprawdzone przy pliku; bez NC i ND; bez zrzutów z podręczników i stron
@@ -116,7 +116,7 @@ Zasady licencji: tylko CC BY, CC BY-SA, CC0 albo domena publiczna, sprawdzone pr
 
 ### F-03 (01-inna-gra.md)
 
-- Co pokazuje: Gruby rozdział podręcznika (około 30 stron) z zaznaczonym małym fragmentem (około jednej dziesiątej), strzałka do slajdów wykładu i do kartki z pytaniami na kolokwium.
+- Co pokazuje: Gruby rozdział podręcznika (około 30 stron) z zaznaczonym małym fragmentem (około jednej dziesiątej), strzałka do slajdów wykładu i do kartki z pytaniami na sprawdzian.
 - Podpis: „Z rozdziału na trzydzieści stron na wykład trafia mała część, i z niej są pytania.”
 - Gdzie: rysunek własny
 - Licencja: własny rysunek zespołu kursu

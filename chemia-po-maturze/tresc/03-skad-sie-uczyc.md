@@ -16,7 +16,7 @@ Kolejność, która zwykle działa: najpierw notatki z wykładu, potem krótki f
 
 ### Polskie materiały uczelni
 
-Uniwersytet Śląski udostępnia nagrania wykładu „Chemia organiczna” prof. Jarosława Polańskiego z roku 2017/2018 [R-001]. To 19 wykładów, każdy od pół godziny do prawie dwóch godzin, nagranych na sali, bez montażu. Tytuły filmów to tylko numery wykładów, więc konkretnego tematu szuka się, przewijając. Warto po nie sięgnąć, gdy chcesz usłyszeć organiczną po polsku, z polskim nazewnictwem, albo posłuchać drugiego wykładowcy, kiedy własny wykład był za szybki. (Po polsku; poziom pierwszego roku.)
+Uniwersytet Śląski udostępnia nagrania wykładu „Chemia organiczna” prof. Jarosława Polańskiego z roku 2017/2018 [R-001]. To 19 wykładów, każdy od pół godziny do prawie dwóch godzin. Tytuły filmów to tylko numery wykładów, więc konkretnego tematu szuka się, przewijając. Warto po nie sięgnąć, gdy chcesz usłyszeć organiczną po polsku, z polskim nazewnictwem, albo posłuchać drugiego wykładowcy, kiedy własny wykład był za szybki. (Po polsku; poziom pierwszego roku.)
 
 Drugi polski cykl wykładów jest na kanale SGGW [R-054]. To 25 nagrań z podstaw organicznej, po 40 do 90 minut, i w odróżnieniu od nagrań UŚ każdy film ma temat w tytule: alkany, alkeny i alkiny, związki aromatyczne, alkohole i fenole, aminy, stereochemia, związki karbonylowe, cukry, peptydy, lipidy. Dzięki temu łatwo trafić w wykład z jednej grupy związków, na przykład przed kolokwium. Układ jest bliski kursom organicznej na kierunkach przyrodniczych i biologicznych. (Po polsku; poziom pierwszego roku.)
 
@@ -26,25 +26,23 @@ Polska wersja Khan Academy ma osobny kurs „Chemia organiczna” [R-062]. Zaczy
 
 Katedra Chemii Organicznej Politechniki Warszawskiej udostępnia szesnaście krótkich plików o polskim nazewnictwie związków organicznych, klasa po klasie, od alkanów po aminy i związki azowe, z tabelą grup według reguły pierwszeństwa na końcu [R-019]. Przydają się, bo większość materiałów wideo jest po angielsku i uczy nazw angielskich, a na kolokwium nazwę zwykle pisze się po polsku. Pliki powstały w 2011 roku na podstawie skryptu politechniki, czyli uczelnianego podręcznika do tego przedmiotu; jeśli Twój prowadzący trzyma się nowszych zaleceń nazewniczych, warto go o to zapytać. (Po polsku; poziom pierwszego roku.)
 
-[ADRIAN: tu jedno zdanie, czy znasz polskie materiały do organicznej, które Twoi studenci faktycznie wykorzystywali, np. skrypty konkretnych katedr; wyszukiwanie znalazło niewiele otwartych polskich materiałów poza nagraniami UŚ.]
-
 ### Podręczniki
 
 Po polsku masz do wyboru przede wszystkim dwa przetłumaczone podręczniki. Pierwszy to McMurry, „Chemia organiczna”, w pięciu tomach Wydawnictwa Naukowego PWN, wydanie IV [R-004]. To pełny wykład od budowy i wiązań po biomolekuły, z zadaniami na końcu rozdziałów. Tomy są podzielone według rozdziałów oryginału, więc łatwo wziąć z biblioteki tylko ten, którego potrzebujesz. Ten sam autor ma nowsze, dziesiąte wydanie angielskie, które jest bezpłatne w sieci na platformie OpenStax [R-016]. Ma 31 rozdziałów, a spektroskopia jest w rozdziałach od 12 do 14. Jeśli w bibliotece nie ma wolnego egzemplarza polskiego, angielski McMurry jest pod ręką zawsze.
 
-Drugi to Clayden, Greeves, Warren i Wothers, „Chemia organiczna”, cztery części wydane przez Wydawnictwa Naukowo-Techniczne w latach 2009–2011 [R-005]. Uczy przez mechanizmy, więcej tłumaczy, mniej wylicza. Polskie tłumaczenie dotyczy pierwszego wydania. Drugie wydanie angielskie z 2012 roku ma 43 rozdziały i około 1260 stron [R-018]. To książka raczej dla kierunku chemia i dla tych, których prowadzący uczy od mechanizmów.
+Drugi to Clayden, Greeves, Warren i Wothers, „Chemia organiczna”, cztery części wydane przez Wydawnictwa Naukowo-Techniczne w latach 2009–2011 [R-005]. Polskie tłumaczenie dotyczy pierwszego wydania. W drugim wydaniu angielskim rozdziały są ułożone w dużej części według typów reakcji i mechanizmów, na przykład „Nucleophilic Addition to the Carbonyl Group” czy „Elimination Reactions”, a nie według klas związków. Drugie wydanie angielskie z 2012 roku ma 43 rozdziały i około 1260 stron [R-018]. To książka raczej dla kierunku chemia i dla tych, których prowadzący uczy od mechanizmów.
 
-Na kierunkach medycznych i na biotechnologii przydaje się otwarty podręcznik Tima Soderberga „Organic Chemistry with a Biological Emphasis” w serwisie LibreTexts [R-017]. Każdy typ reakcji pokazuje na przykładzie z metabolizmu, a osobne rozdziały mówią o przenoszeniu grup fosforanowych, utlenianiu i redukcji w komórce oraz o chemii witamin. Jeśli nie widzisz, po co lekarzowi organiczna, tu zobaczysz to na każdej stronie. (Po angielsku; poziom pierwszego roku.)
+Na kierunkach medycznych i na biotechnologii przydaje się otwarty podręcznik Tima Soderberga „Organic Chemistry with a Biological Emphasis” w serwisie LibreTexts [R-017]. Jest pisany z naciskiem na biologię: obok klasycznych tematów ma osobne rozdziały o przenoszeniu grup fosforanowych, utlenianiu i redukcji w komórce oraz o chemii witamin. Jeśli nie widzisz, po co lekarzowi organiczna, zacznij od tych rozdziałów. (Po angielsku; poziom pierwszego roku.)
 
 O tym, jak zdobyć książkę bez kupowania jej, jest więcej w rozdziale 1. Najkrócej: biblioteka wydziałowa, dostęp uczelni do e-booków, wydania otwarte i starsze wydania.
 
 ### Kanały wideo
 
-Professor Dave Explains ma playlistę „Organic Chemistry” ze 119 filmami [R-006]. Każdy film to jeden temat w kilka do kilkunastu minut: nazewnictwo, konformacje cykloheksanu, R i S, SN1, SN2, E1 i E2, addycje do alkenów, związki karbonylowe, substytucja aromatyczna, a dalej reakcje imienne. W środku są też filmy o widmach IR i NMR oraz o ekstrakcji i chromatografii. Angielski jest prosty i wolny. Sięgnij, gdy wykład przeleciał temat w pięć minut i potrzebujesz spokojnego wyjaśnienia jednej rzeczy. Do tej playlisty ten sam autor ma 68 filmów z zadaniami [R-007]: najpierw problem, potem informacja, które filmy powtórzyć, a na końcu rozwiązanie krok po kroku. Ostatnie filmy mają formę całych egzaminów. To dobry materiał na tydzień przed kolokwium, czyli sprawdzianem w trakcie semestru.
+Professor Dave Explains ma playlistę „Organic Chemistry” ze 119 filmami [R-006]. Każdy film to jeden temat w kilka do kilkunastu minut: nazewnictwo, konformacje cykloheksanu, R i S, SN1, SN2, E1 i E2, addycje do alkenów, związki karbonylowe, substytucja aromatyczna, a dalej reakcje imienne. W środku są też filmy o widmach IR i NMR oraz o ekstrakcji i chromatografii. Sięgnij, gdy wykład przeleciał temat w pięć minut i potrzebujesz krótkiego wyjaśnienia jednej rzeczy. Do tej playlisty ten sam autor ma 68 filmów z zadaniami [R-007]: najpierw problem, potem informacja, które filmy powtórzyć, a na końcu rozwiązanie krok po kroku. Ostatnie filmy mają formę całych egzaminów. To dobry materiał na tydzień przed kolokwium, czyli sprawdzianem w trakcie semestru.
 
 The Organic Chemistry Tutor ma 177 filmów ułożonych jak cały kurs organicznej [R-008]. Ich mocna strona to liczba przykładów: autor rozwiązuje zadanie za zadaniem, aż schemat wejdzie w rękę. Sięgnij, gdy rozumiesz zasadę, ale w zadaniu nie wiesz, od czego zacząć. Pięć pozycji na liście to zapowiedzi płatnych materiałów, reszta jest bezpłatna. (Po angielsku; poziom pierwszego roku.)
 
-CrashCourse „Organic Chemistry” to 50 odcinków po 4 do 15 minut, przeglądających cały materiał dwóch semestrów organicznej na uczelniach amerykańskich, łącznie ze spektroskopią i biocząsteczkami [R-009]. Tempo jest szybkie, dużo grafiki, angielski szybszy niż u Professor Dave. To materiał do obejrzenia w wakacje albo na początku semestru, żeby zobaczyć mapę całości, a nie do nauki konkretnego mechanizmu przed sprawdzianem. (Po angielsku; wprowadzenie.)
+CrashCourse „Organic Chemistry” to 50 odcinków po 4 do 15 minut, przeglądających cały materiał dwóch semestrów organicznej na uczelniach amerykańskich, łącznie ze spektroskopią i biocząsteczkami [R-009]. To materiał do obejrzenia w wakacje albo na początku semestru, żeby zobaczyć mapę całości, a nie do nauki konkretnego mechanizmu przed sprawdzianem. (Po angielsku; wprowadzenie.)
 
 MIT OpenCourseWare udostępnia materiały kursu 5.12 „Organic Chemistry I” z 2003 roku [R-010]. Nie ma tam filmów. Są notatki do wykładów w PDF, zestawy zadań z rozwiązaniami i egzaminy próbne. Przydaje się, gdy potrzebujesz zadań na poziomie uczelni z rozwiązaniami albo chcesz zobaczyć, jak wygląda egzamin z organicznej gdzie indziej. Układ materiału może różnić się od Twojego wykładu. (Po angielsku; poziom pierwszego roku.)
 
@@ -62,7 +60,7 @@ Organic Chemistry Portal to alfabetyczny spis reakcji imiennych z mechanizmami i
 
 ## Chemia ogólna i nieorganiczna
 
-Chemia ogólna na pierwszym semestrze wygląda na początku znajomo: atom, wiązania, stężenia, pH, redoks. Różnica jest w tempie i w obliczeniach. To, co w kursie maturalnym zajmowało kilka tygodni, na wykładzie potrafi zmieścić się w jednym spotkaniu, a na ćwiczeniach, czyli zajęciach w małej grupie z zadaniami, od razu robi się rachunki. Nowe są zwykle orbitale molekularne, termodynamika z entropią i entalpią swobodną, równowagi z rachunkiem w kilku krokach i związki kompleksowe.
+Chemia ogólna na pierwszym semestrze wygląda na początku znajomo: atom, wiązania, stężenia, pH, redoks. Różnica jest w tempie i w obliczeniach: wykład idzie szybciej niż lekcje w szkole, a na ćwiczeniach, czyli zajęciach w małej grupie z zadaniami, od razu robi się rachunki. Nowe są na przykład orbitale molekularne, termodynamika z entropią i entalpią swobodną, równowagi z rachunkiem w kilku krokach i związki kompleksowe [Z-003] [Z-015] [Z-021].
 
 ### Polskie materiały uczelni
 
@@ -104,7 +102,7 @@ Katedra Chemii Fizycznej Politechniki Warszawskiej ma playlistę „Laboratorium
 
 ### Podręczniki
 
-Po polsku są dwie drogi. Pierwsza to tłumaczenie Atkinsa, de Pauli i Keelera, „Chemia fizyczna”, PWN i PZWL 2022 [R-039]. Druga to oryginalny polski podręcznik Krzysztofa Pigonia i Zdzisława Ruziewicza „Chemia fizyczna” w dwóch tomach: tom 1 „Podstawy fenomenologiczne” (wydanie 6, PWN 2007) i tom 2 „Fizykochemia molekularna”; do tego jest zbiór zadań z rozwiązaniami [R-040]. Obie książki są grube i matematyczne. Czyta się z nich wybrane podrozdziały pod wykład, nie całość.
+Po polsku są dwie drogi. Pierwsza to tłumaczenie Atkinsa, de Pauli i Keelera, „Chemia fizyczna”, PWN i PZWL 2022 [R-039]. Druga to oryginalny polski podręcznik Krzysztofa Pigonia i Zdzisława Ruziewicza „Chemia fizyczna” w dwóch tomach: tom 1 „Podstawy fenomenologiczne” (wydanie 6, PWN 2007) i tom 2 „Fizykochemia molekularna”; do tego jest zbiór zadań z rozwiązaniami [R-040]. Z obu czyta się wybrane podrozdziały pod wykład, nie całość.
 
 Po angielsku bezpłatnie dostępne są dwa podręczniki w serwisie LibreTexts. Pierwszy to „The Live Textbook of Physical Chemistry” Roberta Peveratiego z Florida Institute of Technology [R-043]: termodynamika, równowagi, roztwory i kinetyka, a w drugiej części wstęp do mechaniki kwantowej. Drugi, „Physical Chemistry for the Biosciences” [R-044], przerabia te same podstawy na przykładach biologicznych, z osobnym rozdziałem o kinetyce enzymów. Na farmacji, analityce medycznej i biotechnologii zacznij od niego. (Po angielsku; poziom pierwszego roku.)
 
@@ -128,7 +126,7 @@ Uniwersytet Śląski ma playlistę „Chemia analityczna” z ośmioma krótkimi
 
 ### Podręczniki
 
-Po polsku: Ryszard Kocjan (red.), „Chemia analityczna: podręcznik dla studentów”, dwa tomy, wydanie III, PZWL i PWN 2023 [R-045]. Tom 1 to analiza jakościowa i klasyczna ilościowa, tom 2 analiza instrumentalna. Starszy i bardziej teoretyczny jest dwutomowy podręcznik Jerzego Minczewskiego i Zygmunta Marczenki „Chemia analityczna” (PWN 2004) [R-046].
+Po polsku: Ryszard Kocjan (red.), „Chemia analityczna: podręcznik dla studentów”, dwa tomy, wydanie III, PZWL i PWN 2023 [R-045]. Tom 1 to analiza jakościowa i klasyczna ilościowa, tom 2 analiza instrumentalna. Starszy jest dwutomowy podręcznik Jerzego Minczewskiego i Zygmunta Marczenki „Chemia analityczna” (PWN 2004); tom 1 nosi tytuł „Podstawy teoretyczne i analiza jakościowa”, tom 2 „Chemiczne metody analizy ilościowej” [R-046].
 
 Po angielsku bezpłatny jest podręcznik Davida Harveya „Analytical Chemistry 2.1” w serwisie LibreTexts [R-047]. Szczególnie przydaje się jego rozdział 4 o ocenie danych analitycznych, gdy w sprawozdaniu trzeba policzyć niepewność, oraz rozdziały o miareczkowaniach i o spektroskopii. (Po angielsku; poziom pierwszego roku.)
 
@@ -142,19 +140,17 @@ Biochemia opiera się na organicznej i na chemii ogólnej, więc materiały wart
 
 ### Podręczniki
 
-Po polsku są trzy główne drogi, każda dla innego kierunku. Na kierunkach biologicznych i biotechnologii możesz spotkać tłumaczenie Berga, Tymoczki i Stryera „Biochemia”, wydanie V, PWN 2019, oraz jego krótszą wersję „Biochemia: krótki kurs” [R-048]. Na kierunkach medycznych możesz spotkać „Biochemię Harpera ilustrowaną”, wydanie VIII, PZWL i PWN 2026, pisana pod studentów medycyny [R-049], oraz krótszy, polski podręcznik Edwarda Bańkowskiego „Biochemia: podręcznik dla studentów uczelni medycznych”, wydanie 4, Edra 2020 [R-050].
+Po polsku są trzy główne drogi, każda dla innego kierunku. Na kierunkach biologicznych i biotechnologii możesz spotkać tłumaczenie Berga, Tymoczki i Stryera „Biochemia”, wydanie V, PWN 2019, oraz jego krótszą wersję „Biochemia: krótki kurs” [R-048]. Na kierunkach medycznych możesz spotkać „Biochemię Harpera ilustrowaną”, wydanie VIII, PZWL i PWN 2026, wydawaną we współpracy z wydawnictwem lekarskim PZWL [R-049], oraz krótszy, polski podręcznik Edwarda Bańkowskiego „Biochemia: podręcznik dla studentów uczelni medycznych”, wydanie 4, Edra 2020 [R-050].
 
 Po angielsku bezpłatna jest książka Kevina Aherna, Indiry Rajagopal i Taralyn Tan „Biochemistry Free For All” w serwisie LibreTexts [R-053]: budowa białek, błony, kataliza, energia, metabolizm, przetwarzanie informacji, a na końcu streszczenia „punkt po punkcie”. (Po angielsku; poziom pierwszego roku.)
 
 ### Kanały wideo
 
-Professor Dave Explains ma playlistę „Biochemistry” z 24 krótkimi filmami: aminokwasy i białka, enzymy, cukry i lipidy, błony, sygnalizacja, kwasy nukleinowe, glikoliza, cykl Krebsa i łańcuch oddechowy [R-051]. To mapa całego przedmiotu w kilka godzin. Kevin Ahern z Oregon State University udostępnia nagrania swojego semestralnego wykładu z biochemii: 30 filmów po około 50 minut, od pH i buforów przez białka i enzymy po metabolizm cukrów [R-052]. Wykład pasuje do jego książki opisanej wyżej. (Po angielsku; od wprowadzenia do poziomu pierwszego roku.)
-
-[ADRIAN: jeśli masz doświadczenie z korepetycji z biochemii na kierunku lekarskim, tu jedno zdanie o tym, z czym studenci mają największy kłopot; jeśli nie uczysz biochemii, ten akapit można usunąć.]
+Professor Dave Explains ma playlistę „Biochemistry” z 24 krótkimi filmami: aminokwasy i białka, enzymy, cukry i lipidy, błony, sygnalizacja, kwasy nukleinowe, glikoliza, cykl Krebsa i łańcuch oddechowy [R-051]. Razem to niecałe trzy godziny i dobra mapa całego przedmiotu. Kevin Ahern z Oregon State University udostępnia nagrania swojego semestralnego wykładu z biochemii: 30 filmów po około 50 minut, od pH i buforów przez białka i enzymy po metabolizm cukrów [R-052]. Wykład pasuje do jego książki opisanej wyżej. (Po angielsku; od wprowadzenia do poziomu pierwszego roku.)
 
 ## Matematyka
 
-Matematyce ten bonus nie poświęca osobnego rozdziału, bo matematyka to matematyka. Gdy przedmiot chemiczny jej wymaga, a zajęcia z matematyki są za szybkie albo jeszcze do tego nie doszły, są trzy miejsca. Logarytmy i funkcję wykładniczą (pH, kinetyka) po polsku powtórzysz z wykładów Instytutu Chemii Uniwersytetu Śląskiego; to filmy od 19 do 28 na mieszanej playliście „e-chem” [R-056]. Pochodne i całki krok po kroku, po angielsku, tłumaczy playlista „Calculus” Professor Dave Explains: 35 filmów od granic przez reguły różniczkowania po całkowanie przez części [R-057]. Pełny polski wykład z rachunku różniczkowego i całkowego jest w otwartym kursie „Analiza matematyczna 1” na Ważniaku, przygotowanym przez matematyków z UJ dla studentów informatyki [R-058]; jest bardziej formalny, niż chemik zwykle potrzebuje.
+Matematyce ten bonus nie poświęca osobnego rozdziału, bo matematyka to matematyka. Gdy przedmiot chemiczny jej wymaga, a zajęcia z matematyki są za szybkie albo jeszcze do tego nie doszły, są trzy miejsca. Logarytmy i funkcję wykładniczą (pH, kinetyka) po polsku powtórzysz z wykładów Instytutu Chemii Uniwersytetu Śląskiego; to filmy od 19 do 28 na mieszanej playliście „e-chem” [R-056]. Pochodne i całki krok po kroku, po angielsku, tłumaczy playlista „Calculus” Professor Dave Explains: 35 filmów od granic przez reguły różniczkowania po całkowanie przez części [R-057]. Pełny polski wykład z rachunku różniczkowego i całkowego jest w otwartym kursie „Analiza matematyczna 1” na Ważniaku, przygotowanym przez matematyków z UJ dla studentów informatyki [R-058]; jest pisany ściśle i formalnie, jak wykład z matematyki.
 
 ## Dla Twojego kierunku
 
@@ -170,7 +166,7 @@ Tu chemii jest wyraźnie więcej niż na kierunku lekarskim. Na analityce medycz
 
 ### Weterynaria
 
-Na weterynarii SGGW w pierwszym semestrze są „Chemia” (15 godzin wykładu, 30 laboratorium) i „Biochemia (1)” [Z-011]; na UP Lublin „Chemia” w pierwszym semestrze obejmuje roztwory, pH, bufory, redoks, podstawy analityki i nazewnictwo organiczne [Z-012] [Z-013]. To szeroko, ale płytko, w jednym semestrze. Pomogą: cykl SGGW „Podstawy chemii” [R-026] i „Chemia organiczna” [R-054], Khan Academy po polsku [R-027], a do biochemii Professor Dave [R-051].
+Na weterynarii SGGW w pierwszym semestrze są „Chemia” (15 godzin wykładu, 30 laboratorium) i „Biochemia (1)” [Z-011]; na UP Lublin „Chemia” w pierwszym semestrze obejmuje roztwory, pH, bufory, redoks, podstawy analityki i nazewnictwo organiczne [Z-012] [Z-013]. To dużo tematów w jednym semestrze. Pomogą: cykl SGGW „Podstawy chemii” [R-026] i „Chemia organiczna” [R-054], Khan Academy po polsku [R-027], a do biochemii Professor Dave [R-051].
 
 ### Chemia i kierunki pokrewne
 

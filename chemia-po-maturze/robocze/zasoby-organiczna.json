@@ -8,7 +8,7 @@
 "przedmiot": "organiczna",
 "poziom": "pierwszy rok",
 "dla_kierunkow": "chemia;biotechnologia;farmacja;inżynieria",
-"opis": "Nagrania 19 wykładów z chemii organicznej prowadzonych na Uniwersytecie Śląskim w roku akademickim 2017/2018, od 32 minut do niemal dwóch godzin każdy. To zapis zwykłego wykładu akademickiego, z tablicą i tempem sali, a nie film montowany pod internet.",
+"opis": "Nagrania 19 wykładów z chemii organicznej prowadzonych na Uniwersytecie Śląskim w roku akademickim 2017/2018, od 32 minut do niemal dwóch godzin każdy. Tytuły podają tylko numery wykładów.",
 "kiedy_siegnac": "Gdy chcesz usłyszeć, jak organiczna brzmi na polskim wykładzie, z polskim nazewnictwem, albo gdy własny wykład Ci umknął i szukasz drugiego wykładowcy po polsku.",
 "uwagi": "Opis z listy tytułów i długości 19 filmów oraz z opisu filmu „Wykład 1” (data publikacji 20.04.2018). Tytuły nie zdradzają tematów poszczególnych wykładów. Playlista nie jest widoczna na liście playlist kanału; adres odczytany ze strony filmu."
 },
@@ -60,7 +60,7 @@
 "przedmiot": "organiczna",
 "poziom": "dalej",
 "dla_kierunkow": "chemia;inżynieria",
-"opis": "Polskie tłumaczenie pierwszego wydania podręcznika Claydena i współautorów, w czterech częściach wydanych przez Wydawnictwa Naukowo-Techniczne w latach 2009–2011. Organiczna tłumaczona przez mechanizmy, a nie przez listę reakcji do zapamiętania.",
+"opis": "Polskie tłumaczenie pierwszego wydania podręcznika Claydena i współautorów, w czterech częściach wydanych przez Wydawnictwa Naukowo-Techniczne w latach 2009–2011. W wydaniu angielskim rozdziały w dużej części ułożone według typów reakcji i mechanizmów.",
 "kiedy_siegnac": "Na kierunku chemia, gdy prowadzący uczy od mechanizmów albo gdy McMurry wydaje Ci się za mało szczegółowy.",
 "uwagi": "Wydanie sprawdzone w katalogu Biblioteki Narodowej (część 1: 2009, część 4: 2011, ISBN 9788320435054). Tłumaczenie dotyczy wydania pierwszego; drugie wydanie angielskie, patrz R-018."
 },
@@ -73,8 +73,8 @@
 "przedmiot": "organiczna",
 "poziom": "pierwszy rok",
 "dla_kierunkow": "wszystkie",
-"opis": "119 filmów, zwykle po 3–15 minut, każdy o jednym temacie: nazewnictwo IUPAC, projekcje Newmana i konformacje cykloheksanu, stereochemia i reguły R/S, mechanizmy SN1, SN2, E1, E2, addycje do alkenów, związki karbonylowe, substytucja aromatyczna, a pod koniec reakcje imienne. W środku są też filmy o IR, NMR i spektrometrii mas oraz o ekstrakcji, chromatografii i krystalizacji. Angielski prosty i wolny.",
-"kiedy_siegnac": "Gdy wykład przeskoczył temat w kilka minut i potrzebujesz krótkiego, spokojnego wyjaśnienia jednej rzeczy, na przykład wyboru między SN1 a SN2.",
+"opis": "119 filmów, zwykle po 3–15 minut, każdy o jednym temacie: nazewnictwo IUPAC, projekcje Newmana i konformacje cykloheksanu, stereochemia i reguły R/S, mechanizmy SN1, SN2, E1, E2, addycje do alkenów, związki karbonylowe, substytucja aromatyczna, a pod koniec reakcje imienne. W środku są też filmy o IR, NMR i spektrometrii mas oraz o ekstrakcji, chromatografii i krystalizacji.",
+"kiedy_siegnac": "Gdy wykład przeskoczył temat w kilka minut i potrzebujesz krótkiego wyjaśnienia jednej rzeczy, na przykład wyboru między SN1 a SN2.",
 "uwagi": "Opis z tytułów i długości 119 filmów i z opisu playlisty („use these videos to supplement your Organic Chemistry course”)."
 },
 {
@@ -112,7 +112,7 @@
 "przedmiot": "organiczna",
 "poziom": "wprowadzenie",
 "dla_kierunkow": "wszystkie",
-"opis": "51 odcinków (50 plus zapowiedź) prowadzonych przez Deboki Chakravarti, obejmujących materiał Organic Chemistry I i II amerykańskich uczelni: nazewnictwo, stereochemia, mechanizmy, związki karbonylowe, aromatyczność, spektroskopia, a na końcu biocząsteczki i chemia leków. Szybkie tempo, dużo grafiki, angielski szybszy niż u Professor Dave.",
+"opis": "51 odcinków (50 plus zapowiedź) prowadzonych przez Deboki Chakravarti, obejmujących materiał Organic Chemistry I i II amerykańskich uczelni: nazewnictwo, stereochemia, mechanizmy, związki karbonylowe, aromatyczność, spektroskopia, a na końcu biocząsteczki i chemia leków.",
 "kiedy_siegnac": "Na początku semestru albo w wakacje przed studiami, żeby zobaczyć całą mapę organicznej, zanim wejdziesz w szczegóły.",
 "uwagi": "Opis z tytułów 51 filmów i opisu playlisty (lista celów kursu i informacja, że powstał na podstawie dziewięciu podręczników, m.in. Claydena)."
 },
@@ -216,7 +216,7 @@
 "przedmiot": "organiczna",
 "poziom": "pierwszy rok",
 "dla_kierunkow": "medycyna;stomatologia;weterynaria;farmacja;analityka medyczna;biotechnologia",
-"opis": "Otwarty podręcznik organicznej pisany pod studentów biologii i nauk medycznych (University of Minnesota Morris). Reakcje pokazuje na przykładach z metabolizmu: osobne rozdziały o przenoszeniu grup fosforanowych, reakcjach utleniania i redukcji w komórce i o chemii witamin, obok klasycznych tematów jak substytucja nukleofilowa i addycja do karbonylu.",
+"opis": "Otwarty podręcznik organicznej pisany pod studentów biologii i nauk medycznych (University of Minnesota Morris). Osobne rozdziały o przenoszeniu grup fosforanowych, reakcjach utleniania i redukcji w komórce i o chemii witamin, obok klasycznych tematów jak substytucja nukleofilowa i addycja do karbonylu.",
 "kiedy_siegnac": "Na kierunku medycznym albo biotechnologii, gdy nie widzisz, po co Ci organiczna; tu każda reakcja ma odpowiednik w organizmie.",
 "uwagi": "Opis ze strony książki i listy rozdziałów. Licencja CC BY-NC-SA 4.0. Serwis bywa blokowany dla zapytań automatycznych (CloudFront); w drugim przeglądzie curl 200, Chromium zablokowany."
 },

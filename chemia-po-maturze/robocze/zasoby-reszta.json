@@ -61,7 +61,7 @@
 "poziom": "wprowadzenie",
 "dla_kierunkow": "wszystkie",
 "opis": "83 krótkie filmy o chemii ogólnej: mol i stechiometria, gazy, model Bohra i liczby kwantowe, wiązania i VSEPR, termochemia, roztwory, termodynamika, kinetyka, równowaga, kwasy i zasady z buforami, redoks i elektrochemia, a w dalszej części między innymi iloczyn rozpuszczalności, związki kompleksowe, teoria pola krystalicznego i prawo Lamberta-Beera.",
-"kiedy_siegnac": "Gdy jeden temat z chemii ogólnej (na przykład bufory albo orbitale molekularne) wymaga spokojnego wyjaśnienia w kilka minut.",
+"kiedy_siegnac": "Gdy jeden temat z chemii ogólnej (na przykład bufory albo orbitale molekularne) wymaga osobnego wyjaśnienia w kilka minut.",
 "uwagi": "Opis z tytułów 83 filmów i opisu playlisty."
 },
 {
@@ -177,7 +177,7 @@
 "przedmiot": "fizyczna",
 "poziom": "pierwszy rok",
 "dla_kierunkow": "chemia;inżynieria;biotechnologia;farmacja",
-"opis": "Polskie tłumaczenie „Atkins' Physical Chemistry”: termodynamika, równowagi, kinetyka, budowa materii i spektroskopia. Gruby i wymagający matematycznie.",
+"opis": "Polskie tłumaczenie „Atkins' Physical Chemistry”: termodynamika, równowagi, kinetyka, budowa materii i spektroskopia.",
 "kiedy_siegnac": "Gdy wykład z chemii fizycznej opiera się na Atkinsie; zwykle czyta się wybrane podrozdziały, nie całość.",
 "uwagi": "Wydanie sprawdzone w katalogu BN (2022, w rekordzie [Wydanie 3], ISBN 9788301219918). Treści nie przeglądano; zakres z tytułu oryginału."
 },
@@ -307,7 +307,7 @@
 "przedmiot": "biochemia",
 "poziom": "pierwszy rok",
 "dla_kierunkow": "medycyna;stomatologia;farmacja;analityka medyczna;weterynaria",
-"opis": "Polskie tłumaczenie „Harper's Illustrated Biochemistry”, podręcznika biochemii pisanego pod studentów medycyny, z odniesieniami klinicznymi.",
+"opis": "Polskie tłumaczenie „Harper's Illustrated Biochemistry”, wydane przez PWN we współpracy z wydawnictwem lekarskim PZWL.",
 "kiedy_siegnac": "Na kierunku lekarskim i pokrewnych, gdy biochemia ma przygotować do fizjologii i medycyny klinicznej.",
 "uwagi": "Wydanie sprawdzone w katalogu BN (2026, wydanie VIII, ISBN 9788301248352). Treści nie przeglądano."
 },
@@ -333,7 +333,7 @@
 "przedmiot": "biochemia",
 "poziom": "wprowadzenie",
 "dla_kierunkow": "medycyna;stomatologia;weterynaria;farmacja;analityka medyczna;biotechnologia",
-"opis": "24 krótkie filmy: aminokwasy i budowa białek, enzymy, cukry i lipidy, błony i transport, receptory i przekazywanie sygnału, kwasy nukleinowe, replikacja, transkrypcja i translacja, naprawa DNA, ATP, glikoliza, cykl Krebsa, łańcuch oddechowy, fotosynteza, hormony i leki.",
+"opis": "24 krótkie filmy, razem niecałe trzy godziny: aminokwasy i budowa białek, enzymy, cukry i lipidy, błony i transport, receptory i przekazywanie sygnału, kwasy nukleinowe, replikacja, transkrypcja i translacja, naprawa DNA, ATP, glikoliza, cykl Krebsa, łańcuch oddechowy, fotosynteza, hormony i leki.",
 "kiedy_siegnac": "Na początek biochemii, żeby zobaczyć całą mapę w kilka godzin, zanim wykład wejdzie w szczegóły.",
 "uwagi": "Opis z tytułów 24 filmów i opisu playlisty."
 },

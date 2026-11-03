@@ -1,38 +1,46 @@
-# Raport: szkic bonusu „Chemia po maturze”
+# Raport: bonus „Chemia po maturze”, wersja ostateczna
 
-*Stan na 3.11.2026. Agent pracował samodzielnie według `zlecenie/ZLECENIE-agent-w-chmurze.md` i `zlecenie/KONTEKST-KaNaU.md`. Wszystkie decyzje z uzasadnieniem są w `DECYZJE-AGENTA.md`, dziennik etapów w `POSTEP.md`.*
+*Stan na 3.11.2026. Tekst jest gotowy do wgrania na platformę. Do zrobienia zostały tylko rysunki (agent od obrazków, lista w `RYSUNKI-DO-ZNALEZIENIA.md`) i, opcjonalnie, siedem osobistych przykładów Adriana (`DO-UZUPELNIENIA-ADRIAN.md`). Decyzje: `DECYZJE-AGENTA.md` (D-01 do D-18), dziennik: `POSTEP.md`.*
 
-## Co powstało
+## Co jest gotowe
 
-Wszystkie rozdziały z układu zlecenia istnieją w `tresc/` i da się je czytać po kolei i wybiórczo. Długość w stronach znormalizowanych (1800 znaków, bez komentarzy HTML):
+- **Tekst kursu.** Rozdziały w `tresc/` (źródło do dalszej pracy, z komentarzami źródłowymi w rozdziale 4) i wydanie w `wydanie/` (jeden plik Markdown bez komentarzy, podgląd HTML, PDF 27 stron).
+- **Zasoby.** 63 polecane zasoby w `dane/zasoby.csv`, każdy z dowodem sprawdzenia w `robocze/dowody/`, wszystkie po drugim przeglądzie.
+- **Źródła.** 34 źródła w `dane/zrodla.csv`: 24 sylabusy i plany studiów z ośmiu kierunków z kopiami w `zrodla/` oraz 10 przeczytanych fragmentów podręczników otwartych i stron, kopie w `zrodla/lektury/`.
+- **Rysunki.** 23 wstawki `[RYSUNEK: F-xx]` w tekście: 13 do znalezienia na wolnej licencji, 10 do narysowania; rejestr `dane/rysunki-plan.csv`.
+- **Sprawdzenia.** `sprawdz.py --dowody` bez błędów, `styl.py` bez twardych naruszeń, 0 znaczników `[SPRAWDZIĆ]` i `[ADRIAN]` w tekście.
+
+Długość w stronach znormalizowanych (1800 znaków, bez komentarzy):
 
 | Rozdział | Znaki | Strony |
 |---|---|---|
 | 00-wstep.md | 2711 | 1,5 |
-| 01-inna-gra.md | 7370 | 4,1 |
-| 02-co-z-matury-zamienia-sie-w-co.md | 9514 | 5,3 |
-| 03-skad-sie-uczyc.md | 26222 | 14,6 |
-| 04a-aktywnosc.md | 5285 | 2,9 |
-| 04b-chemia-kwantowa.md | 5245 | 2,9 |
-| 04c-spektroskopia.md | 8548 | 4,7 |
-| 04d-laboratorium.md | 5829 | 3,2 |
-| 05-zrodla.md | 37565 | 20,9 |
-| razem | 108289 | 60,2 |
+| 01-inna-gra.md | 7976 | 4,4 |
+| 02-co-z-matury-zamienia-sie-w-co.md | 10009 | 5,6 |
+| 03-skad-sie-uczyc.md | 28025 | 15,6 |
+| 04a-aktywnosc.md | 5540 | 3,1 |
+| 04b-chemia-kwantowa.md | 5759 | 3,2 |
+| 04c-spektroskopia.md | 9305 | 5,2 |
+| 04d-laboratorium.md | 6313 | 3,5 |
+| 05-zrodla.md | 39208 | 21,8 |
+| razem | 114846 | 63,8 |
 
-Rozdziały 0–4 mają razem około 39 stron, w przedziale 25–45 ze zlecenia. Rozdział 5 to listy źródeł generowane z rejestrów (D-14). Rozdział 3 ma 14,6 strony. Wprowadzenie o spektroskopii ma 4,7 strony zamiast 2–3, bo obejmuje cztery metody i dwa zastosowania UV-Vis (D-10).
+Rozdziały 0–4 mają razem około 42 stron, w przedziale 25–45 ze zlecenia. Rozdział 5 to listy źródeł generowane z rejestrów (D-14).
 
-- **Rozdział 0, wstęp.** Zdanie Adriana o „ścianie na pierwszym roku”, dla kogo jest bonus, co jest w środku i jak czytać wybiórczo.
-- **Rozdział 1, „Inna gra”.** Punkty 1–7 Adriana dosłownie, w pierwszej osobie. Dodane bezosobowo: jak czytać sylabus (na przykładzie prawdziwej karty przedmiotu), legalne drogi do podręczników (biblioteka, IBUK Libra na przykładzie poradnika UWr, podręczniki otwarte, starsze i angielskie wydania), czytanie podręcznika wybiórczo.
-- **Rozdział 2, mapa.** Tabela 20 modułów kursu (moduł XI w jednym wierszu) na przedmioty pierwszego roku, z odwołaniami do sylabusów; cztery tematy zupełnie nowe; trzy porównania „ta sama nazwa, inna treść”.
-- **Rozdział 3, zasoby.** Sześć przedmiotów (organiczna, ogólna i nieorganiczna, fizyczna, analityczna, biochemia, hasło o matematyce), w każdym najpierw polskie materiały uczelni, potem podręczniki, filmy, strony. Na końcu odgałęzienia dla sześciu grup kierunków.
-- **Rozdział 4.** Cztery wprowadzenia (aktywność, chemia kwantowa, spektroskopia, laboratorium), każde z komentarzem HTML wskazującym miejsce w przeczytanym źródle otwartym przy zdaniach merytorycznych. Przeczytane fragmenty źródeł leżą w `zrodla/lektury/`.
-- **Rozdział 5.** Dwie listy: 61 zasobów polecanych i 32 źródła cytowane, przy rozdziale pierwszego cytowania.
+## Co zmieniło się po pierwszym raporcie
 
-Rejestry: `dane/zasoby.csv` (61 pozycji, każda z plikiem dowodu w `robocze/dowody/`), `dane/zrodla.csv` (32 pozycje: 23 sylabusy i plany studiów z kopiami tekstowymi w `zrodla/`, 9 podręczników i stron), `dane/rysunki.csv` (pusty, D-13).
+- **Odpowiedzi na pytania** (zleceniodawca: „zgodnie z rekomendacjami”, D-16). Dopisany polski kurs Khan Academy „Chemia organiczna” (R-062) i Chemistry World (R-063). Rysunków z OpenStax nie ma. Piela polecany najpierw po polsku.
+- **Druga próba dostępu** (D-15). Khan Academy i Chemistry World opisane z wyników wyszukiwarki, bo blokują automaty; próba obejścia blokady została zatrzymana przez zabezpieczenia środowiska i jej nie ponawiano. Nowe źródła: Harvey 5.3 o krzywej wzorcowej (Z-033) i sylabus chemii organicznej z analityki WUM (Z-034), dzięki czemu wiersze organiczne mapy w rozdziale 2 opierają się na sylabusie.
+- **Rysunki** (D-17). 23 wstawki z identyfikatorami i rejestr dla agenta od obrazków.
+- **Redakcja końcowa** (D-18). Usunięte nieweryfikowalne cechy stylu filmów i książek, poprawione uogólnienia, jedno miejsce Adriana wypełnione z życiorysu, siedem przeniesionych do osobnego pliku, wydanie w `wydanie/`.
+
+## Co jeszcze sprawdzić przy wgrywaniu
+
+- **Ręcznie w przeglądarce:** Khan Academy po polsku, kursy „Chemia” i „Chemia organiczna” (R-027, R-062), Chemistry World (R-063), strona OUP Claydena (R-018). Automat ich nie otworzył; opisy są z jednego odczytu albo z wyników wyszukiwarki.
+- **Chemia w rozdziale 4.** Każde zdanie merytoryczne ma komentarz z miejscem w źródle w `tresc/04*.md`, a przeczytane fragmenty leżą w `zrodla/lektury/`. Warto, żeby chemik rzucił okiem; agent sprawdził zgodność ze źródłami, ale skróty i przekład są jego.
+- **Daty.** Stan zasobów i sylabusów to listopad 2026; przed majem 2027 warto puścić `skrypty/linki.py`.
 
 ## Zasoby sprawdzone i odrzucone
-
-Każdy otwarty. Szczegóły w `robocze/kandydaci-organiczna.md` i `robocze/kandydaci-reszta.md`.
 
 | Kandydat | Adres | Werdykt | Powód |
 |---|---|---|---|
@@ -70,8 +78,6 @@ Każdy otwarty. Szczegóły w `robocze/kandydaci-organiczna.md` i `robocze/kandy
 
 ## Sylabusy
 
-Kierunek × uczelnia × przedmioty pierwszego roku z chemią. Źródła w `dane/zrodla.csv`, kopie w `zrodla/`.
-
 | Kierunek | Uczelnia | Rok | Przedmioty I roku z chemią (godziny, ECTS) | Źródło |
 |---|---|---|---|---|
 | chemia | UJ | 2025/26 | Podstawy chemii (sem. 1; wykł. 30, konw. 30, ćw. 30; 7 ECTS; egzamin) i laboratorium; w katalogu USOS także chemia analityczna (kod I roku) | Z-003 |
@@ -93,6 +99,8 @@ Kierunek × uczelnia × przedmioty pierwszego roku z chemią. Źródła w `dane/
 | inżynieria (technologia chemiczna) | PP | 2026/27 | Chemia ogólna i nieorganiczna 1 (sem. 1; wykł. 45, ćw. 30; 7 ECTS), cz. 2 w sem. 2 | Z-021, Z-024 |
 | inżynieria (inżynieria chemiczna i procesowa) | PP | 2026/27 | Chemia ogólna i nieorganiczna 1 (sem. 1; wykł. 30, ćw. 30; 5 ECTS) | Z-022 |
 | inżynieria (technologia chemiczna) | PW | 2025/26 | Chemia (sem. 1; wykł. 45, ćw. 30; 5 ECTS), Chemia – laboratorium i Chemia nieorganiczna (sem. 2); chemia analityczna i fizyczna od sem. 3 | Z-023 |
+| analityka medyczna (sylabus przedmiotu) | WUM | 2025/26 | Chemia organiczna (sem. 1; wykł. 30, sem. 10, ćw. 40; 6 ECTS) | Z-034 |
+| chemia (sylabus przedmiotu, II rok) | UJ | 2024/25 | Podstawy chemii kwantowej (sem. 4; 5 ECTS); użyty tylko w 4b jako przykład dalszej drogi | Z-029 |
 
 ### Czego nie znaleziono
 
@@ -109,62 +117,29 @@ Kierunek × uczelnia × przedmioty pierwszego roku z chemią. Źródła w `dane/
 | biotechnologia | UJ | USOS UJ (WBT-BT636) | przedmiot w katalogu bez aktywnego cyklu |
 | inżynieria | PW | karty ects.coi.pw.edu.pl | przekierowanie na stronę główną; użyto informatora kierunku (Z-023) |
 
-## Miejsca do uzupełnienia
-
-### `[ADRIAN: …]`
-
-- 01-inna-gra.md, linia 17: tu jeden przykład z Twoich korepetycji ze studentem, który uczył się „z książki”, a wykładowca pytał o coś, co było tylko na jego slajdach.
-- 01-inna-gra.md, linia 35: tu przykład, jeśli masz: jak materiały od starszego rocznika zmieniły przygotowanie Twojego ucznia do konkretnego kolokwium.
-- 01-inna-gra.md, linia 56: tu jedno zdanie o tym, że Twoje prace licencjacka i magisterska były pisane po angielsku, jeśli chcesz to podać jako przykład.
-- 02-co-z-matury-zamienia-sie-w-co.md, linia 61: tu jedno zdanie z Twojego doświadczenia z korepetycji, jeśli pasuje, np. przykład studenta, którego zaskoczyło, że przedmiot o znanej nazwie wyglądał zupełnie inaczej niż u kolegi z innej uczelni.
-- 03-skad-sie-uczyc.md, linia 25: tu jedno zdanie, czy znasz polskie materiały do organicznej, które Twoi studenci faktycznie wykorzystywali, np. skrypty konkretnych katedr; wyszukiwanie znalazło niewiele otwartych polskich materiałów poza nagraniami UŚ.
-- 03-skad-sie-uczyc.md, linia 141: jeśli masz doświadczenie z korepetycji z biochemii na kierunku lekarskim, tu jedno zdanie o tym, z czym studenci mają największy kłopot; jeśli nie uczysz biochemii, ten akapit można usunąć.
-- 04b-chemia-kwantowa.md, linia 33: tu jedno zdanie, dlaczego polecasz właśnie Pielę, jeśli chcesz to dopowiedzieć.
-- 04d-laboratorium.md, linia 21: tu przykład z korepetycji, jeśli masz: jak student przygotowywał się do wejściówki i co okazało się najważniejsze.
-
-### `[RYSUNEK: …]`
-
-- 04a-aktywnosc.md, linia 19: schemat jonu Fe³⁺ otoczonego „atmosferą jonową” z przewagą anionów, obok jonu SCN⁻ otoczonego przewagą kationów; podpis: atmosfera jonowa zmniejsza „widoczny” ładunek jonu
-- 04b-chemia-kwantowa.md, linia 13: porównanie modelu Bohra (elektron na kołowej orbicie) z orbitalem 1s przedstawionym jako chmura gęstości prawdopodobieństwa; podpis: na maturze orbita, na studiach prawdopodobieństwo
-- 04c-spektroskopia.md, linia 13: widmo elektromagnetyczne od promieniowania gamma do fal radiowych, z zaznaczonymi zakresami używanymi w spektroskopii UV-Vis, IR i NMR oraz strzałką „rośnie energia fotonu”
-- 04c-spektroskopia.md, linia 36: porównanie widm IR etanolu i etanalu z zaznaczonym szerokim pasmem O–H w etanolu i ostrym pasmem C=O w etanalu
-- 04c-spektroskopia.md, linia 40: widmo ¹H NMR bromoetanu z podpisanym trypletem CH₃ i kwartetem CH₂ oraz zaznaczonym sygnałem wzorca TMS przy 0 ppm
-- 04d-laboratorium.md, linia 29: przykładowa strona dziennika laboratoryjnego: tytuł ćwiczenia, równanie reakcji, tabela odczynników z kolumnami „masa molowa, gęstość, ilość zaplanowana, ilość użyta, liczba moli”, pole na obserwacje
-
-### `[SPRAWDZIĆ: …]`
-
-- 02-co-z-matury-zamienia-sie-w-co.md, linia 35: wiersze XII–XVII opierają się na spisie przedmiotów (Z-018, Z-023), bez szczegółowych treści sylabusów chemii organicznej pierwszego roku; „co dochodzi” jest wzięte z typowego podręcznika (R-016, rozdziały odpowiednich grup) i warto je potwierdzić sylabusem organicznej przy wydaniu.
-- 04a-aktywnosc.md, linia 37: w których rozdziałach Atkinsa i Minczewskiego jest aktywność; książek nie przeglądano.
-- 04c-spektroskopia.md, linia 42: opis procedury krzywej wzorcowej zweryfikować z rozdziałem 5 Harveya „Standardizing Analytical Methods”, którego nie przeczytano w całości.
-
-Do tego chemik powinien przejrzeć cały rozdział 4: każde zdanie merytoryczne ma komentarz z miejscem w źródle, ale przekład na polski i skróty są agenta. Przykład z IR (alkohol i aldehyd) jest wyprowadzony z tabeli źródła i oznaczony w komentarzu jako własny.
-
 ## Uwagi o słowach Adriana
 
-Żadne zdanie z punktów 1–12 nie wydało się nie do obrony; wszystkie stoją w tekście (lista w `robocze/adrian-punkty.md`). Dwie uwagi redakcyjne. Zdanie z punktu 2 („Nie dlatego, że chemia jest wszędzie inna, tylko dlatego, że…”) ma konstrukcję, której zasady głosu każą unikać; zostało bez zmian, bo to słowa Adriana. Punkt 12 („matematyka to matematyka”) stoi w trzeciej osobie w zdaniu o tym, dlaczego bonus nie ma rozdziału o matematyce.
+Wszystkie punkty 1–12 stoją w tekście (lista w `robocze/adrian-punkty.md`). Zdanie z punktu 2 („Nie dlatego, że…, tylko dlatego, że…”) ma konstrukcję, której zasady głosu każą unikać; zostało, bo to słowa Adriana. Pierwsza osoba poza tymi punktami opiera się wyłącznie na życiorysie z kontekstu (UJ, przedmioty korepetycji, prace dyplomowe po angielsku, SERS, doktorat ze spektroskopii).
 
-## Ograniczenia środowiska, które wpłynęły na wynik
+## Ograniczenia środowiska
 
-- YouTube: listy filmów w playlistach dostępne, opisy pojedynczych filmów tylko czasem (limit 429), transkrypcji brak. Opisy zasobów wideo powstały z pełnych list tytułów i długości (D-04, D-08).
-- Khan Academy, Chemistry World, Education in Chemistry, Compound Interest, IBUK Libra: testy antybotowe lub kody 403/405. Khan Academy po polsku („Chemia”) udało się odczytać raz przez przeglądarkę; reszta odłożona.
-- Wikimedia Commons: kod 429 przez cały etap rysunków (D-13).
-- Serwis sylabusów UM w Łodzi (sylabusy.umed.pl) odcięty przez sieć środowiska; kartę przedmiotu wzięto ze strony zakładu.
-- Kilka serwerów uczelni nie wysyła certyfikatu pośredniego; dociągnięto go z adresu AIA przy włączonej weryfikacji (D-11).
+- YouTube: opisy z pełnych list tytułów i długości filmów; transkrypcji brak (D-04, D-08).
+- Testy antybotowe: Khan Academy, Chemistry World, Education in Chemistry, Compound Interest, IBUK Libra, PubChem (strona; dane przez API).
+- Wikimedia Commons: kod 429 przez cały czas, dlatego rysunki są wstawkami (D-13, D-17).
+- Serwer sylabusów UM w Łodzi odcięty przez sieć; karta wzięta ze strony zakładu.
 
-## Pytania do zleceniodawcy
-
-Zleceniodawca odpowiedział 3.11.2026: „zgodnie z rekomendacjami”. Wprowadzone zmiany opisuje D-16 w `DECYZJE-AGENTA.md`: brak rysunków z OpenStax, Chemistry World (R-063) i polska Khan Academy „Chemia organiczna” (R-062) dopisane do rozdziału 3, Piela polecany najpierw po polsku, bez wskazywania serwisów z notatkami. Nowych pytań nie ma.
-
-## Jak sprawdzić i odtworzyć
+## Jak odtworzyć
 
 Z katalogu `chemia-po-maturze/`:
 
 ```
 python3 -I skrypty/sprawdz.py --dowody --znaczniki
-python3 -I skrypty/styl.py --liczby
+python3 -I skrypty/styl.py
 python3 -I skrypty/linki.py --ca robocze/ca-z-certyfikatami-posrednimi.pem
-python3 -I skrypty/dlugosc.py
 python3 -I skrypty/zrodla_md.py
+python3 -I skrypty/rysunki_md.py
+python3 -I skrypty/wydanie.py
+node skrypty/pdf.js
 ```
 
-`styl.py` zgłasza też sygnały do ręcznej kontroli (pojęcia akademickie); obecne sygnały to fałszywe alarmy: „wykład” we wstępie (słowo powszechne, wyjaśnione w rozdziale 1), „warunków” w rozdziale 1 (nie „warunek” jako pojęcie), „kolokwium” we wstawce `[ADRIAN]`, „dziennik laboratoryjny” w pierwszym zdaniu 4d (słowa Adriana, wyjaśnione kilka akapitów niżej), „seminarium” w rozdziale 5 (lista źródeł).
+Sygnały „POJĘCIE” w `styl.py` to znane fałszywe alarmy: „wykład” we wstępie (słowo powszechne, wyjaśnione w rozdziale 1), „warunków” w rozdziale 1, „dziennik laboratoryjny” w pierwszym zdaniu 4d (słowa Adriana, wyjaśnione niżej), „seminarium” w rozdziale 5.

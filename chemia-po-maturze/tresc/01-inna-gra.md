@@ -14,8 +14,6 @@ Przekaz materiału zależy od prowadzącego jeszcze bardziej niż w szkole. W sz
 
 Prowadzący to osoba, która ma z Tobą zajęcia. Wykład to zajęcia, na których prowadzący mówi do całego roku w dużej sali. Na ćwiczeniach, czyli zajęciach w małej grupie, na których rozwiązuje się zadania, i na laboratorium, czyli zajęciach w pracowni, prowadzący bywa inny niż na wykładzie. Każdy z nich może mieć własne wymagania, zapisane w regulaminie przedmiotu albo podane na pierwszych zajęciach.
 
-[ADRIAN: tu jeden przykład z Twoich korepetycji ze studentem, który uczył się „z książki”, a wykładowca pytał o coś, co było tylko na jego slajdach.]
-
 ### Zasada pierwsza: wykłady i slajdy przede wszystkim
 
 Pierwszorzędowe źródło to zawsze wykłady i slajdy z ćwiczeń. Zapamiętaj to.
@@ -32,13 +30,11 @@ Drugim źródłem informacji o wymaganiach jest sylabus. Warto go przeczytać w 
 
 Ogromnie ważne jest wypytywanie starszych roczników o wykłady, notatki i materiały. To, co w książce zajmuje rozdział na trzydzieści stron, wykładowca potrafi zmieścić w dziesięciu procentach, i tylko z tych dziesięciu procent robi pytania.
 
-[RYSUNEK: F-03, do narysowania. Gruby rozdział podręcznika (około 30 stron) z zaznaczonym małym fragmentem (około jednej dziesiątej), strzałka do slajdów wykładu i do kartki z pytaniami na kolokwium. Podpis: „Z rozdziału na trzydzieści stron na wykład trafia mała część, i z niej są pytania.”]
+[RYSUNEK: F-03, do narysowania. Gruby rozdział podręcznika (około 30 stron) z zaznaczonym małym fragmentem (około jednej dziesiątej), strzałka do slajdów wykładu i do kartki z pytaniami na sprawdzian. Podpis: „Z rozdziału na trzydzieści stron na wykład trafia mała część, i z niej są pytania.”]
 
 Starsze roczniki to studenci wyższych lat Twojego kierunku. Znają prowadzących, wiedzą, jak wyglądały kolokwia, czyli sprawdziany pisane w trakcie semestru, i jak wyglądał egzamin w sesji, czyli w okresie egzaminów na koniec semestru. Materiały krążą zwykle w grupach roku na komunikatorach i przez koła naukowe, czyli studenckie stowarzyszenia przy katedrach. Dobrym pierwszym kontaktem jest starosta roku, czyli student wybrany na łącznika między rokiem a prowadzącymi.
 
 Dwie rzeczy warto pamiętać. Materiały sprzed roku mogą nie pasować, jeśli zmienił się prowadzący albo program, więc porównaj je z aktualnym sylabusem. I traktuj je jako mapę, nie jako zamiennik wykładu.
-
-[ADRIAN: tu przykład, jeśli masz: jak materiały od starszego rocznika zmieniły przygotowanie Twojego ucznia do konkretnego kolokwium.]
 
 ### Zasada trzecia: książki istnieją w wielu postaciach
 
@@ -59,4 +55,4 @@ Na studiach trzeba będzie korzystać ze źródeł angielskojęzycznych. Warto s
 
 Większość zasobów w rozdziale 3 jest po angielsku: filmy, kursy, otwarte podręczniki, bazy danych. Polskich otwartych materiałów do chemii akademickiej przy pracy nad tym bonusem znalazło się niewiele; te, które są, opisane są w rozdziale 3 jako pierwsze. Pomaga to, że wiele słów chemicznych brzmi podobnie w obu językach: „electronegativity”, „equilibrium”, „nucleophile”. Na początku warto zapisywać nowe słowa obok polskich odpowiedników; w tekstach z jednego przedmiotu powtarzają się te same. Jeśli zajęcia są po polsku, kolokwium też piszesz po polsku, więc dobrze mieć obok angielskiego filmu polskie notatki z wykładu.
 
-[ADRIAN: tu jedno zdanie o tym, że Twoje prace licencjacka i magisterska były pisane po angielsku, jeśli chcesz to podać jako przykład.]
+Sam pisałem po angielsku obie prace dyplomowe na Uniwersytecie Jagiellońskim: licencjacką o związkach niklu(II) i magisterską o podłożach do spektroskopii SERS.

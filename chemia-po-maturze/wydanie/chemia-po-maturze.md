@@ -1,0 +1,653 @@
+# Wstęp
+
+Przez 5 lat korepetycji ze studentami widziałem, jak ludzie po dobrej maturze zderzają się ze ścianą na pierwszym roku. Uczyłem chemii ogólnej, nieorganicznej, organicznej, fizycznej i analitycznej studentów pierwszych lat różnych kierunków, a sam skończyłem chemię na Uniwersytecie Jagiellońskim. Ten bonus jest dla Ciebie, jeśli masz za sobą maturę z chemii i za kilka miesięcy zaczynasz studia, na których chemia jest na pierwszym roku: chemię, medycynę, stomatologię, weterynarię, farmację, analitykę medyczną, biotechnologię, inżynierię albo technologię chemiczną. Nie trzeba jeszcze wiedzieć, gdzie się dostaniesz.
+
+Ten bonus nie uczy chemii. Pokazuje, gdzie ona jest: czym chemia na studiach różni się od tej z matury, skąd brać wiedzę, gdy wykład nie wystarcza, i jak nie być zdanym tylko na prowadzącego.
+
+### Co jest w środku
+
+Rozdział 1, „Inna gra”, mówi, co się zmienia po maturze, i podaje cztery zasady nauki na studiach. Przeczytaj go niezależnie od kierunku.
+
+Rozdział 2 pokazuje, w których przedmiotach pierwszego roku wracają tematy z kursu maturalnego i co do nich dochodzi. Opiera się na prawdziwych sylabusach polskich uczelni, czyli publicznych opisach przedmiotów, i pokazuje, jak bardzo przedmiot o tej samej nazwie różni się między nimi.
+
+Rozdział 3 to lista sprawdzonych źródeł do nauki według przedmiotów: chemia ogólna i nieorganiczna, organiczna, fizyczna, analityczna, biochemia i krótkie hasło o matematyce. Są tam polskie materiały uczelni, podręczniki, kanały wideo i strony z artykułami, każde z opisem, co w nim jest i kiedy po nie sięgnąć. Na końcu rozdziału jest skrót dla każdej grupy kierunków.
+
+Rozdział 4 to cztery krótkie wprowadzenia do rzeczy, które spotka prawie każdy: aktywność, chemia kwantowa, spektroskopia i laboratorium. Każde mówi, czym to jest, dlaczego to spotkasz i skąd uczyć się dalej.
+
+Rozdział 5 zbiera wszystkie źródła: polecane zasoby i dokumenty, na których oparty jest tekst.
+
+### Jak czytać
+
+Nie trzeba czytać po kolei. Jeśli masz pół godziny w wakacje, przeczytaj rozdział 1 i fragment rozdziału 3 dla swojego kierunku. Resztę zostaw na wrzesień i październik, kiedy znasz już swoją uczelnię i plan zajęć. Wtedy przyda się rozdział 2, żeby wiedzieć, czego się spodziewać, i rozdział 4, gdy na wykładzie padnie po raz pierwszy słowo „aktywność” albo „orbital molekularny”.
+
+Odnośniki w nawiasach kwadratowych prowadzą do pozycji na listach w rozdziale 5: te zaczynające się od R to polecane zasoby, te od Z to dokumenty, na których oparty jest tekst. Stan wszystkich zasobów i sylabusów jest na listopad 2026. Sylabusy zmieniają się co roku, a strony internetowe znikają, więc gdy coś nie działa, szukaj tego samego tytułu albo autora.
+
+# Inna gra
+
+Chemia do matury ma jasno zdefiniowany materiał. Jeżeli coś nie wchodzi w zakres maturalny, prawie zawsze się to pomija i wiadomo, o co chodzi. Na studiach to tak nie działa. Ten rozdział jest o tym, co się zmienia, i o czterech zasadach, które z tego wynikają.
+
+### Materiał bez wyraźnych granic
+
+Ten sam przedmiot, na przykład „chemia nieorganiczna” albo „chemia analityczna”, na trzech podobnych kierunkach to w praktyce zupełnie inne treści. Nie dlatego, że chemia jest wszędzie inna, tylko dlatego, że jest tak rozległa, że każda uczelnia uczy tego, co uznaje za stosowne. W rozdziale 2 są przykłady z prawdziwych programów: ta sama nazwa przedmiotu z inną liczbą godzin i innym zakresem na dwóch kierunkach jednej politechniki, a na kierunku lekarskim jednej uczelni chemia na pierwszym roku, na innej dopiero na drugim.
+
+Na maturze był jeden dokument, który mówił, co trzeba umieć. Na studiach jego odpowiednikiem jest sylabus, czyli karta przedmiotu: publiczny opis treści, liczby godzin, literatury i sposobu zaliczenia, czyli warunków, na jakich dostajesz ocenę z przedmiotu. Sylabus jest jednak ogólniejszy od wymagań maturalnych i nie mówi, które z wymienionych tematów prowadzący uzna za najważniejsze. Tego dowiadujesz się dopiero na zajęciach.
+
+### Wszystko zależy od prowadzącego
+
+Przekaz materiału zależy od prowadzącego jeszcze bardziej niż w szkole. W szkole słaby nauczyciel jest fatalny, ale da się uczyć na własną rękę: z kursu, z internetu, z podręczników, zwłaszcza blisko matury. Na studiach każdy wykładowca układa materiał pod siebie, wybiera określone rzeczy z książek, i często trudno się połapać, skąd się uczyć. Właśnie po to jest ten bonus.
+
+Prowadzący to osoba, która ma z Tobą zajęcia. Wykład to zajęcia, na których prowadzący mówi do całego roku w dużej sali. Na ćwiczeniach, czyli zajęciach w małej grupie, na których rozwiązuje się zadania, i na laboratorium, czyli zajęciach w pracowni, prowadzący bywa inny niż na wykładzie. Każdy z nich może mieć własne wymagania, zapisane w regulaminie przedmiotu albo podane na pierwszych zajęciach.
+
+### Zasada pierwsza: wykłady i slajdy przede wszystkim
+
+Pierwszorzędowe źródło to zawsze wykłady i slajdy z ćwiczeń. Zapamiętaj to.
+
+Wynika to wprost z poprzedniej części. Skoro każdy wykładowca wybiera z chemii co innego, to tylko jego wykład mówi, co wybrał. Podręcznik, film i strona internetowa przydają się dopiero wtedy, gdy wiesz, czego szukasz. W praktyce kolejność nauki wygląda tak: notatki i slajdy, potem podręcznik albo film na ten jeden temat, którego nie rozumiesz, potem zadania.
+
+[RYSUNEK: F-01, do narysowania. Schemat w trzech krokach ze strzałkami: 1. wykład i slajdy (podpis: co wybrał prowadzący), 2. podręcznik albo film na jeden temat, którego nie rozumiesz, 3. zadania. Podpis: „Kolejność nauki na studiach: najpierw to, co wybrał prowadzący.”]
+
+Drugim źródłem informacji o wymaganiach jest sylabus. Warto go przeczytać w pierwszym tygodniu, bo mówi rzeczy, których nikt nie powtórzy na zajęciach. Przykład z karty przedmiotu „Chemia ogólna i nieorganiczna” na analityce medycznej Uniwersytetu Medycznego w Łodzi [Z-017]: karta wymienia tematy wykładów z liczbą godzin na każdy, opisuje laboratorium, podaje, że do egzaminu dopuszcza zaliczenie laboratorium i ćwiczeń rachunkowych, i rozpisuje, ile punktów daje każda część. Mówi też rzeczy praktyczne: spóźnienie ponad kwadrans odbiera możliwość napisania sprawdzianu, a za pracę bez okularów ochronnych czy zapiętego fartucha odejmuje się punkty. Sylabusy są publiczne: w USOS (Uniwersyteckim Systemie Obsługi Studiów, w którym student widzi plan, oceny i przedmioty), na stronie wydziału albo w osobnym serwisie uczelni. Warto zacząć od trzech części: treści programowych, literatury i warunków zaliczenia.
+
+[RYSUNEK: F-02, do narysowania. Uproszczona, fikcyjna karta przedmiotu (sylabus) z wyróżnionymi trzema polami: treści programowe, literatura, warunki zaliczenia; mniejszym drukiem godziny, punkty ECTS, forma zaliczenia. Podpis: „Na co patrzeć w sylabusie: treści, literatura, warunki zaliczenia.”]
+
+### Zasada druga: pytaj starsze roczniki
+
+Ogromnie ważne jest wypytywanie starszych roczników o wykłady, notatki i materiały. To, co w książce zajmuje rozdział na trzydzieści stron, wykładowca potrafi zmieścić w dziesięciu procentach, i tylko z tych dziesięciu procent robi pytania.
+
+[RYSUNEK: F-03, do narysowania. Gruby rozdział podręcznika (około 30 stron) z zaznaczonym małym fragmentem (około jednej dziesiątej), strzałka do slajdów wykładu i do kartki z pytaniami na sprawdzian. Podpis: „Z rozdziału na trzydzieści stron na wykład trafia mała część, i z niej są pytania.”]
+
+Starsze roczniki to studenci wyższych lat Twojego kierunku. Znają prowadzących, wiedzą, jak wyglądały kolokwia, czyli sprawdziany pisane w trakcie semestru, i jak wyglądał egzamin w sesji, czyli w okresie egzaminów na koniec semestru. Materiały krążą zwykle w grupach roku na komunikatorach i przez koła naukowe, czyli studenckie stowarzyszenia przy katedrach. Dobrym pierwszym kontaktem jest starosta roku, czyli student wybrany na łącznika między rokiem a prowadzącymi.
+
+Dwie rzeczy warto pamiętać. Materiały sprzed roku mogą nie pasować, jeśli zmienił się prowadzący albo program, więc porównaj je z aktualnym sylabusem. I traktuj je jako mapę, nie jako zamiennik wykładu.
+
+### Zasada trzecia: książki istnieją w wielu postaciach
+
+Książki akademickie są drogie, a w bibliotece egzemplarzy jest mało. Trzeba umieć je znaleźć w wielu postaciach, jeśli nie po polsku, to po angielsku.
+
+Kilka dróg, które działają legalnie:
+
+- Biblioteka wydziałowa i uczelniana, z zamawianiem przez katalog online. Na przykład Wydział Chemii Uniwersytetu Wrocławskiego opisuje w poradniku dla studentów zamawianie przez katalog, półki wolnego dostępu i odbiór z automatu [Z-025]. Gdy egzemplarza brakuje, warto zapytać w bibliotece o wypożyczenie z innej biblioteki.
+- E-booki dostępne przez uczelnię. Część polskich podręczników akademickich jest na platformie IBUK Libra, do której uczelnie wykupują dostęp. Ten sam poradnik UWr podaje, że do IBUK Libra wchodzi się z sieci uczelni, przez serwer proxy albo z kodem PIN wydawanym przez bibliotekę [Z-025]. Na Twojej uczelni zasady mogą być inne; zapytaj w bibliotece.
+- Podręczniki otwarte, bezpłatne w sieci. W rozdziale 3 jest ich kilka, na przykład dziesiąte wydanie McMurry'ego z OpenStax [R-016] i „Chemistry 2e” [R-036].
+- Wydania starsze i angielskie. Polskie tłumaczenie bywa starsze od oryginału: na przykład polski Clayden to tłumaczenie pierwszego wydania [R-005], a angielskie jest już drugie [R-018]; McMurry po angielsku jest w nowszym wydaniu i bezpłatny [R-016]. Starsze wydanie tej samej książki łatwiej wypożyczyć; zanim z niego skorzystasz, porównaj spis treści z sylabusem.
+
+Podręcznika akademickiego nie czyta się od pierwszej strony. Bierzesz temat z wykładu, znajdujesz podrozdział, czytasz go, a potem robisz kilka zadań z końca rozdziału. Jeśli wykład zajął dziesięć procent rozdziału, czytasz te dziesięć procent.
+
+### Zasada czwarta: angielski od pierwszego dnia
+
+Na studiach trzeba będzie korzystać ze źródeł angielskojęzycznych. Warto się na to nastawić od początku.
+
+Większość zasobów w rozdziale 3 jest po angielsku: filmy, kursy, otwarte podręczniki, bazy danych. Polskich otwartych materiałów do chemii akademickiej przy pracy nad tym bonusem znalazło się niewiele; te, które są, opisane są w rozdziale 3 jako pierwsze. Pomaga to, że wiele słów chemicznych brzmi podobnie w obu językach: „electronegativity”, „equilibrium”, „nucleophile”. Na początku warto zapisywać nowe słowa obok polskich odpowiedników; w tekstach z jednego przedmiotu powtarzają się te same. Jeśli zajęcia są po polsku, kolokwium też piszesz po polsku, więc dobrze mieć obok angielskiego filmu polskie notatki z wykładu.
+
+Sam pisałem po angielsku obie prace dyplomowe na Uniwersytecie Jagiellońskim: licencjacką o związkach niklu(II) i magisterską o podłożach do spektroskopii SERS.
+
+# Co z matury zamienia się w co
+
+Kurs KaNaU 50/70/90 przeprowadził Cię przez 20 modułów, od budowy atomu po cukry. Nic z tego nie przepada. Na studiach ten sam materiał wraca, tylko w innych przedmiotach, pod innymi nazwami i z dodatkami, których na maturze nie było. Ten rozdział pokazuje, gdzie konkretnie.
+
+Mapa powstała z 24 publicznych sylabusów i planów studiów na ośmiu kierunkach, głównie z lat 2024/25–2026/27. Sylabus, czyli karta przedmiotu, to publiczny opis: jakie są treści, ile godzin, jak się zalicza i z czego się uczyć. Każda wymieniona uczelnia jest przykładem, a nie regułą. Na Twojej uczelni będzie trochę inaczej, i o tym jest druga część rozdziału.
+
+### Jak czytać tę mapę
+
+W pierwszej kolumnie jest moduł kursu. W drugiej przedmiot pierwszego roku, w którym ten materiał wraca, z przykładem uczelni. W trzeciej to, co dochodzi nowego. Odnośniki w nawiasach kwadratowych prowadzą do listy źródeł w rozdziale 5.
+
+Dwie rzeczy warto wiedzieć z góry. Po pierwsze, nazwy przedmiotów się różnią: chemię ogólną i nieorganiczną na jednej uczelni nazywa się „Chemia ogólna i nieorganiczna”, na innej „Podstawy chemii”, na kierunku lekarskim bywa częścią „Biochemii z elementami chemii”. Po drugie, ECTS to punkty przypisane do przedmiotu, mierzące, ile pracy wymaga; semestr to 30 punktów. Liczba punktów mówi więc, jak duży jest przedmiot.
+
+| Moduł kursu | Gdzie wraca na pierwszym roku (przykłady) | Co dochodzi nowego |
+|---|---|---|
+| I. Budowa atomu | chemia ogólna: „Podstawy chemii” na chemii UJ [Z-003], „Chemia ogólna” na chemii UW [Z-004], chemia ogólna i nieorganiczna na farmacji WUM [Z-015] | kwantowy opis atomu: równanie Schrödingera dla atomu wodoru, liczby kwantowe wyprowadzone, a nie podane [Z-003]; rozdział 4b |
+| II. Wiązania i oddziaływania | chemia ogólna [Z-003] [Z-015] [Z-021] | orbitale molekularne jako kombinacje orbitali atomowych, hybrydyzacja jako narzędzie opisu, symetria cząsteczek, sieć krystaliczna i teoria pasmowa [Z-003] |
+| III. Systematyka związków nieorganicznych | chemia ogólna i nieorganiczna, potem chemia nieorganiczna (na technologii chemicznej PW w drugim semestrze) [Z-019] [Z-023]; na technologii chemicznej PP druga część przedmiotu w drugim semestrze [Z-024] | chemia pierwiastków grupa po grupie [Z-015] [Z-017], związki kompleksowe z nazewnictwem i trwałością [Z-014] [Z-016] |
+| IV. Stechiometria | ćwiczenia rachunkowe z chemii ogólnej [Z-017] [Z-019] [Z-021] | stężenie normalne i gramorównoważnik [Z-021], ułamek molowy [Z-019], znacznie więcej zadań i szybsze tempo |
+| V. Kinetyka, statyka, energetyka | chemia ogólna, później chemia fizyczna (na PW w trzecim semestrze) [Z-003] [Z-021] [Z-023] | entropia, energia Gibbsa, potencjał chemiczny, wykresy fazowe; reakcje pierwszego i drugiego rzędu, równania Arrheniusa i Eyringa [Z-021] |
+| VI. Roztwory | chemia ogólna [Z-019]; na weterynarii UP Lublin w „Chemii” pierwszego semestru, razem z pH, buforami i redoksem [Z-012] [Z-013]; na stomatologii UMB w przedmiocie „Chemia zintegrowana z materiałoznawstwem” [Z-010] | roztwory koloidalne [Z-014], molekularna interpretacja rozpuszczania [Z-019], iloczyn rozpuszczalności [Z-010] |
+| VII. pH i reakcje w roztworach elektrolitów | chemia ogólna i nieorganiczna [Z-014] [Z-016] [Z-021]; na kierunku lekarskim UJ CM już w biochemii pierwszego roku [Z-005] | aktywność zamiast stężenia, współczynniki aktywności, siła jonowa [Z-021] [Z-022]; bufory fizjologiczne i równowaga kwasowo-zasadowa organizmu [Z-005] [Z-010]; rozdział 4a |
+| VIII. Redoks | chemia ogólna [Z-003] [Z-017]; miareczkowania redoks na laboratorium [Z-019] | równanie Nernsta, potencjał normalny i warunkowy [Z-014] |
+| IX. Elektrochemia | chemia ogólna [Z-003] [Z-014] [Z-016]; chemia fizyczna później | ilościowy opis ogniw i elektrolizy [Z-014] |
+| X. Zastosowania związków nieorganicznych | chemia nieorganiczna, analiza jakościowa na farmacji [Z-014] [Z-015] | rola pierwiastków w organizmie [Z-010] [Z-017], izotopy promieniotwórcze w medycynie [Z-014] [Z-016], reakcje zalecane przez Farmakopeę [Z-014] |
+| XI. Wstęp do chemii organicznej (obie części) | chemia organiczna: na analityce medycznej WUM w pierwszym semestrze [Z-018] [Z-034], na technologii chemicznej PW w czwartym semestrze [Z-023] | nazewnictwo z regułami starszeństwa podstawników, izomeria optyczna i geometryczna, budowa cząsteczek w ujęciu orbitali, efekt mezomeryczny i indukcyjny [Z-034] |
+| XII. Węglowodory | chemia organiczna [Z-034] | mechanizmy reakcji: substytucja elektrofilowa i nukleofilowa, eliminacja [Z-034]; rysowanie mechanizmów strzałkami (rozdział 3) |
+| XIII. Alkohole i fenole | chemia organiczna [Z-034] | te same mechanizmy substytucji i eliminacji na alkoholach i fluorowcopochodnych [Z-034] |
+| XIV. Aldehydy i ketony | chemia organiczna [Z-034] | reaktywność grupy karbonylowej tłumaczona mechanizmem |
+| XV. Kwasy karboksylowe | chemia organiczna [Z-034] | funkcyjne i szkieletowe pochodne kwasów karboksylowych, pochodne kwasu węglowego [Z-034] |
+| XVI. Estry i tłuszcze | chemia organiczna, biochemia [Z-034] | lipidy, w tym steroidy i terpeny [Z-034] |
+| XVII. Związki zawierające azot | chemia organiczna, biochemia [Z-034] | związki heterocykliczne z azotem, tlenem i siarką, alkaloidy [Z-034] |
+| XVIII. Białka | biochemia: na kierunku lekarskim UJ CM i UMB na pierwszym roku [Z-005] [Z-007], na weterynarii SGGW w pierwszym semestrze [Z-011], na lekarskim WUM na drugim roku [Z-006] | enzymy i ich kinetyka, synteza białek, metody laboratoryjne biochemii [Z-005] |
+| XIX. Cukry | biochemia [Z-005] [Z-011] | metabolizm: glikoliza, cykl Krebsa, łańcuch oddechowy [Z-005] |
+
+### Rzeczy, których na maturze nie było wcale
+
+Cztery tematy z tabeli są zupełnie nowe i pojawiają się na wielu kierunkach. Mają osobne krótkie wprowadzenia w rozdziale 4.
+
+Aktywność, czyli „skuteczne stężenie” jonów w roztworze, pada już w pierwszym semestrze chemii ogólnej i nieorganicznej na przykład na Politechnice Poznańskiej, na technologii chemicznej i na inżynierii chemicznej i procesowej [Z-021] [Z-022]. Więcej w rozdziale 4a.
+
+Chemia kwantowa wchodzi na kierunku chemia od razu: „Podstawy chemii” w pierwszym semestrze na UJ obejmują równanie Schrödingera dla atomu wodoru i orbitale molekularne [Z-003], a chemia ogólna na UW „elementy kwantowego opisu mikroświata” [Z-004]. Na farmacji WUM wykład zaczyna się od „mechaniczno-kwantowej teorii atomu” [Z-015]. Więcej w rozdziale 4b.
+
+Spektroskopia na pierwszym roku pojawia się na przykład w laboratorium, jako oznaczanie fosforanów metodą krzywej wzorcowej na biotechnologii UKSW [Z-019]. Na kierunkach chemicznych wraca w organicznej i analityce na kolejnych latach. Więcej w rozdziale 4c.
+
+Laboratorium jest na pierwszym roku prawie wszędzie, a jego zasady są nową grą: wejściówki, czyli krótkie sprawdziany przed ćwiczeniem, sprawozdania, czyli pisemne opracowania wykonanych ćwiczeń, i zeszyt laboratoryjny. Więcej w rozdziale 4d.
+
+### Ten sam przedmiot, inna treść
+
+Na maturze wszyscy uczą się z tej samej podstawy programowej. Na studiach przedmiot o tej samej nazwie potrafi wyglądać zupełnie inaczej, bo każda uczelnia układa go po swojemu i pod swój kierunek. Trzy przykłady z zebranych sylabusów.
+
+Pierwszy przykład to jedna uczelnia i jedna nazwa. „Chemia ogólna i nieorganiczna” w pierwszym semestrze Politechniki Poznańskiej ma na technologii chemicznej 45 godzin wykładu, 30 godzin ćwiczeń i 7 punktów ECTS [Z-021]. Na inżynierii chemicznej i procesowej ta sama nazwa oznacza 30 godzin wykładu, 30 godzin ćwiczeń i 5 punktów [Z-022]. Plan wykładu jest podobny, ale na technologii chemicznej godzin wykładu jest o połowę więcej.
+
+[RYSUNEK: F-05, do narysowania. Dwa zestawy słupków dla przedmiotu „Chemia ogólna i nieorganiczna” na Politechnice Poznańskiej: technologia chemiczna (wykład 45 h, ćwiczenia 30 h, 7 ECTS) i inżynieria chemiczna i procesowa (wykład 30 h, ćwiczenia 30 h, 5 ECTS). Podpis: „Ta sama nazwa przedmiotu, ta sama uczelnia, inny wymiar (karty przedmiotów 2026/27).”]
+
+Drugi przykład to ta sama nazwa na trzech kierunkach. „Chemia ogólna i nieorganiczna” w pierwszym semestrze farmacji UJ CM ma 7 punktów i obejmuje między innymi reakcje identyfikacji jonów zalecane przez Farmakopeę Polską i Europejską [Z-014]. Na analityce medycznej Uniwersytetu Medycznego w Łodzi ma 4 punkty, 15 godzin wykładu i 35 godzin laboratorium, a wykład przechodzi przez chemię pierwiastków bloków s, p i d [Z-017]. Na biotechnologii Uniwersytetu Rzeszowskiego to 30 godzin wykładu, 30 godzin laboratorium i 6 punktów [Z-020]. Ta sama nazwa, trzy różne zestawy rzeczy do opanowania.
+
+Trzeci przykład dotyczy tego, czy chemia w ogóle jest na pierwszym roku. Na kierunku lekarskim Warszawskiego Uniwersytetu Medycznego w programie pierwszego roku 2025/26 nie ma przedmiotu chemicznego; chemia przychodzi na drugim roku jako „Biochemia z elementami chemii”, 180 godzin i 17 punktów [Z-006]. W Uniwersytecie Medycznym w Białymstoku na pierwszym roku są osobno „Chemia” (30 godzin, 2 punkty) i „Biochemia” (145 godzin, 11 punktów) [Z-007]. Na UJ CM pierwszy rok kierunku lekarskiego ma biochemię przez dwa semestry, a jej pierwsze zajęcia dotyczą wody, równowag jonowych i pH buforów, czyli chemii z matury [Z-005]. Na stomatologii jest podobnie: na UJ CM chemia pojawia się dopiero na drugim roku [Z-008], w UMB na pierwszym, jako 20 godzin „Chemii zintegrowanej z materiałoznawstwem” [Z-009] [Z-010].
+
+[RYSUNEK: F-04, do narysowania. Trzy poziome paski (WUM, UMB, UJ CM) z podziałem na I i II rok kierunku lekarskiego. WUM: I rok bez chemii, II rok „Biochemia z elementami chemii” 180 h. UMB: I rok „Chemia” 30 h i „Biochemia” 145 h. UJ CM: I rok „Biochemia” w semestrach 1 i 2. Podpis: „Gdzie jest chemia na kierunku lekarskim: trzy uczelnie, trzy układy (programy 2025/26–2026/27).”]
+
+Z tych przykładów nie da się zgadnąć, jak będzie u Ciebie. Da się za to zrobić jedną rzecz: gdy znasz już swoją uczelnię, znaleźć sylabusy swoich przedmiotów. Jak to zrobić i na co w nich patrzeć, jest w rozdziale 1.
+
+# Skąd się uczyć
+
+Są kanały na YouTube i strony, które naprawdę pomagają: Professor Dave Explains, Khan Academy, The Organic Chemistry Tutor, strony z mechanizmami organicznymi. Trzeba z nich wydobyć, co mają dobrego i kiedy po nie sięgnąć. Ten rozdział robi to za Ciebie.
+
+Każde źródło niżej zostało otwarte i sprawdzone w listopadzie 2026. Przy każdym jest opis, co w nim jest, kiedy po nie sięgnąć, w jakim języku i na jakim poziomie: „wprowadzenie” to most od matury, „poziom pierwszego roku” to materiał na zajęcia, „poziom dalszy” to rzeczy na później albo do sprawdzania. Przy filmach opis powstał z pełnej listy tytułów w playliście, nie z obejrzenia każdego filmu.
+
+Rozdział jest ułożony według przedmiotów, a w każdym przedmiocie najpierw są polskie materiały uczelni, potem podręczniki, filmy i strony. Na końcu jest skrót dla każdej grupy kierunków. Pamiętaj o zasadzie pierwszej z rozdziału 1: żadne z tych źródeł nie zastąpi wykładu i slajdów, bo tylko one mówią, co z chemii wybrał Twój prowadzący.
+
+## Chemia organiczna
+
+Z matury znasz organiczną jako katalog: grupa funkcyjna, nazwa, kilka reakcji, które trzeba umieć zapisać. Na studiach do tego samego materiału dochodzi pytanie „dlaczego”: którędy płyną elektrony, skąd atakuje odczynnik, dlaczego powstaje ten produkt, a nie inny. To się nazywa mechanizm reakcji i rysuje się go zakrzywionymi strzałkami. Większość zasobów niżej jest po to, żeby te strzałki zaczęły mieć sens.
+
+[RYSUNEK: F-06, do znalezienia. Mechanizm substytucji nukleofilowej SN2 z zakrzywionymi strzałkami, na prostym przykładzie (np. jon wodorotlenkowy i bromometan albo bromoetan), z zaznaczonym stanem przejściowym. Podpis: „Mechanizm reakcji rysuje się zakrzywionymi strzałkami: każda pokazuje, skąd i dokąd przesuwa się para elektronów.”]
+
+Kolejność, która zwykle działa: najpierw notatki z wykładu, potem krótki film albo artykuł na jeden temat, którego nie rozumiesz, potem zadania. Podręcznik otwierasz na konkretnym podrozdziale, a nie od pierwszej strony.
+
+### Polskie materiały uczelni
+
+Uniwersytet Śląski udostępnia nagrania wykładu „Chemia organiczna” prof. Jarosława Polańskiego z roku 2017/2018 [R-001]. To 19 wykładów, każdy od pół godziny do prawie dwóch godzin. Tytuły filmów to tylko numery wykładów, więc konkretnego tematu szuka się, przewijając. Warto po nie sięgnąć, gdy chcesz usłyszeć organiczną po polsku, z polskim nazewnictwem, albo posłuchać drugiego wykładowcy, kiedy własny wykład był za szybki. (Po polsku; poziom pierwszego roku.)
+
+Drugi polski cykl wykładów jest na kanale SGGW [R-054]. To 25 nagrań z podstaw organicznej, po 40 do 90 minut, i w odróżnieniu od nagrań UŚ każdy film ma temat w tytule: alkany, alkeny i alkiny, związki aromatyczne, alkohole i fenole, aminy, stereochemia, związki karbonylowe, cukry, peptydy, lipidy. Dzięki temu łatwo trafić w wykład z jednej grupy związków, na przykład przed kolokwium. Układ jest bliski kursom organicznej na kierunkach przyrodniczych i biologicznych. (Po polsku; poziom pierwszego roku.)
+
+Uniwersytet Śląski ma też dwie krótkie playlisty z pracowni organicznej. Pierwsza pokazuje trzy podstawowe czynności: krystalizację, destylację prostą i sączenie pod zmniejszonym ciśnieniem [R-002]. Druga to czternaście filmów, z których każdy prowadzi przez jedną syntezę, między innymi aspiryny i salicylanu metylu [R-003]. Przydają się przed laboratorium, gdy w instrukcji jest operacja, której jeszcze nie znasz z praktyki, i chcesz zobaczyć sprzęt i kolejność ruchów. Twoja pracownia będzie miała inne preparaty, ale ten sam typ pracy. (Po polsku; filmy od dwóch do jedenastu minut.)
+
+Polska wersja Khan Academy ma osobny kurs „Chemia organiczna” [R-062]. Zaczyna od struktury i wiązań (hybrydyzacja, wzory szkieletowe, polarność), a dalej przechodzi przez stereochemię, substytucję i eliminację, alkeny i alkiny, związki aromatyczne, karbonylowe i aminy aż po spektroskopię. Filmy są krótkie, z ćwiczeniami. To dobry pierwszy krok przed angielskimi playlistami opisanymi niżej. (Po polsku; poziom pierwszego roku.)
+
+Katedra Chemii Organicznej Politechniki Warszawskiej udostępnia szesnaście krótkich plików o polskim nazewnictwie związków organicznych, klasa po klasie, od alkanów po aminy i związki azowe, z tabelą grup według reguły pierwszeństwa na końcu [R-019]. Przydają się, bo większość materiałów wideo jest po angielsku i uczy nazw angielskich, a na kolokwium nazwę zwykle pisze się po polsku. Pliki powstały w 2011 roku na podstawie skryptu politechniki, czyli uczelnianego podręcznika do tego przedmiotu; jeśli Twój prowadzący trzyma się nowszych zaleceń nazewniczych, warto go o to zapytać. (Po polsku; poziom pierwszego roku.)
+
+### Podręczniki
+
+Po polsku masz do wyboru przede wszystkim dwa przetłumaczone podręczniki. Pierwszy to McMurry, „Chemia organiczna”, w pięciu tomach Wydawnictwa Naukowego PWN, wydanie IV [R-004]. To pełny wykład od budowy i wiązań po biomolekuły, z zadaniami na końcu rozdziałów. Tomy są podzielone według rozdziałów oryginału, więc łatwo wziąć z biblioteki tylko ten, którego potrzebujesz. Ten sam autor ma nowsze, dziesiąte wydanie angielskie, które jest bezpłatne w sieci na platformie OpenStax [R-016]. Ma 31 rozdziałów, a spektroskopia jest w rozdziałach od 12 do 14. Jeśli w bibliotece nie ma wolnego egzemplarza polskiego, angielski McMurry jest pod ręką zawsze.
+
+Drugi to Clayden, Greeves, Warren i Wothers, „Chemia organiczna”, cztery części wydane przez Wydawnictwa Naukowo-Techniczne w latach 2009–2011 [R-005]. Polskie tłumaczenie dotyczy pierwszego wydania. W drugim wydaniu angielskim rozdziały są ułożone w dużej części według typów reakcji i mechanizmów, na przykład „Nucleophilic Addition to the Carbonyl Group” czy „Elimination Reactions”, a nie według klas związków. Drugie wydanie angielskie z 2012 roku ma 43 rozdziały i około 1260 stron [R-018]. To książka raczej dla kierunku chemia i dla tych, których prowadzący uczy od mechanizmów.
+
+Na kierunkach medycznych i na biotechnologii przydaje się otwarty podręcznik Tima Soderberga „Organic Chemistry with a Biological Emphasis” w serwisie LibreTexts [R-017]. Jest pisany z naciskiem na biologię: obok klasycznych tematów ma osobne rozdziały o przenoszeniu grup fosforanowych, utlenianiu i redukcji w komórce oraz o chemii witamin. Jeśli nie widzisz, po co lekarzowi organiczna, zacznij od tych rozdziałów. (Po angielsku; poziom pierwszego roku.)
+
+O tym, jak zdobyć książkę bez kupowania jej, jest więcej w rozdziale 1. Najkrócej: biblioteka wydziałowa, dostęp uczelni do e-booków, wydania otwarte i starsze wydania.
+
+### Kanały wideo
+
+Professor Dave Explains ma playlistę „Organic Chemistry” ze 119 filmami [R-006]. Każdy film to jeden temat w kilka do kilkunastu minut: nazewnictwo, konformacje cykloheksanu, R i S, SN1, SN2, E1 i E2, addycje do alkenów, związki karbonylowe, substytucja aromatyczna, a dalej reakcje imienne. W środku są też filmy o widmach IR i NMR oraz o ekstrakcji i chromatografii. Sięgnij, gdy wykład przeleciał temat w pięć minut i potrzebujesz krótkiego wyjaśnienia jednej rzeczy. Do tej playlisty ten sam autor ma 68 filmów z zadaniami [R-007]: najpierw problem, potem informacja, które filmy powtórzyć, a na końcu rozwiązanie krok po kroku. Ostatnie filmy mają formę całych egzaminów. To dobry materiał na tydzień przed kolokwium, czyli sprawdzianem w trakcie semestru.
+
+The Organic Chemistry Tutor ma 177 filmów ułożonych jak cały kurs organicznej [R-008]. Ich mocna strona to liczba przykładów: autor rozwiązuje zadanie za zadaniem, aż schemat wejdzie w rękę. Sięgnij, gdy rozumiesz zasadę, ale w zadaniu nie wiesz, od czego zacząć. Pięć pozycji na liście to zapowiedzi płatnych materiałów, reszta jest bezpłatna. (Po angielsku; poziom pierwszego roku.)
+
+CrashCourse „Organic Chemistry” to 50 odcinków po 4 do 15 minut, przeglądających cały materiał dwóch semestrów organicznej na uczelniach amerykańskich, łącznie ze spektroskopią i biocząsteczkami [R-009]. To materiał do obejrzenia w wakacje albo na początku semestru, żeby zobaczyć mapę całości, a nie do nauki konkretnego mechanizmu przed sprawdzianem. (Po angielsku; wprowadzenie.)
+
+MIT OpenCourseWare udostępnia materiały kursu 5.12 „Organic Chemistry I” z 2003 roku [R-010]. Nie ma tam filmów. Są notatki do wykładów w PDF, zestawy zadań z rozwiązaniami i egzaminy próbne. Przydaje się, gdy potrzebujesz zadań na poziomie uczelni z rozwiązaniami albo chcesz zobaczyć, jak wygląda egzamin z organicznej gdzie indziej. Układ materiału może różnić się od Twojego wykładu. (Po angielsku; poziom pierwszego roku.)
+
+### Strony i artykuły
+
+Chemguide Jima Clarka to brytyjska strona pisana dla poziomu A-level, czyli mniej więcej polskiej matury rozszerzonej [R-011]. Jej menu mechanizmów opisuje siedem podstawowych typów reakcji na najprostszych cząsteczkach, takich jak eten, bromoetan i etanal. Poziom jest bliski maturze, więc to łagodne przejście do mechanizmów: zacznij tu, jeśli na pierwszym wykładzie strzałki były dla Ciebie zupełnie nowe. (Po angielsku; wprowadzenie.)
+
+Master Organic Chemistry to ponad 400 artykułów ułożonych na stronie głównej w rozdziały jak w podręczniku [R-012]. Artykuły tłumaczą, dlaczego coś zachodzi: dlaczego jedna grupa odchodzi łatwiej od innej, dlaczego ta pozycja w pierścieniu, a nie tamta. Część serwisu jest płatna (pełny przewodnik po reakcjach, quizy, arkusze), artykuły są bezpłatne. Sięgnij, gdy jedna rzecz z wykładu nie daje Ci spokoju i wolisz o niej przeczytać niż obejrzeć film. (Po angielsku; poziom pierwszego roku.)
+
+Chemistry Steps zbiera kilkaset krótkich artykułów w działach kursu, wiele z zadaniami do tematu [R-013]. Dobrze się sprawdza, gdy po przeczytaniu chcesz od razu przećwiczyć ten sam temat na kilku przykładach. Część quizów i rozwiązań jest tylko dla płacących użytkowników. (Po angielsku; poziom pierwszego roku.)
+
+ChemTube3D, serwis Uniwersytetu w Liverpoolu, pokazuje cząsteczki i mechanizmy jako trójwymiarowe animacje, które można obracać [R-014]. Strona, do której prowadzi link, łączy animacje ze stronami drugiego wydania Claydena. Sięgnij, gdy na płaskim rysunku nie widzisz, z której strony atakuje odczynnik albo dlaczego cząsteczka jest chiralna. (Po angielsku, ale tekstu jest niewiele; poziom pierwszego roku.)
+
+Organic Chemistry Portal to alfabetyczny spis reakcji imiennych z mechanizmami i literaturą [R-015]. Serwis jest pisany dla chemików syntetyków, więc na pierwszym roku służy do sprawdzenia, czym jest reakcja, o której wspomniał wykładowca, a nie do nauki od zera. (Po angielsku; poziom dalszy.)
+
+## Chemia ogólna i nieorganiczna
+
+Chemia ogólna na pierwszym semestrze wygląda na początku znajomo: atom, wiązania, stężenia, pH, redoks. Różnica jest w tempie i w obliczeniach: wykład idzie szybciej niż lekcje w szkole, a na ćwiczeniach, czyli zajęciach w małej grupie z zadaniami, od razu robi się rachunki. Nowe są na przykład orbitale molekularne, termodynamika z entropią i entalpią swobodną, równowagi z rachunkiem w kilku krokach i związki kompleksowe [Z-003] [Z-015] [Z-021].
+
+### Polskie materiały uczelni
+
+SGGW ma na swoim kanale cykl dr. inż. Witolda Bekasa „Podstawy chemii”: 26 wykładów po 45 do 75 minut [R-026]. Zaczyna się od stężeń i obliczeń stechiometrycznych, przechodzi przez budowę atomu, wiązania, związki nieorganiczne, elektrolity, redoks i elektrochemię, a kończy miareczkowaniami i zadaniami z pH. Przydaje się na samym początku studiów, gdy pierwsze zajęcia to obliczenia, a matura była kilka miesięcy temu. Końcowe wykłady o miareczkowaniach przydadzą się też na analityce. (Po polsku; wprowadzenie.)
+
+Polska wersja Khan Academy ma kurs „Chemia” w 20 działach, od atomów i moli przez budowę elektronową, wiązania, gazy, równowagę, kwasy i zasady, bufory i iloczyn rozpuszczalności po termodynamikę, redoks i kinetykę [R-027]. Filmy są krótkie, a po nich są ćwiczenia. To dobre miejsce, żeby po polsku powtórzyć temat, który na wykładzie poszedł za szybko. (Po polsku; wprowadzenie.)
+
+### Podręczniki
+
+Po polsku do chemii ogólnej jest „Chemia ogólna” Atkinsa, Jones i Lavermana, wydanie II, PWN 2020, czyli tłumaczenie „Chemical Principles” [R-029]. Do chemii nieorganicznej, czyli chemii konkretnych pierwiastków i ich związków, polskim podręcznikiem jest Adam Bielański, „Podstawy chemii nieorganicznej”, wydanie 6, PWN 2010, także w dwóch tomach [R-028]. Bielańskiego czyta się wybiórczo: tę grupę układu okresowego, o której był wykład.
+
+Po angielsku bezpłatny jest podręcznik „Chemistry 2e” z OpenStax [R-036]. Ma 21 rozdziałów, od podstaw po związki koordynacyjne i chemię jądrową, z zadaniami na końcu każdego. Licencja pozwala czytać i pobierać za darmo.
+
+### Kanały wideo i kursy
+
+Professor Dave Explains ma playlistę „General Chemistry” z 83 krótkimi filmami [R-030]. Pokrywa całą chemię ogólną pierwszego roku, w tym tematy, których na maturze nie było: orbitale molekularne, termodynamikę z entropią, iloczyn rozpuszczalności, związki kompleksowe i teorię pola krystalicznego. Do niej jest playlista 41 zadań rachunkowych [R-031], każde zadanie innego typu: stechiometria, prawo Hessa, rozcieńczanie, tabele stężeń równowagowych, równanie Hendersona-Hasselbalcha, iloczyn rozpuszczalności. Trzecia playlista tego autora, „Inorganic/Organometallic Chemistry” [R-032], w pierwszej połowie przechodzi przez układ okresowy grupa po grupie, a w drugiej wchodzi w chemię metaloorganiczną, która jest raczej na wyższych latach. (Po angielsku; od wprowadzenia do poziomu pierwszego roku.)
+
+The Organic Chemistry Tutor, mimo nazwy, ma też ogromną playlistę z chemii ogólnej: 316 filmów, w większości rozwiązywanie zadań na przykładach [R-033]. Sięgnij po nią, gdy potrzebujesz pięciu podobnych zadań pod rząd, aż typ obliczenia przestanie być problemem. Kilkanaście pozycji to materiały płatne, reszta jest bezpłatna. (Po angielsku; poziom pierwszego roku.)
+
+MIT OpenCourseWare udostępnia kurs 5.111SC „Principles of Chemical Science” z 2014 roku [R-034]. Są tam nagrania wszystkich wykładów, notatki, zadania i egzaminy z rozwiązaniami. To pełny wykład akademicki z chemii ogólnej po angielsku, z przykładami z chemii biologicznej, nieorganicznej i organicznej. (Po angielsku; poziom pierwszego roku.)
+
+### Strony, artykuły i bazy danych
+
+Chemguide ma dział nieorganiczny na poziomie zbliżonym do matury rozszerzonej: stopnie utlenienia, elektroliza, chemia grup układu okresowego, jony kompleksowe i metale przejściowe [R-035]. Przydaje się, gdy na wykładzie z nieorganicznej pojawiają się kompleksy i chcesz zacząć od prostego wyjaśnienia, skąd biorą się ich barwy. (Po angielsku; wprowadzenie.)
+
+PubChem to publiczna baza związków chemicznych amerykańskich Narodowych Instytutów Zdrowia [R-037]. Po wpisaniu nazwy związku dostajesz jego wzór, właściwości, dane o zagrożeniach i toksyczności, a czasem widma. Przydaje się przed laboratorium i przy sprawozdaniach. (Po angielsku; poziom pierwszego roku.)
+
+Chemistry World to magazyn Royal Society of Chemistry, brytyjskiego towarzystwa chemicznego [R-063]. Publikuje wiadomości, comiesięczny przegląd nowych badań, reportaże i felietony, czyli chemię poza podręcznikiem: nowe leki, materiały, odkrycia i ludzi, którzy za nimi stoją. Po darmowej rejestracji można czytać kilka artykułów w miesiącu; jeśli Twoja uczelnia wykupiła dostęp, czytasz bez limitu. To lektura dla przyjemności, a przy okazji dobry trening angielskiego z rozdziału 1. (Po angielsku; poziom dalszy.)
+
+## Chemia fizyczna
+
+Chemia fizyczna jest trudna. Na części kierunków przychodzi dopiero na drugim roku, na przykład na technologii chemicznej PW w trzecim semestrze [Z-023], ale jej podstawy (termodynamika, kinetyka) bywają już w chemii ogólnej pierwszego semestru [Z-021]. Wraca w niej kinetyka i energetyka z matury, ale tym razem z pochodnymi, całkami i logarytmami, a do tego dochodzą entropia, entalpia swobodna, równowagi fazowe i elektrochemia opisana wzorami. Dlatego warto mieć pod ręką także hasło o matematyce na końcu tego rozdziału.
+
+[RYSUNEK: F-07, do znalezienia. Uproszczony wykres fazowy wody (ciśnienie od temperatury) z obszarami ciała stałego, cieczy i gazu, punktem potrójnym i punktem krytycznym. Podpis: „Wykres fazowy wody, jeden z pierwszych rysunków chemii fizycznej.”]
+
+### Polskie materiały uczelni
+
+Katedra Chemii Fizycznej Politechniki Warszawskiej ma playlistę „Laboratorium Chemii Fizycznej” z 17 filmami [R-038]. Piętnaście to krótkie pokazy ćwiczeń, między innymi kalorymetrycznego wyznaczania entalpii spalania, przewodności elektrolitów, kinetyki inwersji sacharozy i równowagi ciecz–para. Dwa ostatnie są dłuższe i dotyczą każdej pracowni, nie tylko tej: regulamin pracowni i uwagi do sprawozdań, czyli tego, jak prowadzący oceniają pisemne opracowanie ćwiczenia. Więcej o sprawozdaniach jest w rozdziale 4. (Po polsku; poziom pierwszego roku.)
+
+### Podręczniki
+
+Po polsku są dwie drogi. Pierwsza to tłumaczenie Atkinsa, de Pauli i Keelera, „Chemia fizyczna”, PWN i PZWL 2022 [R-039]. Druga to oryginalny polski podręcznik Krzysztofa Pigonia i Zdzisława Ruziewicza „Chemia fizyczna” w dwóch tomach: tom 1 „Podstawy fenomenologiczne” (wydanie 6, PWN 2007) i tom 2 „Fizykochemia molekularna”; do tego jest zbiór zadań z rozwiązaniami [R-040]. Z obu czyta się wybrane podrozdziały pod wykład, nie całość.
+
+Po angielsku bezpłatnie dostępne są dwa podręczniki w serwisie LibreTexts. Pierwszy to „The Live Textbook of Physical Chemistry” Roberta Peveratiego z Florida Institute of Technology [R-043]: termodynamika, równowagi, roztwory i kinetyka, a w drugiej części wstęp do mechaniki kwantowej. Drugi, „Physical Chemistry for the Biosciences” [R-044], przerabia te same podstawy na przykładach biologicznych, z osobnym rozdziałem o kinetyce enzymów. Na farmacji, analityce medycznej i biotechnologii zacznij od niego. (Po angielsku; poziom pierwszego roku.)
+
+### Kanały wideo, kursy i strony
+
+MIT OpenCourseWare ma kurs 5.60 „Thermodynamics & Kinetics” z nagraniami wykładów [R-041]: termodynamika, równowagi chemiczne w fazie gazowej i w roztworze, szybkość reakcji. (Po angielsku; poziom pierwszego roku.)
+
+Chemguide ma dział „Physical Chemistry” z łagodnym wstępem do entropii i entalpii swobodnej, szybkości reakcji, równowag, potencjałów elektrodowych i równowag kwasowo-zasadowych [R-042]. Zacznij od niego, gdy na wykładzie pada „entropia” i nie masz z nią żadnego skojarzenia. (Po angielsku; wprowadzenie.)
+
+Wśród filmów z chemii ogólnej (Professor Dave, The Organic Chemistry Tutor, opisane wyżej) są też tematy fizykochemiczne: termodynamika, kinetyka z równaniami szybkości, równowaga i elektrochemia [R-030] [R-033].
+
+## Chemia analityczna
+
+Analityka odpowiada na dwa pytania: co jest w próbce i ile tego jest. Z matury znasz miareczkowanie i stężenia. Na studiach dochodzą rachunek równowag w roztworach w kilku krokach, ocena niepewności pomiaru, metody instrumentalne i bardzo dużo pracy na pracowni. Na analityce medycznej WUM chemia analityczna jest już na pierwszym roku, obok chemii ogólnej, organicznej i fizycznej [Z-018]. Na technologii chemicznej PW zaczyna się w trzecim semestrze [Z-023].
+
+### Polskie materiały uczelni
+
+Uniwersytet Śląski ma playlistę „Chemia analityczna” z ośmioma krótkimi filmami z pracowni [R-025]: cztery miareczkowania (alkacymetria z różnymi wskaźnikami, manganometria, oznaczanie chlorków metodą Mohra) i trzy metody instrumentalne (spektrofotometria UV-VIS, absorpcyjna spektrometria atomowa, fluorescencja rentgenowska). Obejrzyj przed pierwszym miareczkowaniem. Ostatnie wykłady z cyklu dr. Bekasa na kanale SGGW też dotyczą analityki: kompleksometria, manganometria, alkacymetria i zadania z pH [R-026]. (Po polsku.)
+
+[RYSUNEK: F-08, do znalezienia. Zdjęcie zestawu do miareczkowania: biureta na statywie, pod nią kolba stożkowa z roztworem i wskaźnikiem. Podpis: „Zestaw do miareczkowania: biureta, kolba stożkowa, wskaźnik.”]
+
+### Podręczniki
+
+Po polsku: Ryszard Kocjan (red.), „Chemia analityczna: podręcznik dla studentów”, dwa tomy, wydanie III, PZWL i PWN 2023 [R-045]. Tom 1 to analiza jakościowa i klasyczna ilościowa, tom 2 analiza instrumentalna. Starszy jest dwutomowy podręcznik Jerzego Minczewskiego i Zygmunta Marczenki „Chemia analityczna” (PWN 2004); tom 1 nosi tytuł „Podstawy teoretyczne i analiza jakościowa”, tom 2 „Chemiczne metody analizy ilościowej” [R-046].
+
+Po angielsku bezpłatny jest podręcznik Davida Harveya „Analytical Chemistry 2.1” w serwisie LibreTexts [R-047]. Szczególnie przydaje się jego rozdział 4 o ocenie danych analitycznych, gdy w sprawozdaniu trzeba policzyć niepewność, oraz rozdziały o miareczkowaniach i o spektroskopii. (Po angielsku; poziom pierwszego roku.)
+
+Do zadań rachunkowych z analityki (pH, bufory, iloczyn rozpuszczalności, miareczkowanie) pasują playlisty zadań z chemii ogólnej opisane wyżej [R-031] [R-033].
+
+## Biochemia
+
+Biochemia opiera się na organicznej i na chemii ogólnej, więc materiały warto znać od początku, nawet jeśli sam przedmiot przyjdzie później. Kiedy przyjdzie, zależy od uczelni: na kierunku lekarskim UJ CM i Uniwersytetu Medycznego w Białymstoku biochemia jest na pierwszym roku [Z-005] [Z-007], na weterynarii SGGW już w pierwszym semestrze [Z-011], a na kierunku lekarskim WUM dopiero na drugim [Z-006]. Z matury znasz białka i cukry jako związki. Biochemia pokazuje, co one robią w komórce: enzymy, metabolizm, przekazywanie sygnałów i informacji genetycznej.
+
+[RYSUNEK: F-09, do znalezienia. Uproszczony schemat oddychania komórkowego: glukoza, glikoliza, cykl Krebsa, łańcuch oddechowy, ATP. Podpis: „Od glukozy do ATP: glikoliza, cykl Krebsa, łańcuch oddechowy.”]
+
+### Podręczniki
+
+Po polsku są trzy główne drogi, każda dla innego kierunku. Na kierunkach biologicznych i biotechnologii możesz spotkać tłumaczenie Berga, Tymoczki i Stryera „Biochemia”, wydanie V, PWN 2019, oraz jego krótszą wersję „Biochemia: krótki kurs” [R-048]. Na kierunkach medycznych możesz spotkać „Biochemię Harpera ilustrowaną”, wydanie VIII, PZWL i PWN 2026, wydawaną we współpracy z wydawnictwem lekarskim PZWL [R-049], oraz krótszy, polski podręcznik Edwarda Bańkowskiego „Biochemia: podręcznik dla studentów uczelni medycznych”, wydanie 4, Edra 2020 [R-050].
+
+Po angielsku bezpłatna jest książka Kevina Aherna, Indiry Rajagopal i Taralyn Tan „Biochemistry Free For All” w serwisie LibreTexts [R-053]: budowa białek, błony, kataliza, energia, metabolizm, przetwarzanie informacji, a na końcu streszczenia „punkt po punkcie”. (Po angielsku; poziom pierwszego roku.)
+
+### Kanały wideo
+
+Professor Dave Explains ma playlistę „Biochemistry” z 24 krótkimi filmami: aminokwasy i białka, enzymy, cukry i lipidy, błony, sygnalizacja, kwasy nukleinowe, glikoliza, cykl Krebsa i łańcuch oddechowy [R-051]. Razem to niecałe trzy godziny i dobra mapa całego przedmiotu. Kevin Ahern z Oregon State University udostępnia nagrania swojego semestralnego wykładu z biochemii: 30 filmów po około 50 minut, od pH i buforów przez białka i enzymy po metabolizm cukrów [R-052]. Wykład pasuje do jego książki opisanej wyżej. (Po angielsku; od wprowadzenia do poziomu pierwszego roku.)
+
+## Matematyka
+
+Matematyce ten bonus nie poświęca osobnego rozdziału, bo matematyka to matematyka. Gdy przedmiot chemiczny jej wymaga, a zajęcia z matematyki są za szybkie albo jeszcze do tego nie doszły, są trzy miejsca. Logarytmy i funkcję wykładniczą (pH, kinetyka) po polsku powtórzysz z wykładów Instytutu Chemii Uniwersytetu Śląskiego; to filmy od 19 do 28 na mieszanej playliście „e-chem” [R-056]. Pochodne i całki krok po kroku, po angielsku, tłumaczy playlista „Calculus” Professor Dave Explains: 35 filmów od granic przez reguły różniczkowania po całkowanie przez części [R-057]. Pełny polski wykład z rachunku różniczkowego i całkowego jest w otwartym kursie „Analiza matematyczna 1” na Ważniaku, przygotowanym przez matematyków z UJ dla studentów informatyki [R-058]; jest pisany ściśle i formalnie, jak wykład z matematyki.
+
+## Dla Twojego kierunku
+
+Rozdział jest ułożony według przedmiotów, bo tak wygląda plan studiów. Jeśli wiesz już, gdzie idziesz, niżej jest skrót: co z tego rozdziału przyda się najpierw. Gdy przyjdzie październik, sprawdź jeszcze sylabusy swoich przedmiotów; rozdział 2 pokazuje, jak bardzo się różnią.
+
+### Medycyna i stomatologia
+
+Na kierunku lekarskim i lekarsko-dentystycznym chemia jest krótka albo schowana w biochemii. Na przykład w programie kierunku lekarskiego WUM pierwszy rok nie ma przedmiotu chemicznego, a na drugim jest „Biochemia z elementami chemii” [Z-006]; w Białymstoku na pierwszym roku są osobno „Chemia” i „Biochemia” [Z-007]. Tematy chemiczne, które tam wracają, to roztwory, pH, bufory i równowaga kwasowo-zasadowa organizmu [Z-005] [Z-010]. Zacznij więc od powtórki pH i buforów: Khan Academy po polsku [R-027], cykl dr. Bekasa z SGGW [R-026] i filmy Professor Dave o kwasach, zasadach i buforach [R-030]. Potem biochemia: playlista Professor Dave [R-051] jako mapa, wykład Kevina Aherna [R-052] i podręcznik, którego wymaga Twój sylabus; na kierunkach medycznych możesz spotkać „Biochemię Harpera” [R-049] albo Bańkowskiego [R-050]. Z organicznej przyda się podręcznik Soderberga z przykładami z metabolizmu [R-017].
+
+### Farmacja i analityka medyczna
+
+Tu chemii jest wyraźnie więcej niż na kierunku lekarskim. Na analityce medycznej WUM pierwszy rok ma cztery przedmioty chemiczne: analityczną, fizyczną, ogólną i nieorganiczną oraz organiczną [Z-018]; na farmacji WUM chemia ogólna i nieorganiczna trwa dwa semestry i ma 90 godzin ćwiczeń [Z-015]. Na start: chemia ogólna (Khan Academy po polsku [R-027], Professor Dave i jego zadania [R-030] [R-031]), potem analityka (filmy z pracowni UŚ [R-025], podręcznik Kocjana [R-045], otwarty Harvey [R-047]) i organiczna od Chemguide [R-011] przez Professor Dave [R-006] do McMurry'ego [R-004] [R-016]. Do chemii fizycznej weź wersję „dla nauk biologicznych” z LibreTexts [R-044].
+
+### Weterynaria
+
+Na weterynarii SGGW w pierwszym semestrze są „Chemia” (15 godzin wykładu, 30 laboratorium) i „Biochemia (1)” [Z-011]; na UP Lublin „Chemia” w pierwszym semestrze obejmuje roztwory, pH, bufory, redoks, podstawy analityki i nazewnictwo organiczne [Z-012] [Z-013]. To dużo tematów w jednym semestrze. Pomogą: cykl SGGW „Podstawy chemii” [R-026] i „Chemia organiczna” [R-054], Khan Academy po polsku [R-027], a do biochemii Professor Dave [R-051].
+
+### Chemia i kierunki pokrewne
+
+Na chemii pierwszy semestr jest od razu szeroki i abstrakcyjny. Na przykład „Podstawy chemii” na UJ obejmują obok stechiometrii i równowag także równanie Schrödingera, orbitale molekularne, symetrię cząsteczek i teorię pasmową [Z-003]. Przyda się wszystko z części o chemii ogólnej, a szczególnie wykład MIT 5.111SC [R-034], podręcznik Atkinsa i współautorów [R-029] oraz wprowadzenie do kwantów w rozdziale 4b. Do organicznej, która przyjdzie później, warto od razu poznać Claydena [R-005] [R-018] i animacje ChemTube3D [R-014].
+
+### Biotechnologia
+
+Na biotechnologii chemia ogólna w pierwszym semestrze może mieć wykład, ćwiczenia rachunkowe i laboratorium, na przykład na UKSW 30 godzin każdej formy i 7 punktów [Z-019], na Uniwersytecie Rzeszowskim wykład i laboratorium po 30 godzin [Z-020]. Laboratorium to tam między innymi miareczkowania i wyznaczanie stałych dysocjacji [Z-019]. Najpierw chemia ogólna z zadaniami [R-030] [R-031] [R-033], potem organiczna z naciskiem biologicznym [R-017] i biochemia [R-051] [R-052] [R-053]; do chemii fizycznej podręcznik dla nauk biologicznych [R-044].
+
+### Inżynieria chemiczna i technologia chemiczna
+
+Na politechnikach chemia idzie w parze z dużą ilością matematyki. Na technologii chemicznej PW w pierwszym semestrze „Chemia” ma 45 godzin wykładu i 30 ćwiczeń, a „Matematyka 1” 60 godzin wykładu i 60 ćwiczeń [Z-023]. Chemia ogólna i nieorganiczna na PP już w pierwszym semestrze sięga po termodynamikę z energią Gibbsa i kinetykę z równaniem Arrheniusa [Z-021]. Do tego warto mieć pod ręką hasło o matematyce [R-056] [R-057] [R-058], chemię fizyczną od Chemguide [R-042] przez Peveratiego [R-043] po wykład MIT 5.60 [R-041], a z polskich podręczników Bielańskiego [R-028] i Pigonia z Ruziewiczem [R-040].
+
+# Rzeczy, które spotka prawie każdy
+
+Cztery krótkie wprowadzenia: aktywność, chemia kwantowa, spektroskopia i laboratorium. Każde mówi, czym to jest, dlaczego to spotkasz i skąd uczyć się dalej.
+
+## Aktywność
+
+Każdy na studiach dowie się, że istnieje coś takiego jak aktywność. Na maturze wszystkie obliczenia równowag robi się na stężeniach. Na studiach okazuje się, że to przybliżenie, i że w roztworach z dużą ilością jonów czasem wyraźnie zawodzi. Ten rozdział wyjaśnia dlaczego, bez wyprowadzeń.
+
+### Czym to jest
+
+Zacznijmy od doświadczenia. Gdy zmiesza się bezbarwne roztwory jonów Fe³⁺ i SCN⁻, powstaje czerwonopomarańczowy kompleks Fe(SCN)²⁺. Jeśli do takiego roztworu dosypać soli, która w reakcji nie bierze udziału, na przykład KNO₃, barwa robi się wyraźnie jaśniejsza. Kompleksu jest mniej, czyli równowaga przesunęła się w stronę substratów, choć z punktu widzenia równania reakcji nic się nie zmieniło.
+
+[RYSUNEK: F-10, do znalezienia. Dwa naczynia z czerwonopomarańczowym roztworem kompleksu Fe(SCN)²⁺: po lewej bez dodatku soli, po prawej po dodaniu KNO₃, wyraźnie jaśniejszy. Podpis: „Ta sama mieszanina Fe³⁺ i SCN⁻ przed dodaniem soli obojętnej i po nim.”]
+
+Wyjaśnienie jest na poziomie pojedynczych jonów. Każdy jon w roztworze otaczają częściej jony o przeciwnym ładunku niż o tym samym. Tworzą wokół niego „atmosferę jonową”, która częściowo zasłania jego ładunek. Jon zachowuje się więc tak, jakby miał mniejszy ładunek, i reaguje słabiej, niż wynikałoby z jego stężenia. Im więcej jonów w roztworze, tym silniej to działa.
+
+[RYSUNEK: F-11, do narysowania. Jon Fe³⁺ otoczony chmurą z przewagą anionów i jon SCN⁻ otoczony chmurą z przewagą kationów. Podpis: „Atmosfera jonowa zmniejsza „widoczny” ładunek jonu.”]
+
+To, ile jest jonów i jak mocno są naładowane, opisuje jedna liczba: siła jonowa roztworu. Liczy się ją ze stężeń wszystkich jonów, przy czym ładunek wchodzi do wzoru w kwadracie. Dlatego roztwór Na₂SO₄ o stężeniu 0,10 mol/dm³ ma siłę jonową trzy razy większą niż roztwór NaCl o tym samym stężeniu: 0,30 wobec 0,10 mol/dm³.
+
+Aktywność to „skuteczne stężenie” substancji. Jest iloczynem zwykłego stężenia i współczynnika aktywności, oznaczanego zwykle grecką literą γ (gamma):
+
+a = γ · [A]
+
+Dla gazów, czystych cieczy i ciał stałych oraz dla substancji rozpuszczonych, które nie są jonami, współczynnik aktywności jest w zwykłych warunkach bliski jedności, więc aktywność praktycznie równa się stężeniu. Dla jonów współczynnik zależy od siły jonowej roztworu, od ładunku jonu i od jego rozmiaru. Im mniejsza siła jonowa, tym bliżej mu do jedności; w roztworze bardzo rozcieńczonym aktywność i stężenie są takie same. Współczynniki aktywności jonów szacuje się z równania Debye'a-Hückla; na pierwszym roku wystarczy wiedzieć, że takie równanie istnieje i od czego zależy wynik.
+
+### Dlaczego stężenie z matury przestaje wystarczać
+
+Stała równowagi reakcji powinna zależeć tylko od reakcji i temperatury, nie od tego, co jeszcze jest w roztworze. Tymczasem w doświadczeniu z Fe(SCN)²⁺ stała policzona ze stężeń zmienia się po dodaniu soli. Rozwiązanie jest takie, że prawdziwą, termodynamiczną stałą równowagi zapisuje się na aktywnościach, a nie na stężeniach. Ta stała już się nie zmienia, a zmienia się tylko jej przybliżenie liczone ze stężeń.
+
+Podręczniki chemii ogólnej mówią o tym otwarcie: wzory na stałą równowagi ze stężeniami są uproszczeniem ściślejszych wyrażeń, w których zamiast stężeń stoją wartości względne, bez jednostek. Na poziomie wstępnym uproszczenie wystarcza i daje niewielki błąd. Na maturze w ogóle się o tym nie mówi.
+
+Praktyczny skutek widać na przykładzie rozpuszczalności. Trudno rozpuszczalna sól rozpuszcza się w wodzie destylowanej inaczej niż w roztworze innej, obojętnej soli, bo w tym drugim siła jonowa jest większa, a współczynniki aktywności jonów mniejsze. Podręcznik analityki liczy to na przykładzie jodanu ołowiu(II): w roztworze azotanu magnezu o stężeniu 0,020 mol/dm³ jego rozpuszczalność wychodzi 6,0 · 10⁻⁵ mol/dm³, a obliczona bez uwzględnienia aktywności tylko 4,0 · 10⁻⁵ mol/dm³. Pominięcie aktywności zaniża tu wynik o jedną trzecią.
+
+W chemii fizycznej aktywność pojawia się jeszcze ogólniej: przez potencjał chemiczny substancji. Dla roztworów, które nie zachowują się idealnie, wprowadza się współczynnik aktywności jako poprawkę, mówiącą, o ile rzeczywisty roztwór odbiega od idealnego.
+
+### Dlaczego to spotkasz
+
+Na przykład na Politechnice Poznańskiej „stężenie a aktywność, współczynniki aktywności, siła jonowa” są w treściach chemii ogólnej i nieorganicznej już w pierwszym semestrze, zarówno na technologii chemicznej, jak i na inżynierii chemicznej i procesowej [Z-021] [Z-022]. Wraca w chemii analitycznej, przy obliczeniach równowag w roztworach, i w chemii fizycznej, przy termodynamice roztworów. W zebranych sylabusach pierwszego roku kierunków medycznych słowo „aktywność” w tym znaczeniu się nie pojawia; na farmacji i analityce medycznej spotkasz ją raczej w analityce i chemii fizycznej.
+
+### Skąd uczyć się dalej
+
+Przystępnie opisuje to podręcznik analityki Davida Harveya, podrozdział 6.9 „Activity Effects”, z doświadczeniem z Fe(SCN)²⁺, przykładami obliczeń siły jonowej i rozpuszczalności [R-047]. Ujęcie fizykochemiczne, przez potencjał chemiczny, jest w podręczniku Roberta Peveratiego, rozdział 14 „Properties of Solutions” [R-043]. Po polsku szukaj hasła „aktywność” w indeksie podręcznika chemii fizycznej, na przykład Atkinsa [R-039], i w tomie 1 podręcznika analityki Minczewskiego i Marczenki, zatytułowanym „Podstawy teoretyczne i analiza jakościowa” [R-046].
+
+Źródła tego wprowadzenia: Harvey, podrozdział 6.9 [Z-026], Peverati, podrozdział 14.1 [Z-027], OpenStax „Chemistry 2e”, podrozdział 13.2 [Z-028].
+
+## Chemia kwantowa
+
+Każdy na studiach usłyszy o chemii kwantowej. Na maturze kończyła się na konfiguracji elektronowej i kształtach orbitali s, p i d. Na studiach okazuje się, że za tymi rysunkami stoi cała teoria, która tłumaczy, skąd orbitale się biorą i dlaczego atomy łączą się tak, a nie inaczej. Polecam podręcznik Lucjana Pieli, „Idee chemii kwantowej” [R-059]. Ten rozdział mówi, czym ta teoria jest i czego się po niej spodziewać na pierwszym roku, bez wyprowadzeń.
+
+### Czym to jest
+
+Duże ciała, jak piłka bilardowa, zachowują się jak cząstki: w każdej chwili mają określone położenie i prędkość. Fale, na przykład na wodzie, zachowują się inaczej, nakładają się i tworzą wzory interferencyjne. W skali makroskopowej to dwa zupełnie różne zjawiska. Na początku XX wieku okazało się, że bardzo małe obiekty, jak elektrony, podlegają innym regułom: elektron ma też cechy fali. Przewidział to Louis de Broglie w pracy doktorskiej z połowy lat dwudziestych, a niedługo potem doświadczalnie potwierdzili to Davisson i Germer, pokazując interferencję elektronów przechodzących przez kryształ niklu.
+
+Z falowej natury cząstek wynika zasada nieoznaczoności Heisenberga: nie da się jednocześnie dokładnie wyznaczyć położenia i pędu cząstki. Dla piłki ta granica jest nieistotna, dla elektronu bardzo istotna. Dlatego w chemii kwantowej elektron w atomie nie krąży po orbicie, jak w modelu Bohra z matury. Opisuje się go funkcją falową, z której wynika prawdopodobieństwo znalezienia elektronu w danym miejscu przestrzeni. Funkcję falową otrzymuje się, rozwiązując równanie Schrödingera.
+
+Orbital, który znasz z matury, to właśnie taki obszar, w którym elektron najprawdopodobniej przebywa, wyliczony z rozwiązań równania Schrödingera. Liczby kwantowe n, l i m, które na maturze były do zapamiętania, wychodzą z tych rozwiązań: n określa energię i rozmiar orbitalu, l jego kształt, a m ustawienie w przestrzeni.
+
+[RYSUNEK: F-12, do narysowania. Dwa obrazy obok siebie: model Bohra (elektron na kołowej orbicie wokół jądra) i orbital 1s jako chmura gęstości prawdopodobieństwa. Podpis: „Na maturze orbita, na studiach prawdopodobieństwo.”]
+
+[RYSUNEK: F-13, do znalezienia. Kształty orbitali s, p (trzy ustawienia) i d (pięć) w jednym zestawieniu. Podpis: „Orbitale s, p i d: kształty, które wynikają z rozwiązań równania Schrödingera.”]
+
+Drugie miejsce, gdzie kwanty zmieniają obraz z matury, to wiązania. Struktura Lewisa cząsteczki O₂ ma wiązanie podwójne i same sparowane elektrony. Tymczasem ciekły tlen jest przyciągany przez magnes, a pomiary pokazują, że każda cząsteczka O₂ ma dwa niesparowane elektrony. Wyjaśnia to dopiero teoria orbitali molekularnych, w której elektrony należą do całej cząsteczki, a nie do pary atomów.
+
+[RYSUNEK: F-14, do znalezienia. Diagram orbitali molekularnych cząsteczki O₂ z dwoma niesparowanymi elektronami na orbitalach π*. Podpis: „Teoria orbitali molekularnych pokazuje dwa niesparowane elektrony w O₂, których nie widać w strukturze Lewisa.”]
+
+[RYSUNEK: F-15, do znalezienia. Zdjęcie ciekłego tlenu zatrzymanego między biegunami magnesu. Podpis: „Ciekły tlen przyciągany przez magnes: dowód na niesparowane elektrony.”]
+
+### Czego oczekuje się na pierwszym roku
+
+Tu różnice między kierunkami są duże.
+
+Na kierunku chemia kwanty pojawiają się od razu. Na przykład „Podstawy chemii” w pierwszym semestrze na UJ obejmują podstawy doświadczalne mechaniki kwantowej, równanie Schrödingera dla atomu wodoru, liczby kwantowe, orbitale molekularne jako kombinacje orbitali atomowych i hybrydyzację [Z-003]. Chemia ogólna na UW ma „elementy kwantowego opisu mikroświata” i falową naturę materii [Z-004]. Osobny przedmiot przychodzi później: na chemii UJ „Podstawy chemii kwantowej” są w czwartym semestrze i zaczynają się od postulatów mechaniki kwantowej i układów modelowych, a dochodzą do metod obliczeniowych [Z-029]. Na pierwszym roku chodzi więc o zrozumienie idei: skąd orbitale, co znaczą liczby kwantowe, czym jest orbital molekularny. Rachunki przychodzą potem.
+
+Na farmacji kwanty są krótkim wstępem: wykład z chemii ogólnej i nieorganicznej na WUM zaczyna się od „mechaniczno-kwantowej teorii atomu” i obejmuje „wiązania chemiczne a orbitale molekularne” [Z-015]. Na kierunkach lekarskich w zebranych planach i sylabusach pierwszego roku chemii kwantowej nie ma [Z-005] [Z-006] [Z-007]. Jeśli idziesz na medycynę, ten rozdział możesz przeczytać z ciekawości.
+
+### Skąd uczyć się dalej
+
+Najpierw po polsku i na poziomie zbliżonym do matury: dział „Elektronowa struktura atomów” w polskiej wersji Khan Academy [R-027] i filmy Professor Dave o modelu Bohra, „mechanice kwantowej elektronu”, liczbach kwantowych i teorii orbitali molekularnych na playliście „General Chemistry” [R-030]. Pełny wykład akademicki jest w kursie MIT 5.111SC, który obejmuje budowę elektronową atomów i cząsteczek [R-034].
+
+Do czytania po angielsku bezpłatnie: rozdziały 6 i 8 „Chemistry 2e” z OpenStax [R-036] (stąd pochodzą przykłady w tym rozdziale) oraz druga część podręcznika Roberta Peveratiego, od motywacji dla mechaniki kwantowej przez równanie Schrödingera i atom wodoru po wiązanie chemiczne [R-043].
+
+Gdy chemia kwantowa stanie się osobnym przedmiotem, warto sięgnąć do Pieli. Polskie „Idee chemii kwantowej” ostatnio wydało PWN w 2011 roku (wydanie 2 zmienione) [R-059]. Nowsze, trzecie wydanie angielskie, „Ideas of Quantum Chemistry”, ukazało się w 2020 roku w dwóch tomach; pierwszy prowadzi od „magii mechaniki kwantowej” i równania Schrödingera przez metody przybliżone i ruch jąder do orbitalnego modelu budowy atomów i cząsteczek, drugi dotyczy oddziaływań [R-060].
+
+Źródła tego wprowadzenia: OpenStax „Chemistry 2e”, podrozdziały 6.3 [Z-030] i 8.4 [Z-031]; sylabusy UJ, UW i WUM [Z-003] [Z-004] [Z-015] [Z-029].
+
+## Spektroskopia
+
+Każdy na studiach spotka spektroskopię, tak samo jak aktywność i chemię kwantową. Sam pracowałem w spektroskopii kilka lat: praca magisterska na UJ dotyczyła podłoży z tlenku tytanu do spektroskopii SERS, a na doktoracie zajmowałem się spektroskopią wzmocnioną powierzchniowo. Ten rozdział nie nauczy Cię czytać widm. Pokaże, czym one są, po co się je robi i skąd uczyć się dalej.
+
+### Czym to jest
+
+Na maturze związek rozpoznawało się po reakcjach: odbarwia wodę bromową, daje lustro srebrne, roztwarza wodorotlenek miedzi(II). W laboratorium akademickim budowę związku ustala się głównie przyrządami. Podręcznik organicznej omawia cztery takie metody: spektrometrię mas oraz spektroskopię w podczerwieni (IR), w nadfiolecie (UV) i magnetycznego rezonansu jądrowego (NMR).
+
+Spektroskopia bada, jak substancja oddziałuje z promieniowaniem elektromagnetycznym. Światło widzialne, nadfiolet, podczerwień, mikrofale i fale radiowe to ten sam rodzaj promieniowania, tylko o innej długości fali, a im krótsza fala, tym większa energia fotonu. Gdy próbkę oświetla się promieniowaniem o wielu długościach fali, część z nich związek pochłania, a resztę przepuszcza. Wykres pokazujący, które długości fali zostały pochłonięte i w jakim stopniu, to widmo absorpcyjne. Związek pochłania foton tylko wtedy, gdy energia fotonu odpowiada dokładnie różnicy energii między dwoma stanami cząsteczki.
+
+Różne rodzaje promieniowania robią z cząsteczką różne rzeczy. Podczerwień sprawia, że wiązania mocniej się rozciągają i zginają. Nadfiolet przenosi elektron z orbitalu o niższej energii na orbital o wyższej. Spektrometria mas działa inaczej: nie korzysta ze światła, tylko jonizuje cząsteczki i waży powstałe jony.
+
+[RYSUNEK: F-16, do znalezienia. Widmo elektromagnetyczne od promieniowania gamma do fal radiowych, z zaznaczonymi zakresami UV-Vis, IR i fal radiowych używanych w NMR oraz strzałką „rośnie energia fotonu”. Podpis: „Spektroskopia korzysta z różnych zakresów tego samego promieniowania.”]
+
+### Dlaczego to spotkasz
+
+Na pierwszym roku spektroskopia pojawia się na przykład na pracowni: na biotechnologii UKSW jedno z ćwiczeń chemii ogólnej to oznaczanie fosforanów metodą krzywej wzorcowej [Z-019]. Na kierunkach chemicznych i technologicznych wraca w chemii organicznej i analitycznej na kolejnych semestrach; na technologii chemicznej PW organiczna jest w czwartym semestrze [Z-023].
+
+Na kierunkach chemicznych widma pojawiają się w chemii organicznej jako sposób sprawdzenia, co powstało w reakcji. Na chemii analitycznej spektrofotometria służy do czegoś innego: do mierzenia stężenia. Na kierunkach medycznych zobaczysz zastosowanie tej samej fizyki w rezonansie magnetycznym (MRI), który jest w zasadzie bardzo dużym spektrometrem NMR nastawionym na atomy wodoru w wodzie i tłuszczu ciała.
+
+[RYSUNEK: F-17, do znalezienia. Dwa zdjęcia obok siebie: spektrometr NMR w laboratorium (cylindryczny magnes nadprzewodzący) i aparat do rezonansu magnetycznego w szpitalu. Podpis: „Spektrometr NMR i aparat MRI działają na tej samej zasadzie.”]
+
+### Co widać w widmie i po co
+
+Każda metoda odpowiada na inne pytanie o cząsteczkę.
+
+| Metoda | Na jakie pytanie odpowiada |
+|---|---|
+| spektrometria mas (MS) | jaka jest masa cząsteczki i jaki może być jej wzór |
+| spektroskopia w podczerwieni (IR) | jakie grupy funkcyjne są w cząsteczce |
+| magnetyczny rezonans jądrowy (NMR) | jak połączone są atomy węgla i wodoru |
+| spektroskopia UV-Vis | czy w cząsteczce jest układ sprzężonych wiązań podwójnych; w analityce: jakie jest stężenie |
+
+W spektrometrii mas cząsteczka zostaje zjonizowana, zwykle rozpada się na fragmenty, a przyrząd rozdziela naładowane fragmenty według stosunku masy do ładunku, oznaczanego m/z. Widmo mas to wykres słupkowy: na osi poziomej m/z, na pionowej, ile jonów o tej wartości dotarło do detektora. Sygnał pochodzący od całej, nierozbitej cząsteczki to jon molekularny i daje masę cząsteczkową.
+
+W widmie IR każde pasmo odpowiada jakiemuś drganiu wiązań. Całego widma zwykle się nie interpretuje, bo zawiera dziesiątki pasm. Wykorzystuje się to, że wiele grup funkcyjnych daje pasma w prawie stałych miejscach. Położenie pasma podaje się w liczbach falowych, w cm⁻¹, a chemik organik korzysta z zakresu od 4000 do 400 cm⁻¹. Na przykład grupa karbonylowa C=O daje silne pasmo w zakresie mniej więcej 1670–1780 cm⁻¹, a grupa O–H alkoholu szerokie pasmo w zakresie 3400–3650 cm⁻¹. Dzięki temu po jednym spojrzeniu na widmo wiadomo na przykład, czy z alkoholu powstał aldehyd. Złożony obszar poniżej około 1500 cm⁻¹ nazywa się obszarem daktyloskopowym, bo jest jak odcisk palca: dwa związki o identycznych widmach IR to prawie zawsze ten sam związek.
+
+[RYSUNEK: F-18, do narysowania. Uproszczone widma IR etanolu i etanalu jedno nad drugim, z zaznaczonym szerokim pasmem O–H (około 3400 cm⁻¹) w etanolu i ostrym pasmem C=O (około 1730 cm⁻¹) w etanalu. Podpis: „Po jednym paśmie widać, czy z alkoholu powstał aldehyd.”]
+
+NMR wykorzystuje to, że jądra niektórych atomów, w tym wodoru ¹H i węgla ¹³C, zachowują się w polu magnetycznym jak małe magnesy. W silnym polu ustawiają się zgodnie albo przeciwnie do pola, a promieniowanie o częstotliwości radiowej może je „przerzucić” między tymi ustawieniami. Elektrony wokół jądra osłaniają je od pola trochę inaczej w każdym otoczeniu chemicznym, więc każdy chemicznie inny atom wodoru daje sygnał w innym miejscu widma. To miejsce nazywa się przesunięciem chemicznym i podaje w jednostkach δ (ppm) względem wzorca, tetrametylosilanu. Z widma ¹H NMR odczytuje się trzy rzeczy: ile jest rodzajów wodoru (liczba sygnałów), ile wodorów każdego rodzaju (pole pod sygnałem) i ilu wodorów mają one za sąsiadów (rozszczepienie sygnału). Ostatnią rzecz opisuje reguła n + 1: wodory mające n równoważnych sąsiednich wodorów dają sygnał rozszczepiony na n + 1 linii. W bromoetanie grupa CH₃ daje więc tryplet, a grupa CH₂ kwartet.
+
+[RYSUNEK: F-19, do narysowania. Schematyczne widmo ¹H NMR bromoetanu: tryplet CH₃ przy około 1,7 ppm, kwartet CH₂ przy około 3,4 ppm, sygnał wzorca TMS przy 0 ppm. Podpis: „Liczba linii w sygnale mówi, ilu wodorów-sąsiadów ma dana grupa.”]
+
+Spektroskopia UV w chemii organicznej przydaje się głównie do związków ze sprzężonymi wiązaniami podwójnymi. Im dłuższy układ sprzężony, tym dłuższą falę pochłania cząsteczka: buta-1,3-dien przy 217 nm, heksa-1,3,5-trien przy 258 nm. W chemii analitycznej ta sama technika, mierzona także w świetle widzialnym, służy do oznaczania stężenia. Absorbancja roztworu jest wprost proporcjonalna do stężenia substancji i do grubości warstwy, przez którą przechodzi światło. To prawo Lamberta-Beera, zapisywane jako A = εbc. Na pracowni sporządza się z tego krzywą wzorcową: przygotowuje się serię co najmniej trzech roztworów o znanym stężeniu, mierzy ich absorbancję, rysuje wykres absorbancji od stężenia i odczytuje z niego stężenie próbki.
+
+[RYSUNEK: F-20, do narysowania. Wykres absorbancji od stężenia: kilka punktów dla roztworów wzorcowych, prosta przez nie, odczyt stężenia próbki z jej absorbancji. Podpis: „Krzywa wzorcowa: z absorbancji próbki odczytuje się jej stężenie.”]
+
+### Skąd uczyć się dalej
+
+Na start dobrze nadają się filmy, które już znasz z rozdziału 3. Na playliście organicznej Professor Dave Explains są osobne filmy o spektroskopii IR, o NMR (dwa, w tym ćwiczenia z widmami ¹H NMR) i o spektrometrii mas [R-006]. The Organic Chemistry Tutor ma kilkanaście filmów o IR, spektrometrii mas i NMR, od podstaw po rysowanie widma dla danej cząsteczki i odczytywanie budowy z widma [R-008]. W CrashCourse spektroskopii dotyczą odcinki 5 (IR i spektrometria mas), 26 (¹H NMR) i 41 (UV-Vis) [R-009].
+
+Jeśli wolisz czytać, rozdziały 12–14 podręcznika McMurry'ego w wersji OpenStax omawiają po kolei spektrometrię mas, IR, NMR i UV, z zadaniami [R-016]. Otwarta książka „Introduction to Organic Spectroscopy” w LibreTexts zbiera te same metody w jednym miejscu i kończy się zadaniami z ustalania budowy z kilku widm naraz [R-020]. Do części analitycznej (absorbancja, prawo Lamberta-Beera, spektrofotometria) warto sięgnąć do podręcznika Harveya, rozdział 10 [Z-002].
+
+Prawdziwe widma znajdziesz w dwóch bezpłatnych bazach. NIST Chemistry WebBook pokazuje po wpisaniu angielskiej nazwy związku między innymi jego widmo IR i widmo mas [R-021]. Japońska baza SDBS zbiera widma NMR, IR i mas związków organicznych [R-022]. Przydają się do sprawozdań i do sprawdzania samego siebie przy zadaniach.
+
+Po polsku: Uniwersytet Śląski ma krótkie filmy z pracowni pokazujące spektrofotometr UV-VIS i absorpcyjną spektrometrię atomową [R-025]. Gdy spektroskopia stanie się osobnym przedmiotem, po polsku są na przykład książka Silversteina i współautorów „Spektroskopowe metody identyfikacji związków organicznych” (PWN, wydanie 2 uaktualnione) [R-023] oraz dwutomowa praca pod redakcją Andrzeja Rajcy i Wojciecha Zielińskiego „Metody spektroskopowe i spektrometria mas w zastosowaniu do identyfikacji związków organicznych” (Wydawnictwo Politechniki Śląskiej, 2018), której drugi tom to tabele korelacyjne, czyli zestawienia położeń pasm i sygnałów poszczególnych grup [R-024].
+
+Źródła tego wprowadzenia: podręcznik McMurry'ego w wersji OpenStax, rozdziały 12–14 [Z-001], i podręcznik Harveya, podrozdziały 5.3 i 10.1–10.2 [Z-033] [Z-002].
+
+## Laboratorium
+
+Prawie każdy kierunek z chemią ma pracownię, a sprawozdania, dziennik laboratoryjny i kolokwia wejściowe to nowa gra. W szkole doświadczenie było pokazem albo krótkim zadaniem. Na studiach laboratorium to osobna forma zajęć z własnymi zasadami, ocenami i warunkami zaliczenia, a bez jego zaliczenia bywa, że nie można podejść do egzaminu; tak jest na przykład z chemią ogólną i nieorganiczną na analityce medycznej w Łodzi [Z-017]. Ten rozdział opisuje te zasady na przykładach z prawdziwych sylabusów.
+
+### Czym to jest
+
+Laboratorium, nazywane też pracownią, to zajęcia w sali z dygestoriami i odczynnikami, na których wykonujesz ćwiczenia według instrukcji. Obecność jest obowiązkowa, a każde ćwiczenie ma kilka części, które się ocenia: przygotowanie, wykonanie i opracowanie. Na przykład na analityce medycznej Uniwersytetu Medycznego w Łodzi z laboratorium chemii ogólnej punktowane są: każde z pięciu ćwiczeń razem z jego opisem, dwa krótkie sprawdziany na początku zajęć i zadania z analizy jakościowej [Z-017]. Na biotechnologii UKSW ocena z laboratorium składa się z kolokwium wstępnego, zaliczenia każdego ćwiczenia na podstawie sprawozdania i kolokwium końcowego [Z-019].
+
+### BHP
+
+Pracę na pracowni zaczyna się od BHP, czyli zasad bezpieczeństwa i higieny pracy. Na przykład pierwsze ćwiczenie laboratorium chemii ogólnej na biotechnologii UKSW to „Zasady BHP” [Z-019], a na Uniwersytecie Rzeszowskim zajęcia zaczynają się od przepisów BHP i regulaminu pracowni [Z-020]. Podstawowe zasady opisuje na przykład otwarty podręcznik pracy laboratoryjnej: okulary ochronne zakłada się na całe zajęcia, fartuch jest pierwszą osłoną przed odczynnikami, a pracę z lotnymi substancjami wykonuje się pod dygestorium, czyli wyciągiem z silnym przepływem powietrza. Na pracowni w Łodzi za pracę bez zapiętego fartucha, okularów czy ze związanymi włosami, mimo upomnienia, odejmuje się punkty [Z-017].
+
+[RYSUNEK: F-21, do znalezienia. Zdjęcie osoby pracującej pod dygestorium w okularach ochronnych i zapiętym fartuchu. Podpis: „Okulary ochronne, zapięty fartuch, dygestorium: podstawa bezpiecznej pracy.”]
+
+Przed ćwiczeniem warto sprawdzić, z jakimi substancjami będziesz pracować. Każda ma kartę charakterystyki (po angielsku SDS, safety data sheet): dokument z informacjami o zagrożeniach i bezpiecznym postępowaniu. Podstawowe dane o zagrożeniach wielu substancji ma też bezpłatna baza PubChem w sekcji „Safety and Hazards” [R-037].
+
+### Kolokwium wejściowe
+
+Kolokwium wejściowe, potocznie wejściówka, to krótki sprawdzian na początku zajęć z teorii do ćwiczenia, które za chwilę robisz. Na pracowni w Łodzi wejściówki są dwie, oceniane od zera do pięciu punktów, a spóźnienie ponad kwadrans odbiera możliwość ich napisania [Z-017]. Bywa też, że bez zaliczonej wejściówki nie można wykonać ćwiczenia; zasady podaje regulamin danej pracowni.
+
+Do wejściówki uczysz się z instrukcji do ćwiczenia, którą dostaje się wcześniej, i z tego, co instrukcja wymienia jako wymagane wiadomości. Krótki film z tym samym rodzajem pracy pomaga zrozumieć, co się będzie działo: na przykład pokazy ćwiczeń z laboratorium chemii fizycznej Politechniki Warszawskiej [R-038] albo syntezy z pracowni organicznej Uniwersytetu Śląskiego [R-003].
+
+### Dziennik laboratoryjny
+
+Dziennik laboratoryjny to zeszyt prowadzony na bieżąco w pracowni. Zapisuje się w nim to, co naprawdę się zrobiło i zaobserwowało: odważone masy, objętości, barwy, temperatury, kolejne kroki. Na pracowni w Łodzi doświadczenia i wnioski opisuje się w zeszycie A4 w kratkę, a zeszyt ze sprawozdaniem oddaje się prowadzącemu jeszcze tego samego dnia, przed wyjściem z sali [Z-017].
+
+Dziennik zaczyna się przed zajęciami. Jeden z otwartych podręczników pracy laboratoryjnej radzi wpisać przed ćwiczeniem: tytuł i równanie reakcji, schemat przebiegu ćwiczenia, listę odczynników z ich zagrożeniami oraz tabelę z ilościami, które masz odmierzyć, z miejscem na ilości rzeczywiście użyte. Taka tabela przydaje się potem w sprawozdaniu, bo masz w jednym miejscu dane do obliczeń wydajności.
+
+[RYSUNEK: F-22, do narysowania. Przykładowa strona dziennika laboratoryjnego: tytuł ćwiczenia, równanie reakcji, tabela odczynników (masa molowa, gęstość, ilość zaplanowana, ilość użyta, liczba moli), pole na obserwacje. Podpis: „Dziennik zaczyna się przed zajęciami: tabela odczynników z miejscem na ilości użyte.”]
+
+### Sprawozdanie
+
+Sprawozdanie to pisemne opracowanie wykonanego ćwiczenia, oceniane przez prowadzącego. Jeden z otwartych podręczników pracy laboratoryjnej opisuje je jako artykuł naukowy w małej skali: po co było ćwiczenie, jak je wykonano, co wyszło i co z tego wynika. W praktyce: cel, opis wykonania, wyniki (zwykle w tabeli), obliczenia, dyskusja wyników i wnioski. Wymagania co do formy różnią się między pracowniami, więc pierwsze sprawozdanie warto napisać z regulaminem pracowni obok.
+
+[RYSUNEK: F-23, do narysowania. Schemat części sprawozdania jedna pod drugą: cel, opis wykonania, wyniki, obliczenia, dyskusja, wnioski, z dopiskiem przy każdej, na jakie pytanie odpowiada (po co, jak, co wyszło, co z tego wynika). Podpis: „Części sprawozdania i pytania, na które odpowiadają.”]
+
+Katedra Chemii Fizycznej Politechniki Warszawskiej ma na swojej playliście dwa dłuższe filmy, które warto obejrzeć niezależnie od uczelni: regulamin pracowni i ponad półgodzinne „Uwagi do sprawozdań” [R-038]. Do części obliczeniowej, w tym niepewności pomiaru, przydaje się rozdział 4 podręcznika analityki Harveya o ocenie danych [R-047].
+
+### Skąd uczyć się dalej
+
+Podstawowe czynności laboratoryjne na żywo pokazuje playlista Professor Dave „Chemistry Laboratory Techniques”: szkło laboratoryjne, sączenie, ekstrakcja, destylacja, krystalizacja, pipety i roztwory mianowane, miareczkowanie, chromatografia [R-055]. Po polsku krystalizację, destylację i sączenie w mikroskali pokazują krótkie filmy Uniwersytetu Śląskiego [R-002], a miareczkowania i spektrofotometr jego playlista z chemii analitycznej [R-025]. Całą pracę w laboratorium organicznym, od przygotowania do raportu, opisuje otwarta książka „How to be a Successful Organic Chemist” w serwisie LibreTexts [R-061].
+
+Źródła tego wprowadzenia: sylabusy UM w Łodzi, UKSW i Uniwersytetu Rzeszowskiego [Z-017] [Z-019] [Z-020] i podręcznik Sandtorva, podrozdziały 1.2, 1.4 i 6.1 [Z-032].
+
+# Źródła
+
+Dwie listy. Pierwsza to zasoby polecane do nauki, opisane w rozdziale 3 i w rozdziale 4. Druga to dokumenty, na których oparty jest tekst: sylabusy, plany studiów, podręczniki i strony. Każda pozycja stoi przy rozdziale, w którym pojawia się po raz pierwszy; w nawiasie są inne rozdziały, które ją cytują. Wszystkie adresy sprawdzono w listopadzie 2026.
+
+## Zasoby polecane
+
+### 1. Inna gra
+
+- [R-005] Jonathan Clayden, Nick Greeves, Stuart Warren, Peter Wothers, „Chemia organiczna”, części 1–4, WNT. https://data.bn.org.pl/api/institutions/bibs.json?id=2500252 Język: polski; poziom: dalej. Co z tego wzięliśmy: Polskie tłumaczenie pierwszego wydania podręcznika Claydena i współautorów, w czterech częściach wydanych przez Wydawnictwa Naukowo-Techniczne w latach 2009–2011. (także: 3)
+- [R-016] OpenStax: John McMurry, „Organic Chemistry: A Tenth Edition” (2023). https://openstax.org/books/organic-chemistry/pages/1-why-this-chapter Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Dziesiąte wydanie podręcznika McMurry'ego, bezpłatne w sieci i do pobrania. (także: 3, 4c)
+- [R-018] Jonathan Clayden, Nick Greeves, Stuart Warren, „Organic Chemistry”, 2nd edition, Oxford University Press 2012. https://global.oup.com/academic/product/organic-chemistry-9780199270293 Język: angielski; poziom: dalej. Co z tego wzięliśmy: Drugie wydanie Claydena: 43 rozdziały, około 1260 stron, od „What Is Organic Chemistry?” przez mechanizmy, stereochemię i spektroskopię po syntezę asymetryczną i chemię organiczną życia. (także: 3)
+- [R-036] OpenStax: „Chemistry 2e” (2019). https://openstax.org/books/chemistry-2e/pages/1-introduction Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Bezpłatny podręcznik chemii ogólnej na dwa semestry, 21 rozdziałów: od podstaw, atomów i stechiometrii przez budowę elektronową, wiązania, gazy, termochemię, roztwory, kinetykę, równowagi kwasowo-zasadowe i rozpuszczalności, termodynamikę i elektrochemię po metale, niemetale, związki koordynacyjne, chemię jądrową i organiczną. (także: 3, 4b)
+
+### 3. Skąd się uczyć
+
+- [R-001] Uniwersytet Śląski: prof. Jarosław Polański, „Chemia organiczna (2017/2018)”. https://www.youtube.com/playlist?list=PLlhOYvtSn-fsrcj8e9zH8Qd8Kwke1pfpR Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Nagrania 19 wykładów z chemii organicznej prowadzonych na Uniwersytecie Śląskim w roku akademickim 2017/2018, od 32 minut do niemal dwóch godzin każdy.
+- [R-002] Uniwersytet Śląski: „Chemia organiczna. Proste operacje laboratoryjne”. https://www.youtube.com/playlist?list=PLlhOYvtSn-fuOsYc7zGWOrHZ5InmrvcWT Język: polski; poziom: wprowadzenie. Co z tego wzięliśmy: Trzy krótkie filmy z pracowni: krystalizacja, destylacja prosta i sączenie pod zmniejszonym ciśnieniem, wszystkie w mikroskali. (także: 4d)
+- [R-003] Uniwersytet Śląski: „Chemia organiczna. Syntezy preparatów”. https://www.youtube.com/playlist?list=PLlhOYvtSn-ftqFAE3e5a2d6zfX8CCU7ZR Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Czternaście filmów, każdy pokazuje jedną syntezę preparatu z pracowni organicznej, między innymi aspiryny, salicylanu metylu, chlorku tert-butylu i 1-heksenu. (także: 4d)
+- [R-004] John McMurry, „Chemia organiczna”, tomy 1–5, wydanie IV, Wydawnictwo Naukowe PWN. https://data.bn.org.pl/api/institutions/bibs.json?id=5775007 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Polskie tłumaczenie podręcznika McMurry'ego w pięciu tomach (tom 1 to rozdziały 1–6, tom 5 to rozdziały 25–31).
+- [R-006] Professor Dave Explains: „Organic Chemistry”. https://www.youtube.com/playlist?list=PLybg94GvOJ9GtvOUYLW601u1Oiaoat2UF Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: 119 filmów, zwykle po 3–15 minut, każdy o jednym temacie: nazewnictwo IUPAC, projekcje Newmana i konformacje cykloheksanu, stereochemia i reguły R/S, mechanizmy SN1, SN2, E1, E2, addycje do alkenów, związki karbonylowe, substytucja aromatyczna, a pod koniec reakcje imienne. (także: 4c)
+- [R-007] Professor Dave Explains: „Organic Chemistry Practice Problems”. https://www.youtube.com/playlist?list=PLybg94GvOJ9Hkihn7mQnLBl2YJKbU1cjO Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: 68 filmów z zadaniami: autor stawia problem, mówi, które filmy z głównej playlisty warto znać, a potem rozwiązuje krok po kroku.
+- [R-008] The Organic Chemistry Tutor: „New Organic Chemistry Playlist”. https://www.youtube.com/playlist?list=PL0o_zxa4K1BXP7TUO7656wg0uF1xYnwgm Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: 177 filmów ułożonych w kolejności typowego kursu organicznej: od wiązań, wzorów i hybrydyzacji przez kwasy i zasady, nazewnictwo, konformacje i stereochemię, mechanizmy substytucji i eliminacji, reakcje alkenów i alkinów, spektroskopię IR, MS i NMR, po związki karbonylowe, aromatyczne i enolany. (także: 4c)
+- [R-009] CrashCourse: „Organic Chemistry”. https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4 Język: angielski; poziom: wprowadzenie. Co z tego wzięliśmy: 51 odcinków (50 plus zapowiedź) prowadzonych przez Deboki Chakravarti, obejmujących materiał Organic Chemistry I i II amerykańskich uczelni: nazewnictwo, stereochemia, mechanizmy, związki karbonylowe, aromatyczność, spektroskopia, a na końcu biocząsteczki i chemia leków. (także: 4c)
+- [R-010] MIT OpenCourseWare 5.12 „Organic Chemistry I” (wiosna 2003). https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/ Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Materiały z prawdziwego kursu MIT: notatki do wykładów w PDF (między innymi przegląd wiązań Lewisa i orbitali molekularnych, stereochemia, alkeny, halogenki alkilowe i SN2, rodniki, substytucja aromatyczna), zestawy zadań z rozwiązaniami i egzaminy próbne.
+- [R-011] Chemguide (Jim Clark): menu „Organic Reaction Mechanisms”. https://www.chemguide.co.uk/mechmenu.html Język: angielski; poziom: wprowadzenie. Co z tego wzięliśmy: Brytyjska strona pisana dla poziomu szkolnego A-level, czyli blisko polskiej matury rozszerzonej.
+- [R-012] Master Organic Chemistry (James Ashenhurst). https://www.masterorganicchemistry.com/ Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Ponad 400 artykułów o organicznej, ułożonych na stronie głównej w rozdziały jak w podręczniku: od przeglądu chemii ogólnej, wiązań i rezonansu po reakcje związków karbonylowych.
+- [R-013] Chemistry Steps: „Organic Chemistry 1 and 2 Topics”. https://www.chemistrysteps.com/organic-chemistry-topic-index/ Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Spis kilkuset krótkich artykułów pogrupowanych w działy kursu (wiązania, wzory, kwasy i zasady, alkany, stereochemia, substytucja, eliminacja i dalej), wiele z dopiskiem „with Practice Problems”.
+- [R-014] ChemTube3D (University of Liverpool): animacje do podręcznika Claydena. https://www.chemtube3d.com/ClaydenLink/ Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Trójwymiarowe, obracane animacje cząsteczek i mechanizmów reakcji (addycja do grupy karbonylowej, tworzenie acetali i imin, reakcja Wittiga, stereochemia i symetria cząsteczek).
+- [R-015] Organic Chemistry Portal: „Name Reactions”. https://www.organic-chemistry.org/namedreactions/ Język: angielski; poziom: dalej. Co z tego wzięliśmy: Alfabetyczny spis reakcji imiennych (od Arndta-Eisterta po reakcje z końca alfabetu), każda z mechanizmem i odnośnikami do literatury.
+- [R-017] LibreTexts: Tim Soderberg, „Organic Chemistry with a Biological Emphasis”. https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg) Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Otwarty podręcznik organicznej pisany pod studentów biologii i nauk medycznych (University of Minnesota Morris).
+- [R-019] Politechnika Warszawska, Katedra Chemii Organicznej: „Nazewnictwo wybranych klas związków organicznych”. https://zcho.ch.pw.edu.pl/dyd_inz1.html Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Szesnaście krótkich plików PDF o polskim nazewnictwie związków organicznych, klasa po klasie: alkany, węglowodory nienasycone, cykliczne i aromatyczne, fluorowcopochodne, alkohole, etery, aldehydy, ketony, kwasy i ich pochodne, aminy, związki azowe, a na końcu tabela grup według reguły pierwszeństwa.
+- [R-025] Uniwersytet Śląski: „Chemia analityczna”. https://www.youtube.com/playlist?list=PLB800F47FF11C8986 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Osiem krótkich filmów z pracowni analitycznej: cztery miareczkowania (alkacymetria z różnymi wskaźnikami, manganometria, metoda Mohra) i trzy metody instrumentalne: spektrofotometria UV-VIS, absorpcyjna spektrometria atomowa (AAS) i fluorescencja rentgenowska. (także: 4c, 4d)
+- [R-026] SGGW (Nauka / Science SGGW): dr inż. Witold Bekas, „Podstawy chemii”. https://www.youtube.com/playlist?list=PLNWC1jUbuB3y-xNRoohOZJoYAcoOswPrJ Język: polski; poziom: wprowadzenie. Co z tego wzięliśmy: 26 nagrań wykładów z podstaw chemii prowadzonych w SGGW, zwykle po 45–75 minut: stężenia molowe i procentowe, obliczenia stechiometryczne, budowa atomu, wiązania, związki nieorganiczne, elektrolity, reakcje redoks, elementy elektrochemii, a na końcu kompleksometria, manganometria, alkacymetria i zadania z pH.
+- [R-027] Khan Academy po polsku: „Chemia”. https://pl.khanacademy.org/science/chemistry Język: polski; poziom: wprowadzenie. Co z tego wzięliśmy: Bezpłatny kurs chemii ogólnej w polskiej wersji serwisu: 20 działów, od atomów, moli i stechiometrii przez budowę elektronową, wiązania, gazy, równowagę, kwasy i zasady, bufory i iloczyn rozpuszczalności po termodynamikę, redoks, kinetykę i chemię jądrową. (także: 4b)
+- [R-028] Adam Bielański, „Podstawy chemii nieorganicznej”, wydanie 6 zaktualizowane i uzupełnione, Wydawnictwo Naukowe PWN 2010. https://data.bn.org.pl/api/institutions/bibs.json?id=2564727 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Polski podręcznik chemii nieorganicznej, wydawany także w dwóch tomach.
+- [R-029] Peter Atkins, Loretta Jones, Leroy Laverman, „Chemia ogólna”, wydanie II, Wydawnictwo Naukowe PWN 2020. https://data.bn.org.pl/api/institutions/bibs.json?id=1000000834213 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Polskie tłumaczenie podręcznika „Chemical Principles: The Quest for Insight”.
+- [R-030] Professor Dave Explains: „General Chemistry”. https://www.youtube.com/playlist?list=PLybg94GvOJ9EbbO2RXPWTUNIIE0C7hSfm Język: angielski; poziom: wprowadzenie. Co z tego wzięliśmy: 83 krótkie filmy o chemii ogólnej: mol i stechiometria, gazy, model Bohra i liczby kwantowe, wiązania i VSEPR, termochemia, roztwory, termodynamika, kinetyka, równowaga, kwasy i zasady z buforami, redoks i elektrochemia, a w dalszej części między innymi iloczyn rozpuszczalności, związki kompleksowe, teoria pola krystalicznego i prawo Lamberta-Beera. (także: 4b)
+- [R-031] Professor Dave Explains: „General Chemistry Practice Problems”. https://www.youtube.com/playlist?list=PLybg94GvOJ9H-HhKkr-peYKxTeE3XUeQf Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: 41 filmów z zadaniami rachunkowymi z chemii ogólnej, każdy jeden typ zadania: stechiometria, wzory empiryczne, prawo Hessa, kalorymetria, rozcieńczanie, gazy, prawa szybkości, tabele stężeń równowagowych, miareczkowanie, równanie Hendersona-Hasselbalcha, pH, iloczyn rozpuszczalności, entalpia swobodna, bilansowanie redoks.
+- [R-032] Professor Dave Explains: „Inorganic/Organometallic Chemistry”. https://www.youtube.com/playlist?list=PLybg94GvOJ9GlYQJWEhxOBtNXH5DKeNsN Język: angielski; poziom: dalej. Co z tego wzięliśmy: 41 filmów: najpierw przegląd układu okresowego grupa po grupie (wodór, litowce, berylowce, borowce, węglowce, azotowce, tlenowce, fluorowce, helowce, metale przejściowe), potem związki koordynacyjne, reguła 18 elektronów, teoria pola ligandów, twarde i miękkie kwasy i zasady, reakcje metaloorganiczne i kataliza, w tym proces Habera-Boscha.
+- [R-033] The Organic Chemistry Tutor: „New AP & General Chemistry Video Playlist”. https://www.youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: 316 filmów obejmujących chemię ogólną dwóch semestrów amerykańskiego kursu: od cyfr znaczących i stechiometrii przez gazy, kalorymetrię, budowę atomu, wiązania i oddziaływania, roztwory, kinetykę, równowagi kwasowo-zasadowe po termodynamikę i elektrochemię.
+- [R-034] MIT OpenCourseWare 5.111SC „Principles of Chemical Science” (jesień 2014). https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/ Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Pełny kurs chemii ogólnej MIT z nagraniami wykładów, notatkami, zestawami zadań z rozwiązaniami i egzaminami z rozwiązaniami. (także: 4b)
+- [R-035] Chemguide (Jim Clark): menu „Inorganic Chemistry”. https://www.chemguide.co.uk/inorgmenu.html Język: angielski; poziom: wprowadzenie. Co z tego wzięliśmy: Brytyjskie objaśnienia na poziomie A-level: stopnie utlenienia i równania redoks, elektroliza, chemia pierwiastków 3.
+- [R-037] PubChem (NIH). https://pubchem.ncbi.nlm.nih.gov/ Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Publiczna baza związków chemicznych amerykańskich Narodowych Instytutów Zdrowia. (także: 4d)
+- [R-038] Politechnika Warszawska, Katedra Chemii Fizycznej: „Laboratorium Chemii Fizycznej”. https://www.youtube.com/playlist?list=PL5aFU4mtoOYuvziYpkBNJbAm6svIsHEvB Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: 17 filmów, opisanych jako „uzupełniające materiały dydaktyczne do Laboratorium Chemii Fizycznej”: 15 krótkich pokazów ćwiczeń (między innymi kalorymetryczne wyznaczanie entalpii spalania, przewodność elektrolitów, kinetyka inwersji sacharozy, równowaga ciecz–para, krytyczne stężenie micelizacji, stałe kwasowości metodą pH-metryczną) oraz dwa dłuższe: regulamin pracowni (17 minut) i uwagi do sprawozdań (33 minuty). (także: 4d)
+- [R-039] Peter Atkins, Julio de Paula, James Keeler, „Chemia fizyczna”, Wydawnictwo Naukowe PWN / PZWL 2022. https://data.bn.org.pl/api/institutions/bibs.json?id=1000002656821 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Polskie tłumaczenie „Atkins' Physical Chemistry”: termodynamika, równowagi, kinetyka, budowa materii i spektroskopia. (także: 4a)
+- [R-040] Krzysztof Pigoń, Zdzisław Ruziewicz, „Chemia fizyczna”, t. 1 „Podstawy fenomenologiczne” (wydanie 6, 2007) i t. 2 „Fizykochemia molekularna”, Wydawnictwo Naukowe PWN. https://data.bn.org.pl/api/institutions/bibs.json?id=1898302 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Polski, oryginalny (nie tłumaczony) podręcznik chemii fizycznej w dwóch tomach: tom 1 to termodynamika, równowagi i kinetyka, tom 2 budowa cząsteczek.
+- [R-041] MIT OpenCourseWare 5.60 „Thermodynamics & Kinetics” (wiosna 2008). https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/ Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Kurs chemii fizycznej MIT z nagraniami wykładów: według opisu kursu termodynamika, właściwości równowagowe układów makroskopowych, równowagi chemiczne w fazie gazowej i w roztworze oraz szybkość reakcji.
+- [R-042] Chemguide (Jim Clark): menu „Physical Chemistry”. https://www.chemguide.co.uk/physmenu.html Język: angielski; poziom: wprowadzenie. Co z tego wzięliśmy: Objaśnienia na poziomie A-level: teoria kinetyczna i gazy, entalpia, łagodny wstęp do entropii i entalpii swobodnej, szybkość reakcji i kataliza, równowaga chemiczna, potencjały elektrodowe, równowagi kwasowo-zasadowe z pH, Ka i buforami.
+- [R-043] LibreTexts: Roberto Peverati, „The Live Textbook of Physical Chemistry”. https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati) Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Otwarty podręcznik chemii fizycznej z Florida Institute of Technology. (także: 4a, 4b)
+- [R-044] LibreTexts: „Physical Chemistry for the Biosciences”. https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts) Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Otwarty podręcznik chemii fizycznej dla nauk biologicznych: gazy, pierwsza i druga zasada termodynamiki, roztwory, równowaga, elektrochemia, kwasy i zasady, kinetyka, kinetyka enzymatyczna, wstęp do mechaniki kwantowej, wiązanie, oddziaływania, spektroskopia, fotochemia i makrocząsteczki.
+- [R-045] Ryszard Kocjan (red.), „Chemia analityczna: podręcznik dla studentów”, t. 1–2, wydanie III, PZWL / Wydawnictwo Naukowe PWN 2023. https://data.bn.org.pl/api/institutions/bibs.json?id=1000003023882 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Dwutomowy polski podręcznik analityki: tom 1 to analiza jakościowa i klasyczna analiza ilościowa (miareczkowania, wagowa), tom 2 analiza instrumentalna.
+- [R-046] Jerzy Minczewski, Zygmunt Marczenko, „Chemia analityczna”, t. 1–2, Wydawnictwo Naukowe PWN 2004. https://data.bn.org.pl/api/institutions/bibs.json?id=1613605 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Klasyczny polski podręcznik analityki: tom 1 „Podstawy teoretyczne i analiza jakościowa”, tom 2 „Chemiczne metody analizy ilościowej”. (także: 4a)
+- [R-047] LibreTexts: David Harvey, „Analytical Chemistry 2.1”. https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey) Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Otwarty podręcznik analityki: podstawowe narzędzia i słownictwo, ocena danych i niepewności, kalibracja, równowagi, przygotowanie próbki, metody wagowe, miareczkowe, spektroskopowe, elektrochemiczne, chromatograficzne i kinetyczne, kontrola jakości. (także: 4a, 4d)
+- [R-048] Jeremy M. Berg, John L. Tymoczko, Lubert Stryer i in., „Biochemia”, wydanie V, Wydawnictwo Naukowe PWN 2019. https://data.bn.org.pl/api/institutions/bibs.json?id=6110188 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Polskie tłumaczenie podręcznika „Biochemistry” Berga, Tymoczki i Stryera: budowa białek, enzymy, metabolizm, przekazywanie informacji genetycznej.
+- [R-049] Victor W. Rodwell i in., „Biochemia Harpera ilustrowana”, wydanie VIII, PZWL / Wydawnictwo Naukowe PWN 2026. https://data.bn.org.pl/api/institutions/bibs.json?id=1000007694016 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Polskie tłumaczenie „Harper's Illustrated Biochemistry”, wydane przez PWN we współpracy z wydawnictwem lekarskim PZWL.
+- [R-050] Edward Bańkowski, „Biochemia: podręcznik dla studentów uczelni medycznych”, wydanie 4, Edra Urban & Partner 2020. https://data.bn.org.pl/api/institutions/bibs.json?id=1000000780347 Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Polski, oryginalny podręcznik biochemii dla uczelni medycznych, krótszy od tłumaczeń amerykańskich.
+- [R-051] Professor Dave Explains: „Biochemistry”. https://www.youtube.com/playlist?list=PLybg94GvOJ9Fazvaf8unWl9J2soXCAvy4 Język: angielski; poziom: wprowadzenie. Co z tego wzięliśmy: 24 krótkie filmy, razem niecałe trzy godziny: aminokwasy i budowa białek, enzymy, cukry i lipidy, błony i transport, receptory i przekazywanie sygnału, kwasy nukleinowe, replikacja, transkrypcja i translacja, naprawa DNA, ATP, glikoliza, cykl Krebsa, łańcuch oddechowy, fotosynteza, hormony i leki.
+- [R-052] Kevin Ahern (Oregon State University): „BB 450 Biochemistry”, jesień 2014. https://www.youtube.com/playlist?list=PLlnFrNM93wqxgPHQg2WwHfrVwyhxM062a Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: 30 nagrań pełnego semestralnego wykładu z biochemii (po około 45–50 minut) plus zajęcia powtórkowe przed egzaminem: roztwory wodne i pH, bufory, aminokwasy, budowa i oczyszczanie białek, hemoglobina, enzymy i ich regulacja, cukry, sygnalizacja, glikoliza i dalej.
+- [R-053] LibreTexts: Kevin Ahern, Indira Rajagopal, Taralyn Tan, „Biochemistry Free For All”. https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Free_For_All_(Ahern_Rajagopal_and_Tan) Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Otwarty podręcznik biochemii w układzie: budowa i funkcja, błony, kataliza, energia, metabolizm, przetwarzanie informacji, podstawowe techniki, a na końcu streszczenia „punkt po punkcie”.
+- [R-054] SGGW (Nauka / Science SGGW): „Chemia organiczna” (prof. Ewa Białecka-Florjańczyk, prof. Janusz Zawadzki). https://www.youtube.com/playlist?list=PLNWC1jUbuB3zjxeFErUpOrxmW1Tit3qQg Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: 25 nagrań wykładów z podstaw chemii organicznej w SGGW, po 40–90 minut, z tematami w tytułach: alkany, cykloalkany, alkeny i alkiny, dieny, związki aromatyczne, alkohole, etery i fenole, chlorowcopochodne, aminy, chiralność i stereochemia, związki karbonylowe, kwasy karboksylowe, estry i amidy, cukry, peptydy, lipidy, kwasy nukleinowe i kataliza enzymatyczna.
+- [R-056] Uniwersytet Śląski: „Portal edukacyjny Instytutu Chemii e-chem” (filmy z matematyki). https://www.youtube.com/playlist?list=PLlhOYvtSn-fvVZQjkVELf0tS9ZNhMzkuV Język: polski; poziom: wprowadzenie. Co z tego wzięliśmy: Mieszana playlista Instytutu Chemii UŚ.
+- [R-057] Professor Dave Explains: „Calculus”. https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: 35 filmów z rachunku różniczkowego i całkowego: granice, pochodna i reguły różniczkowania (w tym pochodne logarytmu i funkcji wykładniczej), ekstrema, całka oznaczona i nieoznaczona, całkowanie przez podstawienie i przez części, a dalej szeregi i równania.
+- [R-058] Ważniak (MIM UW, otwarte kursy): „Analiza matematyczna 1”. https://wazniak.mimuw.edu.pl/index.php?title=Analiza_matematyczna_1 Język: polski; poziom: dalej. Co z tego wzięliśmy: Otwarty kurs z rachunku różniczkowego i całkowego funkcji jednej zmiennej, przygotowany przez matematyków z Uniwersytetu Jagiellońskiego dla studiów informatycznych, z wykładami i ćwiczeniami w modułach.
+- [R-062] Khan Academy po polsku: „Chemia organiczna”. https://pl.khanacademy.org/science/organic-chemistry Język: polski; poziom: pierwszy rok. Co z tego wzięliśmy: Bezpłatny kurs chemii organicznej w polskiej wersji serwisu, w kilkunastu działach: od struktury i wiązań (hybrydyzacja, wzory szkieletowe, elektroujemność i polarność) przez stereochemię, substytucję i eliminację, alkeny i alkiny, związki aromatyczne, aldehydy i ketony, kwasy karboksylowe, chemię węgla alfa i aminy po spektroskopię.
+- [R-063] Chemistry World (magazyn Royal Society of Chemistry). https://www.chemistryworld.com/ Język: angielski; poziom: dalej. Co z tego wzięliśmy: Magazyn brytyjskiego Royal Society of Chemistry: wiadomości ze świata chemii, comiesięczny przegląd nowych badań, reportaże, felietony, recenzje, sekcje o karierze i podcasty.
+
+### 4b. Chemia kwantowa
+
+- [R-059] Lucjan Piela, „Idee chemii kwantowej”, wydanie 2 zmienione, Wydawnictwo Naukowe PWN 2011. https://data.bn.org.pl/api/institutions/bibs.json?id=2737030 Język: polski; poziom: dalej. Co z tego wzięliśmy: Polski podręcznik chemii kwantowej Lucjana Pieli z Wydziału Chemii Uniwersytetu Warszawskiego, od podstaw mechaniki kwantowej do budowy elektronowej atomów i cząsteczek i oddziaływań między nimi.
+- [R-060] Lucjan Piela, „Ideas of Quantum Chemistry”, wydanie 3, Elsevier 2020, tom 1 „From Quantum Physics to Chemistry”, tom 2 „Interactions”. https://shop.elsevier.com/books/ideas-of-quantum-chemistry/piela/978-0-444-64246-2 Język: angielski; poziom: dalej. Co z tego wzięliśmy: Angielskie, nowsze wydanie tej samej książki, w dwóch tomach.
+
+### 4c. Spektroskopia
+
+- [R-020] LibreTexts: „Introduction to Organic Spectroscopy”. https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Otwarta książka poświęcona tylko metodom badania budowy związków organicznych: spektrometrii mas, spektroskopii UV, IR, NMR protonowej i węglowej, NMR dwuwymiarowemu, a na końcu zadaniom z ustalania struktury z kilku widm naraz.
+- [R-021] NIST Chemistry WebBook. https://webbook.nist.gov/chemistry/name-ser/ Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Baza danych amerykańskiego instytutu standardów NIST.
+- [R-022] SDBS: Spectral Database for Organic Compounds (AIST, Japonia). https://sdbs.db.aist.go.jp/ Język: angielski; poziom: dalej. Co z tego wzięliśmy: Bezpłatna baza widm związków organicznych prowadzona przez japoński instytut AIST: widma NMR, IR, MS, Ramana i ESR, zbierane przez zespoły wymienione na stronie głównej.
+- [R-023] Robert M. Silverstein i in., „Spektroskopowe metody identyfikacji związków organicznych”, wydanie 2 uaktualnione, PWN. https://data.bn.org.pl/api/institutions/bibs.json?id=2742929 Język: polski; poziom: dalej. Co z tego wzięliśmy: Polskie tłumaczenie klasycznego podręcznika identyfikacji związków organicznych z widm: spektrometria mas, IR, NMR, z dużą liczbą widm i zadań.
+- [R-024] Andrzej Rajca, Wojciech Zieliński (red.), „Metody spektroskopowe i spektrometria mas w zastosowaniu do identyfikacji związków organicznych”, t. 1–2, Wydawnictwo Politechniki Śląskiej 2018. https://data.bn.org.pl/api/institutions/bibs.json?id=1000000276861 Język: polski; poziom: dalej. Co z tego wzięliśmy: Polska praca zbiorowa w dwóch tomach wydana przez politechnikę.
+
+### 4d. Laboratorium
+
+- [R-055] Professor Dave Explains: „Chemistry Laboratory Techniques”. https://www.youtube.com/playlist?list=PLybg94GvOJ9Gn1tz2WIe-75UuZSL3wSJK Język: angielski; poziom: wprowadzenie. Co z tego wzięliśmy: 12 filmów nagranych w prawdziwym laboratorium: szkło laboratoryjne, sączenie grawitacyjne i pod zmniejszonym ciśnieniem, ekstrakcja, destylacja, krystalizacja i temperatura topnienia, pipety i roztwory mianowane, miareczkowanie, chromatografia cienkowarstwowa i kolumnowa, ogniwo galwaniczne, synteza aspiryny.
+- [R-061] LibreTexts: Sandtorv, „How to be a Successful Organic Chemist”. https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv) Język: angielski; poziom: pierwszy rok. Co z tego wzięliśmy: Krótka otwarta książka o pracy w laboratorium organicznym: jak przygotować się do ćwiczenia (w tym jak czytać karty charakterystyki i co zapisać w dzienniku przed wejściem do pracowni), podstawowe techniki, bezpieczna praca z odczynnikami i odpadami, jak przetrwać samo ćwiczenie, jak interpretować wyniki i jak napisać raport.
+
+## Źródła cytowane
+
+### 1. Inna gra
+
+- [Z-017] Chemia ogólna i nieorganiczna, Analityka Medyczna (2025/2026), karta przedmiotu (Uniwersytet Medyczny w Łodzi, analityka medyczna, 2025/26). https://bionieorganiczna.umed.pl/wp-content/uploads/2025/09/Sylabus-Chemia-ogolna-i-nieorganiczna-AM-2025-2026.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Semestr 1, 4 ECTS; wykład 15 h, ćwiczenia laboratoryjne 35 h, ćwiczenia rachunkowe 10 h, e-learning 5 h. (także: 2, 4d)
+- [Z-025] Wyszukiwanie i zamawianie książek (poradnik dla studentów Wydziału Chemii UWr) (Uniwersytet Wrocławski, chemia, 2025/26 (plik z maja 2026)). https://chem.uwr.edu.pl/wp-content/uploads/sites/164/2026/05/Wyszukiwanie-i-zamawianie-ksiazek.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Zamawianie książek przez katalog online, wolny dostęp, książkomat, dostęp do IBUK Libra z sieci uczelni, przez serwer proxy albo kod PIN z biblioteki.
+
+### 2. Co z matury zamienia się w co
+
+- [Z-003] Podstawy chemii (WCh-CL-O103-19), sylabus (Uniwersytet Jagielloński, chemia, 2025/26 (cykl w sylabusie); w USOS zajęcia w semestrze zimowym 2026/27). https://sylabus.uj.edu.pl/pl/document/178d7bc0-6040-44e8-8a4d-c5f3640310a6.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Sem. (także: 3, 4b)
+- [Z-004] Chemia ogólna (1200-1CHOGW1), opis przedmiotu w katalogu USOS (Uniwersytet Warszawski, chemia, bez wskazanego cyklu (opis w katalogu; grupa: przedmioty 1. semestru S1-CH)). https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=1200-1CHOGW1 Odczyt: 2026-11-03. Co z tego wzięliśmy: 6 lub 4 ECTS (zmienne w czasie); nakład ok. (także: 4b)
+- [Z-005] Biochemia (LE.LE.JS.1o0080), kierunek lekarski, sylabus (Uniwersytet Jagielloński Collegium Medicum, medycyna, 2026/27). https://sylabus.cm-uj.krakow.pl/pl/document/157676fa-b95b-4d38-b60a-b8a55e2c1fc1.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I, semestry 1–2; w semestrze 2 egzamin i 12 ECTS. (także: 3, 4b)
+- [Z-006] Program studiów, kierunek lekarski, I rok w roku akad. 2025/2026 i dalsze lata (BIP WUM) (Warszawski Uniwersytet Medyczny, medycyna, 2025/26). https://bip.wum.edu.pl/attachments/5181/download Odczyt: 2026-11-03. Co z tego wzięliśmy: I rok bez przedmiotu chemicznego i bez biochemii; II rok (2026/27): „Biochemia z elementami chemii”, egzamin, 180 h (wykł. (także: 3, 4b)
+- [Z-007] Plan studiów na kierunku lekarskim, cykl rozpoczynający się w roku akad. 2025/2026 (Uniwersytet Medyczny w Białymstoku, medycyna, 2025/26). https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/KIERUNKI/Lekarski/plany_studiow/lekarski_plan_na_cykl_2025-2031.docx Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I: „Chemia” (Zakład Chemii Medycznej) 30 h (wykł. (także: 3, 4b)
+- [Z-008] Plan studiów 2024/2025, kierunek lekarsko-dentystyczny (Wydział Lekarski UJ CM) (Uniwersytet Jagielloński Collegium Medicum, stomatologia, 2024/25). https://wl.cm.uj.edu.pl/cm/uploads/2024/10/PLAN-STUDIOW-2024-2025-lek-dent-akt-9.10.24.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I bez przedmiotu chemicznego; rok II (sem.
+- [Z-009] Plan studiów, kierunek lekarsko-dentystyczny, cykl 2026–2031 (Uniwersytet Medyczny w Białymstoku, stomatologia, 2026/27). https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/iza/plan_na_rok_26-27/lekarsko-dentystyczny_cykl_2026-2031.docx Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I: „Chemia zintegrowana z materiałoznawstwem” 20 h, 1 ECTS, zaliczenie; „Biochemia” 85 h, 6 ECTS, egzamin.
+- [Z-010] Chemia zintegrowana z materiałoznawstwem, sylabus, kierunek lekarsko-dentystyczny (Uniwersytet Medyczny w Białymstoku, stomatologia, 2025/26). https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/iza/sylabusy_25-26/i_rok/chemia_zintegrowana_z_materialoznawstwem.doc Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I, 20 h (w tym online). (także: 3)
+- [Z-011] Sylabus SGGW: kierunek weterynaria, 2026/27, lista przedmiotów semestru zimowego (Szkoła Główna Gospodarstwa Wiejskiego, weterynaria, 2026/27). https://sylabus.sggw.edu.pl/pl/1/22/3/7/40/2/41 Odczyt: 2026-11-03. Co z tego wzięliśmy: Semestr 1: „Chemia” wykład 15 h, ćwiczenia laboratoryjne 30 h, 4 ECTS, egzamin; „Biochemia (1)” wykład 15 h, lab. (także: 3)
+- [Z-012] Chemia, sylabus modułu, kierunek weterynaria (Wydział Medycyny Weterynaryjnej UP Lublin) (Uniwersytet Przyrodniczy w Lublinie, weterynaria, rok niepodany w dokumencie (plik z kwietnia 2021)). https://up.lublin.pl/weterynaria/wp-content/uploads/sites/3/2021/04/Chemia-1.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I, semestr 1, 4 ECTS. (także: 3)
+- [Z-013] Rozkład zajęć, I rok Weterynaria, stacjonarne, semestr zimowy 2025-2026 (Uniwersytet Przyrodniczy w Lublinie, weterynaria, 2025/26). https://up.lublin.pl/weterynaria/wp-content/uploads/sites/3/2025/09/1-rok-wet.-ST.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: W rozkładzie semestru zimowego są „Ćw. (także: 3)
+- [Z-014] Chemia ogólna i nieorganiczna (FA.FA.JS.1o0135), kierunek farmacja, sylabus (Uniwersytet Jagielloński Collegium Medicum, farmacja, 2026/27). https://sylabus.cm-uj.krakow.pl/pl/document/73687d82-4f77-4111-bf0f-1300657a4af3.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Semestr 1, egzamin, 7 ECTS.
+- [Z-015] Chemia ogólna i nieorganiczna, kierunek farmacja, sylabus (Warszawski Uniwersytet Medyczny, farmacja, 2024/25 (nowszego nie znaleziono)). https://chemfarmbiomat.wum.edu.pl/sites/chemfarmbiomat.wum.edu.pl/files/2024-10/sylabus-choin-2024-2025.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I, semestry I i II, 11 ECTS; wykłady 25 h, seminaria 10 h, ćwiczenia 90 h; egzamin. (także: 3, 4b)
+- [Z-016] Chemia ogólna i nieorganiczna (FA.AM.JS.1o0135), kierunek analityka medyczna, sylabus (Uniwersytet Jagielloński Collegium Medicum, analityka medyczna, 2026/27). https://sylabus.cm-uj.krakow.pl/pl/document/3cb20971-1bdf-4cff-ac4b-8ad13fb37f67.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Semestr 1, egzamin, 4 ECTS.
+- [Z-018] Przewodnik dydaktyczny, I rok, analityka medyczna, 2025/2026 (Wydział Farmaceutyczny WUM) (Warszawski Uniwersytet Medyczny, analityka medyczna, 2025/26). https://wf.wum.edu.pl/sites/wf.wum.edu.pl/files/Przewodniki%20dydaktyczne/przewodnik-i-rok-analityka-medyczna-2025-2026_5.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Na I roku cztery przedmioty chemiczne: chemia analityczna, chemia fizyczna, chemia ogólna i nieorganiczna, chemia organiczna, oraz biofizyka medyczna. (także: 3)
+- [Z-019] Chemia ogólna I, kierunek biotechnologia, I stopień, sylabus (Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie, biotechnologia, 2025/26 (przedmiot obowiązuje od 2024/25)). https://wydzialy.uksw.edu.pl/wp-content/uploads/sites/5/2025/09/BT_25-26_1S_O_Chemia-ogolna-I-1.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I, semestr I, 30 h wykładu, 30 h ćwiczeń, 30 h laboratorium, 7 ECTS. (także: 3, 4c, 4d)
+- [Z-020] Chemia ogólna i nieorganiczna, kierunek biotechnologia, I stopień, sylabus (Uniwersytet Rzeszowski, biotechnologia, cykl 2023/24–2026/27). https://www.ur.edu.pl/files/ur/import/private/113/Sylabusy%20-%20rok%201%2C%20Biotechnologia%20%2C%20studia%20stacjonarne%2C%201%20stopie%C5%84%20cykl%20od%202023_2024/Chemia%20og%C3%B3lna%20i%20nieorganiczna.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I, semestr 1, wykład 30 h, laboratorium 30 h, 6 ECTS; wykład kończy egzamin pisemny. (także: 3, 4d)
+- [Z-021] Chemia ogólna i nieorganiczna [S1TCh2>COiN1], Technologia chemiczna, karta przedmiotu (Politechnika Poznańska, inżynieria, 2026/27). https://put.poznan.pl/cards/2026_2027/Technologia%20chemiczna/stacjonarne/studia%20pierwszego%20stopnia/1/Chemia%20og%C3%B3lna%20i%20nieorganiczna%20(COiN1).pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Kierunek technologia chemiczna, rok 1, semestr 1: wykład 45 h, ćwiczenia 30 h, 7 ECTS, egzamin pisemny. (także: 3, 4a)
+- [Z-022] Chemia ogólna i nieorganiczna [S1IChiP1>COiN1], Inżynieria chemiczna i procesowa, karta przedmiotu (Politechnika Poznańska, inżynieria, 2026/27). https://put.poznan.pl/cards/2026_2027/In%C5%BCynieria%20chemiczna%20i%20procesowa/stacjonarne/studia%20pierwszego%20stopnia/1/Chemia%20og%C3%B3lna%20i%20nieorganiczna%20(COiN1).pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Kierunek inżynieria chemiczna i procesowa, rok 1, semestr 1: wykład 30 h, ćwiczenia 30 h, 5 ECTS. (także: 4a)
+- [Z-023] Informator, Technologia Chemiczna I stopnia, profil ogólnoakademicki, dla rozpoczynających studia 01.10.2025 (Wydział Chemiczny PW) (Politechnika Warszawska, inżynieria, 2025/26). https://www.ch.pw.edu.pl/layout/set/print/content/download/12174/77877/file/INFORMATOR_TCh%20I%20stopie%C5%84%20profil%20og%C3%B3ln._nowy%20dla%20student%C3%B3w%20rozpoczynaj%C4%85cych%20studia%2001.10.2025.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Sem. (także: 3, 4c)
+- [Z-024] Chemia ogólna i nieorganiczna [COiN2], Technologia chemiczna, karta przedmiotu (Politechnika Poznańska, inżynieria, 2025/26). https://put.poznan.pl/cards/2025_2026/Technologia%20chemiczna/stacjonarne/studia%20pierwszego%20stopnia/2/Chemia%20og%C3%B3lna%20i%20nieorganiczna%20(COiN2).pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Kierunek technologia chemiczna, rok 1, semestr 2 (wersja 2026/27 dla semestru 2 nie była w wynikach).
+- [Z-034] Chemia organiczna, kierunek analityka medyczna, przewodnik dydaktyczny I roku (Wydział Farmaceutyczny WUM) (Warszawski Uniwersytet Medyczny, analityka medyczna, 2025/26). https://wf.wum.edu.pl/sites/wf.wum.edu.pl/files/Przewodniki%20dydaktyczne/przewodnik-i-rok-analityka-medyczna-2025-2026_5.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Rok I, semestr I, 6 ECTS; wykład 30 h, seminarium 10 h, ćwiczenia 40 h; egzamin.
+
+### 4a. Aktywność
+
+- [Z-026] David Harvey, „Analytical Chemistry 2.1”, LibreTexts, podrozdział 6.9 „Activity Effects”. https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/06%3A_Equilibrium_Chemistry/6.09%3A_Activity_Effects Odczyt: 2026-11-03. Co z tego wzięliśmy: CC BY-NC-SA 4.0.
+- [Z-027] Roberto Peverati, „The Live Textbook of Physical Chemistry”, LibreTexts, podrozdział 14.1 „Activity”. https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/14%3A_Properties_of_Solutions/14.01%3A_Activity Odczyt: 2026-11-03. Co z tego wzięliśmy: CC BY-SA 4.0.
+- [Z-028] OpenStax, „Chemistry 2e”, podrozdział 13.2 „Equilibrium Constants”. https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants Odczyt: 2026-11-03. Co z tego wzięliśmy: CC BY-NC-SA 4.0.
+
+### 4b. Chemia kwantowa
+
+- [Z-029] Podstawy chemii kwantowej (WCh-CL-O204-19), sylabus (Uniwersytet Jagielloński, chemia, 2024/25 (cykl)). https://sylabus.uj.edu.pl/pl/document/dd606cf4-11e7-4ee4-970b-9ad88f95990b.pdf Odczyt: 2026-11-03. Co z tego wzięliśmy: Semestr 4, egzamin, 5 ECTS.
+- [Z-030] OpenStax, „Chemistry 2e”, podrozdział 6.3 „Development of Quantum Theory”. https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory Odczyt: 2026-11-03. Co z tego wzięliśmy: CC BY-NC-SA 4.0.
+- [Z-031] OpenStax, „Chemistry 2e”, podrozdział 8.4 „Molecular Orbital Theory”. https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory Odczyt: 2026-11-03. Co z tego wzięliśmy: CC BY-NC-SA 4.0.
+
+### 4c. Spektroskopia
+
+- [Z-001] John McMurry, „Organic Chemistry: A Tenth Edition”, OpenStax 2023, rozdziały 12–14 (12.1, 12.5–12.7, 13.1–13.3, 13.5–13.6, „Chemistry Matters: MRI”, 14.7–14.8). https://openstax.org/books/organic-chemistry/pages/12-why-this-chapter Odczyt: 2026-11-03. Co z tego wzięliśmy: Licencja CC BY-NC-SA 4.0.
+- [Z-002] David Harvey, „Analytical Chemistry 2.1”, LibreTexts, rozdział 10.1 „Overview of Spectroscopy” i 10.2 „Spectroscopy Based on Absorption”. https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/10%3A_Spectroscopic_Methods Odczyt: 2026-11-03. Co z tego wzięliśmy: Licencja CC BY-NC-SA 4.0.
+- [Z-033] David Harvey, „Analytical Chemistry 2.1”, LibreTexts, podrozdział 5.3 „Determining the Sensitivity”. https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.03%3A_Determining_the_Sensitivity Odczyt: 2026-11-03. Co z tego wzięliśmy: CC BY-NC-SA 4.0.
+
+### 4d. Laboratorium
+
+- [Z-032] Sandtorv, „How to be a Successful Organic Chemist”, LibreTexts, podrozdziały 1.2 (bezpieczeństwo i karty charakterystyki), 1.4 (dziennik laboratoryjny), 6.1 (budowa raportu). https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv) Odczyt: 2026-11-03. Co z tego wzięliśmy: CC BY-NC 4.0.

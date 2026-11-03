@@ -2,7 +2,7 @@
 
 Kurs KaNaU 50/70/90 przeprowadził Cię przez 20 modułów, od budowy atomu po cukry. Nic z tego nie przepada. Na studiach ten sam materiał wraca, tylko w innych przedmiotach, pod innymi nazwami i z dodatkami, których na maturze nie było. Ten rozdział pokazuje, gdzie konkretnie.
 
-Mapa powstała z 22 publicznych sylabusów i planów studiów na ośmiu kierunkach, głównie z lat 2024/25–2026/27. Sylabus, czyli karta przedmiotu, to publiczny opis: jakie są treści, ile godzin, jak się zalicza i z czego się uczyć. Każda wymieniona uczelnia jest przykładem, a nie regułą. Na Twojej uczelni będzie trochę inaczej, i o tym jest druga część rozdziału.
+Mapa powstała z 24 publicznych sylabusów i planów studiów na ośmiu kierunkach, głównie z lat 2024/25–2026/27. Sylabus, czyli karta przedmiotu, to publiczny opis: jakie są treści, ile godzin, jak się zalicza i z czego się uczyć. Każda wymieniona uczelnia jest przykładem, a nie regułą. Na Twojej uczelni będzie trochę inaczej, i o tym jest druga część rozdziału.
 
 ### Jak czytać tę mapę
 
@@ -30,7 +30,7 @@ Dwie rzeczy warto wiedzieć z góry. Po pierwsze, nazwy przedmiotów się różn
 | XVI. Estry i tłuszcze | chemia organiczna, biochemia [Z-034] | lipidy, w tym steroidy i terpeny [Z-034] |
 | XVII. Związki zawierające azot | chemia organiczna, biochemia [Z-034] | związki heterocykliczne z azotem, tlenem i siarką, alkaloidy [Z-034] |
 | XVIII. Białka | biochemia: na kierunku lekarskim UJ CM i UMB na pierwszym roku [Z-005] [Z-007], na weterynarii SGGW w pierwszym semestrze [Z-011], na lekarskim WUM na drugim roku [Z-006] | enzymy i ich kinetyka, synteza białek, metody laboratoryjne biochemii [Z-005] |
-| XIX. Cukry | biochemia [Z-005] [Z-011] | metabolizm: glikoliza, cykl Krebsa, łańcuch oddechowy |
+| XIX. Cukry | biochemia [Z-005] [Z-011] | metabolizm: glikoliza, cykl Krebsa, łańcuch oddechowy [Z-005] |
 
 
 ### Rzeczy, których na maturze nie było wcale
@@ -53,12 +53,10 @@ Pierwszy przykład to jedna uczelnia i jedna nazwa. „Chemia ogólna i nieorgan
 
 [RYSUNEK: F-05, do narysowania. Dwa zestawy słupków dla przedmiotu „Chemia ogólna i nieorganiczna” na Politechnice Poznańskiej: technologia chemiczna (wykład 45 h, ćwiczenia 30 h, 7 ECTS) i inżynieria chemiczna i procesowa (wykład 30 h, ćwiczenia 30 h, 5 ECTS). Podpis: „Ta sama nazwa przedmiotu, ta sama uczelnia, inny wymiar (karty przedmiotów 2026/27).”]
 
-Drugi przykład to ta sama nazwa na trzech kierunkach. „Chemia ogólna i nieorganiczna” w pierwszym semestrze farmacji UJ CM ma 7 punktów i obejmuje między innymi reakcje identyfikacji jonów zalecane przez Farmakopeę Polską i Europejską [Z-014]. Na analityce medycznej Uniwersytetu Medycznego w Łodzi ma 4 punkty, 15 godzin wykładu i 35 godzin laboratorium, a wykład przechodzi przez chemię pierwiastków bloków s, p i d [Z-017]. Na biotechnologii Uniwersytetu Rzeszowskiego to 30 godzin wykładu, 30 godzin laboratorium i 6 punktów [Z-020]. Ta sama nazwa, trzy różne zestawy rzeczy do umienia.
+Drugi przykład to ta sama nazwa na trzech kierunkach. „Chemia ogólna i nieorganiczna” w pierwszym semestrze farmacji UJ CM ma 7 punktów i obejmuje między innymi reakcje identyfikacji jonów zalecane przez Farmakopeę Polską i Europejską [Z-014]. Na analityce medycznej Uniwersytetu Medycznego w Łodzi ma 4 punkty, 15 godzin wykładu i 35 godzin laboratorium, a wykład przechodzi przez chemię pierwiastków bloków s, p i d [Z-017]. Na biotechnologii Uniwersytetu Rzeszowskiego to 30 godzin wykładu, 30 godzin laboratorium i 6 punktów [Z-020]. Ta sama nazwa, trzy różne zestawy rzeczy do opanowania.
 
 Trzeci przykład dotyczy tego, czy chemia w ogóle jest na pierwszym roku. Na kierunku lekarskim Warszawskiego Uniwersytetu Medycznego w programie pierwszego roku 2025/26 nie ma przedmiotu chemicznego; chemia przychodzi na drugim roku jako „Biochemia z elementami chemii”, 180 godzin i 17 punktów [Z-006]. W Uniwersytecie Medycznym w Białymstoku na pierwszym roku są osobno „Chemia” (30 godzin, 2 punkty) i „Biochemia” (145 godzin, 11 punktów) [Z-007]. Na UJ CM pierwszy rok kierunku lekarskiego ma biochemię przez dwa semestry, a jej pierwsze zajęcia dotyczą wody, równowag jonowych i pH buforów, czyli chemii z matury [Z-005]. Na stomatologii jest podobnie: na UJ CM chemia pojawia się dopiero na drugim roku [Z-008], w UMB na pierwszym, jako 20 godzin „Chemii zintegrowanej z materiałoznawstwem” [Z-009] [Z-010].
 
 [RYSUNEK: F-04, do narysowania. Trzy poziome paski (WUM, UMB, UJ CM) z podziałem na I i II rok kierunku lekarskiego. WUM: I rok bez chemii, II rok „Biochemia z elementami chemii” 180 h. UMB: I rok „Chemia” 30 h i „Biochemia” 145 h. UJ CM: I rok „Biochemia” w semestrach 1 i 2. Podpis: „Gdzie jest chemia na kierunku lekarskim: trzy uczelnie, trzy układy (programy 2025/26–2026/27).”]
 
 Z tych przykładów nie da się zgadnąć, jak będzie u Ciebie. Da się za to zrobić jedną rzecz: gdy znasz już swoją uczelnię, znaleźć sylabusy swoich przedmiotów. Jak to zrobić i na co w nich patrzeć, jest w rozdziale 1.
-
-[ADRIAN: tu jedno zdanie z Twojego doświadczenia z korepetycji, jeśli pasuje, np. przykład studenta, którego zaskoczyło, że przedmiot o znanej nazwie wyglądał zupełnie inaczej niż u kolegi z innej uczelni.]

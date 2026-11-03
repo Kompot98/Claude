@@ -8,9 +8,9 @@ Laboratorium, nazywane też pracownią, to zajęcia w sali z dygestoriami i odcz
 
 ### BHP
 
-BHP, czyli bezpieczeństwo i higiena pracy, to pierwsze zajęcia każdej pracowni. Na przykład pierwsze ćwiczenie laboratorium chemii ogólnej na biotechnologii UKSW to „Zasady BHP” [Z-019], a na Uniwersytecie Rzeszowskim zajęcia zaczynają się od przepisów BHP i regulaminu pracowni [Z-020]. Podstawowe zasady opisuje na przykład otwarty podręcznik pracy laboratoryjnej: okulary ochronne zakłada się na całe zajęcia, fartuch jest pierwszą osłoną przed odczynnikami, a pracę z lotnymi substancjami wykonuje się pod dygestorium, czyli wyciągiem z silnym przepływem powietrza. <!-- Z-032: Sandtorv 1.2, lista „Lab goggles”, „Lab coat”, „Fume-hoods” --> Na pracowni w Łodzi za pracę bez zapiętego fartucha, okularów czy ze związanymi włosami, mimo upomnienia, odejmuje się punkty [Z-017].
+Pracę na pracowni zaczyna się od BHP, czyli zasad bezpieczeństwa i higieny pracy. Na przykład pierwsze ćwiczenie laboratorium chemii ogólnej na biotechnologii UKSW to „Zasady BHP” [Z-019], a na Uniwersytecie Rzeszowskim zajęcia zaczynają się od przepisów BHP i regulaminu pracowni [Z-020]. Podstawowe zasady opisuje na przykład otwarty podręcznik pracy laboratoryjnej: okulary ochronne zakłada się na całe zajęcia, fartuch jest pierwszą osłoną przed odczynnikami, a pracę z lotnymi substancjami wykonuje się pod dygestorium, czyli wyciągiem z silnym przepływem powietrza. <!-- Z-032: Sandtorv 1.2, lista „Lab goggles”, „Lab coat”, „Fume-hoods” --> Na pracowni w Łodzi za pracę bez zapiętego fartucha, okularów czy ze związanymi włosami, mimo upomnienia, odejmuje się punkty [Z-017].
 
-[RYSUNEK: F-21, do znalezienia. Zdjęcie osoby pracującej pod dygestorium w okularach ochronnych i zapiętym fartuchu. Podpis: „Okulary, fartuch, dygestorium: trzy rzeczy, od których zaczyna się każda pracownia.”]
+[RYSUNEK: F-21, do znalezienia. Zdjęcie osoby pracującej pod dygestorium w okularach ochronnych i zapiętym fartuchu. Podpis: „Okulary ochronne, zapięty fartuch, dygestorium: podstawa bezpiecznej pracy.”]
 
 Przed ćwiczeniem warto sprawdzić, z jakimi substancjami będziesz pracować. Każda ma kartę charakterystyki (po angielsku SDS, safety data sheet): dokument z informacjami o zagrożeniach i bezpiecznym postępowaniu. <!-- Z-032: Sandtorv 1.2, akapit o SDS („legally required information sheets”) --> Podstawowe dane o zagrożeniach wielu substancji ma też bezpłatna baza PubChem w sekcji „Safety and Hazards” [R-037].
 
@@ -19,8 +19,6 @@ Przed ćwiczeniem warto sprawdzić, z jakimi substancjami będziesz pracować. K
 Kolokwium wejściowe, potocznie wejściówka, to krótki sprawdzian na początku zajęć z teorii do ćwiczenia, które za chwilę robisz. Na pracowni w Łodzi wejściówki są dwie, oceniane od zera do pięciu punktów, a spóźnienie ponad kwadrans odbiera możliwość ich napisania [Z-017]. Bywa też, że bez zaliczonej wejściówki nie można wykonać ćwiczenia; zasady podaje regulamin danej pracowni.
 
 Do wejściówki uczysz się z instrukcji do ćwiczenia, którą dostaje się wcześniej, i z tego, co instrukcja wymienia jako wymagane wiadomości. Krótki film z tym samym rodzajem pracy pomaga zrozumieć, co się będzie działo: na przykład pokazy ćwiczeń z laboratorium chemii fizycznej Politechniki Warszawskiej [R-038] albo syntezy z pracowni organicznej Uniwersytetu Śląskiego [R-003].
-
-[ADRIAN: tu przykład z korepetycji, jeśli masz: jak student przygotowywał się do wejściówki i co okazało się najważniejsze.]
 
 ### Dziennik laboratoryjny
 

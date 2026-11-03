@@ -79,3 +79,9 @@ Dalej: wstawki na rysunki (checkpoint B).
 Zrobione: 23 wstawki w rozdziałach 1–4 (D-17), rejestr `dane/rysunki-plan.csv`, lista `RYSUNKI-DO-ZNALEZIENIA.md`, kontrola w `sprawdz.py`. Przy okazji: poprawione wprowadzenie do chemii fizycznej w rozdziale 3 (na części kierunków przychodzi na drugim roku, PW sem. 3).
 
 Dalej: redakcja końcowa i wydanie (checkpoint C).
+
+## 2026-11-03, checkpoint C: redakcja końcowa i wydanie
+
+Zrobione: redakcja całości pod formę ostateczną (D-18). Usunięte z opisów filmów i książek cechy stylu, których agent nie sprawdził; poprawione uogólnienia i data de Broglie'a; jedno miejsce `[ADRIAN]` wypełnione z życiorysu (prace dyplomowe na UJ po angielsku), siedem przeniesionych do `DO-UZUPELNIENIA-ADRIAN.md`, więc w tekście nie ma już znaczników. Wydanie w `wydanie/` (Markdown bez komentarzy, HTML ze spisem treści, PDF). `RAPORT.md` i `README.md` przepisane na wersję ostateczną. Sprawdzenia: `sprawdz.py --dowody` bez błędów, `styl.py` bez twardych naruszeń.
+
+Zostaje: rysunki według `RYSUNKI-DO-ZNALEZIENIA.md` (agent od obrazków) i ręczne sprawdzenie w przeglądarce Khan Academy, Chemistry World i strony OUP.
