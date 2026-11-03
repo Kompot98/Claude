@@ -22,7 +22,7 @@ KIERUNKI = {"wszystkie", "chemia", "medycyna", "stomatologia", "weterynaria", "f
 TYP_ZRODLA = {"sylabus", "podręcznik", "strona", "publikacja", "program studiów", "katalog"}
 LICENCJE = {"CC BY 4.0", "CC BY 3.0", "CC BY 2.5", "CC BY 2.0", "CC BY-SA 4.0", "CC BY-SA 3.0",
             "CC BY-SA 2.5", "CC BY-SA 2.0", "CC0", "domena publiczna"}
-DOMENY_RYSUNKOW = ("https://commons.wikimedia.org/", "https://openstax.org/")
+DOMENY_RYSUNKOW = ("https://commons.wikimedia.org/",)  # OpenStax od 2026 na CC BY-NC-SA, patrz D-05
 
 
 def blad(lista, tekst):
