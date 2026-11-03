@@ -1,0 +1,543 @@
+źródło: https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/01%3A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT/1.02%3A__SAFETY_IS_KEY-_HOW_TO_FIND_RELEVANT_SAFETY_INFORMATION_AND_READ_SAFETY_DATA_SHEETS
+data: 2026-11-03
+tytuł: 1.2:  SAFETY IS KEY- HOW TO FIND RELEVANT SAFETY INFORMATION AND READ SAFETY DATA SHEETS - Chemistry LibreTexts
+licencja (stopka): ['CC BY-NC  4.0']  tagi: ['license:ccbync', 'licenseversion:40']
+podstrony: []
+
+mt-content-container p { color: white; } .darkMode .mt-content-container .boxexample, .darkMode .mt-content-container .boxexercise, .darkMode .mt-content-container .boxlemma, .darkMode .mt-content-container .boxnotation, .darkMode .mt-content-container .boxnotewithlegend, .darkMode .mt-content-container .boxnotewithoutlegend, .darkMode .mt-content-container .boxprocedure, .darkMode .mt-content-container .boxproposition, .darkMode .mt-content-container .boxquery, .darkMode .mt-content-container .boxtheorem, .darkMode .mt-content-container .boxobjectives, .darkMode .mt-content-container .box-example, .darkMode .mt-content-container .box-exercise, .darkMode .mt-content-container .box-lemma, .darkMode .mt-content-container .box-notation, .darkMode .mt-content-container .box-warning, .darkMode .mt-content-container .box-note, .darkMode .mt-content-container .box-notewithlegend, .darkMode .mt-content-container .box-notewithoutlegend, .darkMode .mt-content-container .box-procedure, .darkMode .mt-content-container .box-proposition, .darkMode .mt-content-container .box-query, .darkMode .mt-content-container .box-theorem, .darkMode .mt-content-container .box-objectives { background: #f0f5ff24; box-shadow: 3px 3px 4px #00000085; } .darkMode p.boxtitle { color:white; } .darkMode th { background:#00629a; } .darkMode tr, .darkMode tr td { background:none; } .darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td { background:#555555; } .optimize { display: flex; flex-wrap: wrap; } /* Hide header if in iframe*/ .contentOnly .elm-header, .contentOnly .elm-meta-icons, .contentOnly div.annotator-frame, .adaptView .elm-footer, /*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */ .adaptView article#elm-main-content > header, .contentOnly hypothesis-sidebar, .contentOnly #custom_open, .contentOnly .sbHeader { display:none; } .sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] { background-color: transparent !important; } .contentOnly #mt-summary { display:none!important; } /* Hide most supporting content when in embed mode */ .embedView .elm-header, .embedView .elm-meta-icons, .embedView div.annotator-frame, .embedView .elm-footer, .embedView article#elm-main-content > *:not(:first-child, .mt-content-container), .embedView hypothesis-sidebar, .embedView #custom_open, .embedView #libretexts-ai-assistant, .embedView #mt-summary, .embedView #backButton, .embedView #nextButton, /* hide first button that appears in librelens attribution list */ .embedView #librelens-attribution-list > button:first-of-type, .embedView .elm-content-footer, .embedView .sbHeader { display:none!important; } /* Hide everything except the first child that is or contains .pageInfo */ .embedView .elm-meta-data > *:not(.pageInfo):not(:has(.pageInfo)), .embedView .elm-meta-data > :is(.pageInfo, :has(.pageInfo)) ~ :is(.pageInfo, :has(.pageInfo)) { display: none !important; } /* Move the remaining .elm-meta-data content to right and "up" (bring in line with title) */ .embedView .elm-meta-data { display: flex; justify-content: end; margin-top: -35px; } .embedView #title { border-bottom: none !important; } iframe.imathas_problem, iframe.webwork_problem { border: none; width: 100%; } /*GeoGebra fix*/ article.elm-content-container, section.mt-content-container { height: auto !important; width: auto !important; } .elm-meta-top .mt-article-pagination a { width: auto; color: #30b3f6; } .elm-meta-top .mt-article-pagination a:hover { color: #b4b4b4; } .elm-meta-top .elm-article-pagination { float: unset; } #elm-main-content ol.elm-meta-data .elm-social-share { margin: 0; } #MathJax_Zoom { color: black; } #donate { background-color: green; color: white; display: flex; padding: 5px; align-items: center; } #donate:hover { background-color: #005E00; } .youtubeImageContainer { position: relative; } a.notSS { width: auto; height: auto; margin-top: 0; } .toc-button.mt-icon-hierarchy-trigger-closed:before { content: "\e8a6"; font-size: 150%; } span.fancytree-icon:before { content: "\e8aa"; } .mt-icon-hierarchy-trigger-open:before { font-size: 150%; } span.fancytree-has-children > span.fancytree-icon:before { content: "\e8b3"; } span.fancytree-title > a { color: #666; } span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon { color: #1a9003; } .toc-hierarchy > div { display: none; } .toc-hierarchy h6 { margin-top: 0; color: #137ac3 } .pageInfo { float: left; margin: 0 1em 0 0; } .cc { color: black; } .glossarizer_replaced { border-bottom: 1px #333 dotted; } #pageTagsHolder { display: none; } #batchPrint { display: flex; align-items: stretch; justify-content: center; } #TOCbutton { margin: 2px; display: flex; line-height: 2.4; justify-content: center; align-items: center; color: #127bc4; font-size: 100%; height: 100%; } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } div.propagatorLoader { display: flex; margin: 10px; justify-content: center; } .loaderStatus { /* flex: 1; */ justify-content: center; text-align: center; } /* Modal Foundation*/ #warningModal { position: fixed ; left: 0px; top: 0px; bottom:0px; right:0px; margin:0px; display: none; /* Hidden by default */ z-index: 10000; padding-top: 0px; /* Location of the box */ width: 100%; /* Full width */ height: 100%; /* Full height */ overflow: auto; /* Enable scroll if needed */ background-color: rgb(0,0,0); /* Fallback color */ background-color: rgb(0,0,0,0);/* Black w/ opacity */ } /* Modal Content */ #warningModalSlide { font-family: 'Roboto'; font-size: 14px; background-color: #EFEFEF ; margin: auto; padding: 15px; /*border: 0px solid #888;*/ width: 40%; box-shadow: -2px 8px 10px #c7c7c7; } #elm-main-content figure { display: flex; align-items: center; flex-direction: column; margin: 0; page-break-inside: avoid; margin-bottom: 0.3em !important; } .mt-video-widget:not(.cke_widget_element) { margin: 1rem auto !important; } .glmol{ text-align: left; } #copyResults img { width: 30px; height: 30px; object-fit: contain; } #LTform, #LTPreview { display: flex; flex-direction: column; } #LTFormContainer, .LTFormHeader, #LTFormFooter { display: flex; } #LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container { background: #f3f3f3; border-radius: 10px; overflow: auto; flex: 1; } #LTLeft, #LTRight, #LTPreviewForm, #LTTutorial { /*flex: 1;*/ align-items: stretch; height: 60vh; max-width: 45vw; overflow: hidden; width: 100%; background: #f3f3f3; border-radius: 10px; display: flex; flex-direction: column; } #LTLeft, #LTTutorial { border-radius: 0 0 10px 10px; } select.LTFormSubdomain { border-radius: 10px 10px 0 0; } #LTFormFooter { flex-direction: column; } .LTFormHeader { justify-content: flex-end; margin-top: 30px; background-color: #127bc4; padding: 10px; border-radius: 5px; color: white } ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 { } #LTFormContainer > div { flex: 1; display: flex; flex-direction: column; align-items: center; margin: 10px; max-width: 45vw; } .LTTitle { flex: 1; display: flex; align-items: center; } div#LTPreviewForm { max-width: unset; margin: 10px; width: auto; } div#LTLeftAlert, div#LTRightAlert { height: 30px; background-color: rgba(18, 122, 196, 0.61); width: inherit; z-index: 1; display: flex; align-items: center; justify-content: center; } select#LTFormSubdomain { border-radius: 10px 10px 0 0; } #mt-site-search-input { max-width: 40vw; } #getTOCLink { display: flex; justify-content: center; align-items: center; background-color: slategrey; color: white; width: fit-content; padding: 0 3px; } .annotator-frame.annotator-collapsed > div.annotator-bucket-bar { background: none; } .mobileOnly { display: none; } #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: auto; } #RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before { vertical-align: middle; } .elm-header-user-nav .mt-user-menu li.mt-user-quick-login { margin-left: 0; } .mt-user-menu { display: flex; justify-content: center; } li.elm-social-share a { height: unset; width: auto; margin: 0 2px 0 0; } #LTRight > ul > li { min-height: 100%; } .react-toggle { height: 24px; } .buttonsetForm > button:first-child { background: #525050; color: white; } /*Added to make a hyperlink position below the breadcrumb bar and is viewable */ /*#pageText > .mt-section > span:first-child { top: -50px; display: block; position: relative; }*/ .elm-header-notice.fixed { position: static; } .elm-fixed-header { position: static; } /* Dropdown Button */ .LTdropdown > .dropbtn { color: inherit; background-color: inherit; border: none; height: 100%; padding: 5px; display: flex; align-items: center; box-sizing: border-box; } .LTdropdown a:visited { color: inherit; } /* The container
+- needed to position the dropdown content */ .LTdropdown { position: relative; display: inline-block; margin-right: 2px; color: white; background: black; } /* Dropdown Content (Hidden by Default) */ .LTdropdown-content { color: inherit; display: none; position: absolute; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); background: inherit; z-index: 5; flex-direction: column; align-items: stretch; width: max-content; width: -moz-max-content; } /* Links inside the dropdown */ .LTdropdown > .LTdropdown-content a { color: inherit; background: inherit; padding: 12px 16px; text-decoration: none; display: block; width: initial; text-align: center; font-size: 12px; margin: 0; } /* Change color of dropdown links on hover */ .LTdropdown > .LTdropdown-content a:hover { filter: brightness(85%); transition-duration: 250ms; color: white; } .LTdropdown-content a:before { margin-right: 2px; } .LTdropdown-content a:not(:first-child) { border-top: 1px solid white; } /* Show the dropdown menu on hover */ .LTdropdown:hover .LTdropdown-content { display: flex; } /* Change the background color of the dropdown button when the dropdown content is shown */ .LTdropdown:hover .dropbtn { filter: brightness(85%); } nav.elm-header-user-nav > div.elm-nav-container > ol { display: flex; } nav.elm-header-user-nav > div.elm-nav-container > ol > li { display: flex; } li.elm-global-search { flex: 1 } #mt-site-search-input { width: auto; } .mt-breadcrumbs a span.nb-comment-highlight { font-size: unset; margin-right: unset; vertical-align: unset; } /* */ .mt-user-quick-login { display: none !important; } .mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right { display: none !important; } .mt-icon-quick-sign-in::before { color: #127BC4; } .sso-user:hover:after { content: " (Logout)"; font-family: inherit; font-style: italic; } .authenticated-sso.elm-header-user-nav { background-color: #0f67a6; } .authenticated-sso.elm-header-user-nav .mt-user-menu-user { background: #323232; border-radius: 5px; } .authenticated-sso.elm-header-user-nav .mt-user-menu > li > a { color: white; } /* */ /*Media Queries*/ @media (max-width: 600px) { .mobileOnly { display: block; } .mobileHide { display: none; } .LTBranding { flex-direction: column; } } @media (max-width: 875px) { #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: 1.95em; } } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } @media (max-width: 1001px) { #TOCbutton { width: 20px; justify-content: flex-start; } } /* @media (min-width: 83em) { article.elm-content-container { min-width: unset; } } */ /* @media (min-width: 37.5em){ .elm-header-user-nav { z-index: 1; } } */ .mt-content-container img { height: auto!important; object-fit: contain; } .mt-content-container .mt-sortable-listing-link img { height: 150px!important; } .mt-video-widget > p { text-align: center; } option[value="article:topic-portfolio"] { display: none; } option[value="article:howto"] { display: none; } option[value="article:reference"] { display: none; } .live-tag-link { white-space: normal; user-select: text; -webkit-user-drag: none; } span.mt-font-ma-shan-zheng{ font-family: 'Ma Shan Zheng'; } .cke_librebox .cke_combo_open { margin-left: 0; } .cke_librebox .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_librequery .cke_combo_open { margin-left: 0; } .cke_librequery .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_button_icon.cke_button__librequeryoptions_icon { background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important; background-position: 0px !important; background-size: 16px !important; } /** Heading 7 **/ .lt-heading-7 { text-align: left!important; font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif; color: #000; margin: 2rem 0 0.5rem; padding: 0; } @media (min-width: 37.5em) { .lt-heading-7 { font-size: 112.5% !important; } } @media (min-width: 18.75em) { .lt-heading-7 { font-size: 105.5% !important; } } /** AutoAttribution **/ #librelens-attribution-list li { font-size: 0.95rem !important; } /** Prevent overflow with large images in sections **/ section::after { content: ''; clear: both; display: block }/*]]>*/
+Skip to main content
+Table of Contents menu
+[Library homepage]
+search Search
+build_circle Toolbar
+fact_check Homework
+cancel Exit Reader Mode
+-   school Campus Bookshelves
+-   menu_book Bookshelves
+-   perm_media Learning Objects
+-   login Login
+-   how_to_reg Request Instructor Account
+-   hub Instructor Commons
+Search
+Search this book
+Submit Search
+x
+Text Color
+Reset
+ Bright
+ Blues
+ Gray
+ Inverted
+Text Size
+Reset
++
+-
+Margin Size
+Reset
++
+-
+Font Type
+Enable Dyslexic Font  
+-   Downloads expand_more
+    -   Download Page (PDF)
+    -   Download Full Book (PDF)
+-   Resources expand_more
+    -   Periodic Table
+    -   Physics Constants
+    -   Scientific Calculator
+-   Reference expand_more
+    -   Reference & Cite
+-   Tools expand_more
+-   Help expand_more
+    -   Get Help
+    -   Feedback
+    -   Readability
+x
+selected template will load here
+Error
+This action is not available.
+[Library homepage]
+chrome_reader_mode Enter Reader Mode
+1: HOW TO PREPARE FOR AN ORGANIC CHEMISTRY EXPERIMENT
+Book: How to be a Successful Organic Chemist (Sandtorv)
+{ }
+{ "1.01:_READING_DRAWING_AND_UNDERSTANDING_THE_POWER_OF_VISUALIZATION" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "1.02:__SAFETY_IS_KEY-_HOW_TO_FIND_RELEVANT_SAFETY_INFORMATION_AND_READ_SAFETY_DATA_SHEETS" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "1.03:_A_SPECIFIC_SDS" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "1.04:_THE_NOTEBOOK__MAKING_SURE_THE_NUMBERS_ADD_UP" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "01:_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "02:_COMMON_ORGANIC_CHEMISTRY_LABORATORY_TECHNIQUES" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "03:_GETTING_YOUR_HANDS_DIRTY_-_CHEMICAL_HANDLING_WASHING_WASTE_AND_SAFETY" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "04:_HOW_TO_SURVIVE_AN_ORGANIC_CHEMISTRY_EXPERIMENT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "05:_HOW_TO_INTERPRET_YOUR_RESULTS" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "06:_HOW_TO_WRITE_A_REPORT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+Fri, 05 Mar 2021 15:17:41 GMT
+1.2: SAFETY IS KEY- HOW TO FIND RELEVANT SAFETY INFORMATION AND READ SAFETY DATA SHEETS
+135936
+135936
+admin
+{ }
+Anonymous
+Anonymous User
+2
+false
+false
+[ "article:topic", "showtoc:no", "license:ccbync", "authorname:asandtorv", "licenseversion:40", "source@https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1021&context=pdxopen" ]
+[ "article:topic", "showtoc:no", "license:ccbync", "authorname:asandtorv", "licenseversion:40", "source@https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1021&context=pdxopen" ]
+https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FBook%253A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)%2F01%253A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT%2F1.02%253A__SAFETY_IS_KEY-_HOW_TO_FIND_RELEVANT_SAFETY_INFORMATION_AND_READ_SAFETY_DATA_SHEETS
+[Chemistry LibreTexts]
+1.  Search site
+    Search
+    Search
+    Go back to previous article
+2.  1.  Username
+        Password
+        Sign in
+    2.  Sign in
+        -   Sign in
+        -   Forgot password
+Expand/collapse global hierarchy
+1.   Home
+2.   Bookshelves
+3.   Organic Chemistry
+4.   Book: How to be a Successful Organic Chemist (Sandtorv)
+5.   1: HOW TO PREPARE FOR AN ORGANIC CHEMISTRY EXPERIMENT
+6.   1.2: SAFETY IS KEY- HOW TO FIND RELEVANT SAFETY INFORMATION AND READ SAFETY DATA SHEETS
+Expand/collapse global location
+1.2: SAFETY IS KEY- HOW TO FIND RELEVANT SAFETY INFORMATION AND READ SAFETY DATA SHEETS
+1.  
+    Last updated
+2.  Save as PDF
+3.  
+Page ID
+    135936
+-   [ ]
+-   Alexander Sandtorv
+-   University of Oslo via PDX Open publishing initiative
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+\( \newcommand{\dint}{\displaystyle\int\limits} \)
+\( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\(\newcommand{\longvect}{\overrightarrow}\)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\(\newcommand{\ket}[1]{\left| #1 \right>}\)
+\(\newcommand{\bra}[1]{\left< #1 \right|}\)
+\(\newcommand{\braket}[2]{\left< #1 \vphantom{#2} \right| \left. #2 \vphantom{#1} \right>}\)
+\(\newcommand{\braopket}[3]{\left< #1 \vphantom{#2}\vphantom{#3} \right| #2 \vphantom{#1}\vphantom{#3} \left| #3 \vphantom{#1}\vphantom{#2} \right>}\)
+\(\newcommand{\qmvec}[1]{\mathbf{\vec{#1}}}\)
+\(\newcommand{\op}[1]{\hat{\mathbf{#1}}}\)
+\(\newcommand{\expect}[1]{\langle #1 \rangle}\)
+\(\newcommand{\dfn}[1]{\emph{\textbf{#1}}}\)
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\) \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)
+No headers
+Safety is a number one concern for everyone working in a lab. Safety concerns have many different manifestations, and in general, we always work to make everyone as safe as possible by creating a standard procedure for whenever is in the lab. In any given situation in lab (and there are no exceptions), we use the following:
+1.  Lab goggles. Our eyes are very delicate, and almost all chemicals are detrimental for our eye health. Goggles are worn at all times, and they are never removed in the lab. Goggles must be splash proof, which means that they protect the eyes from multiple angles, should chemicals splash.
+2.  Lab coat. The coat is the first line of defense against chemicals that may get in contact with us, and the coat also provides a first line of defense for our clothes.
+3.  Fume-hoods. A fume-hood is a very important part of the lab environment. It is a hood equipped with an adjustable sash, where the air flow inside the hood is very high. This removes any vapors quickly and safely. Everything that you do in an organic chemistry lab, is done in a fume-hood to minimize your exposure to fumes.
+In many situations, the use of gloves is also appropriate. This is covered in detail in chapter 3.
+The scary reality of working in a lab is that chemicals are dangerous. All substances have some inherent dangers associated with them, and although we spend our times exposed to many chemicals outside of the lab, the lab is a place where we can expose ourselves to a greater variety of hazardous chemicals. As a base line, we will treat any chemical as dangerous, and the utmost of care should always be taken to ensure that exposure is at a minimum. Because chemicals do vary in terms of their properties and hazards, it is also necessary to know the exact hazards of each chemical.
+Where should you go to look up, identify and familiarize yourself with this information?
+The answer is Safety Data Sheets (SDS).
+SDS are legally required information sheets that provide an overview of the safety and hazards associated with a given chemical or mixture. There may be thousands of data sheets available for any given chemical, so before I move on, I would recommend using Sigma Aldrich as the main supplier of relevant and reliable data sheets.²
+The SDS are compiled by the Globally Harmonized System of classification and labeling of chemicals (GHS), an internationally recognized system that standardizes safety and hazard information for chemicals. That means that people from all over the world should be able to access any given SDS and find the same types of information, presented in the same way.
+Knowing how to work with SDS is essential for anyone working in a laboratory environment, because they contain information on the risks, hazards and safety issues associated with the chemicals in use. SDS give an informed backdrop to the experiment and helps you make safe and good choices when handling chemicals.
+To contextualize this, just imagine that you were planning to handle a chemical that is explosive in contact with water. Knowing this hazard in advance is obviously key to your safety. On the other hand, what if you were planning to handle a carcinogenic substance (a substance that causes cancer)? You would obviously want to know these risks beforehand so that you could work in the safest way possible. Furthermore, if you ever plan to work in a professional laboratory, consulting SDS will be a very important part of your preparation.
+------------------------------------------------------------------------
+2 The site http://sigmaaldrich.com/ is usually a good starting point. You can search for chemicals by name or structure.
+------------------------------------------------------------------------
+Let us have a closer look at how a SDS is formatted.
+The SDS for any given compound is typically organized into several categories, such as hazards, toxicity, composition, and first aid measures, to name a few.
+The information found in a SDS can be misleading if misinterpreted. As an example, let us examine the SDS of sodium chloride (NaCl), which is table salt. Under category 4, which is first-aid information, the SDS states that if the substance is in contact with skin to “Wash off with soap and plenty of water. Consult a physician.” That seems ridiculous. I doubt that any of us call a physician if we get salt on our fingers while we are eating fries, but the restaurant cook who is dipping their fingers into a bowl of salt eight hours a day might wonder if it will cause any harmful effects. The SDS also lists information about the “acute toxicity” of sodium chloride. The data stated is LD50 Oral Rat 3,550 mg/kg. How does one interpret this?
+LD₅₀ Oral Rat refers to the amount of salt that will kill 50% of the rats who swallow it. Because rats come in all sizes, the amount is expressed as ratio between mass of compound and mass of rate. In this case, 3550 mg (or 3.55 g) of sodium chloride will kill 50% of rats who weigh 1kg.
+If we assume that human bodies work like rats, we can find a lethal dose for half a population of humans. If we assume that a human weigh 100 lb (which is a convenient number) or 45.4 kg, then 45.4 x 3.55 = 161 g NaCl might be lethal to 50% of the humans who swallow it. 161 g is over 1/3 lb of salt, so the fries would probably kill you before the salt did, but there is how you interpret this figure.
+As you can see from this example, the reliable information in the SDS has to be worked out ina realistic context. In this particular case, we have learned that sodium chloride can be lethal if ingested in (relatively) large amounts.
+Here are some of the hazards categories that SDS frequently identify for organic chemicals, and some notes about each category to help you get started. Please note that this list is not exhaustive.
+Table 1. Some common safety categories
+  ------------------------ ---------- ---------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Category                 Type       What does it mean?                                                           Additional comments.
+  Flammable                Physical   A liquid, gas, solid or solution is flammable. Usually a spark or            Most organic liquids are flammable, so the risk of starting a fire is always present and necessary steps must always be taken to avoid such risks.
+  Oxidizing                Physical   The compound is a strong oxidant.                                            If you mix an oxidant with a reductant, usually a strongly exothermic reaction happens. Care should be taken to avoid this. Some oxidizers must also be disposed of in a particular way.
+  Pyrophoric               Physical   The compound ignites spontaneously in contact with air.                      Pyrophoric substances are very dangerous, and usually require handling in inert gas.
+  Toxicity                 Health     A substance is toxic.This category is vast, and requires specific            Most organic molecules are toxic by numerous modes. We have dedicated a separate section to toxicity below this table.
+  Skin irritation          Health     A substance irritates the skin and/ or mucus membranes                       Most organic chemicals irritate the skin. If the compounds are solids, gloves often offer sufficient protection, assuming the substances do not permeate
+  Eye irritation /damage   Health     A substance irritates or permanently damages the eye                         Because the eye is so delicate, most chemicals and substances damage the eye. One of the most basic safety feature of any lab, is that the people working
+  Carcinogen               Health     A substance that is suspected or known to cause cancer in mammalian cells.   This is a very important category, as substances that are either suspected or known carcinogens must be handled with extreme care. It is important to note the two subcategories of suspected and known. In practical lab work, you should deal with both these chemicals the same way: very carefully
+  Reproductive toxicity    Health     The substance damages the reproductive system                                This is a very important category, as chemicals that damages the reproductive system can have very detrimental effects.
+  ------------------------ ---------- ---------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How do you use the SDS information in your preparation phase?
+1.  Read all SDS for all chemicals encountered in the experiment. Pay particular attention to category 2, which contains a summary of the hazard statements for the chemical.
+2.  Analyze the information in the SDS. Think carefully about what measures can (and should!) be taken to avoid exposure, and to minimize the potential risks associated with the chemical.
+3.  Write it down. Include the major hazard statements for each chemical in your notebook. Also, include any important analysis you have done.
+------------------------------------------------------------------------źródło: https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/01%3A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT/1.04%3A_THE_NOTEBOOK__MAKING_SURE_THE_NUMBERS_ADD_UP
+data: 2026-11-03
+tytuł: 1.4: THE NOTEBOOK – MAKING SURE THE NUMBERS ADD UP - Chemistry LibreTexts
+licencja (stopka): ['CC BY-NC  4.0']  tagi: ['license:ccbync', 'licenseversion:40']
+podstrony: []
+
+mt-content-container p { color: white; } .darkMode .mt-content-container .boxexample, .darkMode .mt-content-container .boxexercise, .darkMode .mt-content-container .boxlemma, .darkMode .mt-content-container .boxnotation, .darkMode .mt-content-container .boxnotewithlegend, .darkMode .mt-content-container .boxnotewithoutlegend, .darkMode .mt-content-container .boxprocedure, .darkMode .mt-content-container .boxproposition, .darkMode .mt-content-container .boxquery, .darkMode .mt-content-container .boxtheorem, .darkMode .mt-content-container .boxobjectives, .darkMode .mt-content-container .box-example, .darkMode .mt-content-container .box-exercise, .darkMode .mt-content-container .box-lemma, .darkMode .mt-content-container .box-notation, .darkMode .mt-content-container .box-warning, .darkMode .mt-content-container .box-note, .darkMode .mt-content-container .box-notewithlegend, .darkMode .mt-content-container .box-notewithoutlegend, .darkMode .mt-content-container .box-procedure, .darkMode .mt-content-container .box-proposition, .darkMode .mt-content-container .box-query, .darkMode .mt-content-container .box-theorem, .darkMode .mt-content-container .box-objectives { background: #f0f5ff24; box-shadow: 3px 3px 4px #00000085; } .darkMode p.boxtitle { color:white; } .darkMode th { background:#00629a; } .darkMode tr, .darkMode tr td { background:none; } .darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td { background:#555555; } .optimize { display: flex; flex-wrap: wrap; } /* Hide header if in iframe*/ .contentOnly .elm-header, .contentOnly .elm-meta-icons, .contentOnly div.annotator-frame, .adaptView .elm-footer, /*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */ .adaptView article#elm-main-content > header, .contentOnly hypothesis-sidebar, .contentOnly #custom_open, .contentOnly .sbHeader { display:none; } .sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] { background-color: transparent !important; } .contentOnly #mt-summary { display:none!important; } /* Hide most supporting content when in embed mode */ .embedView .elm-header, .embedView .elm-meta-icons, .embedView div.annotator-frame, .embedView .elm-footer, .embedView article#elm-main-content > *:not(:first-child, .mt-content-container), .embedView hypothesis-sidebar, .embedView #custom_open, .embedView #libretexts-ai-assistant, .embedView #mt-summary, .embedView #backButton, .embedView #nextButton, /* hide first button that appears in librelens attribution list */ .embedView #librelens-attribution-list > button:first-of-type, .embedView .elm-content-footer, .embedView .sbHeader { display:none!important; } /* Hide everything except the first child that is or contains .pageInfo */ .embedView .elm-meta-data > *:not(.pageInfo):not(:has(.pageInfo)), .embedView .elm-meta-data > :is(.pageInfo, :has(.pageInfo)) ~ :is(.pageInfo, :has(.pageInfo)) { display: none !important; } /* Move the remaining .elm-meta-data content to right and "up" (bring in line with title) */ .embedView .elm-meta-data { display: flex; justify-content: end; margin-top: -35px; } .embedView #title { border-bottom: none !important; } iframe.imathas_problem, iframe.webwork_problem { border: none; width: 100%; } /*GeoGebra fix*/ article.elm-content-container, section.mt-content-container { height: auto !important; width: auto !important; } .elm-meta-top .mt-article-pagination a { width: auto; color: #30b3f6; } .elm-meta-top .mt-article-pagination a:hover { color: #b4b4b4; } .elm-meta-top .elm-article-pagination { float: unset; } #elm-main-content ol.elm-meta-data .elm-social-share { margin: 0; } #MathJax_Zoom { color: black; } #donate { background-color: green; color: white; display: flex; padding: 5px; align-items: center; } #donate:hover { background-color: #005E00; } .youtubeImageContainer { position: relative; } a.notSS { width: auto; height: auto; margin-top: 0; } .toc-button.mt-icon-hierarchy-trigger-closed:before { content: "\e8a6"; font-size: 150%; } span.fancytree-icon:before { content: "\e8aa"; } .mt-icon-hierarchy-trigger-open:before { font-size: 150%; } span.fancytree-has-children > span.fancytree-icon:before { content: "\e8b3"; } span.fancytree-title > a { color: #666; } span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon { color: #1a9003; } .toc-hierarchy > div { display: none; } .toc-hierarchy h6 { margin-top: 0; color: #137ac3 } .pageInfo { float: left; margin: 0 1em 0 0; } .cc { color: black; } .glossarizer_replaced { border-bottom: 1px #333 dotted; } #pageTagsHolder { display: none; } #batchPrint { display: flex; align-items: stretch; justify-content: center; } #TOCbutton { margin: 2px; display: flex; line-height: 2.4; justify-content: center; align-items: center; color: #127bc4; font-size: 100%; height: 100%; } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } div.propagatorLoader { display: flex; margin: 10px; justify-content: center; } .loaderStatus { /* flex: 1; */ justify-content: center; text-align: center; } /* Modal Foundation*/ #warningModal { position: fixed ; left: 0px; top: 0px; bottom:0px; right:0px; margin:0px; display: none; /* Hidden by default */ z-index: 10000; padding-top: 0px; /* Location of the box */ width: 100%; /* Full width */ height: 100%; /* Full height */ overflow: auto; /* Enable scroll if needed */ background-color: rgb(0,0,0); /* Fallback color */ background-color: rgb(0,0,0,0);/* Black w/ opacity */ } /* Modal Content */ #warningModalSlide { font-family: 'Roboto'; font-size: 14px; background-color: #EFEFEF ; margin: auto; padding: 15px; /*border: 0px solid #888;*/ width: 40%; box-shadow: -2px 8px 10px #c7c7c7; } #elm-main-content figure { display: flex; align-items: center; flex-direction: column; margin: 0; page-break-inside: avoid; margin-bottom: 0.3em !important; } .mt-video-widget:not(.cke_widget_element) { margin: 1rem auto !important; } .glmol{ text-align: left; } #copyResults img { width: 30px; height: 30px; object-fit: contain; } #LTform, #LTPreview { display: flex; flex-direction: column; } #LTFormContainer, .LTFormHeader, #LTFormFooter { display: flex; } #LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container { background: #f3f3f3; border-radius: 10px; overflow: auto; flex: 1; } #LTLeft, #LTRight, #LTPreviewForm, #LTTutorial { /*flex: 1;*/ align-items: stretch; height: 60vh; max-width: 45vw; overflow: hidden; width: 100%; background: #f3f3f3; border-radius: 10px; display: flex; flex-direction: column; } #LTLeft, #LTTutorial { border-radius: 0 0 10px 10px; } select.LTFormSubdomain { border-radius: 10px 10px 0 0; } #LTFormFooter { flex-direction: column; } .LTFormHeader { justify-content: flex-end; margin-top: 30px; background-color: #127bc4; padding: 10px; border-radius: 5px; color: white } ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 { } #LTFormContainer > div { flex: 1; display: flex; flex-direction: column; align-items: center; margin: 10px; max-width: 45vw; } .LTTitle { flex: 1; display: flex; align-items: center; } div#LTPreviewForm { max-width: unset; margin: 10px; width: auto; } div#LTLeftAlert, div#LTRightAlert { height: 30px; background-color: rgba(18, 122, 196, 0.61); width: inherit; z-index: 1; display: flex; align-items: center; justify-content: center; } select#LTFormSubdomain { border-radius: 10px 10px 0 0; } #mt-site-search-input { max-width: 40vw; } #getTOCLink { display: flex; justify-content: center; align-items: center; background-color: slategrey; color: white; width: fit-content; padding: 0 3px; } .annotator-frame.annotator-collapsed > div.annotator-bucket-bar { background: none; } .mobileOnly { display: none; } #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: auto; } #RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before { vertical-align: middle; } .elm-header-user-nav .mt-user-menu li.mt-user-quick-login { margin-left: 0; } .mt-user-menu { display: flex; justify-content: center; } li.elm-social-share a { height: unset; width: auto; margin: 0 2px 0 0; } #LTRight > ul > li { min-height: 100%; } .react-toggle { height: 24px; } .buttonsetForm > button:first-child { background: #525050; color: white; } /*Added to make a hyperlink position below the breadcrumb bar and is viewable */ /*#pageText > .mt-section > span:first-child { top: -50px; display: block; position: relative; }*/ .elm-header-notice.fixed { position: static; } .elm-fixed-header { position: static; } /* Dropdown Button */ .LTdropdown > .dropbtn { color: inherit; background-color: inherit; border: none; height: 100%; padding: 5px; display: flex; align-items: center; box-sizing: border-box; } .LTdropdown a:visited { color: inherit; } /* The container
+- needed to position the dropdown content */ .LTdropdown { position: relative; display: inline-block; margin-right: 2px; color: white; background: black; } /* Dropdown Content (Hidden by Default) */ .LTdropdown-content { color: inherit; display: none; position: absolute; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); background: inherit; z-index: 5; flex-direction: column; align-items: stretch; width: max-content; width: -moz-max-content; } /* Links inside the dropdown */ .LTdropdown > .LTdropdown-content a { color: inherit; background: inherit; padding: 12px 16px; text-decoration: none; display: block; width: initial; text-align: center; font-size: 12px; margin: 0; } /* Change color of dropdown links on hover */ .LTdropdown > .LTdropdown-content a:hover { filter: brightness(85%); transition-duration: 250ms; color: white; } .LTdropdown-content a:before { margin-right: 2px; } .LTdropdown-content a:not(:first-child) { border-top: 1px solid white; } /* Show the dropdown menu on hover */ .LTdropdown:hover .LTdropdown-content { display: flex; } /* Change the background color of the dropdown button when the dropdown content is shown */ .LTdropdown:hover .dropbtn { filter: brightness(85%); } nav.elm-header-user-nav > div.elm-nav-container > ol { display: flex; } nav.elm-header-user-nav > div.elm-nav-container > ol > li { display: flex; } li.elm-global-search { flex: 1 } #mt-site-search-input { width: auto; } .mt-breadcrumbs a span.nb-comment-highlight { font-size: unset; margin-right: unset; vertical-align: unset; } /* */ .mt-user-quick-login { display: none !important; } .mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right { display: none !important; } .mt-icon-quick-sign-in::before { color: #127BC4; } .sso-user:hover:after { content: " (Logout)"; font-family: inherit; font-style: italic; } .authenticated-sso.elm-header-user-nav { background-color: #0f67a6; } .authenticated-sso.elm-header-user-nav .mt-user-menu-user { background: #323232; border-radius: 5px; } .authenticated-sso.elm-header-user-nav .mt-user-menu > li > a { color: white; } /* */ /*Media Queries*/ @media (max-width: 600px) { .mobileOnly { display: block; } .mobileHide { display: none; } .LTBranding { flex-direction: column; } } @media (max-width: 875px) { #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: 1.95em; } } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } @media (max-width: 1001px) { #TOCbutton { width: 20px; justify-content: flex-start; } } /* @media (min-width: 83em) { article.elm-content-container { min-width: unset; } } */ /* @media (min-width: 37.5em){ .elm-header-user-nav { z-index: 1; } } */ .mt-content-container img { height: auto!important; object-fit: contain; } .mt-content-container .mt-sortable-listing-link img { height: 150px!important; } .mt-video-widget > p { text-align: center; } option[value="article:topic-portfolio"] { display: none; } option[value="article:howto"] { display: none; } option[value="article:reference"] { display: none; } .live-tag-link { white-space: normal; user-select: text; -webkit-user-drag: none; } span.mt-font-ma-shan-zheng{ font-family: 'Ma Shan Zheng'; } .cke_librebox .cke_combo_open { margin-left: 0; } .cke_librebox .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_librequery .cke_combo_open { margin-left: 0; } .cke_librequery .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_button_icon.cke_button__librequeryoptions_icon { background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important; background-position: 0px !important; background-size: 16px !important; } /** Heading 7 **/ .lt-heading-7 { text-align: left!important; font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif; color: #000; margin: 2rem 0 0.5rem; padding: 0; } @media (min-width: 37.5em) { .lt-heading-7 { font-size: 112.5% !important; } } @media (min-width: 18.75em) { .lt-heading-7 { font-size: 105.5% !important; } } /** AutoAttribution **/ #librelens-attribution-list li { font-size: 0.95rem !important; } /** Prevent overflow with large images in sections **/ section::after { content: ''; clear: both; display: block }/*]]>*/
+Skip to main content
+Table of Contents menu
+[Library homepage]
+search Search
+build_circle Toolbar
+fact_check Homework
+cancel Exit Reader Mode
+-   school Campus Bookshelves
+-   menu_book Bookshelves
+-   perm_media Learning Objects
+-   login Login
+-   how_to_reg Request Instructor Account
+-   hub Instructor Commons
+Search
+Search this book
+Submit Search
+x
+Text Color
+Reset
+ Bright
+ Blues
+ Gray
+ Inverted
+Text Size
+Reset
++
+-
+Margin Size
+Reset
++
+-
+Font Type
+Enable Dyslexic Font  
+-   Downloads expand_more
+    -   Download Page (PDF)
+    -   Download Full Book (PDF)
+-   Resources expand_more
+    -   Periodic Table
+    -   Physics Constants
+    -   Scientific Calculator
+-   Reference expand_more
+    -   Reference & Cite
+-   Tools expand_more
+-   Help expand_more
+    -   Get Help
+    -   Feedback
+    -   Readability
+x
+selected template will load here
+Error
+This action is not available.
+[Library homepage]
+chrome_reader_mode Enter Reader Mode
+1: HOW TO PREPARE FOR AN ORGANIC CHEMISTRY EXPERIMENT
+Book: How to be a Successful Organic Chemist (Sandtorv)
+{ }
+{ "1.01:_READING_DRAWING_AND_UNDERSTANDING_THE_POWER_OF_VISUALIZATION" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "1.02:__SAFETY_IS_KEY-_HOW_TO_FIND_RELEVANT_SAFETY_INFORMATION_AND_READ_SAFETY_DATA_SHEETS" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "1.03:_A_SPECIFIC_SDS" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "1.04:_THE_NOTEBOOK__MAKING_SURE_THE_NUMBERS_ADD_UP" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "01:_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "02:_COMMON_ORGANIC_CHEMISTRY_LABORATORY_TECHNIQUES" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "03:_GETTING_YOUR_HANDS_DIRTY_-_CHEMICAL_HANDLING_WASHING_WASTE_AND_SAFETY" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "04:_HOW_TO_SURVIVE_AN_ORGANIC_CHEMISTRY_EXPERIMENT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "05:_HOW_TO_INTERPRET_YOUR_RESULTS" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "06:_HOW_TO_WRITE_A_REPORT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+Sun, 20 Jun 2021 06:46:36 GMT
+1.4: THE NOTEBOOK – MAKING SURE THE NUMBERS ADD UP
+135938
+135938
+Vanessa Santos
+{ }
+Anonymous
+Anonymous User
+2
+false
+false
+[ "article:topic", "showtoc:no", "license:ccbync", "authorname:asandtorv", "licenseversion:40", "source@https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1021&context=pdxopen" ]
+[ "article:topic", "showtoc:no", "license:ccbync", "authorname:asandtorv", "licenseversion:40", "source@https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1021&context=pdxopen" ]
+https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FBook%253A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)%2F01%253A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT%2F1.04%253A_THE_NOTEBOOK__MAKING_SURE_THE_NUMBERS_ADD_UP
+[Chemistry LibreTexts]
+1.  Search site
+    Search
+    Search
+    Go back to previous article
+2.  1.  Username
+        Password
+        Sign in
+    2.  Sign in
+        -   Sign in
+        -   Forgot password
+Expand/collapse global hierarchy
+1.   Home
+2.   Bookshelves
+3.   Organic Chemistry
+4.   Book: How to be a Successful Organic Chemist (Sandtorv)
+5.   1: HOW TO PREPARE FOR AN ORGANIC CHEMISTRY EXPERIMENT
+6.   1.4: THE NOTEBOOK – MAKING SURE THE NUMBERS ADD UP
+Expand/collapse global location
+1.4: THE NOTEBOOK – MAKING SURE THE NUMBERS ADD UP
+1.  
+    Last updated
+2.  Save as PDF
+3.  
+Page ID
+    135938
+-   [ ]
+-   Alexander Sandtorv
+-   University of Oslo via PDX Open publishing initiative
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+\( \newcommand{\dint}{\displaystyle\int\limits} \)
+\( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\(\newcommand{\longvect}{\overrightarrow}\)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\(\newcommand{\ket}[1]{\left| #1 \right>}\)
+\(\newcommand{\bra}[1]{\left< #1 \right|}\)
+\(\newcommand{\braket}[2]{\left< #1 \vphantom{#2} \right| \left. #2 \vphantom{#1} \right>}\)
+\(\newcommand{\braopket}[3]{\left< #1 \vphantom{#2}\vphantom{#3} \right| #2 \vphantom{#1}\vphantom{#3} \left| #3 \vphantom{#1}\vphantom{#2} \right>}\)
+\(\newcommand{\qmvec}[1]{\mathbf{\vec{#1}}}\)
+\(\newcommand{\op}[1]{\hat{\mathbf{#1}}}\)
+\(\newcommand{\expect}[1]{\langle #1 \rangle}\)
+\(\newcommand{\dfn}[1]{\emph{\textbf{#1}}}\)
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\) \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)
+No headers
+At PSU, it is required to use and keep a notebook. This notebook will be used both in the preparation of the experiment, and during the experiment itself. We will focus on how to use the notebook in the prepara- tion phase of an experiment. In chapter 4.4 we will discuss the use of the notebook during the experiment.
+When stepping into the lab, your notebook should contain the following:
+1.  A title and a balanced reaction scheme, if a synthesis is planned. If not, the relevant chemical structures of the compounds of interest should be shown.
+2.  A flow-diagram that outlines the experiment, where you have included the most relevant information.
+3.  A table or overview that shows all chemicals handled, and their risk and hazard statements.
+4.  A synthesis table that shows the quantities of the reagents/reactants that you plan to use, with room to fill in the quantities you actually used.
+5.  A table that shows the properties of the reagents/reactants and reaction solvents used in the procedure.
+The synthesis table should contain the most important physical properties of the reactant(s), reagent(s) and product(s). This table should contain the quantities you should measure, [A reaction scheme of benzaldehyde as the reactant turning into benzyl alcohol with NaBH4 as the reagent and methanol as the solvent.]with room to add your actual measurements. This format allows you to order all the necessary measurements in the same place. An example is shown in table 2. There are many exam- ples where this information is important in lab. If you for example measure 0.4 mL of benzaldehyde, instead of the 0.3 mL the procedure called for, you need to scale the procedure up. That means that the amount of NaBH₄ also must be changed. For this process, you need the density of benzaldehyde, the molecular weight of benzaldehyde to find the moles, and the molecular weight of NaBH₄.
+Table 2. Example of a synthesis table for reagent(s), reactant(s) and product(s)
++----------------+------------+----------+------------+-------------+--------------+------------+
+| Compound       | Mw [g/mol] | d [g/mL] | V [mL]     | m [g]       | moles [mmol] | Y ield [%] |
++----------------+------------+----------+------------+-------------+--------------+------------+
+| Benzaldehyde   | 106.7      | 1.044    | 0.30 _____ | 0.31 _____  | 2.9 _____    | -          |
+|                |            |          |            |             |              |            |
+| NaBH₄          | 37.8       | -        | -          | 0.15 _____  | 3.9 _____    | -          |
+|                |            |          |            |             |              |            |
+| Benzyl alcohol | 108.1      | 1.044    | -          | 0.21* _____ | 1.9*_____    | 65.6*_____ |
++----------------+------------+----------+------------+-------------+--------------+------------+
+* The values for benzyl alcohol is based on the procedure, that states that a yield of 65.6% is expected.
+The table for physical properties is used not only for the reagent(s), reactant(s) and product(s), but also reaction solvent, work-up chemicals and others. This table is very handy in the lab, as the physical properties of the chemicals play a large part in the work-up of any reaction.
+Table 3. Example of a table for physical data
++----------------+-----------+--------------------+--------------+--------------------------------+-----------------------------+
+| Compound       | State     | Boiling point [°C] | d [g/mL]     | Solubility in water [g/100 mL] | Solubility in diethyl ether |
++----------------+-----------+--------------------+--------------+--------------------------------+-----------------------------+
+| Benzaldehyde   | Liquid    | 178                | 1.044        | 0.3                            | Soluble                     |
+|                |           |                    |              |                                |                             |
+| NaBH₄          | Solid     | -                  | Not relevant | Decomposes                     | Non soluble                 |
+|                |           |                    |              |                                |                             |
+| Benzyl alcohol | Liquid    | 205                | 1.044        | 3.50                           | Soluble                     |
+|                |           |                    |              |                                |                             |
+| Diethyl ether  | Liquid    | 36                 | 0.71         | 6.05                           | -                           |
+|                |           |                    |              |                                |                             |
+| Methanol       | Liquid    | 65                 | 0.79         | Soluble                        | Soluble                     |
++----------------+-----------+--------------------+--------------+--------------------------------+-----------------------------+
+------------------------------------------------------------------------źródło: https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/06%3A_HOW_TO_WRITE_A_REPORT/6.01%3A_THE_BASICS
+data: 2026-11-03
+tytuł: 6.1: THE BASICS - Chemistry LibreTexts
+licencja (stopka): ['CC BY-NC  4.0']  tagi: ['license:ccbync', 'licenseversion:40']
+podstrony: []
+
+mt-content-container p { color: white; } .darkMode .mt-content-container .boxexample, .darkMode .mt-content-container .boxexercise, .darkMode .mt-content-container .boxlemma, .darkMode .mt-content-container .boxnotation, .darkMode .mt-content-container .boxnotewithlegend, .darkMode .mt-content-container .boxnotewithoutlegend, .darkMode .mt-content-container .boxprocedure, .darkMode .mt-content-container .boxproposition, .darkMode .mt-content-container .boxquery, .darkMode .mt-content-container .boxtheorem, .darkMode .mt-content-container .boxobjectives, .darkMode .mt-content-container .box-example, .darkMode .mt-content-container .box-exercise, .darkMode .mt-content-container .box-lemma, .darkMode .mt-content-container .box-notation, .darkMode .mt-content-container .box-warning, .darkMode .mt-content-container .box-note, .darkMode .mt-content-container .box-notewithlegend, .darkMode .mt-content-container .box-notewithoutlegend, .darkMode .mt-content-container .box-procedure, .darkMode .mt-content-container .box-proposition, .darkMode .mt-content-container .box-query, .darkMode .mt-content-container .box-theorem, .darkMode .mt-content-container .box-objectives { background: #f0f5ff24; box-shadow: 3px 3px 4px #00000085; } .darkMode p.boxtitle { color:white; } .darkMode th { background:#00629a; } .darkMode tr, .darkMode tr td { background:none; } .darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td { background:#555555; } .optimize { display: flex; flex-wrap: wrap; } /* Hide header if in iframe*/ .contentOnly .elm-header, .contentOnly .elm-meta-icons, .contentOnly div.annotator-frame, .adaptView .elm-footer, /*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */ .adaptView article#elm-main-content > header, .contentOnly hypothesis-sidebar, .contentOnly #custom_open, .contentOnly .sbHeader { display:none; } .sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] { background-color: transparent !important; } .contentOnly #mt-summary { display:none!important; } /* Hide most supporting content when in embed mode */ .embedView .elm-header, .embedView .elm-meta-icons, .embedView div.annotator-frame, .embedView .elm-footer, .embedView article#elm-main-content > *:not(:first-child, .mt-content-container), .embedView hypothesis-sidebar, .embedView #custom_open, .embedView #libretexts-ai-assistant, .embedView #mt-summary, .embedView #backButton, .embedView #nextButton, /* hide first button that appears in librelens attribution list */ .embedView #librelens-attribution-list > button:first-of-type, .embedView .elm-content-footer, .embedView .sbHeader { display:none!important; } /* Hide everything except the first child that is or contains .pageInfo */ .embedView .elm-meta-data > *:not(.pageInfo):not(:has(.pageInfo)), .embedView .elm-meta-data > :is(.pageInfo, :has(.pageInfo)) ~ :is(.pageInfo, :has(.pageInfo)) { display: none !important; } /* Move the remaining .elm-meta-data content to right and "up" (bring in line with title) */ .embedView .elm-meta-data { display: flex; justify-content: end; margin-top: -35px; } .embedView #title { border-bottom: none !important; } iframe.imathas_problem, iframe.webwork_problem { border: none; width: 100%; } /*GeoGebra fix*/ article.elm-content-container, section.mt-content-container { height: auto !important; width: auto !important; } .elm-meta-top .mt-article-pagination a { width: auto; color: #30b3f6; } .elm-meta-top .mt-article-pagination a:hover { color: #b4b4b4; } .elm-meta-top .elm-article-pagination { float: unset; } #elm-main-content ol.elm-meta-data .elm-social-share { margin: 0; } #MathJax_Zoom { color: black; } #donate { background-color: green; color: white; display: flex; padding: 5px; align-items: center; } #donate:hover { background-color: #005E00; } .youtubeImageContainer { position: relative; } a.notSS { width: auto; height: auto; margin-top: 0; } .toc-button.mt-icon-hierarchy-trigger-closed:before { content: "\e8a6"; font-size: 150%; } span.fancytree-icon:before { content: "\e8aa"; } .mt-icon-hierarchy-trigger-open:before { font-size: 150%; } span.fancytree-has-children > span.fancytree-icon:before { content: "\e8b3"; } span.fancytree-title > a { color: #666; } span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon { color: #1a9003; } .toc-hierarchy > div { display: none; } .toc-hierarchy h6 { margin-top: 0; color: #137ac3 } .pageInfo { float: left; margin: 0 1em 0 0; } .cc { color: black; } .glossarizer_replaced { border-bottom: 1px #333 dotted; } #pageTagsHolder { display: none; } #batchPrint { display: flex; align-items: stretch; justify-content: center; } #TOCbutton { margin: 2px; display: flex; line-height: 2.4; justify-content: center; align-items: center; color: #127bc4; font-size: 100%; height: 100%; } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } div.propagatorLoader { display: flex; margin: 10px; justify-content: center; } .loaderStatus { /* flex: 1; */ justify-content: center; text-align: center; } /* Modal Foundation*/ #warningModal { position: fixed ; left: 0px; top: 0px; bottom:0px; right:0px; margin:0px; display: none; /* Hidden by default */ z-index: 10000; padding-top: 0px; /* Location of the box */ width: 100%; /* Full width */ height: 100%; /* Full height */ overflow: auto; /* Enable scroll if needed */ background-color: rgb(0,0,0); /* Fallback color */ background-color: rgb(0,0,0,0);/* Black w/ opacity */ } /* Modal Content */ #warningModalSlide { font-family: 'Roboto'; font-size: 14px; background-color: #EFEFEF ; margin: auto; padding: 15px; /*border: 0px solid #888;*/ width: 40%; box-shadow: -2px 8px 10px #c7c7c7; } #elm-main-content figure { display: flex; align-items: center; flex-direction: column; margin: 0; page-break-inside: avoid; margin-bottom: 0.3em !important; } .mt-video-widget:not(.cke_widget_element) { margin: 1rem auto !important; } .glmol{ text-align: left; } #copyResults img { width: 30px; height: 30px; object-fit: contain; } #LTform, #LTPreview { display: flex; flex-direction: column; } #LTFormContainer, .LTFormHeader, #LTFormFooter { display: flex; } #LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container { background: #f3f3f3; border-radius: 10px; overflow: auto; flex: 1; } #LTLeft, #LTRight, #LTPreviewForm, #LTTutorial { /*flex: 1;*/ align-items: stretch; height: 60vh; max-width: 45vw; overflow: hidden; width: 100%; background: #f3f3f3; border-radius: 10px; display: flex; flex-direction: column; } #LTLeft, #LTTutorial { border-radius: 0 0 10px 10px; } select.LTFormSubdomain { border-radius: 10px 10px 0 0; } #LTFormFooter { flex-direction: column; } .LTFormHeader { justify-content: flex-end; margin-top: 30px; background-color: #127bc4; padding: 10px; border-radius: 5px; color: white } ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 { } #LTFormContainer > div { flex: 1; display: flex; flex-direction: column; align-items: center; margin: 10px; max-width: 45vw; } .LTTitle { flex: 1; display: flex; align-items: center; } div#LTPreviewForm { max-width: unset; margin: 10px; width: auto; } div#LTLeftAlert, div#LTRightAlert { height: 30px; background-color: rgba(18, 122, 196, 0.61); width: inherit; z-index: 1; display: flex; align-items: center; justify-content: center; } select#LTFormSubdomain { border-radius: 10px 10px 0 0; } #mt-site-search-input { max-width: 40vw; } #getTOCLink { display: flex; justify-content: center; align-items: center; background-color: slategrey; color: white; width: fit-content; padding: 0 3px; } .annotator-frame.annotator-collapsed > div.annotator-bucket-bar { background: none; } .mobileOnly { display: none; } #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: auto; } #RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before { vertical-align: middle; } .elm-header-user-nav .mt-user-menu li.mt-user-quick-login { margin-left: 0; } .mt-user-menu { display: flex; justify-content: center; } li.elm-social-share a { height: unset; width: auto; margin: 0 2px 0 0; } #LTRight > ul > li { min-height: 100%; } .react-toggle { height: 24px; } .buttonsetForm > button:first-child { background: #525050; color: white; } /*Added to make a hyperlink position below the breadcrumb bar and is viewable */ /*#pageText > .mt-section > span:first-child { top: -50px; display: block; position: relative; }*/ .elm-header-notice.fixed { position: static; } .elm-fixed-header { position: static; } /* Dropdown Button */ .LTdropdown > .dropbtn { color: inherit; background-color: inherit; border: none; height: 100%; padding: 5px; display: flex; align-items: center; box-sizing: border-box; } .LTdropdown a:visited { color: inherit; } /* The container
+- needed to position the dropdown content */ .LTdropdown { position: relative; display: inline-block; margin-right: 2px; color: white; background: black; } /* Dropdown Content (Hidden by Default) */ .LTdropdown-content { color: inherit; display: none; position: absolute; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); background: inherit; z-index: 5; flex-direction: column; align-items: stretch; width: max-content; width: -moz-max-content; } /* Links inside the dropdown */ .LTdropdown > .LTdropdown-content a { color: inherit; background: inherit; padding: 12px 16px; text-decoration: none; display: block; width: initial; text-align: center; font-size: 12px; margin: 0; } /* Change color of dropdown links on hover */ .LTdropdown > .LTdropdown-content a:hover { filter: brightness(85%); transition-duration: 250ms; color: white; } .LTdropdown-content a:before { margin-right: 2px; } .LTdropdown-content a:not(:first-child) { border-top: 1px solid white; } /* Show the dropdown menu on hover */ .LTdropdown:hover .LTdropdown-content { display: flex; } /* Change the background color of the dropdown button when the dropdown content is shown */ .LTdropdown:hover .dropbtn { filter: brightness(85%); } nav.elm-header-user-nav > div.elm-nav-container > ol { display: flex; } nav.elm-header-user-nav > div.elm-nav-container > ol > li { display: flex; } li.elm-global-search { flex: 1 } #mt-site-search-input { width: auto; } .mt-breadcrumbs a span.nb-comment-highlight { font-size: unset; margin-right: unset; vertical-align: unset; } /* */ .mt-user-quick-login { display: none !important; } .mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right { display: none !important; } .mt-icon-quick-sign-in::before { color: #127BC4; } .sso-user:hover:after { content: " (Logout)"; font-family: inherit; font-style: italic; } .authenticated-sso.elm-header-user-nav { background-color: #0f67a6; } .authenticated-sso.elm-header-user-nav .mt-user-menu-user { background: #323232; border-radius: 5px; } .authenticated-sso.elm-header-user-nav .mt-user-menu > li > a { color: white; } /* */ /*Media Queries*/ @media (max-width: 600px) { .mobileOnly { display: block; } .mobileHide { display: none; } .LTBranding { flex-direction: column; } } @media (max-width: 875px) { #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: 1.95em; } } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } @media (max-width: 1001px) { #TOCbutton { width: 20px; justify-content: flex-start; } } /* @media (min-width: 83em) { article.elm-content-container { min-width: unset; } } */ /* @media (min-width: 37.5em){ .elm-header-user-nav { z-index: 1; } } */ .mt-content-container img { height: auto!important; object-fit: contain; } .mt-content-container .mt-sortable-listing-link img { height: 150px!important; } .mt-video-widget > p { text-align: center; } option[value="article:topic-portfolio"] { display: none; } option[value="article:howto"] { display: none; } option[value="article:reference"] { display: none; } .live-tag-link { white-space: normal; user-select: text; -webkit-user-drag: none; } span.mt-font-ma-shan-zheng{ font-family: 'Ma Shan Zheng'; } .cke_librebox .cke_combo_open { margin-left: 0; } .cke_librebox .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_librequery .cke_combo_open { margin-left: 0; } .cke_librequery .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_button_icon.cke_button__librequeryoptions_icon { background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important; background-position: 0px !important; background-size: 16px !important; } /** Heading 7 **/ .lt-heading-7 { text-align: left!important; font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif; color: #000; margin: 2rem 0 0.5rem; padding: 0; } @media (min-width: 37.5em) { .lt-heading-7 { font-size: 112.5% !important; } } @media (min-width: 18.75em) { .lt-heading-7 { font-size: 105.5% !important; } } /** AutoAttribution **/ #librelens-attribution-list li { font-size: 0.95rem !important; } /** Prevent overflow with large images in sections **/ section::after { content: ''; clear: both; display: block }/*]]>*/
+Skip to main content
+Table of Contents menu
+[Library homepage]
+search Search
+build_circle Toolbar
+fact_check Homework
+cancel Exit Reader Mode
+-   school Campus Bookshelves
+-   menu_book Bookshelves
+-   perm_media Learning Objects
+-   login Login
+-   how_to_reg Request Instructor Account
+-   hub Instructor Commons
+Search
+Search this book
+Submit Search
+x
+Text Color
+Reset
+ Bright
+ Blues
+ Gray
+ Inverted
+Text Size
+Reset
++
+-
+Margin Size
+Reset
++
+-
+Font Type
+Enable Dyslexic Font  
+-   Downloads expand_more
+    -   Download Page (PDF)
+    -   Download Full Book (PDF)
+-   Resources expand_more
+    -   Periodic Table
+    -   Physics Constants
+    -   Scientific Calculator
+-   Reference expand_more
+    -   Reference & Cite
+-   Tools expand_more
+-   Help expand_more
+    -   Get Help
+    -   Feedback
+    -   Readability
+x
+selected template will load here
+Error
+This action is not available.
+[Library homepage]
+chrome_reader_mode Enter Reader Mode
+6: HOW TO WRITE A REPORT
+Book: How to be a Successful Organic Chemist (Sandtorv)
+{ }
+{ "6.01:_THE_BASICS" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.02:_THE_WHY-_THE_REASONS_FOR_DOING_THE_EXPERIMENT." : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.03:_THE_HOW-_HOW_WAS_THE_EXPERIMENT_PERFORMED" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.04:__THE_WHAT-_WHAT_WERE_THE_MAJOR_FINDINGS_OF_THE_EXPERIMENT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "01:_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "02:_COMMON_ORGANIC_CHEMISTRY_LABORATORY_TECHNIQUES" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "03:_GETTING_YOUR_HANDS_DIRTY_-_CHEMICAL_HANDLING_WASHING_WASTE_AND_SAFETY" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "04:_HOW_TO_SURVIVE_AN_ORGANIC_CHEMISTRY_EXPERIMENT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "05:_HOW_TO_INTERPRET_YOUR_RESULTS" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "06:_HOW_TO_WRITE_A_REPORT" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+Fri, 05 Mar 2021 15:17:40 GMT
+6.1: THE BASICS
+135970
+135970
+admin
+{ }
+Anonymous
+Anonymous User
+2
+false
+false
+[ "article:topic", "showtoc:no", "license:ccbync", "authorname:asandtorv", "licenseversion:40", "source@https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1021&context=pdxopen" ]
+[ "article:topic", "showtoc:no", "license:ccbync", "authorname:asandtorv", "licenseversion:40", "source@https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1021&context=pdxopen" ]
+https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FBook%253A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)%2F06%253A_HOW_TO_WRITE_A_REPORT%2F6.01%253A_THE_BASICS
+[Chemistry LibreTexts]
+1.  Search site
+    Search
+    Search
+    Go back to previous article
+2.  1.  Username
+        Password
+        Sign in
+    2.  Sign in
+        -   Sign in
+        -   Forgot password
+Expand/collapse global hierarchy
+1.   Home
+2.   Bookshelves
+3.   Organic Chemistry
+4.   Book: How to be a Successful Organic Chemist (Sandtorv)
+5.   6: HOW TO WRITE A REPORT
+6.   6.1: THE BASICS
+Expand/collapse global location
+6.1: THE BASICS
+1.  
+    Last updated
+2.  Save as PDF
+3.  
+Page ID
+    135970
+-   [ ]
+-   Alexander Sandtorv
+-   University of Oslo via PDX Open publishing initiative
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+\( \newcommand{\dint}{\displaystyle\int\limits} \)
+\( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\(\newcommand{\longvect}{\overrightarrow}\)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\(\newcommand{\ket}[1]{\left| #1 \right>}\)
+\(\newcommand{\bra}[1]{\left< #1 \right|}\)
+\(\newcommand{\braket}[2]{\left< #1 \vphantom{#2} \right| \left. #2 \vphantom{#1} \right>}\)
+\(\newcommand{\braopket}[3]{\left< #1 \vphantom{#2}\vphantom{#3} \right| #2 \vphantom{#1}\vphantom{#3} \left| #3 \vphantom{#1}\vphantom{#2} \right>}\)
+\(\newcommand{\qmvec}[1]{\mathbf{\vec{#1}}}\)
+\(\newcommand{\op}[1]{\hat{\mathbf{#1}}}\)
+\(\newcommand{\expect}[1]{\langle #1 \rangle}\)
+\(\newcommand{\dfn}[1]{\emph{\textbf{#1}}}\)
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\) \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)
+No headers
+Different lab courses¹⁴ will have different report requirements, but the organic chemistry reports at PSU are based on the framework followed in most scientific research articles. These are typically divided into three parts:
+1.  The why: gives the information necessary to contextualize the experiment, states the goal of the experiment.
+2.  The how: gives information about how the experiment was performed
+3.  The what: provides relevant data and interpretation as it relates the goal of the experiment
+Below is a table showing the different pieces that need to be included in your lab reports.
+Table 1. Key goals of a report
+  #   Section   Name              Key goals of section
+  --- --------- ----------------- ---------------------------------------------------------------------------------------------------------------------
+  1   Why       Title             A short title of the experiment.
+  2   Why       Purpose of        The main goal and purpose of the experiment.
+  3   How       Reaction scheme   The reaction scheme for the transformation attempted.
+  4   How       Procedure         A description of the procedure is provided so that a professional can reproduce your experiment.
+  5   What      Data              The key data obtained are presented, usually in tabulated form.
+  6   What      Discussion        The results and findings from #5 are discussed, and the outcome of the experiment as it pertains to #2 is explained
+  7   What      Conclusion        A conclusion is stated, based on the results.
+  8   What      References        Relevant references are provided.
+As the table shows, each section serves a distinct purpose and function. We will now look at each section in detail, and focus on the general goals of each, followed by things to watch out for, and common mistakes. The section numbers #1-8 follow the sections used in the report forms at PSU.
+------------------------------------------------------------------------
+14 Different scientific disciplines, and even sub-disciplines, have different reporting requirements, different ways of pre- senting information, and different ways of using technical language.
+------------------------------------------------------------------------
+------------------------------------------------------------------------

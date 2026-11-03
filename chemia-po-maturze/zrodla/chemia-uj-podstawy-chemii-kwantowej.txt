@@ -1,0 +1,225 @@
+adres: https://sylabus.uj.edu.pl/pl/document/dd606cf4-11e7-4ee4-970b-9ad88f95990b.pdf
+uczelnia: Uniwersytet Jagielloński
+kierunek: chemia
+przedmiot lub dokument: Podstawy chemii kwantowej (WCh-CL-O204-19)
+rok akademicki: 2024/25 (cykl)
+data odczytu: 2026-11-03
+
+                                  Podstawy chemii kwantowej
+                                         Karta opisu przedmiotu
+                                        Informacje podstawowe
+ Kierunek studiów                                     Cykl kształcenia
+ Chemia                                               2024/25
+ Ścieżka                                              Rok realizacji
+ -                                                    2025/26
+ Jednostka organizacyjna                              Kod przedmiotu
+ Wydział Chemii                                       UJ.WChCHES.18.14101.24
+ Poziom kształcenia                                   Języki wykładowe
+ pierwszego stopnia                                   polski, angielski
+ Forma studiów                                        Przedmiot powiązany z badaniami naukowymi
+ studia stacjonarne                                   Tak
+ Proﬁl studiów                                        Dyscypliny
+ ogólnoakademicki                                     Nauki chemiczne
+ Obligatoryjność                                      Klasyﬁkacja ISCED
+ obowiązkowy                                          0531 Chemia
+                                                      Kod USOS
+                                                      WCh-CL-O204-12
+ Koordynator                Artur Michalak
+ przedmiotu
+ Prowadzący zajęcia         Artur Michalak
+Okres                       Forma weryﬁkacji uzyskanych efektów uczenia się             Liczba
+Semestr 4                   egzamin                                                     punktów ECTS
+                                                                                        5.0
+                            Forma prowadzenia i godziny zajęć
+                            wykład: 30
+                            konwersatorium: 30
+Wygenerowano: 2026-11-03 19:05                                                                    1/6
+                                     Cele kształcenia dla przedmiotu
+        Celem przedmiotu jest zaznajomienie słuchaczy z podstawami chemi kwantowej, w tym standardowymi
+        metodami obliczeniowymi chemii kwantowej, podstawowymi przybliżeniami na których te metody są oparte oraz
+C1
+        nabycie praktycznej umiejętności związanych z wykonywaniem obliczeń kwantowo-chemicznych i interpretacją
+        uzyskanych wyników.
+                                   Efekty uczenia się dla przedmiotu
+                                                                     Kierunkowe efekty
+Kod         Efekty w zakresie                                                             Metody weryﬁkacji
+                                                                     uczenia się
+Wiedzy – Student zna i rozumie:
+W1          dysponuje wiedzą z zakresu podstaw mechaniki             CHE_K1_W02           egzamin pisemny,
+            kwantowej (geneza i postulaty mechaniki kwantowej;                            egzamin ustny,
+            proste układy modelowe: cząstka swobodna, cząstka                             zaliczenie
+            w pudle potencjału, bariera potencjału i tunelowanie;
+            rotator sztywny, atom wodoru) umożliwiającą
+            rozumienie zasadniczych różnic w opisie klasycznym
+            i kwantowym oraz rozumienie zjawisk i procesów
+            ﬁzycznych na poziomie mikroskopowym
+W2          dysponuje wiedzą z zakresu podstawowych przybliżeń       CHE_K1_W02,          egzamin pisemny,
+            i metod obliczeniowych chemii kwantowej                  CHE_K1_W03           egzamin ustny,
+            (przybliżenie Borna-Oppenheimera, zasada wariacyjna                           zaliczenie
+            i metody wariacyjne; przybliżenie orbitalne, metoda
+            HF, SCF LCAO MO, podstawowe idee metod DFT) oraz
+            podstawowych zasad używania oprogramowania
+            do obliczeń kwantowochemicznych (typowe dane
+            i wyniki obliczeń kwantowochemicznych, bazy
+            funkcyjne w obliczeniach ab initio, praktyczne aspekty
+            optymalizacji geometrii, opisu struktury elektronowej
+            i reaktywności układów molekularnych)
+W3          dysponuje podstawową wiedzą pozwalającą                  CHE_K1_W01           egzamin pisemny,
+            na posługiwanie się metodami matematycznymi                                   egzamin ustny,
+            w zastosowaniu do podstaw mechaniki kwantowej                                 zaliczenie
+            i podstaw chemii kwantowej
+W4          dysponuje wiedzą z zakresu podstaw chemii                CHE_K1_W05,          egzamin pisemny,
+            kwantowej pozwalającą na posługiwanie się                CHE_K1_W06           egzamin ustny,
+            podstawową terminologią stosowaną w chemii                                    zaliczenie
+            kwantowej
+W5          dysponuje wiedzą z zakresu podstaw chemii                CHE_K1_W06           egzamin pisemny,
+            kwantowej pozwalającą na wykorzystane                                         egzamin ustny,
+            podstawowych metod kwantowochemicznych do opisu                               zaliczenie
+            właściwości, struktury i reaktywności układów
+            chemicznych
+W6          dysponuje wiedzą z zakresu podstaw chemii                CHE_K1_W09           egzamin pisemny,
+            kwantowej pozwalajaca na interpretację                                        egzamin ustny,
+            i dokonywanie opisu procesów i właściwości                                    zaliczenie
+            ﬁzykochemicznych na poziomie molekularnym
+W7          dysponuje wiedzą z zakresu podstaw chemii                CHE_K1_W10           egzamin pisemny,
+            kwantowej pozwalającą na stosowanie podstawowych                              egzamin ustny,
+            technik i narzędzi badawczych właściwych dla chemii                           zaliczenie
+            kwantowej
+Umiejętności – Student potraﬁ:
+Wygenerowano: 2026-11-03 19:05                                                                                2/6
+                                                                    Kierunkowe efekty
+ Kod         Efekty w zakresie                                                               Metody weryﬁkacji
+                                                                    uczenia się
+ U1          potraﬁ na poziomie podstawowym poslugiwać się          CHE_K1_U01               egzamin pisemny,
+             metodami matematycznymi w mechanice kwantowej                                   egzamin ustny,
+             i chemii kwantowej; posiada umiejętność                                         zaliczenie
+             matematycznego opisu oraz zdolność abstrakcyjnego
+             rozumienia podstaw chemii kwantowej; potraﬁ
+             właściwie interpretować postulaty mechaniki
+             kwantowej i wyciągać z nich wnioski pozwalające
+             na ich zastosowanie w opisie prostych układow
+             modelowych; potraﬁ interpretować rozwiązania
+             równania Schrodingera dla prostych ukladow
+             modelowych oraz porównać opis klasyczny
+             i kwantowy; potraﬁ omowić sens ﬁzyczny i głowne
+             idee podstawowych przybliżeń leżących u podstaw
+             metod obliczeniowych chemii kwantowej
+ U2          potraﬁ odnieść nabytą wiedzę z zakresu podstaw         CHE_K1_U11               egzamin ustny,
+             mechaniki kwantowej i chemii kwantowej                                          zaliczenie
+             do opanowanej wiedzy z zakresu ﬁzyki, podstaw
+             chemii ﬁzycznej, chemii nieorganicznej i organicznej
+ U3          rozumie konieczność podnoszenia kompetencji            CHE_K1_U16               egzamin ustny,
+             zawodowych w kontekście zmian podstawowych teorii                               zaliczenie
+             ﬁzycznych wraz z rozwojem nauki, a także zmian
+             metod obliczeniowych chemii kwantowej oraz
+             wykorzystywanego oprogramowania, związanych
+             z szybkim rozwojem informatyki i szybkim wzrostem
+             mocy obliczeniowych komputerów
+ Kompetencji społecznych – Student jest gotów do:
+ K1          dba o jakość i staranność wykonywanych zadań, m.in.    CHE_K1_K02               egzamin ustny,
+             o precyzję sformułowań oraz przejrzystość i porządek                            zaliczenie
+             logiczny przedstawianych rozwiązań zadań
+             i problemów oraz przedstawianego formalizmu
+             i rozważań teoretycznych
+                                              Bilans punktów ECTS
+                                                              Średnia liczba godzin* przeznaczonych
+ Forma aktywności studenta
+                                                              na zrealizowane rodzaje zajęć
+ wykład                                                                                 30
+ konwersatorium                                                                         30
+ przygotowanie do ćwiczeń                                                               30
+ przygotowanie do egzaminu                                                              33
+ uczestnictwo w egzaminie                                                               2
+                                                                    Liczba godzin                     ECTS
+ Łączny nakład pracy studenta
+                                                                         125                           5.0
+* godzina (lekcyjna) oznacza 45 minut
+Wygenerowano: 2026-11-03 19:05                                                                                   3/6
+                                              Treści programowe
+                                                                                             Efekty uczenia się dla
+ Lp.         Treści programowe
+                                                                                             przedmiotu
+ 1.          Postulaty mechaniki kwantowej; układy modelowe: cząstka w pudle, oscylator       W1, W2, W3, W4, W5,
+             harmoniczny, rotator sztywny; atom wodoru i kation H2+; przybliżone metody       W6, W7, U1, U2, U3, K1
+             rozwiązywania równania Schrödingera: metoda wariacyjna; przybliżenie Borna-
+             Oppenheimera, metoda LCAO MO, elementy teorii grup, przybliżenie
+             jednoelektronowe, metoda Hartree-Focka i jej analityczne sformułowanie, źródła
+             błędów metody HF, struktura elektronowa atomów wieloelektronowych i molekuł
+             dwuatomowych; orbitale atomowe, molekularne, orbitale kanoniczne,
+             zlokalizowane, naturalne, hybrydyzacja, potencjał jonizacji, twierdzenie
+             Koopmansa, bazy funkcyjne w metodach ab initio, metody półempiryczne, energia
+             korelacji metody post-HF i DFT – podstawowe idee, dokładność obliczeń
+             kwantowo-chemicznych, optymalizacja geometrii, hiperpowierzchnia energii
+             potencjalnej, punkty stacjonarne, reakcje chemiczne: termodynamika (energia
+             oddziaływania) i kinetyka (energia aktywacji), kryteria reaktywności chemicznej:
+             potencjał elektrostatyczny, analizy populacyjne, indeksy rzędów wiązań , teoria
+             orbitali granicznych, elektroujemność, twardość, funkcja Fuku’ego, reguły
+             Woodwarda-Hoﬀmanna, kanoniczny zespół statystyczny i jego wykorzystanie do
+             obliczania funkcji termodynamicznych.
+                                           Informacje rozszerzone
+Metody nauczania :
+rozwiązywanie zadań, dyskusja, wykład z prezentacją multimedialną, wykład konwersatoryjny
+ Rodzaj zajęć              Formy zaliczenia         Warunki zaliczenia przedmiotu
+ wykład                    egzamin pisemny,         egzamin pisemny (waga 90%) + egzamin ustny (waga 10%); do
+                           egzamin ustny            egzaminu pisemnego (test wyboru) dopuszczone są osoby, które
+                                                    uzyskały zaliczenie z konwersatorium; egzamin ustny mogą zdawać
+                                                    osoby, które zaliczyły egzamin pisemny na ocenę dobry lub wyższą,
+                                                    a także osoby, które uzyskały z konwersatorium ocenę dobry lub
+                                                    wyższą. w terminie "zerowym" egzamin ma formę wyłącznie
+                                                    egzaminu ustnego
+ konwersatorium            zaliczenie               zaliczenie kolokwiów i/lub kolokwium zaliczeniowego; zajęcia
+                                                    konwersatoryjne prowadzone są przez pracowników i doktorantów
+                                                    Zakładu Chemii Teoretycznej oraz Zakładu Metod Obliczeniowych
+                                                    Chemii; zajęcia konwersatoryjne zaliczane są przez osobę
+                                                    prowadzącą konwersatorium.
+                                    Wymagania wstępne i dodatkowe
+matematyka, ﬁzyka
+Wygenerowano: 2026-11-03 19:05                                                                                    4/6
+                                                    Literatura
+Obowiązkowa
+   1. materiały do wykladu
+Dodatkowa
+   1. L. Piela, Idee chemii kwantowej, PWN, 2003. R. F. Nalewajski, Podstawy i metody chemii kwantowej: wykłady. PWN,
+      2001. F. Jensen, Introduction to Computational Chemistry, Wiley, 1999, 2006. A. Gołębiewski, Elementy mechaniki
+      i chemii kwantowej, PWN, 1982. K. Gumiński, P. Petelenz, Elementy chemii teoretycznej, PWN, 1989. A. Cotton, Teoria
+      grup - zastosowania w chemii, PWN, 1973.J. Autschbach. Quantum Theory for Chemical Applications. Oxford
+      University Press, 2021
+Wygenerowano: 2026-11-03 19:05                                                                                      5/6
+Kierunkowe efekty uczenia się
+    Kod                                                        Treść
+              Absolwent jest gotów do dbania o jakość i staranność wykonywanych zadań, podejmowania
+CHE_K1_K02
+              odpowiedzialności za ich skutki
+              Absolwent potraﬁ posługiwać się metodami matematycznymi w chemii, posiada umiejętność opisu
+CHE_K1_U01    matematycznego zjawisk i procesów ﬁzycznych i chemicznych oraz zdolność abstrakcyjnego rozumienia
+              problemów z zakresu ﬁzyki i chemii.
+              Absolwent potraﬁ odnieść zdobytą wiedzę do pokrewnych dyscyplin naukowych oraz pracować w zespołach
+CHE_K1_U11
+              interdyscyplinarnych
+              Absolwent potraﬁ realizować podnoszenie kompetencji zawodowych i osobistych (uczenie się) przez całe
+CHE_K1_U16
+              życie
+              Absolwent zna i rozumie zagadnienia z zakresu matematyki pozwalające na posługiwanie się metodami
+CHE_K1_W01
+              matematycznymi w chemii
+              Absolwent zna i rozumie zagadnienia z zakresu ﬁzyki umożliwiająe rozumienie zjawisk i procesów
+CHE_K1_W02
+              ﬁzycznych w przyrodzie oraz wykorzystywania praw przyrody w technice i życiu codziennym
+              Absolwent zna i rozumie zagadnienia z zakresu podstaw metod obliczeniowych oraz oprogramowania
+CHE_K1_W03
+              użytkowego pozwalające na ich stosowanie w życiu codziennym i zawodowym
+           Absolwent zna i rozumie zagadnienia z zakresu podstawowych działów chemii pozwalające na posługiwanie
+           się terminologią i nomenklaturą chemiczną; omówienie właściwości pierwiastków i związków chemicznych
+CHE_K1_W05
+           w oparciu o układ okresowy oraz stanów materii, charakteryzowanie podstawowych typów reakcji
+           chemicznych oraz ich mechanizmów w aspekcie termodynamicznym i kinetycznym
+              Absolwent zna i rozumie zaasady wykorzystania podstawowych metod kwantowochemicznych do opisu
+CHE_K1_W06
+              właściwości, struktury i reaktywności układów chemicznych.
+              Absolwent zna i rozumie metody interpretacji i dokonywania opisu fenomenologicznego i molekularnego
+CHE_K1_W09
+              procesów i właściwości ﬁzykochemicznych
+           Absolwent zna i rozumie zasady stosowania podstawowych technik i narzędzi badawczych właściwych dla
+CHE_K1_W10 nauk chemicznych, a w szczególności stosowania zasad i procedur analizy chemicznej i podstawowych
+           technik badań strukturalnych, w tym spektroskopii
+Wygenerowano: 2026-11-03 19:05                                                                                      6/6

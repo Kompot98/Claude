@@ -1,0 +1,424 @@
+źródło: https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants
+tytuł: Equilibrium Constants
+licencja: Creative Commons Attribution-NonCommercial-ShareAlike License
+
+13.2   Equilibrium Constants
+
+Learning Objectives
+
+By the end of this section, you will be able to:
+
+-   Derive reaction quotients from chemical equations representing homogeneous and heterogeneous reactions
+-   Calculate values of reaction quotients and equilibrium constants, using concentrations and pressures
+-   Relate the magnitude of an equilibrium constant to properties of the chemical system
+
+The status of a reversible reaction is conveniently assessed by evaluating its reaction quotient (Q). For a reversible reaction described by
+
+mA + nB ⇌ xC + yD
+
+the reaction quotient is derived directly from the stoichiometry of the balanced equation as
+
+$$Q_{c} = \ \frac{{\lbrack\text{C}\rbrack}^{x}\lbrack\text{D}\rbrack^{y}}{{\lbrack\text{A}\rbrack}^{m}\lbrack\text{B}\rbrack^{n}}$$
+
+where the subscript c denotes the use of molar concentrations in the expression. If the reactants and products are gaseous, a reaction quotient may be similarly derived using partial pressures:
+
+$$Q_{p} = \ \frac{{P_{\text{C}}}^{x}\ {P_{\text{D}}}^{y}}{{P_{\text{A}}}^{m}\ {P_{\text{B}}}^{n}}$$
+
+Note that the reaction quotient equations above are a simplification of more rigorous expressions that use relative values for concentrations and pressures rather than absolute values. These relative concentration and pressure values are dimensionless (they have no units); consequently, so are the reaction quotients. For purposes of this introductory text, it will suffice to use the simplified equations and to disregard units when computing Q. In most cases, this will introduce only modest errors in calculations involving reaction quotients.
+
+Example  13.1  
+
+Writing Reaction Quotient Expressions
+
+Write the concentration-based reaction quotient expression for each of the following reactions:
+
+(a) 3O₂(g) ⇌ 2O₃(g)
+
+(b) N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
+
+(c) 4NH₃(g) + 7O₂(g) ⇌ 4NO₂(g) + 6H₂O(g)
+
+Solution
+
+(a) $Q_{c} = \ \frac{{\lbrack\text{O}_{3}\rbrack}^{2}}{{\lbrack\text{O}_{2}\rbrack}^{3}}$
+
+(b) $Q_{c} = \ \frac{{\lbrack\text{NH}_{3}\rbrack}^{2}}{\lbrack\text{N}_{2}\rbrack{\lbrack\text{H}_{2}\rbrack}^{3}}$
+
+(c) $Q_{c} = \ \frac{{\lbrack\text{NO}_{2}\rbrack}^{4}\lbrack\text{H}_{2}\text{O}\rbrack^{6}}{{\lbrack\text{NH}_{3}\rbrack}^{4}\lbrack\text{O}_{2}\rbrack^{7}}$
+
+Check Your Learning
+
+Write the concentration-based reaction quotient expression for each of the following reactions:
+
+(a) 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+
+(b) C₄H₈(g) ⇌ 2C₂H₄(g)
+
+(c) 2C₄H₁₀(g) + 13O₂(g) ⇌ 8CO₂(g) + 10H₂O(g)
+
+Answer:
+
+(a) $Q_{c} = \ \frac{{\lbrack\text{SO}_{3}\rbrack}^{2}}{{\lbrack\text{SO}_{2}\rbrack}^{2}\lbrack\text{O}_{2}\rbrack};$ (b) $Q_{c} = \ \frac{{\lbrack\text{C}_{2}\text{H}_{4}\rbrack}^{2}}{\lbrack\text{C}_{4}\text{H}_{8}\rbrack};$ (c) $Q_{c} = \ \frac{{\lbrack\text{CO}_{2}\rbrack}^{8}\lbrack\text{H}_{2}\text{O}\rbrack^{10}}{{\lbrack\text{C}_{4}\text{H}_{10}\rbrack}^{2}\lbrack\text{O}_{2}\rbrack^{13}}$
+
+[Four graphs are shown and labeled, “a,” “b,” “c,” and “d.” All four graphs have a vertical dotted line running through the middle labeled, “Equilibrium is reached.” The y-axis on graph a is labeled, “Concentration,” and the x-axis is labeled, “Time.” Three curves are plotted on graph a. The first is labeled, “[ S O subscript 2 ];” this line starts high on the y-axis, ends midway down the y-axis, has a steep initial slope and a more gradual slope as it approaches the far right on the x-axis. The second curve on this graph is labeled, “[ O subscript 2 ];” this line mimics the first except that it starts and ends about fifty percent lower on the y-axis. The third curve is the inverse of the first in shape and is labeled, “[ S O subscript 3 ].” The y-axis on graph b is labeled, “Concentration,” and the x-axis is labeled, “Time.” Three curves are plotted on graph b. The first is labeled, “[ S O subscript 2 ];” this line starts low on the y-axis, ends midway up the y-axis, has a steep initial slope and a more gradual slope as it approaches the far right on the x-axis. The second curve on this graph is labeled, “[ O subscript 2 ];” this line mimics the first except that it ends about fifty percent lower on the y-axis. The third curve is the inverse of the first in shape and is labeled, “[ S O subscript 3 ].” The y-axis on graph c is labeled, “Reaction Quotient,” and the x-axis is labeled, “Time.” A single curve is plotted on graph c. This curve begins at the bottom of the y-axis and rises steeply up near the top of the y-axis, then levels off into a horizontal line. The top point of this line is labeled, “k.” The y-axis on graph d is labeled, “Reaction Quotient,” and the x-axis is labeled, “Time.” A single curve is plotted on graph d. This curve begins near the edge of the top of the y-axis and falls steeply toward the x-axis, then levels off into a horizontal line. The bottom point of this line is labeled, “k.”]
+
+Figure 13.5 Changes in concentrations and Q_(c) for a chemical equilibrium achieved beginning with (a) a mixture of reactants only and (b) products only.
+
+The numerical value of Q varies as a reaction proceeds towards equilibrium; therefore, it can serve as a useful indicator of the reaction’s status. To illustrate this point, consider the oxidation of sulfur dioxide:
+
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+
+Two different experimental scenarios are depicted in Figure 13.5, one in which this reaction is initiated with a mixture of reactants only, SO₂ and O₂, and another that begins with only product, SO₃. For the reaction that begins with a mixture of reactants only, Q is initially equal to zero:
+
+$$Q_{c} = \frac{\lbrack\text{SO}_{3}\rbrack^{2}}{\lbrack\text{SO}_{2}\rbrack^{2}\ \lbrack\text{O}_{2}\rbrack} = \frac{0^{2}}{\lbrack\text{SO}_{2}\rbrack^{2}\ \lbrack\text{O}_{2}\rbrack} = 0$$
+
+As the reaction proceeds toward equilibrium in the forward direction, reactant concentrations decrease (as does the denominator of Q_(c)), product concentration increases (as does the numerator of Q_(c)), and the reaction quotient consequently increases. When equilibrium is achieved, the concentrations of reactants and product remain constant, as does the value of Q_(c).
+
+If the reaction begins with only product present, the value of Q_(c) is initially undefined (immeasurably large, or infinite):
+
+$$Q_{c} = \frac{\lbrack\text{SO}_{3}\rbrack^{2}}{\lbrack\text{SO}_{2}\rbrack^{2}\ \lbrack\text{O}_{2}\rbrack} = \frac{\lbrack\text{SO}_{3}\rbrack^{2}}{0}\rightarrow\text{∞}$$
+
+In this case, the reaction proceeds toward equilibrium in the reverse direction. The product concentration and the numerator of Q_(c) decrease with time, the reactant concentrations and the denominator of Q_(c) increase, and the reaction quotient consequently decreases until it becomes constant at equilibrium.
+
+The constant value of Q exhibited by a system at equilibrium is called the equilibrium constant, K:
+
+K ≡ Q at equilibrium
+
+Comparison of the data plots in Figure 13.5 shows that both experimental scenarios resulted in the same value for the equilibrium constant. This is a general observation for all equilibrium systems, known as the law of mass action: At a given temperature, the reaction quotient for a system at equilibrium is constant.
+
+Example  13.2  
+
+Evaluating a Reaction Quotient
+
+Gaseous nitrogen dioxide forms dinitrogen tetroxide according to this equation:
+
+2NO₂(g) ⇌ N₂O₄(g)
+
+When 0.10 mol NO₂ is added to a 1.0-L flask at 25 °C, the concentration changes so that at equilibrium, [NO₂] = 0.016 M and [N₂O₄] = 0.042 M.
+
+(a) What is the value of the reaction quotient before any reaction occurs?
+
+(b) What is the value of the equilibrium constant for the reaction?
+
+Solution
+
+As for all equilibrium calculations in this text, use the simplified equations for Q and K and disregard any concentration or pressure units, as noted previously in this section.
+
+(a) Before any product is formed, $\lbrack\text{NO}_{2}\rbrack = \ \frac{0.10\ \text{mol}}{1.0\ \text{L}}\  = 0.10\ M,$ and [N₂O₄] = 0 M. Thus,
+
+$$Q_{c} = \ \frac{\left\lbrack {\text{N}_{2}\text{O}_{4}} \right\rbrack}{\left\lbrack \text{NO}_{2} \right\rbrack^{2}} = \ \frac{0}{0.10^{2}}\  = 0$$
+
+(b) At equilibrium, $K_{c} = Q_{c} = \ \frac{\left\lbrack {\text{N}_{2}\text{O}_{4}} \right\rbrack}{\left\lbrack \text{NO}_{2} \right\rbrack^{2}} = \ \frac{0.042}{0.016^{2}}\  = 1.6\  \times \ 10^{2}.$ The equilibrium constant is 1.6 × 10².
+
+Check Your Learning
+
+For the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the concentrations at equilibrium are [SO₂] = 0.90 M, [O₂] = 0.35 M, and [SO₃] = 1.1 M. What is the value of the equilibrium constant, K_(c)?
+
+Answer:
+
+K_(c) = 4.3
+
+By its definition, the magnitude of an equilibrium constant explicitly reflects the composition of a reaction mixture at equilibrium, and it may be interpreted with regard to the extent of the forward reaction. A reaction exhibiting a large K will reach equilibrium when most of the reactant has been converted to product, whereas a small K indicates the reaction achieves equilibrium after very little reactant has been converted. It’s important to keep in mind that the magnitude of K does not indicate how rapidly or slowly equilibrium will be reached. Some equilibria are established so quickly as to be nearly instantaneous, and others so slowly that no perceptible change is observed over the course of days, years, or longer.
+
+The equilibrium constant for a reaction can be used to predict the behavior of mixtures containing its reactants and/or products. As demonstrated by the sulfur dioxide oxidation process described above, a chemical reaction will proceed in whatever direction is necessary to achieve equilibrium. Comparing Q to K for an equilibrium system of interest allows prediction of what reaction (forward or reverse), if any, will occur.
+
+To further illustrate this important point, consider the reversible reaction shown below:
+
+CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g)      K_(c) = 0.640      T = 800 °C
+
+The bar charts in Figure 13.6 represent changes in reactant and product concentrations for three different reaction mixtures. The reaction quotients for mixtures 1 and 3 are initially lesser than the reaction’s equilibrium constant, so each of these mixtures will experience a net forward reaction to achieve equilibrium. The reaction quotient for mixture 2 is initially greater than the equilibrium constant, so this mixture will proceed in the reverse direction until equilibrium is established.
+
+[Two sets of bar graphs are shown. The left is labeled, “Before reaction,” and the right is labeled, “At equilibrium.” Both graphs have y-axes labeled, “Concentration ( M ),” and three bars on the x-axes labeled, “Mixture 1,” “Mixture 2,” and “Mixture 3.” The y-axis has a scale beginning at 0.00 and ending at 0.10, with measurement increments of 0.02. The bars on the graphs are color coded and a key is provided with a legend. Red is labeled, “C O;” blue is labeled, “H subscript 2 O;” green is labeled, “C O subscript 2,” and yellow is labeled, “H subscript 2.” The graph on the left shows the red bar for mixture one just above 0.02, labeled “0.0243,” and the blue bar near 0.05, labeled “0.0243.” For mixture two, the green bar is near 0.05, labeled “0.0468,” and the yellow bar is near 0.09, labeled “0.0468.” For mixture 3, the red bar is near 0.01, labeled “0.0330,” the blue bar is slightly above that, labeled “0.190,” with green and yellow topping it off at 0.02. Green is labeled “0.00175” and yellow is labeled “0.00160.” On the right graph, the bar for mixture one shows the red bar slightly above 0.01, labeled “0.0135,” the blue bar stacked on it rising slightly above 0.02, labeled “0.0135,” the green rising near 0.04, labeled “0.0108,” and the yellow bar reaching near 0.05, labeled “0.0108.” A label above this bar reads, “Q equals 0.640.” The bar for mixture two shows the red bar slightly above 0.02, labeled “0.0260,” the blue bar stacked on it rising near 0.05, labeled “0.0260,” the green rising near 0.07, labeled “0.0208,” and the yellow bar reaching near 0.10, labeled “0.0208.” A label above this bar reads “Q equals 0.640.” The bar for mixture three shows the red bar near 0.01, labeled “0.0231,” the blue bar stacked on it rising slightly above 0.01, labeled “0.00909,” the green rising near 0.02, labeled “0.0115,” and the yellow bar reaching 0.02, labeled “0.0117.” A label above this bar reads “Q equals 0.640”.]
+
+Figure 13.6 Compositions of three mixtures before (Q_(c) ≠ K_(c)) and after (Q_(c) = K_(c)) equilibrium is established for the reaction CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g).
+
+Example  13.3  
+
+Predicting the Direction of Reaction
+
+Given here are the starting concentrations of reactants and products for three experiments involving this reaction:
+
+CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g)
+
+K_(c) = 0.64
+
+Determine in which direction the reaction proceeds as it goes to equilibrium in each of the three experiments shown.
+
+  Reactants/Products   Experiment 1   Experiment 2   Experiment 3
+  -------------------- -------------- -------------- --------------
+  [CO]_(i)             0.020 M        0.011 M        0.0094 M
+  [H₂O]_(i)            0.020 M        0.0011 M       0.0025 M
+  [CO₂]_(i)            0.0040 M       0.037 M        0.0015 M
+  [H₂]_(i)             0.0040 M       0.046 M        0.0076 M
+
+Solution
+
+Experiment 1:
+
+$$Q_{c} = \ \frac{\left\lbrack \text{CO}_{2} \right\rbrack\ \left\lbrack \text{H}_{2} \right\rbrack}{\left\lbrack \text{CO} \right\rbrack\ \left\lbrack {\text{H}_{2}\text{O}} \right\rbrack} = \ \frac{(0.0040)(0.0040)}{(0.020)(0.020)}\  = 0.040.$$
+
+Q_(c) < K_(c) (0.040 < 0.64)
+
+The reaction will proceed in the forward direction.
+
+Experiment 2:
+
+$$Q_{c} = \ \frac{\left\lbrack \text{CO}_{2} \right\rbrack\ \left\lbrack \text{H}_{2} \right\rbrack}{\left\lbrack \text{CO} \right\rbrack\ \left\lbrack {\text{H}_{2}\text{O}} \right\rbrack} = \ \frac{(0.037)(0.046)}{(0.011)(0.0011)}\  = 1.4\  \times \ 10^{2}$$
+
+Q_(c) > K_(c) (140 > 0.64)
+
+The reaction will proceed in the reverse direction.
+
+Experiment 3:
+
+$$Q_{c} = \ \frac{\left\lbrack \text{CO}_{2} \right\rbrack\ \left\lbrack \text{H}_{2} \right\rbrack}{\left\lbrack \text{CO} \right\rbrack\ \left\lbrack {\text{H}_{2}\text{O}} \right\rbrack} = \ \frac{(0.0015)(0.0076)}{(0.0094)(0.0025)}\  = 0.48$$
+
+Q_(c) < K_(c) (0.48 < 0.64)
+
+The reaction will proceed in the forward direction.
+
+Check Your Learning
+
+Calculate the reaction quotient and determine the direction in which each of the following reactions will proceed to reach equilibrium.
+
+(a) A 1.00-L flask containing 0.0500 mol of NO(g), 0.0155 mol of Cl₂(g), and 0.500 mol of NOCl:
+
+2NO(g) + Cl₂(g) ⇌ 2NOCl(g)      K_(c) = 4.6 × 10⁴
+
+(b) A 5.0-L flask containing 17 g of NH₃, 14 g of N₂, and 12 g of H₂:
+
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g)      K_(c) = 0.060
+
+(c) A 2.00-L flask containing 230 g of SO₃(g):
+
+2SO₃(g) ⇌ 2SO₂(g) + O₂(g)      K_(c) = 0.230
+
+Answer:
+
+(a) Q_(c) = 6.45 × 10³, forward. (b) Q_(c) = 0.23, reverse. (c) Q_(c) = 0, forward.
+
+Homogeneous Equilibria
+
+A homogeneous equilibrium is one in which all reactants and products (and any catalysts, if applicable) are present in the same phase. By this definition, homogeneous equilibria take place in solutions. These solutions are most commonly either liquid or gaseous phases, as shown by the examples below:
+
+$$\begin{array}{rllccrll}
+{\text{C}_{2}\text{H}_{2}(aq) + 2\text{Br}_{2}(aq)} & \rightleftharpoons & {\text{C}_{2}\text{H}_{2}\text{Br}_{4}(aq)} & & & K_{c} & = & \frac{\left\lbrack {\text{C}_{2}\text{H}_{2}\text{Br}_{4}} \right\rbrack}{\left\lbrack {\text{C}_{2}\text{H}_{2}} \right\rbrack\ \left\lbrack \text{Br}_{2} \right\rbrack^{2}} \\
+{\text{I}_{2}(aq) + \text{I}^{\text{−}}(aq)} & \rightleftharpoons & {\text{I}_{3}{}^{\text{−}}(aq)} & & & K_{c} & = & \frac{\left\lbrack {\text{I}_{3}{}^{\text{−}}} \right\rbrack}{{\lbrack\text{I}_{2}\rbrack}{\lbrack\text{I}^{\text{−}}\rbrack}} \\
+{\text{HF}(aq) + \text{H}_{2}\text{O}(l)} & \rightleftharpoons & {\text{H}_{3}\text{O}^{\text{+}}(aq) + \text{F}^{\text{−}}(aq)} & & & K_{c} & = & \frac{{\lbrack{\text{H}_{3}\text{O}^{\text{+}}}\rbrack}\left\lbrack \text{F}^{\text{−}} \right\rbrack}{\left\lbrack \text{HF} \right\rbrack} \\
+{\text{NH}_{3}(aq) + \text{H}_{2}\text{O}(l)} & \rightleftharpoons & {\text{NH}_{4}{}^{\text{+}}(aq) + \text{OH}^{\text{−}}(aq)} & & & K_{c} & = & \frac{{\lbrack{\text{NH}_{4}{}^{\text{+}}}\rbrack}\left\lbrack \text{OH}^{\text{−}} \right\rbrack}{\left\lbrack \text{NH}_{3} \right\rbrack}
+\end{array}$$
+
+These examples all involve aqueous solutions, those in which water functions as the solvent. In the last two examples, water also functions as a reactant, but its concentration is not included in the reaction quotient. The reason for this omission is related to the more rigorous form of the Q (or K) expression mentioned previously in this chapter, in which relative concentrations for liquids and solids are equal to 1 and needn’t be included. Consequently, reaction quotients include concentration or pressure terms only for gaseous and solute species.
+
+The equilibria below all involve gas-phase solutions:
+
+$$\begin{array}{rllccrll}
+{\text{C}_{2}\text{H}_{6}(g)} & \rightleftharpoons & {\text{C}_{2}\text{H}_{4}(g) + \text{H}_{2}(g)} & & & K_{c} & = & \frac{\left\lbrack {\text{C}_{2}\text{H}_{4}} \right\rbrack\ \left\lbrack \text{H}_{2} \right\rbrack}{\left\lbrack {\text{C}_{2}\text{H}_{6}} \right\rbrack} \\
+{3\text{O}_{2}(g)} & \rightleftharpoons & {2\text{O}_{3}(g)} & & & K_{c} & = & \frac{\left\lbrack \text{O}_{3} \right\rbrack^{2}}{\left\lbrack \text{O}_{2} \right\rbrack^{3}} \\
+{\text{N}_{2}(g) + 3\text{H}_{2}(g)} & \rightleftharpoons & {2\text{NH}_{3}(g)} & & & K_{c} & = & \frac{\left\lbrack \text{NH}_{3} \right\rbrack^{2}}{\left\lbrack \text{N}_{2} \right\rbrack{\ \left\lbrack \text{H}_{2} \right\rbrack}^{3}} \\
+{\text{C}_{3}\text{H}_{8}(g) + 5\text{O}_{2}(g)} & \rightleftharpoons & {3\text{CO}_{2}(g) + 4\text{H}_{2}\text{O}(g)} & & & K_{c} & = & \frac{\left\lbrack \text{CO}_{2} \right\rbrack^{3}\left\lbrack {\text{H}_{2}\text{O}} \right\rbrack^{4}}{\left\lbrack {\text{C}_{3}\text{H}_{8}} \right\rbrack\left\lbrack \text{O}_{2} \right\rbrack^{5}}
+\end{array}$$
+
+For gas-phase solutions, the equilibrium constant may be expressed in terms of either the molar concentrations (K_(c)) or partial pressures (K_(p)) of the reactants and products. A relation between these two K values may be simply derived from the ideal gas equation and the definition of molarity:
+
+PV = nRT
+
+$$\mspace{11mu} P = \left( \frac{n}{V} \right)RT$$
+
+   = MRT
+
+where P is partial pressure, V is volume, n is molar amount, R is the gas constant, T is temperature, and M is molar concentration.
+
+For the gas-phase reaction aA + bB ⇌ cC + dD:
+
+$$K_{P} = \ \frac{\left( P_{C} \right)^{c}\left( P_{D} \right)^{d}}{\left( P_{A} \right)^{a}\left( P_{B} \right)^{b}}$$
+
+$$= \ \frac{\left( {\lbrack\text{C]}\  \times \ RT} \right)^{c}({\lbrack\text{D]}\  \times \ RT})^{d}}{\left( {\lbrack\text{A]}\  \times \ RT})^{a}\left( {\lbrack\text{B]}\  \times \ RT} \right)^{b} \right.}$$
+
+$$= \ \frac{\lbrack\text{C}\rbrack^{c}{\lbrack\text{D}\rbrack}^{d}}{\lbrack\text{A}\rbrack^{a}{\lbrack\text{B}\rbrack}^{b}}\  \times \ \frac{\left( {RT} \right)^{c\text{+}d}}{\left( {RT} \right)^{a\text{+}b}}$$
+
+ = K_(c)(RT)^((c+d) − (a+b))
+
+ = K_(c)(RT)^(Δn)
+
+And so, the relationship between K_(c) and K_(P) is
+
+K_(P) = K_(c)(RT)^(Δn)
+
+where Δn is the difference in the molar amounts of product and reactant gases, in this case:
+
+Δn = (c+d) − (a+b)
+
+Example  13.4  
+
+Calculation of K_(P)
+
+Write the equations relating K_(c) to K_(P) for each of the following reactions:
+
+(a) C₂H₆(g) ⇌ C₂H₄(g) + H₂(g)
+
+(b) CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g)
+
+(c) N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
+
+(d) K_(c) is equal to 0.28 for the following reaction at 900 °C:
+
+CS₂(g) + 4H₂(g) ⇌ CH₄(g) + 2H₂S(g)
+
+What is K_(P) at this temperature?
+
+Solution
+
+(a) Δn = (2) − (1) = 1
+K_(P) = K_(c) (RT)^(Δn) = K_(c) (RT)¹ = K_(c) (RT)
+
+(b) Δn = (2) − (2) = 0
+K_(P) = K_(c) (RT)^(Δn) = K_(c) (RT)⁰ = K_(c)
+
+(c) Δn = (2) − (1 + 3) = −2
+K_(P) = K_(c) (RT)^(Δn) = K_(c) (RT)⁻² = $\frac{K_{c}}{{(RT)}^{2}}$
+
+(d) K_(P) = K_(c) (RT)^(Δn) = (0.28)[(0.0821)(1173)]⁻² = 3.0 × 10⁻⁵
+
+Check Your Learning
+
+Write the equations relating K_(c) to K_(P) for each of the following reactions:
+
+(a) 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+
+(b) N₂O₄(g) ⇌ 2NO₂(g)
+
+(c) C₃H₈(g) + 5O₂(g) ⇌ 3CO₂(g) + 4H₂O(g)
+
+(d) At 227 °C, the following reaction has K_(c) = 0.0952:
+
+CH₃OH(g) ⇌ CO(g) + 2H₂(g)
+
+What would be the value of K_(P) at this temperature?
+
+Answer:
+
+(a) K_(P) = K_(c) (RT)⁻¹; (b) K_(P) = K_(c) (RT); (c) K_(P) = K_(c) (RT); (d) 160 or 1.6 × 10²
+
+Heterogeneous Equilibria
+
+A heterogeneous equilibrium involves reactants and products in two or more different phases, as illustrated by the following examples:
+
+$$\begin{array}{rllccrll}
+{\text{PbCl}_{2}(s)} & \rightleftharpoons & {\text{Pb}^{2+}(aq) + 2\text{Cl}^{\text{−}}(aq)} & & & K_{c} & = & {{\lbrack\text{Pb}^{2+}\rbrack}\left\lbrack \text{Cl}^{\text{−}} \right\rbrack^{2}} \\
+{\text{CaO}(s) + \text{CO}_{2}(g)} & \rightleftharpoons & {\text{CaCO}_{3}(s)} & & & K_{c} & = & \frac{1}{\text{[CO}_{2}\rbrack} \\
+{\text{C}(s) + 2\text{S}(g)} & \rightleftharpoons & {\text{CS}_{2}(g)} & & & K_{c} & = & \frac{\text{[CS}_{2}\rbrack}{\left\lbrack \text{S} \right\rbrack^{2}} \\
+{\text{Br}_{2}(l)} & \rightleftharpoons & {\text{Br}_{2}(g)} & & & K_{c} & = & {\lbrack\text{Br}_{2}(g)\rbrack}
+\end{array}$$
+
+Again, note that concentration terms are only included for gaseous and solute species, as discussed previously.
+
+Two of the above examples include terms for gaseous species only in their equilibrium constants, and so K_(p) expressions may also be written:
+
+$$\begin{array}{rllccrll}
+{\text{CaO}(s) + \text{CO}_{2}(g)} & \rightleftharpoons & {\text{CaCO}_{3}(s)} & & & K_{P} & = & \frac{1}{P_{\text{CO}_{2}}} \\
+{\text{C}(s) + 2\text{S}(g)} & \rightleftharpoons & {\text{CS}_{2}(g)} & & & K_{P} & = & \frac{P_{\text{CS}_{2}}}{\left( P_{\text{S}} \right)^{2}}
+\end{array}$$
+
+Coupled Equilibria
+
+The equilibrium systems discussed so far have all been relatively simple, involving just single reversible reactions. Many systems, however, involve two or more coupled equilibrium reactions, those which have in common one or more reactant or product species. Since the law of mass action allows for a straightforward derivation of equilibrium constant expressions from balanced chemical equations, the K value for a system involving coupled equilibria can be related to the K values of the individual reactions. Three basic manipulations are involved in this approach, as described below.
+
+1. Changing the direction of a chemical equation essentially swaps the identities of “reactants” and “products,” and so the equilibrium constant for the reversed equation is simply the reciprocal of that for the forward equation.
+
+$$\begin{array}{l}
+ \\
+ \\
+ \\
+{\text{A}\rightleftharpoons\text{B}\mspace{90mu}\text{K}_{\text{c}} = \frac{\lbrack\text{B}\rbrack}{\lbrack\text{A}\rbrack}} \\
+{\text{B}\rightleftharpoons\text{A}\mspace{90mu}\text{K}_{\text{c'}} = \frac{\lbrack\text{A}\rbrack}{\lbrack\text{B}\rbrack}}
+\end{array}$$
+
+$$\text{K}_{\text{c'}} = \frac{1}{\text{K}_{\text{c}}}$$
+
+2. Changing the stoichiometric coefficients in an equation by some factor x results in an exponential change in the equilibrium constant by that same factor:
+
+$$\begin{array}{l}
+ \\
+ \\
+ \\
+{\text{A}\rightleftharpoons\text{B}\mspace{108mu}\text{K}_{\text{c}} = \frac{\lbrack\text{B}\rbrack}{\lbrack\text{A}\rbrack}} \\
+{\text{xA}\rightleftharpoons\text{xB}\mspace{90mu}\text{K}_{\text{c'}} = \frac{\lbrack\text{B}\rbrack^{\text{x}}}{\lbrack\text{A}\rbrack^{\text{x}}}}
+\end{array}$$
+
+K_(c’) = K_(c)^(x)
+
+3. Adding two or more equilibrium equations together yields an overall equation whose equilibrium constant is the mathematical product of the individual reaction’s K values:
+
+$$\begin{array}{l}
+ \\
+ \\
+ \\
+{\text{A}\rightleftharpoons\text{B}\mspace{90mu}\text{K}_{\text{c1}} = \frac{\lbrack\text{B}\rbrack}{\lbrack\text{A}\rbrack}} \\
+{\text{B}\rightleftharpoons\text{C}\mspace{90mu}\text{K}_{\text{c2}} = \frac{\lbrack\text{C}\rbrack}{\lbrack\text{B}\rbrack}}
+\end{array}$$
+
+The net reaction for these coupled equilibria is obtained by summing the two equilibrium equations and canceling any redundancies:
+
+$$\begin{array}{l}
+{\text{A} + \text{B}\rightleftharpoons\text{B} + \text{C}} \\
+{\text{A} + \text{B}\rightleftharpoons\text{B} + \text{C}} \\
+{\text{A}\rightleftharpoons\text{C}\mspace{90mu}\text{K}_{\text{c'}} = \frac{\lbrack\text{C}\rbrack}{\lbrack\text{A}\rbrack}}
+\end{array}$$
+
+Comparing the equilibrium constant for the net reaction to those for the two coupled equilibrium reactions reveals the following relationship:
+
+$$\text{K}_{\text{c1}}\ \text{K}_{\text{c2}} = \frac{\lbrack\text{B}\rbrack}{\lbrack\text{A}\rbrack}\  \times \ \frac{\lbrack\text{C}\rbrack}{\lbrack\text{B}\rbrack} = \frac{{\lbrack\text{B}\rbrack}\lbrack\text{C}\rbrack}{\lbrack\text{A}\rbrack{\lbrack\text{B}\rbrack}} = \frac{\lbrack\text{C}\rbrack}{\lbrack\text{A}\rbrack} = \text{K}_{\text{c'}}$$
+
+K_(c’) = K_(c1) K_(c2)
+
+Example 13.5 demonstrates the use of this strategy in describing coupled equilibrium processes.
+
+Example  13.5  
+
+Equilibrium Constants for Coupled Reactions
+
+A mixture containing nitrogen, hydrogen, and iodine established the following equilibrium at 400 °C:
+
+2NH₃(g) + 3I₂(g) ⇌ N₂(g) + 6HI(g)
+
+Use the information below to calculate Kc for this reaction.
+
+$$\begin{array}{lccl}
+{\text{N}_{2}(g) + 3\text{H}_{2}(g)\rightleftharpoons 2\text{NH}_{3}(g)} & & & {\text{K}_{\text{c}1} = 0.50\ \text{at}\ 400\ {^\circ}\text{C}} \\
+{\text{H}_{2}(g) + \text{I}_{2}(g)\rightleftharpoons 2\text{HI}(g)} & & & {\text{K}_{\text{c}2} = 50\ \text{at}\ 400\ {^\circ}\text{C}}
+\end{array}$$
+
+Solution
+
+The equilibrium equation of interest and its K value may be derived from the equations for the two coupled reactions as follows.
+
+Reverse the first coupled reaction equation:
+
+$$\text{2NH}_{3}(g)\rightleftharpoons\text{N}_{2}(g) + 3\text{H}_{2}(g)\mspace{90mu}\text{K}_{\text{c}1'} = \frac{1}{\text{K}_{\text{c}1}} = \frac{1}{0.50} = 2.0$$
+
+Multiply the second coupled reaction by 3:
+
+3H₂(g) + 3I₂(g) ⇌ 6HI(g)      K_(c2′) = K_(c2)³ = 50³ = 1.2 × 10⁵
+
+Finally, add the two revised equations:
+
+$$\begin{array}{l}
+{\text{2NH}_{3}(g) + {3\text{H}_{2}(g)} + 3\text{I}_{\text{2}}(g)\rightleftharpoons N_{2}(g) + {3\text{H}_{2}(g)} + 6\text{HI}(g)} \\
+{\text{2NH}_{3}(g) + 3\text{I}_{\text{2}}(g)\rightleftharpoons N_{2}(g) + 6\text{HI}(g)} \\
+{\text{K}_{\text{c}} = \text{K}_{\text{c}1'}\,\text{K}_{\text{c}2'} = (2.0)(1.2\  \times \ 10^{5}) = 2.4\  \times \ 10^{5}}
+\end{array}$$
+
+Check Your Learning
+
+Use the provided information to calculate Kc for the following reaction at 550 °C:
+
+$$\begin{array}{lccl}
+{\text{H}_{2}(g) + \text{CO}_{2}(g)\rightleftharpoons\text{CO}(g) + \text{H}_{2}\text{O}(g)} & & & {\text{K}_{\text{c}} = ?} \\
+{\text{CoO}(s) + \text{CO}(g)\rightleftharpoons\text{Co}(s) + \text{CO}_{2}(g)} & & & {\text{K}_{\text{c}1} = 490} \\
+{\text{CoO}(s) + \text{H}_{\text{2}}(g)\rightleftharpoons\text{Co}(s) + \text{H}_{2}O(g)} & & & {\text{K}_{\text{c}1} = 67}
+\end{array}$$
+
+Answer:
+
+K_(c) = 0.14

@@ -1,0 +1,268 @@
+źródło: https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/06%3A_Equilibrium_Chemistry/6.09%3A_Activity_Effects
+data: 2026-11-03
+tytuł: 6.9: Activity Effects - Chemistry LibreTexts
+licencja (stopka): ['CC BY-NC-SA  4.0']  tagi: ['license:ccbyncsa', 'licenseversion:40']
+podstrony: []
+
+mt-content-container p { color: white; } .darkMode .mt-content-container .boxexample, .darkMode .mt-content-container .boxexercise, .darkMode .mt-content-container .boxlemma, .darkMode .mt-content-container .boxnotation, .darkMode .mt-content-container .boxnotewithlegend, .darkMode .mt-content-container .boxnotewithoutlegend, .darkMode .mt-content-container .boxprocedure, .darkMode .mt-content-container .boxproposition, .darkMode .mt-content-container .boxquery, .darkMode .mt-content-container .boxtheorem, .darkMode .mt-content-container .boxobjectives, .darkMode .mt-content-container .box-example, .darkMode .mt-content-container .box-exercise, .darkMode .mt-content-container .box-lemma, .darkMode .mt-content-container .box-notation, .darkMode .mt-content-container .box-warning, .darkMode .mt-content-container .box-note, .darkMode .mt-content-container .box-notewithlegend, .darkMode .mt-content-container .box-notewithoutlegend, .darkMode .mt-content-container .box-procedure, .darkMode .mt-content-container .box-proposition, .darkMode .mt-content-container .box-query, .darkMode .mt-content-container .box-theorem, .darkMode .mt-content-container .box-objectives { background: #f0f5ff24; box-shadow: 3px 3px 4px #00000085; } .darkMode p.boxtitle { color:white; } .darkMode th { background:#00629a; } .darkMode tr, .darkMode tr td { background:none; } .darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td { background:#555555; } .optimize { display: flex; flex-wrap: wrap; } /* Hide header if in iframe*/ .contentOnly .elm-header, .contentOnly .elm-meta-icons, .contentOnly div.annotator-frame, .adaptView .elm-footer, /*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */ .adaptView article#elm-main-content > header, .contentOnly hypothesis-sidebar, .contentOnly #custom_open, .contentOnly .sbHeader { display:none; } .sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] { background-color: transparent !important; } .contentOnly #mt-summary { display:none!important; } /* Hide most supporting content when in embed mode */ .embedView .elm-header, .embedView .elm-meta-icons, .embedView div.annotator-frame, .embedView .elm-footer, .embedView article#elm-main-content > *:not(:first-child, .mt-content-container), .embedView hypothesis-sidebar, .embedView #custom_open, .embedView #libretexts-ai-assistant, .embedView #mt-summary, .embedView #backButton, .embedView #nextButton, /* hide first button that appears in librelens attribution list */ .embedView #librelens-attribution-list > button:first-of-type, .embedView .elm-content-footer, .embedView .sbHeader { display:none!important; } /* Hide everything except the first child that is or contains .pageInfo */ .embedView .elm-meta-data > *:not(.pageInfo):not(:has(.pageInfo)), .embedView .elm-meta-data > :is(.pageInfo, :has(.pageInfo)) ~ :is(.pageInfo, :has(.pageInfo)) { display: none !important; } /* Move the remaining .elm-meta-data content to right and "up" (bring in line with title) */ .embedView .elm-meta-data { display: flex; justify-content: end; margin-top: -35px; } .embedView #title { border-bottom: none !important; } iframe.imathas_problem, iframe.webwork_problem { border: none; width: 100%; } /*GeoGebra fix*/ article.elm-content-container, section.mt-content-container { height: auto !important; width: auto !important; } .elm-meta-top .mt-article-pagination a { width: auto; color: #30b3f6; } .elm-meta-top .mt-article-pagination a:hover { color: #b4b4b4; } .elm-meta-top .elm-article-pagination { float: unset; } #elm-main-content ol.elm-meta-data .elm-social-share { margin: 0; } #MathJax_Zoom { color: black; } #donate { background-color: green; color: white; display: flex; padding: 5px; align-items: center; } #donate:hover { background-color: #005E00; } .youtubeImageContainer { position: relative; } a.notSS { width: auto; height: auto; margin-top: 0; } .toc-button.mt-icon-hierarchy-trigger-closed:before { content: "\e8a6"; font-size: 150%; } span.fancytree-icon:before { content: "\e8aa"; } .mt-icon-hierarchy-trigger-open:before { font-size: 150%; } span.fancytree-has-children > span.fancytree-icon:before { content: "\e8b3"; } span.fancytree-title > a { color: #666; } span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon { color: #1a9003; } .toc-hierarchy > div { display: none; } .toc-hierarchy h6 { margin-top: 0; color: #137ac3 } .pageInfo { float: left; margin: 0 1em 0 0; } .cc { color: black; } .glossarizer_replaced { border-bottom: 1px #333 dotted; } #pageTagsHolder { display: none; } #batchPrint { display: flex; align-items: stretch; justify-content: center; } #TOCbutton { margin: 2px; display: flex; line-height: 2.4; justify-content: center; align-items: center; color: #127bc4; font-size: 100%; height: 100%; } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } div.propagatorLoader { display: flex; margin: 10px; justify-content: center; } .loaderStatus { /* flex: 1; */ justify-content: center; text-align: center; } /* Modal Foundation*/ #warningModal { position: fixed ; left: 0px; top: 0px; bottom:0px; right:0px; margin:0px; display: none; /* Hidden by default */ z-index: 10000; padding-top: 0px; /* Location of the box */ width: 100%; /* Full width */ height: 100%; /* Full height */ overflow: auto; /* Enable scroll if needed */ background-color: rgb(0,0,0); /* Fallback color */ background-color: rgb(0,0,0,0);/* Black w/ opacity */ } /* Modal Content */ #warningModalSlide { font-family: 'Roboto'; font-size: 14px; background-color: #EFEFEF ; margin: auto; padding: 15px; /*border: 0px solid #888;*/ width: 40%; box-shadow: -2px 8px 10px #c7c7c7; } #elm-main-content figure { display: flex; align-items: center; flex-direction: column; margin: 0; page-break-inside: avoid; margin-bottom: 0.3em !important; } .mt-video-widget:not(.cke_widget_element) { margin: 1rem auto !important; } .glmol{ text-align: left; } #copyResults img { width: 30px; height: 30px; object-fit: contain; } #LTform, #LTPreview { display: flex; flex-direction: column; } #LTFormContainer, .LTFormHeader, #LTFormFooter { display: flex; } #LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container { background: #f3f3f3; border-radius: 10px; overflow: auto; flex: 1; } #LTLeft, #LTRight, #LTPreviewForm, #LTTutorial { /*flex: 1;*/ align-items: stretch; height: 60vh; max-width: 45vw; overflow: hidden; width: 100%; background: #f3f3f3; border-radius: 10px; display: flex; flex-direction: column; } #LTLeft, #LTTutorial { border-radius: 0 0 10px 10px; } select.LTFormSubdomain { border-radius: 10px 10px 0 0; } #LTFormFooter { flex-direction: column; } .LTFormHeader { justify-content: flex-end; margin-top: 30px; background-color: #127bc4; padding: 10px; border-radius: 5px; color: white } ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 { } #LTFormContainer > div { flex: 1; display: flex; flex-direction: column; align-items: center; margin: 10px; max-width: 45vw; } .LTTitle { flex: 1; display: flex; align-items: center; } div#LTPreviewForm { max-width: unset; margin: 10px; width: auto; } div#LTLeftAlert, div#LTRightAlert { height: 30px; background-color: rgba(18, 122, 196, 0.61); width: inherit; z-index: 1; display: flex; align-items: center; justify-content: center; } select#LTFormSubdomain { border-radius: 10px 10px 0 0; } #mt-site-search-input { max-width: 40vw; } #getTOCLink { display: flex; justify-content: center; align-items: center; background-color: slategrey; color: white; width: fit-content; padding: 0 3px; } .annotator-frame.annotator-collapsed > div.annotator-bucket-bar { background: none; } .mobileOnly { display: none; } #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: auto; } #RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before { vertical-align: middle; } .elm-header-user-nav .mt-user-menu li.mt-user-quick-login { margin-left: 0; } .mt-user-menu { display: flex; justify-content: center; } li.elm-social-share a { height: unset; width: auto; margin: 0 2px 0 0; } #LTRight > ul > li { min-height: 100%; } .react-toggle { height: 24px; } .buttonsetForm > button:first-child { background: #525050; color: white; } /*Added to make a hyperlink position below the breadcrumb bar and is viewable */ /*#pageText > .mt-section > span:first-child { top: -50px; display: block; position: relative; }*/ .elm-header-notice.fixed { position: static; } .elm-fixed-header { position: static; } /* Dropdown Button */ .LTdropdown > .dropbtn { color: inherit; background-color: inherit; border: none; height: 100%; padding: 5px; display: flex; align-items: center; box-sizing: border-box; } .LTdropdown a:visited { color: inherit; } /* The container
+- needed to position the dropdown content */ .LTdropdown { position: relative; display: inline-block; margin-right: 2px; color: white; background: black; } /* Dropdown Content (Hidden by Default) */ .LTdropdown-content { color: inherit; display: none; position: absolute; box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); background: inherit; z-index: 5; flex-direction: column; align-items: stretch; width: max-content; width: -moz-max-content; } /* Links inside the dropdown */ .LTdropdown > .LTdropdown-content a { color: inherit; background: inherit; padding: 12px 16px; text-decoration: none; display: block; width: initial; text-align: center; font-size: 12px; margin: 0; } /* Change color of dropdown links on hover */ .LTdropdown > .LTdropdown-content a:hover { filter: brightness(85%); transition-duration: 250ms; color: white; } .LTdropdown-content a:before { margin-right: 2px; } .LTdropdown-content a:not(:first-child) { border-top: 1px solid white; } /* Show the dropdown menu on hover */ .LTdropdown:hover .LTdropdown-content { display: flex; } /* Change the background color of the dropdown button when the dropdown content is shown */ .LTdropdown:hover .dropbtn { filter: brightness(85%); } nav.elm-header-user-nav > div.elm-nav-container > ol { display: flex; } nav.elm-header-user-nav > div.elm-nav-container > ol > li { display: flex; } li.elm-global-search { flex: 1 } #mt-site-search-input { width: auto; } .mt-breadcrumbs a span.nb-comment-highlight { font-size: unset; margin-right: unset; vertical-align: unset; } /* */ .mt-user-quick-login { display: none !important; } .mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right { display: none !important; } .mt-icon-quick-sign-in::before { color: #127BC4; } .sso-user:hover:after { content: " (Logout)"; font-family: inherit; font-style: italic; } .authenticated-sso.elm-header-user-nav { background-color: #0f67a6; } .authenticated-sso.elm-header-user-nav .mt-user-menu-user { background: #323232; border-radius: 5px; } .authenticated-sso.elm-header-user-nav .mt-user-menu > li > a { color: white; } /* */ /*Media Queries*/ @media (max-width: 600px) { .mobileOnly { display: block; } .mobileHide { display: none; } .LTBranding { flex-direction: column; } } @media (max-width: 875px) { #RemixerIcon, #DownloadIcon, #SSOInstructorIcon { width: 1.95em; } } @media (min-width: 1000px) { nav.elm-header-global-nav ol.mt-breadcrumbs { max-width: 85% !important; } #TOCbutton { width: auto; } } @media (max-width: 1001px) { #TOCbutton { width: 20px; justify-content: flex-start; } } /* @media (min-width: 83em) { article.elm-content-container { min-width: unset; } } */ /* @media (min-width: 37.5em){ .elm-header-user-nav { z-index: 1; } } */ .mt-content-container img { height: auto!important; object-fit: contain; } .mt-content-container .mt-sortable-listing-link img { height: 150px!important; } .mt-video-widget > p { text-align: center; } option[value="article:topic-portfolio"] { display: none; } option[value="article:howto"] { display: none; } option[value="article:reference"] { display: none; } .live-tag-link { white-space: normal; user-select: text; -webkit-user-drag: none; } span.mt-font-ma-shan-zheng{ font-family: 'Ma Shan Zheng'; } .cke_librebox .cke_combo_open { margin-left: 0; } .cke_librebox .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_librequery .cke_combo_open { margin-left: 0; } .cke_librequery .cke_combo_inlinelabel { padding-left: 2px; padding-right: 0; } .cke_button_icon.cke_button__librequeryoptions_icon { background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important; background-position: 0px !important; background-size: 16px !important; } /** Heading 7 **/ .lt-heading-7 { text-align: left!important; font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif; color: #000; margin: 2rem 0 0.5rem; padding: 0; } @media (min-width: 37.5em) { .lt-heading-7 { font-size: 112.5% !important; } } @media (min-width: 18.75em) { .lt-heading-7 { font-size: 105.5% !important; } } /** AutoAttribution **/ #librelens-attribution-list li { font-size: 0.95rem !important; } /** Prevent overflow with large images in sections **/ section::after { content: ''; clear: both; display: block }/*]]>*/
+Skip to main content
+Table of Contents menu
+[Library homepage]
+search Search
+build_circle Toolbar
+fact_check Homework
+cancel Exit Reader Mode
+-   school Campus Bookshelves
+-   menu_book Bookshelves
+-   perm_media Learning Objects
+-   login Login
+-   how_to_reg Request Instructor Account
+-   hub Instructor Commons
+Search
+Search this book
+Submit Search
+x
+Text Color
+Reset
+ Bright
+ Blues
+ Gray
+ Inverted
+Text Size
+Reset
++
+-
+Margin Size
+Reset
++
+-
+Font Type
+Enable Dyslexic Font  
+-   Downloads expand_more
+    -   Download Page (PDF)
+    -   Download Full Book (PDF)
+-   Resources expand_more
+    -   Periodic Table
+    -   Physics Constants
+    -   Scientific Calculator
+-   Reference expand_more
+    -   Reference & Cite
+-   Tools expand_more
+-   Help expand_more
+    -   Get Help
+    -   Feedback
+    -   Readability
+x
+selected template will load here
+Error
+This action is not available.
+[Library homepage]
+chrome_reader_mode Enter Reader Mode
+6: Equilibrium Chemistry
+Analytical Chemistry 2.1 (Harvey)
+{ }
+{ "6.01:_Reversible_Reactions_and_Chemical_Equilibria" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.02:_Thermodynamics_and_Equilibrium_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.03:_Manipulating_Equilibrium_Constants" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.04:_Equilibrium_Constants_for_Chemical_Reactions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.05:_Le_Chateliers_Principle" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.06:_Ladder_Diagrams" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.07:_Solving_Equilibrium_Problems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.08:_Buffer_Solutions" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.09:_Activity_Effects" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.10:_Using_Excel_and_R_to_Solve_Equilibrium_Problems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.11:_Some_Final_Thoughts_on_Equilibrium_Calculations" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.12:_Problems" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.13:_Additional_Resources" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "6.14:_Chapter_Summary_and_Key_Terms" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+{ "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "01:_Introduction_to_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "02:_Basic_Tools_of_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "03:__The_Vocabulary_of_Analytical_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "04:_Evaluating_Analytical_Data" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "05:_Standardizing_Analytical_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "06:_Equilibrium_Chemistry" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "07:_Obtaining_and_Preparing_Samples_for_Analysis" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "08:_Gravimetric_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "09:_Titrimetric_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "10:_Spectroscopic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "11:_Electrochemical_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "12:_Chromatographic_and_Electrophoretic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "13:_Kinetic_Methods" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "14:_Developing_a_Standard_Method" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "15:_Quality_Assurance" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "16:_Appendix" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass234_0.<PageSubPageProperty>b__1]()" }
+Sun, 12 Sep 2021 04:48:47 GMT
+6.9: Activity Effects
+127255
+127255
+admin
+{ }
+Anonymous
+Anonymous User
+2
+false
+false
+[ "article:topic", "chemical equilibrium", "activity coefficient", "ionic strength", "solubility product", "pH", "formation constant", "authorname:harveyd", "showtoc:no", "analytical chemistry", "Debye-H\u00fcckel equation", "metal-ligand complex", "license:ccbyncsa", "field:achem", "cssprint:dense", "licenseversion:40", "Fe(SCN)2+", "inert ions", "KNO3" ]
+[ "article:topic", "chemical equilibrium", "activity coefficient", "ionic strength", "solubility product", "pH", "formation constant", "authorname:harveyd", "showtoc:no", "analytical chemistry", "Debye-H\u00fcckel equation", "metal-ligand complex", "license:ccbyncsa", "field:achem", "cssprint:dense", "licenseversion:40", "Fe(SCN)2+", "inert ions", "KNO3" ]
+https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FAnalytical_Chemistry%2FAnalytical_Chemistry_2.1_by_David_Harvey%2FAnalytical_Chemistry_2.1_(Harvey)%2F06%253A_Equilibrium_Chemistry%2F6.09%253A_Activity_Effects
+[Chemistry LibreTexts]
+1.  Search site
+    Search
+    Search
+    Go back to previous article
+2.  1.  Username
+        Password
+        Sign in
+    2.  Sign in
+        -   Sign in
+        -   Forgot password
+Expand/collapse global hierarchy
+1.   Home
+2.   Bookshelves
+3.   Analytical Chemistry
+4.   Analytical Chemistry 2.1 by David Harvey
+5.   Analytical Chemistry 2.1 (Harvey)
+6.   6: Equilibrium Chemistry
+7.   6.9: Activity Effects
+Expand/collapse global location
+6.9: Activity Effects
+1.  
+    Last updated
+2.  Save as PDF
+3.  
+Page ID
+    127255
+-   [ ]
+-   David Harvey
+-   DePauw University
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+\( \newcommand{\dint}{\displaystyle\int\limits} \)
+\( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)
+( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\id}{\mathrm{id}}\)
+\( \newcommand{\Span}{\mathrm{span}}\)
+\( \newcommand{\kernel}{\mathrm{null}\,}\)
+\( \newcommand{\range}{\mathrm{range}\,}\)
+\( \newcommand{\RealPart}{\mathrm{Re}}\)
+\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+\( \newcommand{\Argument}{\mathrm{Arg}}\)
+\( \newcommand{\norm}[1]{\| #1 \|}\)
+\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+\( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+\( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)
+\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \)
+\(\newcommand{\longvect}{\overrightarrow}\)
+\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \)
+\(\newcommand{\ket}[1]{\left| #1 \right>}\)
+\(\newcommand{\bra}[1]{\left< #1 \right|}\)
+\(\newcommand{\braket}[2]{\left< #1 \vphantom{#2} \right| \left. #2 \vphantom{#1} \right>}\)
+\(\newcommand{\braopket}[3]{\left< #1 \vphantom{#2}\vphantom{#3} \right| #2 \vphantom{#1}\vphantom{#3} \left| #3 \vphantom{#1}\vphantom{#2} \right>}\)
+\(\newcommand{\qmvec}[1]{\mathbf{\vec{#1}}}\)
+\(\newcommand{\op}[1]{\hat{\mathbf{#1}}}\)
+\(\newcommand{\expect}[1]{\langle #1 \rangle}\)
+\(\newcommand{\dfn}[1]{\emph{\textbf{#1}}}\)
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\) \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)
+1.  Ionic Strength
+    1.  Example 6.9.1
+2.  Activity and Activity Coefficients
+3.  Including Activity Coefficients When Solving Equilibrium Problems
+    1.  Example 6.9.2
+    2.  Exercise 6.9.1
+Careful measurements on the metal–ligand complex Fe(SCN)²⁺ suggest its stability decreases in the presence of inert ions [Lister, M. W.; Rivington, D. E. Can. J. Chem. 1995, 33, 1572–1590]. We can demonstrate this by adding an inert salt to an equilibrium mixture of Fe³⁺ and SCN^(–). Figure 6.9.1 a shows the result of mixing together equal volumes of 1.0 mM FeCl₃ and 1.5 mM KSCN, both of which are colorless. The solution’s reddish–orange color is due to the formation of Fe(SCN)²⁺.
+\[\mathrm{Fe}^{3+}(a q)+\mathrm{SCN}^{-}(a q) \rightleftharpoons \mathrm{Fe}(\mathrm{SCN})^{2+}(a q) \label{6.1}\]
+[ ]
+Figure 6.9.1 . The effect of a inert salt on a reaction’s equilibrium position is shown by the solutions in these two beakers. The beaker on the left contains equal volumes of 1.0 mM FeCl₃ and 1.5 mM KSCN. The solution’s color is due to the formation of the metal–ligand complex Fe(SCN)²⁺. Adding 10 g of KNO₃ to the beaker on the left produces the result shown on the right. The lighter color suggests that there is less Fe(SCN)²⁺ as a result of the equilibrium in reaction \ref{6.1} shifting to the left.
+Adding 10 g of KNO₃ to the solution and stirring to dissolve the solid, produces the result shown in Figure 6.9.1 b. The solution’s lighter color suggests that adding KNO₃ shifts reaction \ref{6.1} to the left, decreasing the concentration of Fe(SCN)²⁺ and increasing the concentrations of Fe³⁺ and SCN^(–). The result is a decrease in the complex’s formation constant, K₁.
+\[K_{1}=\frac{\left[\mathrm{Fe}(\mathrm{SCN})^{2+}\right]}{\left[\mathrm{Fe}^{3+}\right]\left[\mathrm{SCN}^{-}\right]} \label{6.2}\]
+Why should adding an inert electrolyte affect a reaction’s equilibrium position? We can explain the effect of KNO₃ on the formation of Fe(SCN)²⁺ if we consider the reaction on a microscopic scale. The solution in Figure 6.9.1 b contains a variety of cations and anions: Fe³⁺, SCN^(–), K⁺, \(\text{NO}_3^-\), H₃O⁺, and OH^(–). Although the solution is homogeneous, on average, there are slightly more anions in regions near the Fe³⁺ ions, and slightly more cations in regions near the SCN^(–) ions. As shown in Figure 6.9.2 , each Fe³⁺ ion and each SCN^(–) ion is surrounded by an ionic atmosphere of opposite charge (\(\delta^–\) and \(\delta^+\)) that partially screen the ions from each other. Because each ion’s apparent charge at the edge of its ionic atmosphere is less than its actual charge, the force of attraction between the two ions is smaller. As a result, the formation of Fe(SCN)²⁺ is slightly less favorable and the formation constant in Equation \ref{6.2} is slightly smaller. Higher concentrations of KNO₃ increase \(\delta^–\) and \(\delta^+\), resulting in even smaller values for the formation constant.
+[The positive charge of iron surrounds it with a slight negative charge. The opposite is also true with SCN-.]
+Figure 6.9.2 . Ions of Fe³⁺ and SCN^(–) are surrounded by ionic atmospheres with net charges of \(\delta^–\) and \(\delta^+\). Because of these ionic atmospheres, each ion’s apparent charge at the edge of its ionic atmosphere is less than the ion’s actual charge.
+Ionic Strength
+To factor the concentration of ions into the formation constant for Fe(SCN)²⁺, we need a way to express that concentration in a meaningful way. Because both an ion’s concentration and its charge are important, we define the solution’s ionic strength, \(\mu\) as
+\[\mu=\frac{1}{2} \sum_{i=1}^{n} c_{i} z_{i}^{2} \nonumber\]
+where c_(i) and z_(i) are the concentration and charge of the i^(th) ion.
+Example 6.9.1 
+Calculate the ionic strength of a solution of 0.10 M NaCl. Repeat the calculation for a solution of 0.10 M Na₂SO₄.
+Solution
+The ionic strength for 0.10 M NaCl is
+\[\begin{array}{c}{\mu=\frac{1}{2}\left\{\left[\mathrm{Na}^{+}\right] \times(+1)^{2}+\left[\mathrm{Cl}^{-}\right] \times(-1)^{2}\right\}} \\ {\mu=\frac{1}{2}\left\{(0.10) \times(+1)^{2}+(0.10) \times(-1)^{2}\right\}=0.10 \ \mathrm{M}}\end{array} \nonumber\]
+For 0.10 M Na₂SO₄ the ionic strength is
+\[\begin{array}{c}{\mu=\frac{1}{2}\left\{\left[\mathrm{Na}^{+}\right] \times(+1)^{2}+\left[\mathrm{SO}_{4}^{2-}\right] \times(-2)^{2}\right\}} \\ {\mu=\frac{1}{2}\left\{(0.20) \times(+1)^{2}+(0.10) \times(-2)^{2}\right\}=0.30 \ \mathrm{M}}\end{array} \nonumber\]
+In calculating the ionic strengths of these solutions we are ignoring the presence of H₃O⁺ and OH^(–), and, in the case of Na₂SO₄, the presence of \(\text{HSO}_4^-\) from the base dissociation reaction of \(\text{SO}_4^{2-}\). In the case of 0.10 M NaCl, the concentrations of H₃O⁺ and OH^(–) are \(1.0 \times 10^{-7}\), which is significantly smaller than the concentrations of Na⁺ and Cl^(–). Because \(\text{SO}_4^{2-}\) is a very weak base (K_(b) = \(1.0 \times 10^{-12}\)), the solution is only slightly basic (pH = 7.5), and the concentrations of H₃O⁺, OH^(–), and \(\text{HSO}_4^-\) are negligible. Although we can ignore the presence of H₃O⁺, OH^(–), and \(\text{HSO}_4^-\) when we calculate the ionic strength of these two solutions, be aware that an equilibrium reaction can generate ions that might affect the solution’s ionic strength.
+Note that the unit for ionic strength is molarity, but that a salt’s ionic strength need not match its molar concentration. For a 1:1 salt, such as NaCl, ionic strength and molar concentration are identical. The ionic strength of a 2:1 electrolyte, such as Na₂SO₄, is three times larger than the electrolyte’s molar concentration.
+Activity and Activity Coefficients
+Figure 6.9.1 shows that adding KNO₃ to a mixture of Fe³⁺ and SCN^(–) decreases the formation constant for Fe(SCN)²⁺. This creates a contradiction. Earlier in this chapter we showed that there is a relationship between a reaction’s standard‐state free energy, ∆G^(o), and its equilibrium constant, K.
+\[\triangle G^{\circ}=-R T \ln K \nonumber\]
+Because a reaction has only one standard‐state, its equilibrium constant must be independent of solution conditions. Although ionic strength affects the apparent formation constant for Fe(SCN)²⁺, reaction \ref{6.1} must have an underlying thermodynamic formation constant that is independent of ionic strength.
+The apparent formation constant for Fe(SCN)²⁺, as shown in Equation \ref{6.2}, is a function of concentrations. In place of concentrations, we define the true thermodynamic equilibrium constant using activities. The activity of species A, a_(A), is the product of its concentration, [A], and a solution‐dependent activity coefficient, \(\gamma_A\)
+\[a_{A}=[A] \gamma_{A} \nonumber\]
+The true thermodynamic formation constant for Fe(SCN)²⁺, therefore, is
+\[K_{1}=\frac{a_{\mathrm{Fe}(S \mathrm{CN})^{2+}}}{a_{\mathrm{Fe}^{3+}} \times a_{\mathrm{SCN}^-}}=\frac{\left[\mathrm{Fe}(\mathrm{SCN})^{2+}\right] \gamma_{\mathrm{Fe}(\mathrm{SCN})^{2+}}}{\left[\mathrm{Fe}^{3+}\right] \gamma_{\mathrm{Fe}^{3+}}\left[\mathrm{SCN}^{-}\right] \gamma_{\mathrm{SCN}^{-}}} \nonumber\]
+Unless otherwise specified, the equilibrium constants in the appendices are thermodynamic equilibrium constants.
+A species’ activity coefficient corrects for any deviation between its physical concentration and its ideal value. For a gas, a pure solid, a pure liquid, or a non‐ionic solute, the activity coefficient is approximately one under most reasonable experimental conditions.
+For a gas the proper terms are fugacity and fugacity coefficient, instead of activity and activity coefficient.
+For a reaction that involves only these species, the difference between activity and concentration is negligible. The activity coefficient for an ion, however, depends on the solution’s ionic strength, the ion’s charge, and the ion’s size. It is possible to estimate activity coefficients using the extended Debye‐Hückel equation
+\[\log \gamma_{A}=\frac{-0.51 \times z_{A}^{2} \times \sqrt{\mu}}{1+3.3 \times \alpha_{A} \times \sqrt{\mu}} \label{6.3}\]
+where z_(A) is the ion’s charge, \(\alpha_A\) is the hydrated ion’s effective diameter in nanometers (Table 6.2), \(\mu\) is the solution’s ionic strength, and 0.51 and 3.3 are constants appropriate for an aqueous solution at 25^(o)C. A hydrated ion’s effective radius is the radius of the ion plus those water molecules closely bound to the ion. The effective radius is greater for smaller, more highly charged ions than it is for larger, less highly charged ions.
+  ion                                                                                                                        effective diameter (nm)
+  -------------------------------------------------------------------------------------------------------------------------- -------------------------
+  H₃O⁺                                                                                                                       0.9
+  Li⁺                                                                                                                        0.6
+  Na⁺, \(\text{IO}_3^-\), \(\text{HSO}_3^-\), \(\text{HCO}_3^-\), \(\text{H}_2\text{PO}_4^-\)                                0.45
+  OH^(–), F^(–), SCN^(–), HS^(–), \(\text{ClO}_3^-\), \(\text{ClO}_4^-\), \(\text{MnO}_4^-\)                                 0.35
+  K⁺, Cl^(–), Br^(–), I^(–), CN^(–), \(\text{NO}_2^-\), \(\text{NO}_3^-\)                                                    0.3
+  Cs⁺, Tl⁺, Ag⁺, \(\text{NH}_4^+\)                                                                                           0.25
+  Mg²⁺, Be²⁺                                                                                                                 0.8
+  Ca²⁺, Cu²⁺, Zn²⁺, Sn²⁺, Mn²⁺, Fe²⁺, Ni²⁺, Co²⁺                                                                             0.6
+  Sr²⁺, Ba²⁺, Cd²⁺, Hg²⁺, S^(2–)                                                                                             0.5
+  Pb²⁺, \(\text{SO}_4^{2-}\), \(\text{SO}_3^{2-}\)                                                                           0.45
+  \(\text{Hg}_2^{2+}\), \(\text{SO}_4^{2-}\), \(\text{S}_22\text{O}_3^{2-}\), \(\text{CrO}_4^{2-}\), \(\text{HPO}_4^{2-}\)   0.40
+  Al³⁺, Fe³⁺, Cr³⁺                                                                                                           0.9
+  \(\text{PO}_4^{3-}\), \(\text{Fe(CN)}_6^{3-}\)                                                                             0.4
+  Zr⁴⁺, Ce⁴⁺, Sn⁴⁺                                                                                                           1.1
+  \(\text{Fe(CN)}_6^{4-}\)                                                                                                   0.5
+  Source: Kielland, J. J. Am. Chem. Soc. 1937, 59, 1675–1678.                                                                
+  : Table 6.9.1 . Effective Diameters (\(\alpha\)) for Selected Ions
+Several features of Equation \ref{6.3} deserve our attention. First, as the ionic strength approaches zero an ion’s activity coefficient approaches a value of one. In a solution where \(\mu = 0\), an ion’s activity and its concentration are identical. We can take advantage of this fact to determine a reaction’s thermodynamic equilibrium constant by measuring the apparent equilibrium constant for several increasingly smaller ionic strengths and extrapolating back to an ionic strength of zero. Second, an activity coefficient is smaller, and the effect of activity is more important, for an ion with a higher charge and a smaller effective radius. Finally, the extended Debye‐Hückel equation provides a reasonable estimate of an ion’s activity coefficient when the ionic strength is less than 0.1. Modifications to Equation \ref{6.3} extend the calculation of activity coefficients to higher ionic strengths [Davies, C. W. Ion Association, Butterworth: London, 1962].
+Including Activity Coefficients When Solving Equilibrium Problems
+Earlier in this chapter we calculated the solubility of Pb(IO₃)₂ in deionized water, obtaining a result of \(4.0 \times 10^{-5}\) mol/L. Because the only significant source of ions is from the solubility reaction, the ionic strength is very low and we can assume that \(\gamma \approx 1\) for both Pb²⁺ and \(\text{IO}_3^-\). In calculating the solubility of Pb(IO₃)₂ in deionized water, we do not need to account for ionic strength. But what if we need to know the solubility of Pb(IO₃)₂ in a solution that contains other, inert ions? In this case we need to include activity coefficients in our calculation.
+Example 6.9.2 
+Calculate the solubility of Pb(IO₃)₂ in a matrix of 0.020 M Mg(NO₃)₂.
+Solution
+We begin by calculating the solution’s ionic strength. Since Pb(IO₃)₂ is only sparingly soluble, we will assume we can ignore its contribution to the ionic strength; thus
+\[\mu=\frac{1}{2}\left\{(0.020)(+2)^{2}+(0.040)(-1)^{2}\right\}=0.060 \ \mathrm{M} \nonumber\]
+Next, we use Equation \ref{6.3} to calculate the activity coefficients for Pb²⁺ and \(\text{IO}_3^-\).
+\[\log \gamma_{\mathrm{Pb}^{2+}}=\frac{-0.51 \times(+2)^{2} \times \sqrt{0.060}}{1+3.3 \times 0.45 \times \sqrt{0.060}}=-0.366 \nonumber\]
+\[\gamma_{\mathrm{Pb}^{2+}}=0.431 \nonumber\]
+\[\log \gamma_{\mathrm{IO}_{3}^{-}}=\frac{-0.51 \times(-1)^{2} \times \sqrt{0.060}}{1+3.3 \times 0.45 \times \sqrt{0.060}}=-0.0916 \nonumber\]
+\[\gamma_{\mathrm{IO}_{3}^-}=0.810 \nonumber\]
+Defining the equilibrium concentrations of Pb²⁺ and \(\text{IO}_3^-\) in terms of the variable x
+  ---------------- -------------- ------------------------ ----------- --- -------------------------
+  Concentrations   Pb(IO₃)₂ (s)   \(\rightleftharpoons\)   Pb²⁺ (aq)   +   2\(\text{IO}_3^-\) (aq)
+  initial          solid                                   0               0
+  change           solid                                   +x              +2x
+  equilibrium      solid                                   x               2x
+  ---------------- -------------- ------------------------ ----------- --- -------------------------
+and substituting into the thermodynamic solubility product for Pb(IO₃)₂ leaves us with
+\[K_{\mathrm{sp}}=a_{\mathrm{Pb}^{2+}} \times a_{\mathrm{IO}_{3}^-}^{2}=\gamma_{\mathrm{Pb}^{2+}}\left[\mathrm{Pb}^{2+}\right] \times \gamma_{\mathrm{IO}_3^-}^{2}\left[\mathrm{IO}_{3}^{-}\right]^{2}=2.5 \times 10^{-13} \nonumber\]
+\[K_{\mathrm{sp}}=(0.431)(x)(0.810)^{2}(2 x)^{2}=2.5 \times 10^{-13} \nonumber\]
+\[K_{\mathrm{sp}}=1.131 x^{3}=2.5 \times 10^{-13} \nonumber\]
+Solving for x gives \(6.0 \times 10^{-5}\) and a molar solubility of \(6.0 \times 10^{-5}\) mol/L for Pb(IO₃)₂. If we ignore activity, as we did in our earlier calculation, we report the molar solubility as \(4.0 \times 10^{-5}\) mol/L. Failing to account for activity in this case underestimates the molar solubility of Pb(IO₃)₂ by 33%.
+The solution’s equilibrium composition is
+\[\begin{array}{c}{\left[\mathrm{Pb}^{2+}\right]=6.0 \times 10^{-5} \ \mathrm{M}} \\ {\left[\mathrm{IO}_{3}^{-}\right]=1.2 \times 10^{-4} \ \mathrm{M}} \\ {\left[\mathrm{Mg}^{2+}\right]=0.020 \ \mathrm{M}} \\ {\left[\mathrm{NO}_{3}^{-}\right]=0.040 \ \mathrm{M}}\end{array} \nonumber\]
+Because the concentrations of both Pb²⁺ and \(\text{IO}_3^-\) are much smaller than the concentrations of Mg²⁺ and \(\text{NO}_3^-\) our decision to ignore the contribution of Pb²⁺ and \(\text{IO}_3^-\) to the ionic strength is reasonable.
+How do we handle the calculation if we can not ignore the concentrations of Pb²⁺ and \(\text{IO}_3^-\) when calculating the ionic strength. One approach is to use the method of successive approximations. First, we recalculate the ionic strength using the concentrations of all ions, including Pb²⁺ and \(\text{IO}_3^-\). Next, we recalculate the activity coefficients for Pb²⁺ and \(\text{IO}_3^-\) using this new ionic strength and then recalculate the molar solubility. We continue this cycle until two successive calculations yield the same molar solubility within an acceptable margin of error.
+Exercise 6.9.1 
+Calculate the molar solubility of Hg₂Cl₂ in 0.10 M NaCl, taking into account the effect of ionic strength. Compare your answer to that from Exercise 6.7.2 in which you ignored the effect of ionic strength.
+Answer
+    We begin by calculating the solution’s ionic strength. Because NaCl is a 1:1 ionic salt, the ionic strength is the same as the concentration of NaCl; thus \(\mu\) = 0.10 M. This assumes, of course, that we can ignore the contributions of \(\text{Hg}_2^{2+}\) and Cl^(–) from the solubility of Hg₂Cl₂.
+    Next we use Equation \ref{6.3} to calculate the activity coefficients for \(\text{Hg}_2^{2+}\) and Cl^(–).
+    \[\log \gamma_{\mathrm{Hg}_{2}^{2+}}=\frac{-0.51 \times(+2)^{2} \times \sqrt{0.10}}{1+3.3 \times 0.40 \times \sqrt{0.10}}=-0.455 \nonumber\]
+    \[\gamma_{\mathrm{H} \mathrm{g}_{2}^{2+}}=0.351 \nonumber\]
+    \[\log \gamma_{\mathrm{Cl}^{-}}=\frac{-0.51 \times(-1)^{2} \times \sqrt{0.10}}{1+3.3 \times 0.3 \times \sqrt{0.10}}=-0.12 \nonumber\]
+    \[\gamma_{\mathrm{Cl}^-}=0.75 \nonumber\]
+    Defining the equilibrium concentrations of \(\text{Hg}_2^{2+}\) and Cl^(–) in terms of the variable x
+      ---------------- ------------ ------------------------ --------------------------- --- --------------
+      concentrations   Hg2Cl2 (s)   \(\rightleftharpoons\)   \(\text{Hg}_2^{2+}\) (aq)   +   2Cl^(–) (aq)
+      initial          solid                                 0                               0.10
+      change           solid                                 +x                              +2x
+      equilibrium      solid                                 x                               0.10 + 2x
+      ---------------- ------------ ------------------------ --------------------------- --- --------------
+    and substituting into the thermodynamic solubility product for Hg₂Cl₂, leave us with
+    \[K_{\mathrm{sp}}=a_{\mathrm{Hg}_{2}^{2+}}\left(a_{\mathrm{Cl}^-}\right)^{2} = \gamma_{\mathrm{Hg}_{2}^{2+}}\left[\mathrm{Hg}_{2}^{2+}\right]\left(\gamma_{\mathrm{Cl}^{-}}\right)^{2}\left[\mathrm{Cl}^{-}\right]^{2}=1.2 \times 10^{-18} \nonumber\]
+    Because the value of x likely is small, let’s simplify this equation to
+    \[(0.351)(x)(0.75)^{2}(0.1)^{2}=1.2 \times 10^{-18} \nonumber\]
+    Solving for x gives its value as \(6.1 \times 10^{-16}\). Because x is the concentration of \(\text{Hg}_2^{2+}\) and 2x is the concentration of Cl^(–), our decision to ignore their contributions to the ionic strength is reasonable. The molar solubility of Hg₂Cl₂ in 0.10 M NaCl is \(6.1 \times 10^{-16}\) mol/L. In Exercise 6.7.2, where we ignored ionic strength, we determined that the molar solubility of Hg₂Cl₂ is \(1.2 \times 10^{-16}\) mol/L, a result that is \(5 \times\) smaller than the its actual value.
+As Example 6.9.2 and Exercise 6.9.1 show, failing to correct for the effect of ionic strength can lead to a significant error in an equilibrium calculation. Nevertheless, it is not unusual to ignore activities and to assume that the equilibrium constant is expressed in terms of concentrations. There is a practical reason for this—in an analysis we rarely know the exact composition, much less the ionic strength of aqueous samples or of solid samples brought into solution. Equilibrium calculations are a useful guide when we develop an analytical method; however, it only is when we complete an analysis and evaluate the results that can we judge whether our theory matches reality. In the end, work in the laboratory is the most critical step in developing a reliable analytical method.
+This is a good place to revisit the meaning of pH. In Chapter 2 we defined pH as
+\[\mathrm{pH}=-\log \left[\mathrm{H}_{3} \mathrm{O}^{+}\right] \nonumber\]
+Now we see that the correct definition is
+\[\begin{array}{c}{\mathrm{pH}=-\log a_{\mathrm{H}_{3} \mathrm{O}^{+}}} \\ {\mathrm{pH}=-\log \gamma_{\mathrm{H}_{3} \mathrm{O}^{+}}\left[\mathrm{H}_{3} \mathrm{O}^{+}\right]}\end{array} \nonumber\]
+Failing to account for the effect of ionic strength can lead to a significant error in the reported concentration of H₃O⁺. For example, if the pH of a solution is 7.00 and the activity coefficient for H₃O⁺ is 0.90, then the concentration of H₃O⁺ is \(1.11 \times 10^{-7}\) M, not \(1.00 \times 10^{-7}\) M, an error of +11%. Fortunately, when we develop and carry out an analytical method, we are more interested in controlling pH than in calculating [H₃O⁺]. As a result, the difference between the two definitions of pH rarely is of significant concern.
+------------------------------------------------------------------------

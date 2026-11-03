@@ -1,0 +1,27 @@
+adres: https://shop.elsevier.com/books/ideas-of-quantum-chemistry/piela/978-0-444-64246-2
+data: 2026-11-03
+metoda: curl + pandoc (strona wydawcy); Open Library API (ISBN 9780444642462, 9780444642486, 9780444642493); BN (wydanie 2, 2013)
+
+Volume 1: From Quantum Physics to Chemistry
+-   3rd Edition - January 11, 2020
+-   Latest edition
+-   Author: Lucjan Piela
+Ideas of Quantum Chemistry, Volume One: From Quantum Physics to Chemistry shows how quantum mechanics is applied to molecular sciences to provide a theoretical foundatio… Read more []
+Ideas of Quantum Chemistry, Volume One: From Quantum Physics to Chemistry shows how quantum mechanics is applied to molecular sciences to provide a theoretical foundation. Organized into digestible sections and written in an accessible style, it answers questions, highlighting the most important conclusions and essential mathematical formulae. Beginning with an introduction to the magic of quantum mechanics, the book goes on to review such key topics as the Schrödinger Equation, exact solutions, and fundamental approximate methods. The crucial concept of molecular shape is then discussed, followed by the motion of nuclei and the orbital model of electronic structure.
+This updated volume covers the latest developments in the field and can be used either on its own as a detailed introduction to quantum chemistry or in combination with Volume Two to give a complete overview of the field.
+1. The Magic of Quantum Mechanics
+2. The Schrödinger Equation
+3. Beyond the Schrödinger Equation
+4. Exact Solutions - Our Beacons
+5. Two Fundamental Approximate Methods
+6. The Crucial Concept of Molecular Shape
+7. Motion of Nuclei
+8. Orbital Model of Electronic Structure: Atoms and Molecules
+-   Edition: 3
+-   Latest edition
+-   Published: January 11, 2020
+Lucjan Piela
+Professor Piela received his bachelor degree in 1960 from the histroric Konarski College in his home town of Rzeszow, Poland. In 1965, he graduated with a Masters of Science from the University of Warsaw and, after obtaining his Ph.D. from the same university 5 years later, went on to became a professor in 1976. In addition to his work in Warsaw, he has carried out research in the Centre Européen de Calcul Atomique et Moléculaire (France), Facultés Universitaires de Namur (Belgium) and Cornell University (USA). In addition to being the author of about hundred papers published in international journals, Professor Piela is an elected member of the Academie Royale des Sciences, Lettres et Beaux-Arts de Belgique, and a member of the European Academy of Sciences.
+Department of Chemistry, University of Warsaw, Warsaw, Poland
+
+Open Library: Ideas of Quantum Chemistry | From Quantum Physics to Chemistry | Lucjan Piela | Elsevier | 2020 (ISBN 9780444642462); tom 2: Interactions, Elsevier 2020 (ISBN 9780444642486 / 9780444642493, 685 s.)

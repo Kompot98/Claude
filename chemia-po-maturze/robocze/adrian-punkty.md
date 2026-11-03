@@ -12,8 +12,8 @@ Punkty ze zlecenia (sekcja „Słowa zleceniodawcy”) i miejsce, gdzie stoją w
 | 6 | książki drogie, mało egzemplarzy, wiele postaci, PL lub EN | 01, „Zasada trzecia” | dosłownie; drogi legalne dopisane bezosobowo (decyzja zlecenia) |
 | 7 | źródła angielskojęzyczne od początku | 01, „Zasada czwarta” | dosłownie |
 | 8 | kanały i strony, które pomagają; wydobyć, co mają dobrego | 03, wstęp | dosłownie; dopisane „Ten rozdział robi to za Ciebie” |
-| 9 | aktywność, chemia kwantowa (Piela), spektroskopia spotka każdy | 04c, akapit otwierający; 04a i 04b po napisaniu | dosłownie w 04c; 04a, 04b do uzupełnienia w etapie 6 |
-| 10 | laboratorium (punkt przyjęty na propozycję) | 04d po napisaniu | do uzupełnienia w etapie 6 |
+| 9 | aktywność, chemia kwantowa (Piela), spektroskopia spotka każdy | akapity otwierające 04a, 04b, 04c | dosłownie („Każdy na studiach dowie się…”, „…usłyszy o chemii kwantowej”, „…spotka spektroskopię”); w 04b „Polecam podręcznik Lucjana Pieli” |
+| 10 | laboratorium (punkt przyjęty na propozycję) | 04d, pierwsze zdanie | dosłownie |
 | 11 | mapa „co z matury zamienia się w co” | cały rozdział 2 | rama rozdziału |
 | 12 | matematyka bez rozdziału | 03, „Matematyka”: „matematyka to matematyka” | parafraza w trzeciej osobie („ten bonus nie poświęca…, bo matematyka to matematyka”) |
 | strona kursu | „Przez 5 lat korepetycji ze studentami widziałem…” | 00, pierwsze zdanie | dosłownie |

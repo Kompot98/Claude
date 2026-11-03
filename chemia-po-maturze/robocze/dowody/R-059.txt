@@ -1,0 +1,7 @@
+adres: https://data.bn.org.pl/api/institutions/bibs.json?id=2737030
+data: 2026-11-03
+metoda: API Biblioteki Narodowej
+
+https://data.bn.org.pl/api/institutions/bibs.json?title=Idee+chemii+kwantowej&limit=100&author=Piela
+2011 | Idee chemii kwantowej (pol.) Idee chemii kwantowej / | Piela, Lucjan (1943- ) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydawnictwo Naukowe PWN, | Wyd. 2. zm. | 9788301168537 | 2737030 | książka
+2003 | Idee chemii kwantowej (pol.) Idee chemii kwantowej / | Piela, Lucjan (1943- ) Wydawnictwo Naukowe PWN | Wydawnictwo Naukowe PWN Wydaw. Naukowe PWN, | Wyd. 1. | 8301140003 | 1598547 | książka

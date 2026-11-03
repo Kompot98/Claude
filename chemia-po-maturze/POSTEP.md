@@ -51,3 +51,9 @@ Dalej: rozdziały 1 i 0.
 Zrobione: rozdział 1 (4,1 strony) z punktami 1–7 Adriana dosłownie i dodatkami bezosobowymi (jak czytać sylabus na przykładzie karty UM w Łodzi, legalne drogi do książek na przykładzie poradnika UWr o IBUK Libra, czytanie podręcznika wybiórczo). Wstęp (1,5 strony) ze zdaniem o „ścianie” i mapą czytania. Wstęp do rozdziału 3 z punktem 8. Lista kontrolna punktów Adriana w `robocze/adrian-punkty.md`. Nowe źródło Z-025.
 
 Dalej: wprowadzenia 4a, 4b, 4d.
+
+## 2026-11-03, etap 7: wprowadzenia 4a, 4b, 4d
+
+Zrobione: 4a aktywność (Harvey 6.9, Peverati 14.1, OpenStax 13.2; przykład z Fe(SCN)²⁺ i rozpuszczalnością Pb(IO₃)₂), 4b chemia kwantowa (OpenStax 6.3 i 8.4; sylabusy UJ, UW, WUM; Piela: wydanie polskie 2011 z BN, angielskie 3. z 2020 ze strony wydawcy i Open Library), 4d laboratorium (sylabusy UM Łódź, UKSW, UR; Sandtorv 1.2, 1.4, 6.1). Każde ma komentarze źródłowe przy zdaniach merytorycznych. Nowe źródła Z-026 do Z-032, nowe zasoby R-059 do R-061. Wszystkie 61 zasobów i 32 źródła są cytowane; `sprawdz.py --dowody` bez błędów. Całość ma 39 stron.
+
+Dalej: rysunki, rozdział 5, weryfikacja całości, raport.
