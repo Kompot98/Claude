@@ -97,3 +97,9 @@ Format wpisu: co, dlaczego, co odrzucone. Wpisów nie kasuję; zmianę zapisuję
 **Co:** (1) Rysunków z OpenStax nie używamy; wszystkie brakujące rysunki są wstawkami `[RYSUNEK]` dla agenta od obrazków. (2) Chemistry World dopisany jako jedno hasło w rozdziale 3, przy chemii ogólnej, w części „Strony, artykuły i bazy danych” (R-063). (3) Polski kurs Khan Academy „Chemia organiczna” dopisany jako polski materiał w rozdziale 3 (R-062). (4) Piela: polskie wydanie na start, angielskie jako nowsze; zostaje miejsce na zdanie Adriana, dlaczego Piela. (5) Bez wskazywania serwisów z cudzymi notatkami.
 **Dlaczego:** decyzja zleceniodawcy z 3.11.2026.
 **Odrzucone:** nic.
+
+## D-17, 2026-11-03: wstawki na rysunki z identyfikatorami (zastępuje częściowo D-13)
+
+**Co:** zgodnie z prośbą zleceniodawcy („jak nie ma obrazka, ale wiesz, że byłby dobry, dawaj wstawkę”) w całym kursie stoją 23 wstawki `[RYSUNEK: F-xx, typ. Opis. Podpis: „…”]`: 13 „do znalezienia” (obraz, który prawdopodobnie istnieje na wolnej licencji, np. widmo elektromagnetyczne, kształty orbitali, zestaw do miareczkowania) i 10 „do narysowania” (schematy z danymi bonusu, np. porównanie kierunku lekarskiego na trzech uczelniach). Rejestr `dane/rysunki-plan.csv` ma dla każdej wstawki opis, podpis, frazy do wyszukania, miejsce szukania i wymaganą licencję; `RYSUNKI-DO-ZNALEZIENIA.md` to ta sama lista do czytania (generowana skryptem `rysunki_md.py`). `sprawdz.py` pilnuje zgodności wstawek z rejestrem.
+**Dlaczego:** agent od obrazków dostaje jedną listę z wszystkim, czego potrzebuje, a wstawki w tekście mówią, gdzie co ma stanąć. Rysunki „do narysowania” pokazują dane z sylabusów, których nigdzie indziej nie ma.
+**Odrzucone:** wstawki bez identyfikatorów (trudno je śledzić), rysunki z OpenStax i LibreTexts NC.

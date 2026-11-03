@@ -10,6 +10,8 @@ Laboratorium, nazywane też pracownią, to zajęcia w sali z dygestoriami i odcz
 
 BHP, czyli bezpieczeństwo i higiena pracy, to pierwsze zajęcia każdej pracowni. Na przykład pierwsze ćwiczenie laboratorium chemii ogólnej na biotechnologii UKSW to „Zasady BHP” [Z-019], a na Uniwersytecie Rzeszowskim zajęcia zaczynają się od przepisów BHP i regulaminu pracowni [Z-020]. Podstawowe zasady opisuje na przykład otwarty podręcznik pracy laboratoryjnej: okulary ochronne zakłada się na całe zajęcia, fartuch jest pierwszą osłoną przed odczynnikami, a pracę z lotnymi substancjami wykonuje się pod dygestorium, czyli wyciągiem z silnym przepływem powietrza. <!-- Z-032: Sandtorv 1.2, lista „Lab goggles”, „Lab coat”, „Fume-hoods” --> Na pracowni w Łodzi za pracę bez zapiętego fartucha, okularów czy ze związanymi włosami, mimo upomnienia, odejmuje się punkty [Z-017].
 
+[RYSUNEK: F-21, do znalezienia. Zdjęcie osoby pracującej pod dygestorium w okularach ochronnych i zapiętym fartuchu. Podpis: „Okulary, fartuch, dygestorium: trzy rzeczy, od których zaczyna się każda pracownia.”]
+
 Przed ćwiczeniem warto sprawdzić, z jakimi substancjami będziesz pracować. Każda ma kartę charakterystyki (po angielsku SDS, safety data sheet): dokument z informacjami o zagrożeniach i bezpiecznym postępowaniu. <!-- Z-032: Sandtorv 1.2, akapit o SDS („legally required information sheets”) --> Podstawowe dane o zagrożeniach wielu substancji ma też bezpłatna baza PubChem w sekcji „Safety and Hazards” [R-037].
 
 ### Kolokwium wejściowe
@@ -26,11 +28,13 @@ Dziennik laboratoryjny to zeszyt prowadzony na bieżąco w pracowni. Zapisuje si
 
 Dziennik zaczyna się przed zajęciami. Jeden z otwartych podręczników pracy laboratoryjnej radzi wpisać przed ćwiczeniem: tytuł i równanie reakcji, schemat przebiegu ćwiczenia, listę odczynników z ich zagrożeniami oraz tabelę z ilościami, które masz odmierzyć, z miejscem na ilości rzeczywiście użyte. <!-- Z-032: Sandtorv 1.4, lista pięciu elementów przygotowania dziennika i tabela syntezy --> Taka tabela przydaje się potem w sprawozdaniu, bo masz w jednym miejscu dane do obliczeń wydajności.
 
-[RYSUNEK: przykładowa strona dziennika laboratoryjnego: tytuł ćwiczenia, równanie reakcji, tabela odczynników z kolumnami „masa molowa, gęstość, ilość zaplanowana, ilość użyta, liczba moli”, pole na obserwacje]
+[RYSUNEK: F-22, do narysowania. Przykładowa strona dziennika laboratoryjnego: tytuł ćwiczenia, równanie reakcji, tabela odczynników (masa molowa, gęstość, ilość zaplanowana, ilość użyta, liczba moli), pole na obserwacje. Podpis: „Dziennik zaczyna się przed zajęciami: tabela odczynników z miejscem na ilości użyte.”]
 
 ### Sprawozdanie
 
 Sprawozdanie to pisemne opracowanie wykonanego ćwiczenia, oceniane przez prowadzącego. Jeden z otwartych podręczników pracy laboratoryjnej opisuje je jako artykuł naukowy w małej skali: po co było ćwiczenie, jak je wykonano, co wyszło i co z tego wynika. <!-- Z-032: Sandtorv 6.1, podział na „the why”, „the how”, „the what” i tabela sekcji raportu --> W praktyce: cel, opis wykonania, wyniki (zwykle w tabeli), obliczenia, dyskusja wyników i wnioski. Wymagania co do formy różnią się między pracowniami, więc pierwsze sprawozdanie warto napisać z regulaminem pracowni obok.
+
+[RYSUNEK: F-23, do narysowania. Schemat części sprawozdania jedna pod drugą: cel, opis wykonania, wyniki, obliczenia, dyskusja, wnioski, z dopiskiem przy każdej, na jakie pytanie odpowiada (po co, jak, co wyszło, co z tego wynika). Podpis: „Części sprawozdania i pytania, na które odpowiadają.”]
 
 Katedra Chemii Fizycznej Politechniki Warszawskiej ma na swojej playliście dwa dłuższe filmy, które warto obejrzeć niezależnie od uczelni: regulamin pracowni i ponad półgodzinne „Uwagi do sprawozdań” [R-038]. Do części obliczeniowej, w tym niepewności pomiaru, przydaje się rozdział 4 podręcznika analityki Harveya o ocenie danych [R-047].
 

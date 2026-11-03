@@ -22,11 +22,17 @@ Pierwszorzędowe źródło to zawsze wykłady i slajdy z ćwiczeń. Zapamiętaj 
 
 Wynika to wprost z poprzedniej części. Skoro każdy wykładowca wybiera z chemii co innego, to tylko jego wykład mówi, co wybrał. Podręcznik, film i strona internetowa przydają się dopiero wtedy, gdy wiesz, czego szukasz. W praktyce kolejność nauki wygląda tak: notatki i slajdy, potem podręcznik albo film na ten jeden temat, którego nie rozumiesz, potem zadania.
 
+[RYSUNEK: F-01, do narysowania. Schemat w trzech krokach ze strzałkami: 1. wykład i slajdy (podpis: co wybrał prowadzący), 2. podręcznik albo film na jeden temat, którego nie rozumiesz, 3. zadania. Podpis: „Kolejność nauki na studiach: najpierw to, co wybrał prowadzący.”]
+
 Drugim źródłem informacji o wymaganiach jest sylabus. Warto go przeczytać w pierwszym tygodniu, bo mówi rzeczy, których nikt nie powtórzy na zajęciach. Przykład z karty przedmiotu „Chemia ogólna i nieorganiczna” na analityce medycznej Uniwersytetu Medycznego w Łodzi [Z-017]: karta wymienia tematy wykładów z liczbą godzin na każdy, opisuje laboratorium, podaje, że do egzaminu dopuszcza zaliczenie laboratorium i ćwiczeń rachunkowych, i rozpisuje, ile punktów daje każda część. Mówi też rzeczy praktyczne: spóźnienie ponad kwadrans odbiera możliwość napisania sprawdzianu, a za pracę bez okularów ochronnych czy zapiętego fartucha odejmuje się punkty. Sylabusy są publiczne: w USOS (Uniwersyteckim Systemie Obsługi Studiów, w którym student widzi plan, oceny i przedmioty), na stronie wydziału albo w osobnym serwisie uczelni. Warto zacząć od trzech części: treści programowych, literatury i warunków zaliczenia.
+
+[RYSUNEK: F-02, do narysowania. Uproszczona, fikcyjna karta przedmiotu (sylabus) z wyróżnionymi trzema polami: treści programowe, literatura, warunki zaliczenia; mniejszym drukiem godziny, punkty ECTS, forma zaliczenia. Podpis: „Na co patrzeć w sylabusie: treści, literatura, warunki zaliczenia.”]
 
 ### Zasada druga: pytaj starsze roczniki
 
 Ogromnie ważne jest wypytywanie starszych roczników o wykłady, notatki i materiały. To, co w książce zajmuje rozdział na trzydzieści stron, wykładowca potrafi zmieścić w dziesięciu procentach, i tylko z tych dziesięciu procent robi pytania.
+
+[RYSUNEK: F-03, do narysowania. Gruby rozdział podręcznika (około 30 stron) z zaznaczonym małym fragmentem (około jednej dziesiątej), strzałka do slajdów wykładu i do kartki z pytaniami na kolokwium. Podpis: „Z rozdziału na trzydzieści stron na wykład trafia mała część, i z niej są pytania.”]
 
 Starsze roczniki to studenci wyższych lat Twojego kierunku. Znają prowadzących, wiedzą, jak wyglądały kolokwia, czyli sprawdziany pisane w trakcie semestru, i jak wyglądał egzamin w sesji, czyli w okresie egzaminów na koniec semestru. Materiały krążą zwykle w grupach roku na komunikatorach i przez koła naukowe, czyli studenckie stowarzyszenia przy katedrach. Dobrym pierwszym kontaktem jest starosta roku, czyli student wybrany na łącznika między rokiem a prowadzącymi.
 

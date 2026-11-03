@@ -124,6 +124,25 @@ def main(argv):
     for p in pliki_rys - w_rejestrze:
         blad(bledy, f"rysunki/: plik {p} bez wiersza w rysunki.csv")
 
+    # plan rysunków: wstawki [RYSUNEK: F-xx, …] w treści i wiersze w rysunki-plan.csv
+    plan = {w["id"]: w for w in wczytaj_csv("rysunki-plan.csv")}
+    wstawki = odwolania(r"\[RYSUNEK: (F-\d{2}),")
+    for i, miejsca in wstawki.items():
+        if i not in plan:
+            blad(bledy, f"treść: wstawka {i} ({miejsca[0][0]}:{miejsca[0][1]}) bez wiersza w rysunki-plan.csv")
+        elif plan[i]["rozdzial"] != miejsca[0][0]:
+            blad(bledy, f"rysunki-plan.csv: {i} przypisany do {plan[i]['rozdzial']}, a stoi w {miejsca[0][0]}")
+    for i, w in plan.items():
+        if i not in wstawki:
+            blad(bledy, f"rysunki-plan.csv: {i} nie ma wstawki w treści")
+        if w["typ"] not in ("do znalezienia", "do narysowania"):
+            blad(bledy, f"rysunki-plan.csv: {i} typ {w['typ']!r} spoza listy")
+    for sciezka in pliki_tresci():
+        with open(sciezka, encoding="utf-8") as f:
+            for nr, linia in enumerate(f, 1):
+                if re.search(r"\[RYSUNEK: (?!F-\d{2},)", linia):
+                    blad(bledy, f"{os.path.basename(sciezka)}:{nr}: wstawka rysunku bez identyfikatora F-xx")
+
     # pliki dowodów
     if "--dowody" in argv:
         katalog = os.path.join(KORZEN, "robocze", "dowody")
@@ -140,7 +159,7 @@ def main(argv):
 
     for b in bledy:
         print("BŁĄD:", b)
-    print(f"zasoby: {len(zasoby)}, źródła: {len(zrodla)}, rysunki: {len(rysunki)}, błędy: {len(bledy)}",
+    print(f"zasoby: {len(zasoby)}, źródła: {len(zrodla)}, rysunki: {len(rysunki)}, plan rysunków: {len(plan)}, błędy: {len(bledy)}",
           file=sys.stderr)
     return 1 if bledy else 0
 

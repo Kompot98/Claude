@@ -73,3 +73,9 @@ Zrobione: `RAPORT.md` (rozdziały z długością, 29 odrzuconych lub odłożonyc
 Zrobione: zastosowane rekomendacje z raportu (D-16). Dwa nowe zasoby z wyników wyszukiwarki (R-062 Khan Academy po polsku „Chemia organiczna”, R-063 Chemistry World; D-15). Dwa nowe źródła: Harvey 5.3 o krzywej kalibracyjnej (Z-033) i sekcja „Chemia organiczna” z przewodnika analityki WUM (Z-034). Rozwiązane wszystkie trzy `[SPRAWDZIĆ]`: wiersze XI–XVII mapy oparte na sylabusie, krzywa wzorcowa w 4c oparta na Harveyu, zdanie o Atkinsie i Minczewskim przepisane na wskazówkę bez przypisywania treści. Rejestr: 63 zasoby, 34 źródła, wszystko cytowane.
 
 Dalej: wstawki na rysunki (checkpoint B).
+
+## 2026-11-03, checkpoint B: wstawki na rysunki
+
+Zrobione: 23 wstawki w rozdziałach 1–4 (D-17), rejestr `dane/rysunki-plan.csv`, lista `RYSUNKI-DO-ZNALEZIENIA.md`, kontrola w `sprawdz.py`. Przy okazji: poprawione wprowadzenie do chemii fizycznej w rozdziale 3 (na części kierunków przychodzi na drugim roku, PW sem. 3).
+
+Dalej: redakcja końcowa i wydanie (checkpoint C).

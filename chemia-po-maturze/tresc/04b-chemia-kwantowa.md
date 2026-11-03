@@ -10,9 +10,15 @@ Z falowej natury cząstek wynika zasada nieoznaczoności Heisenberga: nie da si�
 
 Orbital, który znasz z matury, to właśnie taki obszar, w którym elektron najprawdopodobniej przebywa, wyliczony z rozwiązań równania Schrödingera. Liczby kwantowe n, l i m, które na maturze były do zapamiętania, wychodzą z tych rozwiązań: n określa energię i rozmiar orbitalu, l jego kształt, a m ustawienie w przestrzeni. <!-- Z-030: 6.3, akapity o liczbach kwantowych n, l, m_l i orbitalach -->
 
-[RYSUNEK: porównanie modelu Bohra (elektron na kołowej orbicie) z orbitalem 1s przedstawionym jako chmura gęstości prawdopodobieństwa; podpis: na maturze orbita, na studiach prawdopodobieństwo]
+[RYSUNEK: F-12, do narysowania. Dwa obrazy obok siebie: model Bohra (elektron na kołowej orbicie wokół jądra) i orbital 1s jako chmura gęstości prawdopodobieństwa. Podpis: „Na maturze orbita, na studiach prawdopodobieństwo.”]
+
+[RYSUNEK: F-13, do znalezienia. Kształty orbitali s, p (trzy ustawienia) i d (pięć) w jednym zestawieniu. Podpis: „Orbitale s, p i d: kształty, które wynikają z rozwiązań równania Schrödingera.”]
 
 Drugie miejsce, gdzie kwanty zmieniają obraz z matury, to wiązania. Struktura Lewisa cząsteczki O₂ ma wiązanie podwójne i same sparowane elektrony. Tymczasem ciekły tlen jest przyciągany przez magnes, a pomiary pokazują, że każda cząsteczka O₂ ma dwa niesparowane elektrony. Wyjaśnia to dopiero teoria orbitali molekularnych, w której elektrony należą do całej cząsteczki, a nie do pary atomów. <!-- Z-031: OpenStax Chemistry 2e, 8.4, akapity otwierające o paramagnetyzmie O₂ i tabela porównania teorii wiązań walencyjnych i orbitali molekularnych -->
+
+[RYSUNEK: F-14, do znalezienia. Diagram orbitali molekularnych cząsteczki O₂ z dwoma niesparowanymi elektronami na orbitalach π*. Podpis: „Teoria orbitali molekularnych pokazuje dwa niesparowane elektrony w O₂, których nie widać w strukturze Lewisa.”]
+
+[RYSUNEK: F-15, do znalezienia. Zdjęcie ciekłego tlenu zatrzymanego między biegunami magnesu. Podpis: „Ciekły tlen przyciągany przez magnes: dowód na niesparowane elektrony.”]
 
 ### Czego oczekuje się na pierwszym roku
 

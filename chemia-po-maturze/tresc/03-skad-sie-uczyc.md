@@ -10,6 +10,8 @@ Rozdział jest ułożony według przedmiotów, a w każdym przedmiocie najpierw 
 
 Z matury znasz organiczną jako katalog: grupa funkcyjna, nazwa, kilka reakcji, które trzeba umieć zapisać. Na studiach do tego samego materiału dochodzi pytanie „dlaczego”: którędy płyną elektrony, skąd atakuje odczynnik, dlaczego powstaje ten produkt, a nie inny. To się nazywa mechanizm reakcji i rysuje się go zakrzywionymi strzałkami. Większość zasobów niżej jest po to, żeby te strzałki zaczęły mieć sens.
 
+[RYSUNEK: F-06, do znalezienia. Mechanizm substytucji nukleofilowej SN2 z zakrzywionymi strzałkami, na prostym przykładzie (np. jon wodorotlenkowy i bromometan albo bromoetan), z zaznaczonym stanem przejściowym. Podpis: „Mechanizm reakcji rysuje się zakrzywionymi strzałkami: każda pokazuje, skąd i dokąd przesuwa się para elektronów.”]
+
 Kolejność, która zwykle działa: najpierw notatki z wykładu, potem krótki film albo artykuł na jeden temat, którego nie rozumiesz, potem zadania. Podręcznik otwierasz na konkretnym podrozdziale, a nie od pierwszej strony.
 
 ### Polskie materiały uczelni
@@ -92,7 +94,9 @@ Chemistry World to magazyn Royal Society of Chemistry, brytyjskiego towarzystwa 
 
 ## Chemia fizyczna
 
-Chemia fizyczna na pierwszym roku jest trudna. Wraca w niej kinetyka i energetyka z matury, ale tym razem z pochodnymi, całkami i logarytmami, a do tego dochodzą entropia, entalpia swobodna, równowagi fazowe i elektrochemia opisana wzorami. Dlatego warto mieć pod ręką także hasło o matematyce na końcu tego rozdziału.
+Chemia fizyczna jest trudna. Na części kierunków przychodzi dopiero na drugim roku, na przykład na technologii chemicznej PW w trzecim semestrze [Z-023], ale jej podstawy (termodynamika, kinetyka) bywają już w chemii ogólnej pierwszego semestru [Z-021]. Wraca w niej kinetyka i energetyka z matury, ale tym razem z pochodnymi, całkami i logarytmami, a do tego dochodzą entropia, entalpia swobodna, równowagi fazowe i elektrochemia opisana wzorami. Dlatego warto mieć pod ręką także hasło o matematyce na końcu tego rozdziału.
+
+[RYSUNEK: F-07, do znalezienia. Uproszczony wykres fazowy wody (ciśnienie od temperatury) z obszarami ciała stałego, cieczy i gazu, punktem potrójnym i punktem krytycznym. Podpis: „Wykres fazowy wody, jeden z pierwszych rysunków chemii fizycznej.”]
 
 ### Polskie materiały uczelni
 
@@ -120,6 +124,8 @@ Analityka odpowiada na dwa pytania: co jest w próbce i ile tego jest. Z matury 
 
 Uniwersytet Śląski ma playlistę „Chemia analityczna” z ośmioma krótkimi filmami z pracowni [R-025]: cztery miareczkowania (alkacymetria z różnymi wskaźnikami, manganometria, oznaczanie chlorków metodą Mohra) i trzy metody instrumentalne (spektrofotometria UV-VIS, absorpcyjna spektrometria atomowa, fluorescencja rentgenowska). Obejrzyj przed pierwszym miareczkowaniem. Ostatnie wykłady z cyklu dr. Bekasa na kanale SGGW też dotyczą analityki: kompleksometria, manganometria, alkacymetria i zadania z pH [R-026]. (Po polsku.)
 
+[RYSUNEK: F-08, do znalezienia. Zdjęcie zestawu do miareczkowania: biureta na statywie, pod nią kolba stożkowa z roztworem i wskaźnikiem. Podpis: „Zestaw do miareczkowania: biureta, kolba stożkowa, wskaźnik.”]
+
 ### Podręczniki
 
 Po polsku: Ryszard Kocjan (red.), „Chemia analityczna: podręcznik dla studentów”, dwa tomy, wydanie III, PZWL i PWN 2023 [R-045]. Tom 1 to analiza jakościowa i klasyczna ilościowa, tom 2 analiza instrumentalna. Starszy i bardziej teoretyczny jest dwutomowy podręcznik Jerzego Minczewskiego i Zygmunta Marczenki „Chemia analityczna” (PWN 2004) [R-046].
@@ -131,6 +137,8 @@ Do zadań rachunkowych z analityki (pH, bufory, iloczyn rozpuszczalności, miare
 ## Biochemia
 
 Biochemia opiera się na organicznej i na chemii ogólnej, więc materiały warto znać od początku, nawet jeśli sam przedmiot przyjdzie później. Kiedy przyjdzie, zależy od uczelni: na kierunku lekarskim UJ CM i Uniwersytetu Medycznego w Białymstoku biochemia jest na pierwszym roku [Z-005] [Z-007], na weterynarii SGGW już w pierwszym semestrze [Z-011], a na kierunku lekarskim WUM dopiero na drugim [Z-006]. Z matury znasz białka i cukry jako związki. Biochemia pokazuje, co one robią w komórce: enzymy, metabolizm, przekazywanie sygnałów i informacji genetycznej.
+
+[RYSUNEK: F-09, do znalezienia. Uproszczony schemat oddychania komórkowego: glukoza, glikoliza, cykl Krebsa, łańcuch oddechowy, ATP. Podpis: „Od glukozy do ATP: glikoliza, cykl Krebsa, łańcuch oddechowy.”]
 
 ### Podręczniki
 

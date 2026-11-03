@@ -6,6 +6,8 @@ Każdy na studiach dowie się, że istnieje coś takiego jak aktywność. Na mat
 
 Zacznijmy od doświadczenia. Gdy zmiesza się bezbarwne roztwory jonów Fe³⁺ i SCN⁻, powstaje czerwonopomarańczowy kompleks Fe(SCN)²⁺. Jeśli do takiego roztworu dosypać soli, która w reakcji nie bierze udziału, na przykład KNO₃, barwa robi się wyraźnie jaśniejsza. Kompleksu jest mniej, czyli równowaga przesunęła się w stronę substratów, choć z punktu widzenia równania reakcji nic się nie zmieniło. <!-- Z-026: Harvey 6.9, akapity 1–3 i rysunek 6.9.1 -->
 
+[RYSUNEK: F-10, do znalezienia. Dwa naczynia z czerwonopomarańczowym roztworem kompleksu Fe(SCN)²⁺: po lewej bez dodatku soli, po prawej po dodaniu KNO₃, wyraźnie jaśniejszy. Podpis: „Ta sama mieszanina Fe³⁺ i SCN⁻ przed dodaniem soli obojętnej i po nim.”]
+
 Wyjaśnienie jest na poziomie pojedynczych jonów. Każdy jon w roztworze otaczają częściej jony o przeciwnym ładunku niż o tym samym. Tworzą wokół niego „atmosferę jonową”, która częściowo zasłania jego ładunek. Jon zachowuje się więc tak, jakby miał mniejszy ładunek, i reaguje słabiej, niż wynikałoby z jego stężenia. Im więcej jonów w roztworze, tym silniej to działa. <!-- Z-026: Harvey 6.9, akapit „Why should adding an inert electrolyte…” i rysunek 6.9.2 -->
 
 To, ile jest jonów i jak mocno są naładowane, opisuje jedna liczba: siła jonowa roztworu. Liczy się ją ze stężeń wszystkich jonów, przy czym ładunek wchodzi do wzoru w kwadracie. Dlatego roztwór Na₂SO₄ o stężeniu 0,10 mol/dm³ ma siłę jonową trzy razy większą niż roztwór NaCl o tym samym stężeniu: 0,30 wobec 0,10 mol/dm³. <!-- Z-026: Harvey 6.9, definicja siły jonowej i przykład 6.9.1 (NaCl i Na₂SO₄ 0,10 M) -->
@@ -16,7 +18,7 @@ a = γ · [A]
 
 Dla gazów, czystych cieczy i ciał stałych oraz dla substancji rozpuszczonych, które nie są jonami, współczynnik aktywności jest w zwykłych warunkach bliski jedności, więc aktywność praktycznie równa się stężeniu. Dla jonów współczynnik zależy od siły jonowej roztworu, od ładunku jonu i od jego rozmiaru. Im mniejsza siła jonowa, tym bliżej mu do jedności; w roztworze bardzo rozcieńczonym aktywność i stężenie są takie same. <!-- Z-026: Harvey 6.9, akapity po definicji aktywności i po równaniu 6.3 („as the ionic strength approaches zero…”) --> Współczynniki aktywności jonów szacuje się z równania Debye'a-Hückla; na pierwszym roku wystarczy wiedzieć, że takie równanie istnieje i od czego zależy wynik. <!-- Z-026: Harvey 6.9, równanie 6.3 („extended Debye-Hückel equation”) -->
 
-[RYSUNEK: schemat jonu Fe³⁺ otoczonego „atmosferą jonową” z przewagą anionów, obok jonu SCN⁻ otoczonego przewagą kationów; podpis: atmosfera jonowa zmniejsza „widoczny” ładunek jonu]
+[RYSUNEK: F-11, do narysowania. Jon Fe³⁺ otoczony chmurą z przewagą anionów i jon SCN⁻ otoczony chmurą z przewagą kationów. Podpis: „Atmosfera jonowa zmniejsza „widoczny” ładunek jonu.”]
 
 ### Dlaczego stężenie z matury przestaje wystarczać
 
