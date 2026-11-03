@@ -43,7 +43,7 @@ Spektroskopia UV w chemii organicznej przydaje się głównie do związków ze s
 
 ### Skąd uczyć się dalej
 
-Najprostszy start to filmy, które już znasz z rozdziału 3. Na playliście organicznej Professor Dave Explains są osobne filmy o spektroskopii IR, o NMR (dwa, w tym ćwiczenia z widmami ¹H NMR) i o spektrometrii mas [R-006]. The Organic Chemistry Tutor ma kilkanaście filmów o IR, spektrometrii mas i NMR, od podstaw po rysowanie widma dla danej cząsteczki i odczytywanie budowy z widma [R-008]. W CrashCourse spektroskopii dotyczą odcinki 5 (IR i spektrometria mas), 26 (¹H NMR) i 41 (UV-Vis) [R-009].
+Na start dobrze nadają się filmy, które już znasz z rozdziału 3. Na playliście organicznej Professor Dave Explains są osobne filmy o spektroskopii IR, o NMR (dwa, w tym ćwiczenia z widmami ¹H NMR) i o spektrometrii mas [R-006]. The Organic Chemistry Tutor ma kilkanaście filmów o IR, spektrometrii mas i NMR, od podstaw po rysowanie widma dla danej cząsteczki i odczytywanie budowy z widma [R-008]. W CrashCourse spektroskopii dotyczą odcinki 5 (IR i spektrometria mas), 26 (¹H NMR) i 41 (UV-Vis) [R-009].
 
 Jeśli wolisz czytać, rozdziały 12–14 podręcznika McMurry'ego w wersji OpenStax omawiają po kolei spektrometrię mas, IR, NMR i UV, z zadaniami [R-016]. Otwarta książka „Introduction to Organic Spectroscopy” w LibreTexts zbiera te same metody w jednym miejscu i kończy się zadaniami z ustalania budowy z kilku widm naraz [R-020]. Do części analitycznej (absorbancja, prawo Lamberta-Beera, spektrofotometria) warto sięgnąć do podręcznika Harveya, rozdział 10 [Z-002].
 

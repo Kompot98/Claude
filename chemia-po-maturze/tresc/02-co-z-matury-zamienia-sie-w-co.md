@@ -44,7 +44,7 @@ Chemia kwantowa wchodzi na kierunku chemia od razu: „Podstawy chemii” w pier
 
 Spektroskopia na pierwszym roku pojawia się na przykład w laboratorium, jako oznaczanie fosforanów metodą krzywej wzorcowej na biotechnologii UKSW [Z-019]. Na kierunkach chemicznych wraca w organicznej i analityce na kolejnych latach. Więcej w rozdziale 4c.
 
-Laboratorium jest na pierwszym roku prawie wszędzie, a jego zasady (wejściówki, sprawozdania, zeszyt laboratoryjny) są nową grą. Więcej w rozdziale 4d.
+Laboratorium jest na pierwszym roku prawie wszędzie, a jego zasady są nową grą: wejściówki, czyli krótkie sprawdziany przed ćwiczeniem, sprawozdania, czyli pisemne opracowania wykonanych ćwiczeń, i zeszyt laboratoryjny. Więcej w rozdziale 4d.
 
 ### Ten sam przedmiot, inna treść
 

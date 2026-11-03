@@ -8,7 +8,7 @@ Ten bonus nie uczy chemii. Pokazuje, gdzie ona jest: czym chemia na studiach ró
 
 Rozdział 1, „Inna gra”, mówi, co się zmienia po maturze, i podaje cztery zasady nauki na studiach. Przeczytaj go niezależnie od kierunku.
 
-Rozdział 2 pokazuje, w których przedmiotach pierwszego roku wracają tematy z kursu maturalnego i co do nich dochodzi. Opiera się na prawdziwych sylabusach polskich uczelni i pokazuje, jak bardzo przedmiot o tej samej nazwie różni się między nimi.
+Rozdział 2 pokazuje, w których przedmiotach pierwszego roku wracają tematy z kursu maturalnego i co do nich dochodzi. Opiera się na prawdziwych sylabusach polskich uczelni, czyli publicznych opisach przedmiotów, i pokazuje, jak bardzo przedmiot o tej samej nazwie różni się między nimi.
 
 Rozdział 3 to lista sprawdzonych źródeł do nauki według przedmiotów: chemia ogólna i nieorganiczna, organiczna, fizyczna, analityczna, biochemia i krótkie hasło o matematyce. Są tam polskie materiały uczelni, podręczniki, kanały wideo i strony z artykułami, każde z opisem, co w nim jest i kiedy po nie sięgnąć. Na końcu rozdziału jest skrót dla każdej grupy kierunków.
 
@@ -20,4 +20,4 @@ Rozdział 5 zbiera wszystkie źródła: polecane zasoby i dokumenty, na których
 
 Nie trzeba czytać po kolei. Jeśli masz pół godziny w wakacje, przeczytaj rozdział 1 i fragment rozdziału 3 dla swojego kierunku. Resztę zostaw na wrzesień i październik, kiedy znasz już swoją uczelnię i plan zajęć. Wtedy przyda się rozdział 2, żeby wiedzieć, czego się spodziewać, i rozdział 4, gdy na wykładzie padnie po raz pierwszy słowo „aktywność” albo „orbital molekularny”.
 
-Odnośniki w nawiasach kwadratowych, na przykład [R-006] albo [Z-003], prowadzą do pozycji na listach w rozdziale 5. Stan wszystkich zasobów i sylabusów jest na listopad 2026. Sylabusy zmieniają się co roku, a strony internetowe znikają, więc gdy coś nie działa, szukaj tego samego tytułu albo autora.
+Odnośniki w nawiasach kwadratowych prowadzą do pozycji na listach w rozdziale 5: te zaczynające się od R to polecane zasoby, te od Z to dokumenty, na których oparty jest tekst. Stan wszystkich zasobów i sylabusów jest na listopad 2026. Sylabusy zmieniają się co roku, a strony internetowe znikają, więc gdy coś nie działa, szukaj tego samego tytułu albo autora.

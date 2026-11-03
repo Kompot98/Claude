@@ -22,3 +22,5 @@ Przyjęci są w `dane/zasoby.csv` (R-020 do R-058). Niżej odrzuceni i odłożen
 | Atkins, „Podstawy chemii fizycznej” | katalog BN | odrzucony | Jedyne wydanie w BN z 1999 r. |
 | Zbigniew Kęcki, „Podstawy spektroskopii molekularnej” | katalog BN | odrzucony | Ostatnie wydanie 1998; do spektroskopii wystarczą R-023 i R-024. |
 | UŚ, „Wykłady UŚ Maturzystów” | kanał UŚ | odrzucony | Pod maturzystów, nie pod studentów. |
+| Piotr Skurski, kanał „Chemia kwantowa” (playlisty „Notacja Diraca”, „Twierdzenie Riesza”, „Przestrzeń dualna”, „Twierdzenie spektralne”) | https://www.youtube.com/channel/UCBLlbGsf9QyIhzONqbN1hMQ | odłożony | Formalizm matematyczny mechaniki kwantowej, poziom wyższych lat; nie pasuje do wprowadzenia na pierwszy rok. Polski i wartościowy na później. |
+| Wikimedia Commons (rysunki) | https://commons.wikimedia.org/ | odłożony | API i serwer plików odpowiadały kodem 429 („too many requests”) dla adresu środowiska przez cały etap 10; licencji pojedynczych plików nie dało się sprawdzić. |

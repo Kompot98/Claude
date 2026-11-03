@@ -57,3 +57,13 @@ Dalej: wprowadzenia 4a, 4b, 4d.
 Zrobione: 4a aktywność (Harvey 6.9, Peverati 14.1, OpenStax 13.2; przykład z Fe(SCN)²⁺ i rozpuszczalnością Pb(IO₃)₂), 4b chemia kwantowa (OpenStax 6.3 i 8.4; sylabusy UJ, UW, WUM; Piela: wydanie polskie 2011 z BN, angielskie 3. z 2020 ze strony wydawcy i Open Library), 4d laboratorium (sylabusy UM Łódź, UKSW, UR; Sandtorv 1.2, 1.4, 6.1). Każde ma komentarze źródłowe przy zdaniach merytorycznych. Nowe źródła Z-026 do Z-032, nowe zasoby R-059 do R-061. Wszystkie 61 zasobów i 32 źródła są cytowane; `sprawdz.py --dowody` bez błędów. Całość ma 39 stron.
 
 Dalej: rysunki, rozdział 5, weryfikacja całości, raport.
+
+## 2026-11-03, etap 8: rysunki, rozdział 5, weryfikacja
+
+Zrobione: rozdział 5 generowany skryptem (61 zasobów, 32 źródła, każda pozycja przy rozdziale pierwszego cytowania). Rysunków nie dodano (D-13). Weryfikacja: `sprawdz.py --dowody` bez błędów, `styl.py` bez twardych naruszeń, wszystkie 93 adresy odpowiadają, drugi przegląd R-059 do R-061 zgodny, pojęcia akademickie wyjaśnione przy pierwszym użyciu w kolejności czytania (pozostałe sygnały skryptu to fałszywe alarmy opisane w raporcie). Usunięte cztery przysłówki w stopniu najwyższym bez podstawy.
+
+Dalej: raport, README, archiwum.
+
+## 2026-11-03, etap 9: raport, README, archiwum
+
+Zrobione: `RAPORT.md` (rozdziały z długością, 29 odrzuconych lub odłożonych zasobów, tabela sylabusów z brakami, 17 znaczników do uzupełnienia, pięć pytań z rekomendacją), `README.md` folderu, archiwum `chemia-po-maturze.zip` obok folderu. Wszystkie sprawdzenia przechodzą.

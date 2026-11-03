@@ -154,7 +154,7 @@ Na kierunku lekarskim i lekarsko-dentystycznym chemia jest krótka albo schowana
 
 ### Farmacja i analityka medyczna
 
-Tu chemii jest najwięcej spośród kierunków medycznych. Na analityce medycznej WUM pierwszy rok ma cztery przedmioty chemiczne: analityczną, fizyczną, ogólną i nieorganiczną oraz organiczną [Z-018]; na farmacji WUM chemia ogólna i nieorganiczna trwa dwa semestry i ma 90 godzin ćwiczeń [Z-015]. Na start: chemia ogólna (Khan Academy po polsku [R-027], Professor Dave i jego zadania [R-030] [R-031]), potem analityka (filmy z pracowni UŚ [R-025], podręcznik Kocjana [R-045], otwarty Harvey [R-047]) i organiczna od Chemguide [R-011] przez Professor Dave [R-006] do McMurry'ego [R-004] [R-016]. Do chemii fizycznej weź wersję „dla nauk biologicznych” z LibreTexts [R-044].
+Tu chemii jest wyraźnie więcej niż na kierunku lekarskim. Na analityce medycznej WUM pierwszy rok ma cztery przedmioty chemiczne: analityczną, fizyczną, ogólną i nieorganiczną oraz organiczną [Z-018]; na farmacji WUM chemia ogólna i nieorganiczna trwa dwa semestry i ma 90 godzin ćwiczeń [Z-015]. Na start: chemia ogólna (Khan Academy po polsku [R-027], Professor Dave i jego zadania [R-030] [R-031]), potem analityka (filmy z pracowni UŚ [R-025], podręcznik Kocjana [R-045], otwarty Harvey [R-047]) i organiczna od Chemguide [R-011] przez Professor Dave [R-006] do McMurry'ego [R-004] [R-016]. Do chemii fizycznej weź wersję „dla nauk biologicznych” z LibreTexts [R-044].
 
 ### Weterynaria
 

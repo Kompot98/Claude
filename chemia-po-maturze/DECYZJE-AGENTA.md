@@ -73,3 +73,15 @@ Format wpisu: co, dlaczego, co odrzucone. Wpisów nie kasuję; zmianę zapisuję
 **Co:** 22 źródła dla ośmiu kierunków, po dwie, trzy uczelnie. Tam, gdzie pełny sylabus był niedostępny, użyłem planu studiów albo listy przedmiotów z godzinami i ECTS (typ „program studiów” w `zrodla.csv`). Na kierunkach medycznych plan jest zresztą ważniejszy od pojedynczego sylabusu, bo pokazuje, czy chemia w ogóle jest na pierwszym roku. Kopie lokalne to tekst wyciągnięty z PDF lub DOCX, z nagłówkiem; długie dokumenty skrócone do 40 000 znaków.
 **Dlaczego:** zlecenie traktuje 24 zestawy jako górną granicę i każe zapisywać braki zamiast szukać bez końca.
 **Odrzucone:** opieranie się na pojedynczych sylabusach II roku (UWr, UKSW organiczna, PP organiczna), które wyszły w wyszukiwaniu; nie dotyczą pierwszego roku.
+
+## D-13, 2026-11-03: rysunki tylko jako opisy
+
+**Co:** w `rysunki/` nie ma plików, `rysunki.csv` ma sam nagłówek. W tekście jest siedem opisów `[RYSUNEK: …]` do narysowania u zleceniodawcy.
+**Dlaczego:** OpenStax jest w 2026 na licencji NC (D-05), LibreTexts w użytych książkach też (CC BY-NC-SA, CC BY-NC) albo bez zadeklarowanej licencji, a Wikimedia Commons przez cały etap odpowiadała temu środowisku kodem 429, więc licencji pojedynczych plików nie dało się sprawdzić. Zlecenie każe w takiej sytuacji niczego nie wstawiać. Jedyne użyte źródło z licencją pozwalającą na rysunki to podręcznik Peveratiego (CC BY-SA 4.0); jego rysunki nie odpowiadają żadnemu z opisów.
+**Odrzucone:** rysunki z OpenStax i LibreTexts (NC), pliki z Commons bez sprawdzonej licencji, własne rysunki agenta (zlecenie przewiduje, że brakujące rysunki rysuje zespół zleceniodawcy w stylu kursu).
+
+## D-14, 2026-11-03: długość i rozdział 5
+
+**Co:** rozdziały 0–4 mają około 39 stron znormalizowanych, rozdział 5 (listy źródeł) około 21 stron. Rozdział 3 ma 14,6 strony, w środku przedziału 12–20. Wprowadzenia z rozdziału 4 mają 2,9–4,7 strony; spektroskopia jest dłuższa (D-10). Rozdział 5 jest generowany skryptem `skrypty/zrodla_md.py` z obu rejestrów i po każdej zmianie rejestrów trzeba go wygenerować ponownie.
+**Dlaczego:** zlecenie chce przy każdej pozycji „co z tego wzięliśmy” i podziału na rozdziały; przy 93 pozycjach daje to długą listę. Dla czytelnika to dodatek do przeglądania, nie do czytania po kolei.
+**Odrzucone:** skracanie opisów w rozdziale 5 poniżej jednego zdania (traci się informację, po co pozycja jest).

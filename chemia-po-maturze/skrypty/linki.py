@@ -1,6 +1,7 @@
 """Sprawdza, czy adresy z trzech rejestrów odpowiadają. Wynik do robocze/linki-RRRR-MM-DD.csv.
 
-Użycie: python3 -I skrypty/linki.py [R-001 Z-004 ...]
+Użycie: python3 -I skrypty/linki.py [--ca pakiet.pem] [R-001 Z-004 ...]
+Pakiet CA z dołączonymi certyfikatami pośrednimi pozwala sprawdzić serwery z niepełnym łańcuchem (DECYZJE-AGENTA, D-11).
 Korzysta z proxy ze zmiennych środowiska i z pakietu CA w SSL_CERT_FILE lub /root/.ccr/ca-bundle.crt.
 """
 import csv
@@ -16,8 +17,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wspolne import KORZEN, wczytaj_csv  # noqa: E402
 
 
-def kontekst():
-    ca = os.environ.get("SSL_CERT_FILE") or "/root/.ccr/ca-bundle.crt"
+def kontekst(ca=None):
+    ca = ca or os.environ.get("SSL_CERT_FILE") or "/root/.ccr/ca-bundle.crt"
     if os.path.exists(ca):
         return ssl.create_default_context(cafile=ca)
     return ssl.create_default_context()
@@ -41,7 +42,10 @@ def sprawdz(url, ctx):
 
 
 def main(argv):
-    ctx = kontekst()
+    ca = None
+    if "--ca" in argv:
+        i = argv.index("--ca"); ca = argv[i + 1]; argv = argv[:i] + argv[i + 2:]
+    ctx = kontekst(ca)
     wybrane = set(argv)
     wiersze = []
     for plik, kol in (("zasoby.csv", "url"), ("zrodla.csv", "url"), ("rysunki.csv", "zrodlo_url")):
