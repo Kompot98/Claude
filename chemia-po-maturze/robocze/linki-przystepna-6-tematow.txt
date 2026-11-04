@@ -1,0 +1,150 @@
+200 | Biochemistry Free For All (Ahern, Rajagopal, and Tan) - Biology LibreTexts | https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Free_For_All_(Ahern_Rajagopal_and_Tan)
+200 | Analytical Chemistry 2.1 (Harvey) - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)
+200 | 4.1: Characterizing Measurements and Results - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.01%3A_Characterizing_Measurements_and_Results
+200 | 4.2: Characterizing Experimental Errors - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.02%3A_Characterizing_Experimental_Errors
+200 | 4.3: Propagation of Uncertainty - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.03%3A_Propagation_of_Uncertainty
+200 | 5.3: Determining the Sensitivity - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.03%3A_Determining_the_Sensitivity
+200 | 6.9: Activity Effects - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/06%3A_Equilibrium_Chemistry/6.09%3A_Activity_Effects
+200 | 9.1: Overview of Titrimetry - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods/9.01%3A_Overview_of_Titrimetry
+200 | 9.2: Acid–Base Titrations - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods/9.02%3A_AcidBase_Titrations
+200 | 10.2: Spectroscopy Based on Absorption - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/10%3A_Spectroscopic_Methods/10.02%3A_Spectroscopy_Based_on_Absorption
+200 | 11.2: Potentiometric Methods - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/11%3A_Electrochemical_Methods/11.02%3A_Potentiometric_Methods
+200 | 1: HOW TO PREPARE FOR AN ORGANIC CHEMISTRY EXPERIMENT - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/01%3A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT
+200 | 1.2:  SAFETY IS KEY- HOW TO FIND RELEVANT SAFETY INFORMATION AND READ SAFETY DATA SHEETS - | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/01%3A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT/1.02%3A__SAFETY_IS_KEY-_HOW_TO_FIND_RELEVANT_SAFETY_INFORMATION_AND_READ_SAFETY_DATA_SHEETS
+200 | 2: COMMON ORGANIC CHEMISTRY LABORATORY TECHNIQUES - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/02%3A_COMMON_ORGANIC_CHEMISTRY_LABORATORY_TECHNIQUES
+200 | 4: HOW TO SURVIVE AN ORGANIC CHEMISTRY EXPERIMENT - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/04%3A_HOW_TO_SURVIVE_AN_ORGANIC_CHEMISTRY_EXPERIMENT
+200 | 6: HOW TO WRITE A REPORT - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/06%3A_HOW_TO_WRITE_A_REPORT
+200 | Organic Chemistry with a Biological Emphasis (Soderberg) - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)
+200 | Introduction to Organic Spectroscopy - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy
+200 | Physical Chemistry for the Biosciences (LibreTexts) - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)
+200 | The Live Textbook of Physical Chemistry (Peverati) - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)
+200 | 6: Second Law of Thermodynamics - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/06%3A_Second_Law_of_Thermodynamics
+200 | 9: Gibbs Free Energy - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/09%3A_Gibbs_Free_Energy
+200 | 10: Chemical Equilibrium - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/10%3A_Chemical_Equilibrium
+200 | 14.1: Activity - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/14%3A_Properties_of_Solutions/14.01%3A_Activity
+200 | 16: The Motivation for Quantum Mechanics - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/16%3A_The_Motivation_for_Quantum_Mechanics
+200 | 18: The Schrödinger Equation - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/18%3A_The_Schrodinger_Equation
+200 | 19: Analytically Soluble Models - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/19%3A_Analytically_Soluble_Models
+200 | 20: The Hydrogen Atom - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/20%3A_The_Hydrogen_Atom
+200 | 25: Many-Electron Atoms - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/25%3A_Many-Electron_Atoms
+200 | 28: The Chemical Bond in Polyatomic Molecules - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/28%3A_The_Chemical_Bond_in_Polyatomic_Molecules
+202 | - | https://global.oup.com/academic/product/organic-chemistry-9780199270293
+200 | Principles of Chemical Science | Chemistry | MIT OpenCourseWare | https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/
+200 | Organic Chemistry I | Chemistry | MIT OpenCourseWare | https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/
+200 | Thermodynamics & Kinetics | Chemistry | MIT OpenCourseWare | https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/
+200 | 1.5 Measurement Uncertainty, Accuracy, and Precision - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/1-5-measurement-uncertainty-accuracy-and-precision
+200 | Ch. 1 Introduction - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/1-introduction
+200 | 13.2 Equilibrium Constants - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants
+200 | 15.1 Precipitation and Dissolution - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution
+200 | 16.1 Spontaneity - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/16-1-spontaneity
+200 | 16.2 Entropy - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/16-2-entropy
+200 | 16.3 The Second and Third Laws of Thermodynamics - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/16-3-the-second-and-third-laws-of-thermodynamics
+200 | 16.4 Free Energy - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/16-4-free-energy
+200 | 17.4 Potential, Free Energy, and Equilibrium - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium
+200 | 3.3 Molarity - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/3-3-molarity
+200 | 4.3 Reaction Stoichiometry - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/4-3-reaction-stoichiometry
+200 | 4.4 Reaction Yields - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields
+200 | 5.3 Enthalpy - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy
+200 | 6.1 Electromagnetic Energy - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/6-1-electromagnetic-energy
+200 | 6.2 The Bohr Model - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/6-2-the-bohr-model
+200 | 6.3 Development of Quantum Theory - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory
+200 | 6.4 Electronic Structure of Atoms (Electron Configurations) - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations
+200 | 8.2 Hybrid Atomic Orbitals - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals
+200 | 8.4 Molecular Orbital Theory - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory
+200 | Ch. 1 Why This Chapter? - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/1-why-this-chapter
+200 | 11.2 The SN2 Reaction - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/11-2-the-sn2-reaction
+200 | 11.4 The SN1 Reaction - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/11-4-the-sn1-reaction
+200 | 11.8 The E2 Reaction and the Deuterium Isotope Effect - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/11-8-the-e2-reaction-and-the-deuterium-isotope-effect
+200 | 12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments - Organic Chemistry | https://openstax.org/books/organic-chemistry/pages/12-1-mass-spectrometry-of-small-molecules-magnetic-sector-instruments
+200 | 12.5 Spectroscopy and the Electromagnetic Spectrum - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/12-5-spectroscopy-and-the-electromagnetic-spectrum
+200 | 12.7 Interpreting Infrared Spectra - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/12-7-interpreting-infrared-spectra
+200 | 13.5 Integration of 1H NMR Absorptions: Proton Counting - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/13-5-integration-of-1h-nmr-absorptions-proton-counting
+200 | 13.6 Spin–Spin Splitting in 1H NMR Spectra - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/13-6-spin-spin-splitting-in-1h-nmr-spectra
+200 | Ch. 13 Chemistry Matters—Magnetic Resonance Imaging (MRI) - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/13-chemistry-matters-magnetic-resonance-imaging-mri
+200 | 14.7 Ultraviolet Spectroscopy - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/14-7-ultraviolet-spectroscopy
+200 | 21.2 Nucleophilic Acyl Substitution Reactions - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/21-2-nucleophilic-acyl-substitution-reactions
+200 | 6.3 Polar Reactions - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/6-3-polar-reactions
+200 | 6.5 Using Curved Arrows in Polar Reaction Mechanisms - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/6-5-using-curved-arrows-in-polar-reaction-mechanisms
+200 | Client Challenge | https://pl.khanacademy.org/science/chemistry
+200 | Client Challenge | https://pl.khanacademy.org/science/organic-chemistry
+200 | PubChem | https://pubchem.ncbi.nlm.nih.gov/
+200 | AIST:Spectral Database for Organic Compounds,SDBS | https://sdbs.db.aist.go.jp/
+200 | Ideas of Quantum Chemistry - 3rd Edition | Elsevier Shop | https://shop.elsevier.com/books/ideas-of-quantum-chemistry/piela/978-0-444-64246-2
+200 | Analiza matematyczna 1 – Studia Informatyczne | https://wazniak.mimuw.edu.pl/index.php?title=Analiza_matematyczna_1
+200 | Chemical Name Search | https://webbook.nist.gov/chemistry/name-ser/
+200 | infra-red spectra - the fingerprint region | https://www.chemguide.co.uk/analysis/ir/fingerprint.html
+200 | interpreting infra-red spectra | https://www.chemguide.co.uk/analysis/ir/interpret.html
+200 | mass spectra - fragmentation patterns | https://www.chemguide.co.uk/analysis/masspec/fragment.html
+200 | the mass spectrometer - how it works | https://www.chemguide.co.uk/analysis/masspec/howitworks.html
+200 | the background to nuclear magnetic resonance (nmr) spectroscopy | https://www.chemguide.co.uk/analysis/nmr/background.html
+200 | the background to C-13 NMR spectroscopy | https://www.chemguide.co.uk/analysis/nmr/backgroundc13.html
+200 | nmr spectra - the integrator trace | https://www.chemguide.co.uk/analysis/nmr/integration.html
+200 | absorption spectra - the Beer-Lambert Law | https://www.chemguide.co.uk/analysis/uvvisible/beerlambert.html
+200 | bonding for UV-visible absorption spectrometry | https://www.chemguide.co.uk/analysis/uvvisible/bonding.html
+200 | atomic orbitals | https://www.chemguide.co.uk/atoms/properties/atomorbs.html
+200 | atomic hydrogen emission spectrum | https://www.chemguide.co.uk/atoms/properties/hspectrum.html
+200 | Understanding Chemistry - Inorganic Chemistry Menu | https://www.chemguide.co.uk/inorgmenu.html
+200 | carbocations (or carbonium ions) | https://www.chemguide.co.uk/mechanisms/eladd/carbonium.html
+200 | What is electrophilic addition? | https://www.chemguide.co.uk/mechanisms/eladd/whatis.html
+200 | elimination from 2-bromopropane to give propene | https://www.chemguide.co.uk/mechanisms/elim/elim.html
+200 | What is electrophilic substitution? | https://www.chemguide.co.uk/mechanisms/elsub/whatis.html
+200 | nucleophilic addition - carbonyl compounds and hydrogen cyanide | https://www.chemguide.co.uk/mechanisms/nucadd/hcn.html
+200 | Types of halogenoalkanes | https://www.chemguide.co.uk/mechanisms/nucsub/types.html
+200 | Understanding Chemistry - Organic Mechanisms Menu | https://www.chemguide.co.uk/mechmenu.html
+200 | buffer solutions | https://www.chemguide.co.uk/physical/acidbaseeqia/buffers.html
+200 | pH curves (titration curves) | https://www.chemguide.co.uk/physical/acidbaseeqia/phcurves.html
+200 | rate constants and the arrhenius equation | https://www.chemguide.co.uk/physical/basicrates/arrhenius.html
+200 | Gibbs free energy | https://www.chemguide.co.uk/physical/entropy/deltag.html
+200 | Gibbs free energy and equilibrium constants | https://www.chemguide.co.uk/physical/entropy/deltagandk.html
+200 | calculating values for entropy change | https://www.chemguide.co.uk/physical/entropy/entropychange.html
+200 | entropy - an introduction | https://www.chemguide.co.uk/physical/entropy/introduction.html
+200 | equilibrium constants - Kc | https://www.chemguide.co.uk/physical/equilibria/kc.html
+200 | an introduction to redox equilibria and electrode potentials | https://www.chemguide.co.uk/physical/redoxeqia/introduction.html
+200 | Understanding Chemistry - Physical Chemistry Menu | https://www.chemguide.co.uk/physmenu.html
+200 | Organic Chemistry 1 and 2 Topics - Chemistry Steps | https://www.chemistrysteps.com/organic-chemistry-topic-index/
+405 | Human Verification | https://www.chemistryworld.com/
+200 | Links to Organic Chemistry 2nd Edition (OUP) by Jonathan Clayden, Nick Greeves and Stuart  | https://www.chemtube3d.com/ClaydenLink/
+200 | Master Organic Chemistry - An Online Organic Chemistry Resource | https://www.masterorganicchemistry.com/
+200 | Hydrates, Hemiacetals, and Acetals – Master Organic Chemistry | https://www.masterorganicchemistry.com/2010/05/28/acetals-hemiacetals-hydrates/
+200 | What's A Transition State? | https://www.masterorganicchemistry.com/2010/11/03/whats-a-transition-state/
+200 | 3 Factors That Stabilize Carbocations | https://www.masterorganicchemistry.com/2011/03/11/3-factors-that-stabilize-carbocations/
+200 | What makes a good leaving group? Master Organic Chemistry | https://www.masterorganicchemistry.com/2011/04/12/what-makes-a-good-leaving-group/
+200 | Nucleophilic Acyl Substitution (With Negatively Charged Nucleophiles) – Master Organic Che | https://www.masterorganicchemistry.com/2011/05/06/nucleophilic-acyl-substitution/
+200 | Intro to Resonance In Organic Chemistry– Master Organic Chemistry | https://www.masterorganicchemistry.com/2011/11/23/introduction-to-resonance-hybrids/
+200 | How To Use Curved Arrows To Interconvert Resonance Forms | https://www.masterorganicchemistry.com/2011/11/30/curved-arrows-to-interconvert-resonance-structures/
+200 | How To Use Curved Arrows in Organic Chemistry, With Examples | https://www.masterorganicchemistry.com/2012/02/15/curved-arrows-for-reactions/
+200 | Nucleophiles and Electrophiles – Master Organic Chemistry | https://www.masterorganicchemistry.com/2012/06/05/nucleophiles-and-electrophiles/
+200 | Comparing The SN1 vs Sn2 Reactions – Master Organic Chemistry | https://www.masterorganicchemistry.com/2012/08/08/comparing-the-sn1-and-sn2-reactions/
+200 | E1 vs E2: Comparing the E1 and E2 Reactions - Master Organic Chemistry | https://www.masterorganicchemistry.com/2012/10/10/comparing-the-e1-and-e2-reactions/
+200 | Deciding SN1/SN2/E1/E2 (1): The Substrate – Master Organic Chemistry | https://www.masterorganicchemistry.com/2012/11/21/deciding-sn1sn2e1e2-1-the-substrate/
+200 | Acid Catalyzed Hydration of Alkenes Follows A Key Mechanistic Pattern | https://www.masterorganicchemistry.com/2013/02/22/addition-pattern-1-the-carbocation-pathway/
+200 | What is UV-Vis Spectroscopy? And How Does It Apply To Conjugation? | https://www.masterorganicchemistry.com/2016/09/16/introduction-to-uv-vis-spectroscopy/
+200 | Bond Vibrations, Infrared Spectroscopy, and the Ball and Spring Model | https://www.masterorganicchemistry.com/2016/11/11/bond-vibrations-ir-spectroscopy/
+200 | Bonding And Antibonding Pi Orbitals – Master Organic Chemistry | https://www.masterorganicchemistry.com/2017/02/14/molecular-orbital-pi-bond/
+200 | Electrophilic Aromatic Substitution Mechanism – Master Organic Chemistry | https://www.masterorganicchemistry.com/2017/11/09/electrophilic-aromatic-substitution-the-mechanism/
+200 | 1H NMR: How Many Signals? – Master Organic Chemistry | https://www.masterorganicchemistry.com/2022/02/08/1h-nmr-how-many-signals/
+200 | 13-C NMR - How Many Signals – Master Organic Chemistry | https://www.masterorganicchemistry.com/2022/02/08/c13-nmr-how-many-signals/
+200 | Nucleophilic Addition To Carbonyls – Master Organic Chemistry | https://www.masterorganicchemistry.com/2022/09/09/nucleophilic-addition/
+200 | Reactions and Mechanisms – Master Organic Chemistry | https://www.masterorganicchemistry.com/reaction-guide/
+200 | Name Reactions | https://www.organic-chemistry.org/namedreactions/
+200 | New AP & General Chemistry Video Playlist - YouTube | https://www.youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS
+200 | New Organic Chemistry Playlist - YouTube | https://www.youtube.com/playlist?list=PL0o_zxa4K1BXP7TUO7656wg0uF1xYnwgm
+200 | Laboratorium Chemii Fizycznej - YouTube | https://www.youtube.com/playlist?list=PL5aFU4mtoOYuvziYpkBNJbAm6svIsHEvB
+200 | Organic Chemistry - YouTube | https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4
+200 | Chemia analityczna - YouTube | https://www.youtube.com/playlist?list=PLB800F47FF11C8986
+200 | PODSTAWY CHEMII - YouTube | https://www.youtube.com/playlist?list=PLNWC1jUbuB3y-xNRoohOZJoYAcoOswPrJ
+200 | CHEMIA ORGANICZNA - YouTube | https://www.youtube.com/playlist?list=PLNWC1jUbuB3zjxeFErUpOrxmW1Tit3qQg
+200 | Chemia organiczna (2017/2018) - YouTube | https://www.youtube.com/playlist?list=PLlhOYvtSn-fsrcj8e9zH8Qd8Kwke1pfpR
+200 | Chemia organiczna. Syntezy preparatów - YouTube | https://www.youtube.com/playlist?list=PLlhOYvtSn-ftqFAE3e5a2d6zfX8CCU7ZR
+200 | Chemia organiczna. Proste operacje laboratoryjne - YouTube | https://www.youtube.com/playlist?list=PLlhOYvtSn-fuOsYc7zGWOrHZ5InmrvcWT
+200 | Portal edukacyjny Instytutu Chemii e-chem - YouTube | https://www.youtube.com/playlist?list=PLlhOYvtSn-fvVZQjkVELf0tS9ZNhMzkuV
+200 | Kevin Ahern's BB 450 Biochemistry Fall 2014 - YouTube | https://www.youtube.com/playlist?list=PLlnFrNM93wqxgPHQg2WwHfrVwyhxM062a
+200 | Calculus - YouTube | https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M
+200 | General Chemistry - YouTube | https://www.youtube.com/playlist?list=PLybg94GvOJ9EbbO2RXPWTUNIIE0C7hSfm
+200 | Biochemistry - YouTube | https://www.youtube.com/playlist?list=PLybg94GvOJ9Fazvaf8unWl9J2soXCAvy4
+200 | Inorganic/Organometallic Chemistry - YouTube | https://www.youtube.com/playlist?list=PLybg94GvOJ9GlYQJWEhxOBtNXH5DKeNsN
+200 | Chemistry Laboratory Techniques - YouTube | https://www.youtube.com/playlist?list=PLybg94GvOJ9Gn1tz2WIe-75UuZSL3wSJK
+200 | Organic Chemistry - YouTube | https://www.youtube.com/playlist?list=PLybg94GvOJ9GtvOUYLW601u1Oiaoat2UF
+200 | General Chemistry Practice Problems - YouTube | https://www.youtube.com/playlist?list=PLybg94GvOJ9H-HhKkr-peYKxTeE3XUeQf
+200 | Organic Chemistry Practice Problems - YouTube | https://www.youtube.com/playlist?list=PLybg94GvOJ9Hkihn7mQnLBl2YJKbU1cjO
+000 | - | https://zcho.ch.pw.edu.pl/dyd_inz1.html
