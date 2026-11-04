@@ -12,11 +12,11 @@ Ten bonus nie uczy chemii. Pokazuje, gdzie ona jest. Dowiesz się, czym chemia n
 
 **Rozdział 2** pokazuje, gdzie na studiach wracają tematy z kursu maturalnego i co do nich dochodzi. Zobaczysz też, jak bardzo przedmiot o tej samej nazwie potrafi się różnić między uczelniami.
 
-**Rozdział 3** to sprawdzone miejsca do nauki, ułożone według przedmiotów: chemia ogólna i nieorganiczna, organiczna, fizyczna, analityczna, biochemia i trochę matematyki. Przy każdym źródle piszę, co w nim jest i kiedy po nie sięgnąć. Na końcu jest skrót dla Twojego kierunku.
+**Rozdział 3** to sprawdzone miejsca do nauki, ułożone według przedmiotów: chemia organiczna, ogólna i nieorganiczna, fizyczna, analityczna, biochemia i trochę matematyki. Przy każdym źródle piszę, co w nim jest i kiedy po nie sięgnąć. Na końcu jest skrót dla Twojego kierunku.
 
 **Rozdział 4** to sześć wprowadzeń do rzeczy, które spotka prawie każdy: 4a entropia i energia Gibbsa, 4b aktywność, 4c chemia kwantowa, 4d mechanizmy reakcji, 4e spektroskopia i 4f laboratorium. Każde wyjaśnia, czym to jest i do czego służy, a najważniejsze rzeczy uczy dokładniej, w krótkich mini-kursach z przykładami krok po kroku.
 
-**Rozdział 5** to spis wszystkich polecanych materiałów z adresami, w jednym miejscu.
+**Rozdział 5** to spis polecanych kanałów, kursów, stron i książek z adresami, w jednym miejscu.
 
 ### Jak czytać
 
@@ -60,7 +60,7 @@ Ogromnie ważne jest wypytywanie starszych roczników o wykłady, notatki i mate
 
 [RYSUNEK: F-03, do narysowania. Gruby rozdział podręcznika (około 30 stron) z zaznaczonym małym fragmentem (około jednej dziesiątej), strzałka do slajdów wykładu i do kartki z pytaniami na sprawdzian. Podpis: „Z rozdziału na trzydzieści stron na wykład trafia mała część, i z niej są pytania.”]
 
-Starsze roczniki to studenci wyższych lat Twojego kierunku. Znają prowadzących i wiedzą, jak wyglądały **kolokwia**, czyli sprawdziany pisane w trakcie semestru. Wiedzą też, jak wyglądał egzamin w **sesji**, czyli w okresie egzaminów na koniec semestru. Materiały krążą zwykle w grupach roku na komunikatorach i w kołach naukowych, czyli studenckich stowarzyszeniach przy katedrach. Na początek najlepiej odezwać się do starosty roku. To student wybrany na łącznika między rokiem a prowadzącymi.
+Starsze roczniki to studenci wyższych lat Twojego kierunku. Znają prowadzących i wiedzą, jak wyglądały **kolokwia**, czyli sprawdziany pisane w trakcie semestru. Wiedzą też, jak wyglądał egzamin w **sesji**, czyli w okresie egzaminów na koniec semestru. Materiały krążą zwykle w grupach roku na komunikatorach i w kołach naukowych, czyli studenckich stowarzyszeniach przy katedrach. Na początek odezwij się do starosty roku. To student wybrany na łącznika między rokiem a prowadzącymi.
 
 Pamiętaj o dwóch rzeczach. Materiały sprzed roku mogą nie pasować, jeśli zmienił się prowadzący albo program, więc porównaj je z aktualnym sylabusem. Traktuj je też jak mapę, a nie jak coś, co zastąpi wykład.
 
@@ -102,13 +102,13 @@ Zanim zaczniesz, dwie uwagi. Po pierwsze, nazwy przedmiotów się różnią. To,
 | Moduł kursu | Gdzie wraca na studiach | Co dochodzi nowego |
 |---|---|---|
 | I. Budowa atomu | chemia ogólna | kwantowy opis atomu: równanie Schrödingera dla atomu wodoru, liczby kwantowe, które się wyprowadza, a nie tylko podaje (4c) |
-| II. Wiązania i oddziaływania | chemia ogólna | orbitale molekularne, hybrydyzacja jako narzędzie opisu, symetria cząsteczek, budowa kryształów (4c) |
+| II. Wiązania i oddziaływania | chemia ogólna | orbitale molekularne i hybrydyzacja jako narzędzia opisu (4c), symetria cząsteczek, budowa kryształów |
 | III. Systematyka związków nieorganicznych | chemia ogólna i nieorganiczna, czasem osobna chemia nieorganiczna w drugim semestrze | chemia pierwiastków grupa po grupie, związki kompleksowe z nazewnictwem i trwałością |
 | IV. Stechiometria | ćwiczenia rachunkowe z chemii ogólnej | nowe sposoby wyrażania stężeń, na przykład ułamek molowy; dużo więcej zadań i szybsze tempo |
-| V. Kinetyka, statyka, energetyka | chemia ogólna, później chemia fizyczna | entropia, energia Gibbsa, wykresy fazowe, rzędy reakcji, równanie Arrheniusa (4a) |
+| V. Kinetyka, statyka, energetyka | chemia ogólna, później chemia fizyczna | entropia i energia Gibbsa (4a), wykresy fazowe, rzędy reakcji, równanie Arrheniusa |
 | VI. Roztwory | chemia ogólna; na niektórych kierunkach medycznych i weterynarii razem z pH i buforami w jednym przedmiocie | roztwory koloidalne, rozpuszczanie wyjaśnione na poziomie cząsteczek, iloczyn rozpuszczalności |
 | VII. pH i reakcje w roztworach elektrolitów | chemia ogólna i nieorganiczna; na niektórych kierunkach lekarskich już w biochemii pierwszego roku | aktywność zamiast stężenia, siła jonowa (4b); bufory i równowaga kwasowo-zasadowa w organizmie |
-| VIII. Redoks | chemia ogólna, miareczkowania redoks na laboratorium | równanie Nernsta, potencjał normalny |
+| VIII. Redoks | chemia ogólna, miareczkowania redoks na laboratorium | równanie Nernsta, potencjał standardowy elektrody |
 | IX. Elektrochemia | chemia ogólna, później chemia fizyczna | ogniwa i elektroliza opisane liczbowo, związek napięcia ogniwa z energią Gibbsa (4a) |
 | X. Zastosowania związków nieorganicznych | chemia nieorganiczna, na farmacji także analiza jakościowa | rola pierwiastków w organizmie, izotopy promieniotwórcze w medycynie, na farmacji reakcje z Farmakopei |
 | XI. Wstęp do chemii organicznej | chemia organiczna; na części kierunków od pierwszego semestru, na innych później | nazewnictwo z regułami starszeństwa, izomeria optyczna, efekty elektronowe w cząsteczce |
@@ -143,7 +143,7 @@ Na maturze wszyscy uczą się z tej samej podstawy programowej. Na studiach prze
 
 **Jedna uczelnia, jedna nazwa, dwa różne przedmioty.** Na tej samej politechnice „Chemia ogólna i nieorganiczna” może mieć na jednym kierunku o połowę więcej godzin wykładu niż na drugim. Plan wykładu jest podobny, ale na kierunku z większą liczbą godzin wchodzi się głębiej.
 
-**Jedna nazwa, trzy kierunki.** Na farmacji „Chemia ogólna i nieorganiczna” może obejmować reakcje rozpoznawania jonów, z których korzystają farmaceuci. Na analityce medycznej bywa, że laboratorium ma ponad dwa razy więcej godzin niż wykład, a wykład przechodzi pierwiastek po pierwiastku przez układ okresowy. Na biotechnologii wykład i laboratorium mają często tyle samo godzin. Nazwa ta sama, a rzeczy do opanowania różne.
+**Jedna nazwa, trzy kierunki.** Na farmacji „Chemia ogólna i nieorganiczna” może obejmować reakcje rozpoznawania jonów, z których korzystają farmaceuci. Na analityce medycznej bywa, że laboratorium ma ponad dwa razy więcej godzin niż wykład, a wykład przechodzi pierwiastek po pierwiastku przez układ okresowy. Na biotechnologii bywa, że wykład i laboratorium mają tyle samo godzin. Nazwa ta sama, a rzeczy do opanowania różne.
 
 **Czy chemia w ogóle jest na pierwszym roku.** Na kierunku lekarskim spotyka się trzy układy. W pierwszym na pierwszym roku jest osobny, krótki przedmiot „Chemia”, a obok niego biochemia. W drugim chemii jako osobnego przedmiotu nie ma, ale jej tematy, czyli woda, równowagi jonowe i bufory, otwierają biochemię pierwszego roku. W trzecim chemia przychodzi dopiero na drugim roku, połączona z biochemią w jeden duży przedmiot. Na stomatologii jest podobnie.
 
@@ -157,11 +157,11 @@ Są kanały na YouTube i strony, które naprawdę pomagają: Professor Dave Expl
 
 Każde źródło niżej otworzyłem i sprawdziłem. Przy każdym piszę, co w nim jest, kiedy po nie sięgnąć, w jakim jest języku i na jakim poziomie. **Wprowadzenie** oznacza most od matury. **Poziom pierwszego roku** to materiał na zajęcia. **Poziom dalszy** to rzeczy na później albo do sprawdzania. Opisy playlist powstały z pełnej listy tytułów filmów, a nie z obejrzenia każdego z nich.
 
-W każdym przedmiocie najpierw są polskie materiały, potem podręczniki, filmy i strony. Na końcu rozdziału jest skrót dla Twojego kierunku. Pamiętaj o zasadzie pierwszej z rozdziału 1: żadne z tych źródeł nie zastąpi wykładu i slajdów, bo tylko one mówią, co z chemii wybrał Twój prowadzący.
+Tam, gdzie je znalazłem, najpierw są polskie materiały, potem podręczniki, filmy i strony. Na końcu rozdziału jest skrót dla Twojego kierunku. Pamiętaj o zasadzie pierwszej z rozdziału 1: żadne z tych źródeł nie zastąpi wykładu i slajdów, bo tylko one mówią, co z chemii wybrał Twój prowadzący.
 
 ## Chemia organiczna
 
-Z matury znasz organiczną jako katalog: grupa funkcyjna, nazwa, kilka reakcji do zapisania. Na studiach do tego samego materiału dochodzi pytanie „dlaczego”. Którędy płyną elektrony? Skąd atakuje odczynnik? Dlaczego powstaje ten produkt, a nie inny? Odpowiedź to **mechanizm reakcji**, który rysuje się zakrzywionymi strzałkami. Większość materiałów niżej jest po to, żeby te strzałki zaczęły mieć sens.
+Z matury znasz organiczną jako katalog grup funkcyjnych i reakcji. Na studiach do tego samego materiału dochodzi pytanie „dlaczego”, a odpowiedzią jest **mechanizm reakcji**, rysowany zakrzywionymi strzałkami. Większość materiałów niżej jest po to, żeby te strzałki zaczęły mieć sens.
 
 Jak wygląda mechanizm narysowany strzałkami, pokazuje rysunek i mini-kurs w części 4d.
 
@@ -185,7 +185,7 @@ Po polsku masz do wyboru głównie dwa przetłumaczone podręczniki.
 
 Pierwszy to John McMurry, „Chemia organiczna”, wydana przez PWN w kilku tomach. To pełny wykład od budowy i wiązań po biocząsteczki, z zadaniami na końcu rozdziałów. Tomy dzielą książkę według rozdziałów, więc z biblioteki możesz wziąć tylko ten, którego potrzebujesz. Nowsze wydanie angielskie jest [za darmo w sieci na platformie OpenStax](https://openstax.org/books/organic-chemistry/pages/1-why-this-chapter). Jeśli w bibliotece nie ma wolnego polskiego egzemplarza, angielski McMurry jest zawsze pod ręką.
 
-Drugi to Clayden, Greeves, Warren i Wothers, „Chemia organiczna”, w czterech częściach. Polski przekład dotyczy pierwszego wydania. W [drugim wydaniu angielskim](https://global.oup.com/academic/product/organic-chemistry-9780199270293) rozdziały są ułożone głównie według typów reakcji i mechanizmów, a nie według klas związków. To książka raczej dla kierunku chemia i dla tych, których prowadzący uczy od mechanizmów.
+Drugi to Clayden, Greeves, Warren i Wothers, „Chemia organiczna”, w czterech częściach. Polski przekład dotyczy pierwszego wydania; po angielsku jest już [drugie wydanie](https://global.oup.com/academic/product/organic-chemistry-9780199270293). Clayden, także w polskim przekładzie, układa rozdziały głównie według typów reakcji i mechanizmów, a nie według klas związków. To książka raczej dla kierunku chemia i dla tych, których prowadzący uczy od mechanizmów.
 
 Na kierunkach medycznych i na biotechnologii przyda się otwarty podręcznik Tima Soderberga, [„Organic Chemistry with a Biological Emphasis”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)). Obok klasycznych tematów ma rozdziały o tym, jak organiczna działa w komórce, między innymi o utlenianiu i redukcji oraz o witaminach. Jeśli nie widzisz, po co lekarzowi organiczna, zacznij od tych rozdziałów. (Po angielsku; poziom pierwszego roku.)
 
@@ -233,7 +233,7 @@ Po angielsku za darmo jest [„Chemistry 2e” z OpenStax](https://openstax.org/
 
 [Playlista „General Chemistry” na kanale Professor Dave Explains](https://www.youtube.com/playlist?list=PLybg94GvOJ9EbbO2RXPWTUNIIE0C7hSfm) obejmuje całą chemię ogólną pierwszego roku, także tematy, których na maturze nie było: orbitale molekularne, termodynamikę z entropią, iloczyn rozpuszczalności, związki kompleksowe. Do niej jest [playlista zadań rachunkowych](https://www.youtube.com/playlist?list=PLybg94GvOJ9H-HhKkr-peYKxTeE3XUeQf), w której każde zadanie jest innego typu: stechiometria, prawo Hessa, rozcieńczanie, równowagi, bufory, iloczyn rozpuszczalności. Trzecia playlista, [„Inorganic/Organometallic Chemistry”](https://www.youtube.com/playlist?list=PLybg94GvOJ9GlYQJWEhxOBtNXH5DKeNsN), w pierwszej połowie przechodzi przez układ okresowy grupa po grupie. Druga połowa jest raczej na wyższe lata. (Po angielsku; od wprowadzenia do poziomu pierwszego roku.)
 
-[The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS), mimo nazwy, ma też ogromną playlistę z chemii ogólnej, głównie z rozwiązywaniem zadań. Wracaj do niej, gdy potrzebujesz pięciu podobnych zadań pod rząd, aż dany typ obliczeń przestanie sprawiać kłopot. (Po angielsku; poziom pierwszego roku.)
+[The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS), mimo nazwy, ma też bardzo długą playlistę z chemii ogólnej, głównie z rozwiązywaniem zadań. Wracaj do niej, gdy potrzebujesz pięciu podobnych zadań pod rząd, aż dany typ obliczeń przestanie sprawiać kłopot. (Po angielsku; poziom pierwszego roku.)
 
 [Kurs „Principles of Chemical Science” na MIT OpenCourseWare](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/) to nagrania wszystkich wykładów, notatki, zadania i egzaminy z rozwiązaniami. Pełny wykład akademicki z chemii ogólnej po angielsku. (Po angielsku; poziom pierwszego roku.)
 
@@ -335,15 +335,15 @@ Na biotechnologii chemia ogólna w pierwszym semestrze ma zwykle wykład i labor
 
 ### Inżynieria chemiczna i technologia chemiczna
 
-Na politechnikach chemia idzie w parze z dużą ilością matematyki. W pierwszym semestrze matematyki bywa tyle samo co chemii albo więcej. Chemia ogólna na tych kierunkach potrafi już w pierwszym semestrze sięgać po termodynamikę z energią Gibbsa i kinetykę z równaniem Arrheniusa. Miej pod ręką część o matematyce, chemię fizyczną od Chemguide przez Peveratiego po kurs MIT, a z polskich podręczników Bielańskiego oraz Pigonia i Ruziewicza.
+Na politechnikach chemia idzie w parze z dużą ilością matematyki od pierwszego semestru. Chemia ogólna na tych kierunkach potrafi już w pierwszym semestrze sięgać po termodynamikę z energią Gibbsa i kinetykę z równaniem Arrheniusa. Miej pod ręką część o matematyce, chemię fizyczną od Chemguide przez Peveratiego po kurs MIT, a z polskich podręczników Bielańskiego oraz Pigonia i Ruziewicza.
 
 # Rzeczy, które spotka prawie każdy
 
 Sześć wprowadzeń do tematów, które na studiach wracają na wielu przedmiotach: 4a entropia i energia Gibbsa, 4b aktywność, 4c chemia kwantowa, 4d mechanizmy reakcji, 4e spektroskopia i 4f laboratorium. Każde ma ten sam układ. Najpierw czym to jest. Potem do czego to służy, osobno w świecie poza uczelnią i osobno na studiach. Potem dwa albo trzy mini-kursy, czyli najważniejsze rzeczy wyjaśnione dokładniej, z definicją, przykładem krok po kroku i typową pułapką. Na końcu lista pozostałych zagadnień, a przy każdym co najmniej dwa źródła, w tym zawsze artykuł, który je tłumaczy.
 
-Prawie wszystkie linki prowadzą do stron po angielsku. To nie przypadek: jak pisałem w rozdziale 1, angielski jest na studiach domyślnym językiem nauki, a dobre, bezpłatne wyjaśnienia chemii akademickiej są prawie wyłącznie po angielsku. Żeby łatwiej było wybrać: Chemguide pisze na poziomie bliskim maturze rozszerzonej, Master Organic Chemistry i OpenStax na poziomie pierwszego roku, a podręczniki w serwisie LibreTexts od pierwszego roku w górę.
+Prawie wszystkie linki prowadzą do stron po angielsku. Jak pisałem w rozdziale 1, angielski jest na studiach domyślnym językiem nauki, a dobre, bezpłatne wyjaśnienia chemii akademickiej są prawie wyłącznie po angielsku. Żeby łatwiej było wybrać: Chemguide pisze na poziomie bliskim maturze rozszerzonej, Master Organic Chemistry i OpenStax na poziomie pierwszego roku, a podręczniki w serwisie LibreTexts od pierwszego roku w górę.
 
-Kolejność tematów nie jest przypadkowa. Energia Gibbsa tłumaczy, dlaczego reakcje w ogóle zachodzą, a aktywność to poprawka do jej wzorów. Chemia kwantowa tłumaczy, skąd biorą się orbitale, a mechanizmy i spektroskopia korzystają z orbitali na każdym kroku. Laboratorium jest na końcu, bo tam to wszystko spotkasz w praktyce. Możesz jednak czytać w dowolnej kolejności.
+Tematy są ułożone tak, że każdy korzysta z poprzedniego. Energia Gibbsa tłumaczy, dlaczego reakcje w ogóle zachodzą, a aktywność to poprawka do jej wzorów. Chemia kwantowa tłumaczy, skąd biorą się orbitale, a mechanizmy i spektroskopia korzystają z orbitali na każdym kroku. Laboratorium jest na końcu, bo tam to wszystko spotkasz w praktyce. Możesz jednak czytać w dowolnej kolejności.
 
 ## 4a. Entropia i energia Gibbsa
 
@@ -363,7 +363,7 @@ Ujemne ΔG oznacza proces samorzutny. Dodatnie oznacza, że sam z siebie nie zaj
 
 ### Do czego to służy
 
-**W świecie.** Termodynamika chemiczna odpowiada na pytanie, co w ogóle jest możliwe i w jakich warunkach. Przykład z przemysłu to synteza amoniaku z azotu i wodoru. Reakcja jest egzotermiczna, więc więcej produktu dostaje się w niskiej temperaturze, ale w niskiej temperaturze reakcja jest za wolna. Przemysł pracuje więc w kompromisie: w temperaturze 400–450 °C, pod wysokim ciśnieniem i z katalizatorem żelazowym. Godzi się przy tym na około 15% amoniaku w mieszaninie, a resztę gazów zawraca (liczby ze strony Chemguide o procesie Habera). Tak samo liczy się, w jakiej temperaturze rozkłada się węglan wapnia w piecu wapiennym, przy jakim reduktorze uda się wydobyć metal z rudy i jakie napięcie da bateria albo ogniwo paliwowe. W organizmie energia Gibbsa tłumaczy, jak komórka „zmusza” do zajścia reakcje, które same by nie poszły: łączy je z reakcjami, które oddają dużo energii, przede wszystkim z rozkładem ATP.
+**W świecie.** Termodynamika chemiczna odpowiada na pytanie, co w ogóle jest możliwe i w jakich warunkach. Przykład z przemysłu to synteza amoniaku z azotu i wodoru. Reakcja jest egzotermiczna, więc więcej produktu dostaje się w niskiej temperaturze, ale w niskiej temperaturze reakcja jest za wolna. Przemysł pracuje więc w kompromisie: w temperaturze 400–450 °C, pod wysokim ciśnieniem i z katalizatorem żelazowym. Godzi się przy tym na około 15% amoniaku w mieszaninie, a resztę gazów zawraca (liczby ze strony Chemguide o procesie Habera). Tak samo liczy się, w jakiej temperaturze rozkłada się węglan wapnia w piecu wapiennym. Albo przy jakim reduktorze uda się wydobyć metal z rudy. Albo jakie napięcie da bateria lub ogniwo paliwowe. W organizmie energia Gibbsa tłumaczy, jak komórka „zmusza” do zajścia reakcje, które same by nie poszły: łączy je z reakcjami, które oddają dużo energii, przede wszystkim z rozkładem ATP.
 
 **Na studiach.** ΔG to język chemii fizycznej, biochemii i analityki. W chemii fizycznej wyprowadza się z niej stałą równowagi, potencjały elektrod i równowagi fazowe. W biochemii każda reakcja metabolizmu ma swoje ΔG, a glikoliza czy cykl Krebsa to łańcuchy reakcji o ujemnym ΔG przeplatane takimi, które trzeba „opłacić” ATP. W analityce z ΔG° bierze się każda stała, której używasz w obliczeniach pH i rozpuszczalności. Bez energii Gibbsa wzory na stałą równowagi i potencjał elektrody są do wykucia. Z nią widać, że to jedna i ta sama idea.
 
@@ -380,7 +380,7 @@ Dwa przykłady z życia:
 
 Z drugiego przykładu wynika najważniejsza rzecz: **nie wystarczy patrzeć na sam układ**. Trzeba liczyć też to, co dzieje się z otoczeniem. Energia Gibbsa robi to za nas.
 
-Jak przewidzieć znak ΔS bez liczenia? Trzy sygnały, że ΔS > 0: z cieczy albo ciała stałego powstaje gaz, rośnie liczba moli gazu, ciało stałe rozpuszcza się w cieczy. Ogrzewanie też zawsze zwiększa entropię.
+Jak przewidzieć znak ΔS bez liczenia? Trzy sygnały, że ΔS > 0: z cieczy albo ciała stałego powstaje gaz, rośnie liczba moli gazu, ciało stałe rozpuszcza się w cieczy (to ostatnie zwykle, nie zawsze). Ogrzewanie też zawsze zwiększa entropię.
 
 **Przykład:** rozkład węglanu wapnia, CaCO₃(s) → CaO(s) + CO₂(g). Po lewej same ciała stałe, po prawej pojawia się gaz, więc bez liczenia wiadomo, że ΔS > 0. Z tablic wychodzi ΔS = +160,4 J/(K·mol), co zgadza się z przewidywaniem (wartość ze strony Chemguide o energii Gibbsa).
 
@@ -401,11 +401,11 @@ Wzór ma trzy składniki. ΔH to ciepło reakcji pod stałym ciśnieniem, znane 
 
 **Przykład krok po kroku: parowanie wody**, H₂O(c) → H₂O(g), z danych w podręczniku „Chemistry 2e” z OpenStax (podrozdział 16.4).
 
-1. ΔH° = 44,01 kJ. Parowanie pochłania ciepło, więc znak jest dodatni.
+1. ΔH° = 44,01 kJ na mol wody (dalej liczymy dla 1 mola). Parowanie pochłania ciepło, więc znak jest dodatni.
 2. ΔS° = 188,8 − 70,0 = 118,8 J/K. Gaz ma większą entropię niż ciecz, więc znak też jest dodatni. To ostatni wiersz tabeli: proces zachodzi sam dopiero w wyższej temperaturze.
 3. Uzgodnij jednostki: 118,8 J/K = 0,1188 kJ/K.
-4. Policz dla 25 °C, czyli T = 298 K: TΔS° = 298 · 0,1188 ≈ 35,4 kJ, a ΔG° = 44,01 − 35,4 ≈ +8,6 kJ. Wynik jest dodatni: w temperaturze pokojowej, pod ciśnieniem standardowym, woda nie wrze.
-5. W jakiej temperaturze zacznie? Wtedy, gdy ΔG° = 0, czyli T = ΔH°/ΔS° = 44 010 / 118,8 ≈ 370,5 K, około 97 °C. Rzeczywista temperatura wrzenia to 100 °C. Z dwóch liczb z tablic wyszła temperatura wrzenia z dokładnością do trzech stopni. Różnica bierze się stąd, że ΔH i ΔS zmierzone w 25 °C traktujemy jako stałe.
+4. Policz dla 25 °C, czyli T = 298 K: TΔS° = 298 · 0,1188 ≈ 35,4 kJ, a ΔG° = 44,01 − 35,4 ≈ +8,6 kJ. Wynik jest dodatni: w temperaturze pokojowej, pod ciśnieniem standardowym, woda nie wrze. Mimo to paruje z otwartego naczynia, bo nad nią nie ma pary o ciśnieniu 1 bar. Czym różni się ΔG° od ΔG w konkretnych warunkach, wyjaśnia pułapka w mini-kursie 3.
+5. W jakiej temperaturze zacznie? Wtedy, gdy ΔG° = 0, czyli T = ΔH°/ΔS° = 44 010 / 118,8 ≈ 370,5 K, około 97 °C. Rzeczywista temperatura wrzenia to 100 °C. Z kilku liczb z tablic wyszła temperatura wrzenia z dokładnością do trzech stopni. Różnica bierze się stąd, że ΔH i ΔS zmierzone w 25 °C traktujemy jako stałe.
 
 [RYSUNEK: F-26, do narysowania. Wykres ΔG od temperatury dla parowania wody: prosta opadająca, przecinająca oś ΔG = 0 przy około 370 K; nad osią napis „nie zachodzi samorzutnie”, pod osią „zachodzi samorzutnie”. Podpis: „Parowanie wody: powyżej temperatury, w której ΔG = 0, proces zachodzi sam.”]
 
@@ -428,7 +428,7 @@ R to stała gazowa, 8,314 J/(K·mol), T to temperatura w kelwinach, ln to logary
 1. Zamień na dżule: −60 000 J/mol.
 2. Podstaw: −60 000 = −8,314 · 373 · ln K.
 3. ln K = 60 000 / (8,314 · 373) ≈ 19,35.
-4. K = e¹⁹·³⁵ ≈ 2,53 · 10⁸. W równowadze są praktycznie same produkty.
+4. K = e do potęgi 19,35, czyli około 2,53 · 10⁸. W równowadze są praktycznie same produkty.
 5. Ta sama reakcja z ΔG° = +60,0 kJ/mol dałaby K ≈ 3,96 · 10⁻⁹, czyli praktycznie same substraty.
 
 Logarytm sprawia, że niewielka zmiana ΔG° to ogromna zmiana K. Dlatego reakcje, w których ΔG° wynosi kilkadziesiąt kJ, zachodzą praktycznie do końca albo praktycznie wcale.
@@ -454,7 +454,7 @@ Każdy na studiach dowie się, że istnieje coś takiego jak aktywność. Na mat
 
 ### Czym to jest
 
-Zacznijmy od doświadczenia. Gdy zmieszasz bezbarwne roztwory jonów Fe³⁺ i SCN⁻, powstaje czerwonopomarańczowy kompleks Fe(SCN)²⁺. Teraz dosyp do tego roztworu soli, która w reakcji nie bierze udziału, na przykład KNO₃. Barwa robi się wyraźnie jaśniejsza. Kompleksu jest mniej, czyli równowaga przesunęła się w stronę substratów. A przecież w równaniu reakcji nic się nie zmieniło.
+Najpierw doświadczenie. Gdy zmieszasz bezbarwne roztwory jonów Fe³⁺ i SCN⁻, powstaje czerwonopomarańczowy kompleks Fe(SCN)²⁺. Teraz dosyp do tego roztworu soli, która w reakcji nie bierze udziału, na przykład KNO₃. Barwa robi się wyraźnie jaśniejsza. Kompleksu jest mniej, czyli równowaga przesunęła się w stronę substratów. A przecież w równaniu reakcji nic się nie zmieniło.
 
 [RYSUNEK: F-10, do znalezienia. Dwa naczynia z czerwonopomarańczowym roztworem kompleksu Fe(SCN)²⁺: po lewej bez dodatku soli, po prawej po dodaniu KNO₃, wyraźnie jaśniejszy. Podpis: „Ta sama mieszanina Fe³⁺ i SCN⁻ przed dodaniem soli obojętnej i po nim.”]
 
@@ -466,7 +466,7 @@ Wyjaśnienie leży na poziomie pojedynczych jonów. Każdy jon w roztworze ma wo
 
 ### Do czego to służy
 
-**W świecie.** pH, które mierzysz pehametrem, to w rzeczywistości miara aktywności jonów wodorowych, a nie ich stężenia, bo elektroda reaguje właśnie na aktywność. Tak też definiuje się pH w analityce: pH = −log a(H₃O⁺). Podobnie działają elektrody jonoselektywne, którymi mierzy się we krwi jony sodu, potasu i wapnia. Krew i woda morska to roztwory o dużej sile jonowej, więc różnica między aktywnością a stężeniem jest w nich realna. Aktywność liczy się wszędzie, gdzie roztwory są stężone w soli: w wodzie morskiej, w solankach, w roztworach przemysłowych, przy przewidywaniu, czy osad się wytrąci.
+**W świecie.** pH, które mierzysz pehametrem, to w rzeczywistości miara aktywności jonów wodorowych, a nie ich stężenia, bo elektroda reaguje właśnie na aktywność. Tak też definiuje się pH w analityce: pH = −log a(H₃O⁺). Podobnie działają elektrody jonoselektywne, którymi mierzy się we krwi jony sodu, potasu i wapnia. Krew ma siłę jonową na tyle dużą, że różnica między aktywnością a stężeniem jest mierzalna, a woda morska jeszcze kilka razy większą. Aktywność liczy się wszędzie, gdzie roztwory są stężone w soli: w wodzie morskiej, w solankach, w roztworach przemysłowych, przy przewidywaniu, czy osad się wytrąci.
 
 **Na studiach.** Aktywność pojawia się w trzech miejscach. W chemii ogólnej jako pojęcie i jedna liczba: siła jonowa. W chemii analitycznej przy dokładnych obliczeniach równowag i przy pomiarach elektrodami. W chemii fizycznej jako poprawka do potencjału chemicznego dla roztworów, które nie zachowują się idealnie, i w opisie ogniw. Pojawia się też za każdym razem, gdy prowadzący powie „stała termodynamiczna”.
 
@@ -478,14 +478,14 @@ I = ½ Σ cᵢ zᵢ²
 
 Sumujesz po wszystkich jonach w roztworze: stężenie jonu (c) razy kwadrat jego ładunku (z). Ładunek wchodzi w kwadracie, więc jony dwu- i trójwartościowe liczą się dużo mocniej niż jednowartościowe.
 
-**Przykład krok po kroku: NaCl i Na₂SO₄, oba o stężeniu 0,10 mol/dm³.**
+**Przykład krok po kroku: NaCl i Na₂SO₄, oba o stężeniu 0,10 mol/dm³ (stężenia przykładowe).**
 
 1. NaCl daje 0,10 mol/dm³ Na⁺ (ładunek +1) i 0,10 mol/dm³ Cl⁻ (ładunek −1).
 2. I = ½ · (0,10 · 1² + 0,10 · 1²) = 0,10 mol/dm³.
-3. Na₂SO₄ daje 0,20 mol/dm³ Na⁺ (dwa jony z każdej cząsteczki soli) i 0,10 mol/dm³ SO₄²⁻ (ładunek −2).
+3. Na₂SO₄ daje 0,20 mol/dm³ Na⁺ (z każdego mola Na₂SO₄ powstają dwa mole Na⁺) i 0,10 mol/dm³ SO₄²⁻ (ładunek −2).
 4. I = ½ · (0,20 · 1² + 0,10 · 2²) = ½ · (0,20 + 0,40) = 0,30 mol/dm³.
 
-Ta sama ilość soli w roztworze, a siła jonowa trzy razy większa. Wszystko przez jon o ładunku 2, który w kwadracie liczy się czterokrotnie.
+To samo stężenie soli, a siła jonowa trzy razy większa. Wszystko przez jon o ładunku 2, który w kwadracie liczy się czterokrotnie.
 
 **Pułapka:** zapomnieć, że z jednej cząsteczki soli powstaje kilka jonów, albo nie podnieść ładunku do kwadratu. Obie pomyłki są częste na pierwszych ćwiczeniach z analityki.
 
@@ -495,21 +495,27 @@ Aktywność to iloczyn stężenia i **współczynnika aktywności**, oznaczanego
 
 a = γ · [A]
 
-Dla gazów, czystych cieczy, ciał stałych i substancji rozpuszczonych, które nie są jonami, γ jest w zwykłych warunkach bliskie 1, więc aktywność praktycznie równa się stężeniu. Dla jonów γ zależy od siły jonowej roztworu, od ładunku jonu i od jego rozmiaru. Im mniejsza siła jonowa, tym bliżej γ do 1. W roztworze bardzo rozcieńczonym aktywność i stężenie są takie same; to dlatego na maturze stężenia wystarczały. Współczynniki aktywności jonów szacuje się z równania Debye'a-Hückla. Na pierwszym roku wystarczy wiedzieć, że takie równanie istnieje i że wynik zależy od siły jonowej i ładunku jonu.
+Dla czystych cieczy i ciał stałych aktywność przyjmuje się równą 1; dlatego nie wpisuje się ich do wyrażenia na stałą równowagi. Dla gazów pod niewielkim ciśnieniem i dla cząsteczek obojętnych w roztworze γ jest w zwykłych warunkach bliskie 1, więc aktywność praktycznie równa się ciśnieniu albo stężeniu. Dla jonów γ zależy od siły jonowej roztworu, od ładunku jonu i od jego rozmiaru. Im mniejsza siła jonowa, tym bliżej γ do 1. W roztworze bardzo rozcieńczonym aktywność i stężenie są takie same; to dlatego na maturze stężenia wystarczały. Współczynniki aktywności jonów szacuje się z równania Debye'a-Hückla. Na pierwszym roku wystarczy wiedzieć, że takie równanie istnieje i że wynik zależy od siły jonowej i ładunku jonu.
 
 Z tego wynika rzecz, która zaskakuje: w podręcznikach akademickich stała równowagi nie ma jednostek. Aktywności są liczbami bez jednostek, więc stała zapisana na aktywnościach też.
 
-**Przykład rozumowania.** Dwa roztwory kwasu octowego o tym samym stężeniu: jeden w czystej wodzie, drugi z dodatkiem NaCl. W drugim siła jonowa jest większa, więc współczynniki aktywności jonów H₃O⁺ i CH₃COO⁻ są mniejsze. Żeby stała termodynamiczna, liczona z aktywności, pozostała taka sama, stężenia jonów muszą być większe. Kwas jest więc w słonym roztworze trochę bardziej zdysocjowany, a stała liczona ze stężeń wychodzi większa niż w czystej wodzie.
+**Przykład krok po kroku: kwas octowy w czystej wodzie i w roztworze NaCl, oba o tym samym stężeniu kwasu.**
+
+1. W roztworze z NaCl siła jonowa jest większa.
+2. Większa siła jonowa oznacza mniejsze współczynniki aktywności jonów H₃O⁺ i CH₃COO⁻.
+3. Stała termodynamiczna, liczona z aktywności, jest w obu roztworach taka sama.
+4. Skoro γ zmalało, a iloczyn γ · [jon] ma pozostać taki sam, stężenia jonów muszą wzrosnąć.
+5. Wniosek: w słonym roztworze kwas jest trochę bardziej zdysocjowany, a stała liczona ze stężeń wychodzi większa niż w czystej wodzie.
 
 **Pułapki.** Aktywność nie jest „poprawką na błąd pomiaru”. To fizyczny skutek oddziaływań między jonami. Druga pułapka: nie dopisuj współczynników aktywności do cząsteczek obojętnych i do wody; ich γ jest praktycznie równe 1.
 
 ### Mini-kurs 3: efekt soli i rozpuszczalność
 
-Stała równowagi powinna zależeć tylko od reakcji i od temperatury, a nie od tego, co jeszcze pływa w roztworze. Tymczasem w doświadczeniu z Fe(SCN)²⁺ stała policzona ze stężeń zmienia się po dodaniu soli. Rozwiązanie: stałą termodynamiczną zapisuje się na aktywnościach. Ta stała się nie zmienia. Zmienia się tylko jej przybliżenie liczone ze stężeń. Podręcznik „Chemistry 2e” z OpenStax mówi o tym wprost w podrozdziale o stałych równowagi: wzory ze stężeniami to uproszczenie, które na poziomie wstępnym daje niewielki błąd. Na maturze w ogóle się o tym nie mówi.
+Stała równowagi powinna zależeć tylko od reakcji i od temperatury, a nie od tego, co jeszcze pływa w roztworze. Tymczasem w doświadczeniu z Fe(SCN)²⁺ stała policzona ze stężeń zmienia się po dodaniu soli. Rozwiązanie: stałą termodynamiczną zapisuje się na aktywnościach. Ta stała się nie zmienia. Zmienia się tylko jej przybliżenie liczone ze stężeń. OpenStax pisze o tym wprost w podrozdziale 13.2: wzory ze stężeniami to uproszczenie, zwykle z niewielkim błędem. Na maturze w ogóle się o tym nie mówi.
 
 Najwyraźniej widać to na rozpuszczalności. Trudno rozpuszczalna sól rozpuszcza się w roztworze innej, obojętnej soli lepiej niż w czystej wodzie. W roztworze soli siła jonowa jest większa, więc współczynniki aktywności jonów są mniejsze. Żeby iloczyn aktywności osiągnął wartość iloczynu rozpuszczalności, do roztworu musi przejść więcej osadu.
 
-**Przykład z liczbami**, z podręcznika analityki Davida Harveya (podrozdział 6.9): jodan ołowiu(II), Pb(IO₃)₂, w roztworze azotanu magnezu o stężeniu 0,020 mol/dm³. Licząc ze stężeń, dostaje się rozpuszczalność 4,0 · 10⁻⁵ mol/dm³. Licząc z aktywności, 6,0 · 10⁻⁵ mol/dm³, czyli o połowę więcej. Pominięcie aktywności zaniża wynik o jedną trzecią. Kolejność rachunku jest zawsze taka sama: policz siłę jonową, oszacuj współczynniki aktywności, zapisz stałą na aktywnościach, dopiero potem podstaw stężenia.
+**Przykład z liczbami**, z podręcznika analityki Davida Harveya (podrozdział 6.9): jodan ołowiu(II), Pb(IO₃)₂, w roztworze azotanu magnezu o stężeniu 0,020 mol/dm³. Licząc ze stężeń, dostaje się rozpuszczalność 4,0 · 10⁻⁵ mol/dm³. Licząc z aktywności, 6,0 · 10⁻⁵ mol/dm³, czyli o połowę więcej. Pominięcie aktywności zaniża wynik o jedną trzecią. Kolejność rachunku jest zawsze taka sama: policz siłę jonową, oszacuj współczynniki aktywności, zapisz stałą na aktywnościach, dopiero potem podstaw stężenia. Pierwszy krok możesz policzyć już teraz: Mg(NO₃)₂ o stężeniu 0,020 mol/dm³ daje 0,020 mol/dm³ Mg²⁺ i 0,040 mol/dm³ NO₃⁻, więc I = ½ · (0,020 · 2² + 0,040 · 1²) = 0,060 mol/dm³. Resztę, czyli współczynniki aktywności z równania Debye'a-Hückla, pokazuje Harvey.
 
 [RYSUNEK: F-27, do narysowania. Wykres rozpuszczalności trudno rozpuszczalnej soli (oś pionowa) od stężenia dodanej soli obojętnej (oś pozioma): krzywa rosnąca, obok pozioma linia „wartość z iloczynu rozpuszczalności bez poprawki na aktywność”. Podpis: „Efekt soli: im większa siła jonowa, tym większa rozpuszczalność osadu.”]
 
@@ -527,13 +533,13 @@ Po polsku szukaj hasła „aktywność” w indeksie „Chemii fizycznej” Atki
 
 ## 4c. Chemia kwantowa
 
-Każdy na studiach usłyszy o chemii kwantowej. Na maturze kończyła się na konfiguracji elektronowej i kształtach orbitali s, p i d. Na studiach okazuje się, że za tymi rysunkami stoi cała teoria. Tłumaczy, skąd orbitale się biorą i dlaczego atomy łączą się tak, a nie inaczej. Polecam podręcznik Lucjana Pieli, „Idee chemii kwantowej”.
+Każdy na studiach usłyszy o chemii kwantowej. Na maturze kończyła się na konfiguracji elektronowej i kształtach orbitali s, p i d. Na studiach okazuje się, że za tymi rysunkami stoi cała teoria. Tłumaczy, skąd orbitale się biorą i dlaczego atomy łączą się tak, a nie inaczej.
 
 ### Czym to jest
 
 Duże ciała, na przykład piłka bilardowa, zachowują się jak cząstki: w każdej chwili mają określone położenie i prędkość. Fale, na przykład na wodzie, zachowują się inaczej. Nakładają się i tworzą wzory, które nazywamy interferencją. W świecie, który widzimy, to dwa zupełnie różne zjawiska.
 
-Na początku XX wieku okazało się, że bardzo małe obiekty, takie jak elektrony, podlegają innym regułom: elektron ma też cechy fali. Przewidział to Louis de Broglie w połowie lat dwudziestych, a niedługo potem Davisson i Germer potwierdzili to doświadczalnie. Pokazali interferencję elektronów przechodzących przez kryształ niklu (opis w „Chemistry 2e” z OpenStax, podrozdział 6.3).
+Na początku XX wieku okazało się, że bardzo małe obiekty, takie jak elektrony, podlegają innym regułom: elektron ma też cechy fali. Przewidział to Louis de Broglie w połowie lat dwudziestych, a niedługo potem Davisson i Germer potwierdzili to doświadczalnie. Pokazali interferencję elektronów rozproszonych na krysztale niklu (opis w „Chemistry 2e” z OpenStax, podrozdział 6.3).
 
 **Chemia kwantowa** to zastosowanie mechaniki kwantowej, czyli fizyki takich obiektów, do atomów i cząsteczek. Jej podstawowe narzędzie to **równanie Schrödingera**. Jego rozwiązania, **funkcje falowe**, mówią, gdzie elektron może przebywać i jaką ma energię. Orbitale, liczby kwantowe, konfiguracje elektronowe, wiązania i widma, czyli prawie cała chemia ogólna z matury, wynikają z tych rozwiązań.
 
@@ -551,7 +557,12 @@ Z falowej natury cząstek wynika **zasada nieoznaczoności Heisenberga**: nie da
 
 Opisuje się go funkcją falową ψ (psi). Sama funkcja nie ma prostego znaczenia fizycznego. Znaczenie ma jej kwadrat: ψ² w danym punkcie to gęstość prawdopodobieństwa znalezienia tam elektronu.
 
-**Przykład rozumowania.** Orbital 1s wodoru rysuje się jako kulę. Ta kula to nie ścieżka ani skorupka, tylko obszar, w którym elektron przebywa na przykład z prawdopodobieństwem 90 procent. Gęstość prawdopodobieństwa jest największa przy jądrze i maleje na zewnątrz, bez ostrej granicy. Gdyby narysować powierzchnię dla 99 procent, kula byłaby większa.
+**Przykład krok po kroku: jak czytać rysunek orbitalu 1s.**
+
+1. Orbital 1s wodoru rysuje się jako kulę. Ta kula to nie tor ani skorupka.
+2. To powierzchnia, wewnątrz której elektron przebywa z umówionym prawdopodobieństwem, na przykład 90 procent.
+3. Gęstość prawdopodobieństwa jest największa przy jądrze i maleje na zewnątrz, bez ostrej granicy.
+4. Gdyby narysować powierzchnię dla 99 procent, kula byłaby większa. Granica rysunku jest więc umowna, a elektron nie ma „brzegu”.
 
 [RYSUNEK: F-12, do narysowania. Dwa obrazy obok siebie: model Bohra (elektron na kołowej orbicie wokół jądra) i orbital 1s jako chmura gęstości prawdopodobieństwa. Podpis: „Na maturze orbita, na studiach prawdopodobieństwo.”]
 
@@ -580,7 +591,7 @@ Tak samo dla n = 3: przy l = 2 liczba m przyjmuje pięć wartości, od −2 do +
 
 [RYSUNEK: F-13, do znalezienia. Kształty orbitali s, p (trzy ustawienia) i d (pięć) w jednym zestawieniu. Podpis: „Orbitale s, p i d: kształty, które wynikają z rozwiązań równania Schrödingera.”]
 
-Od czego zaczyna się zwykle wykład z chemii kwantowej? Od modelu **cząstki w pudle**: elektronu zamkniętego między dwiema ścianami. Już tam wychodzi, że dozwolone są tylko niektóre energie, że numeruje je liczba kwantowa n i że im mniejsze pudło, tym większe odstępy między poziomami. To tłumaczy na przykład, dlaczego barwniki z długimi łańcuchami sprzężonych wiązań podwójnych, czyli z „dłuższym pudłem” dla elektronów, pochłaniają światło o dłuższej fali. Spotkasz to znów w spektroskopii UV (4e).
+Pierwszy model, który liczy się na wykładzie z chemii kwantowej, to zwykle **cząstka w pudle**: elektron zamknięty między dwiema ścianami. Już tam wychodzi, że dozwolone są tylko niektóre energie, że numeruje je liczba kwantowa n i że im mniejsze pudło, tym większe odstępy między poziomami. To tłumaczy na przykład, dlaczego barwniki z długimi łańcuchami sprzężonych wiązań podwójnych, czyli z „dłuższym pudłem” dla elektronów, pochłaniają światło o dłuższej fali. Spotkasz to znów w spektroskopii UV (4e).
 
 **Pułapka:** równanie Schrödingera da się rozwiązać dokładnie tylko dla układów z jednym elektronem, takich jak atom wodoru. Dla wszystkich innych atomów i cząsteczek używa się przybliżeń. Konfiguracje elektronowe znane z matury są więc przybliżeniem opartym na orbitalach podobnych do orbitali wodoru.
 
@@ -618,7 +629,7 @@ Teoria orbitali molekularnych daje więc to samo co Lewis tam, gdzie Lewis ma ra
 ### Pozostałe zagadnienia i gdzie o nich czytać
 
 - **Fale, fotony i widmo elektromagnetyczne:** [OpenStax, „6.1 Electromagnetic Energy”](https://openstax.org/books/chemistry-2e/pages/6-1-electromagnetic-energy) i [Chemguide, widmo emisyjne wodoru](https://www.chemguide.co.uk/atoms/properties/hspectrum.html).
-- **Efekt fotoelektryczny**, od którego zaczyna się wiele wykładów: [Peverati, „16.4 The Photoelectric Effect”](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/16%3A_The_Motivation_for_Quantum_Mechanics/16.04%3A_The_Photoelectric_Effect) i [OpenStax, „6.3 Development of Quantum Theory”](https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory).
+- **Efekt fotoelektryczny**, czyli doświadczenie, które pokazało, że światło przychodzi porcjami: [Peverati, „16.4 The Photoelectric Effect”](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/16%3A_The_Motivation_for_Quantum_Mechanics/16.04%3A_The_Photoelectric_Effect) i [OpenStax, „6.3 Development of Quantum Theory”](https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory).
 - **Model Bohra i dlaczego przestał wystarczać:** [OpenStax, „6.2 The Bohr Model”](https://openstax.org/books/chemistry-2e/pages/6-2-the-bohr-model) i [Chemguide, widmo emisyjne wodoru](https://www.chemguide.co.uk/atoms/properties/hspectrum.html), które pokazuje, skąd biorą się linie w widmie.
 - **Dualizm korpuskularno-falowy i równanie Schrödingera:** [OpenStax, „6.3 Development of Quantum Theory”](https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory), [Peverati, „16.5 Wave-Particle Duality”](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/16%3A_The_Motivation_for_Quantum_Mechanics/16.05%3A_Wave-Particle_Duality) i [Peverati, rozdział 18 „The Schrödinger Equation”](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/18%3A_The_Schrodinger_Equation).
 - **Cząstka w pudle krok po kroku:** [„3.5 The Energy of a Particle in a Box is Quantized”](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)/03%3A_The_Schrodinger_Equation_and_a_Particle_in_a_Box/3.05%3A_The_Energy_of_a_Particle_in_a_Box_is_Quantized) z podręcznika „Physical Chemistry” w LibreTexts i [Peverati, rozdział 19 „Analytically Soluble Models”](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/19%3A_Analytically_Soluble_Models).
@@ -628,7 +639,7 @@ Teoria orbitali molekularnych daje więc to samo co Lewis tam, gdzie Lewis ma ra
 - **Orbitale molekularne szerzej, z diagramami dla cząsteczek dwuatomowych:** [OpenStax, „8.4 Molecular Orbital Theory”](https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory) i [Peverati, rozdział 27 „The Chemical Bond in Diatomic Molecules”](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/27%3A_The_Chemical_Bond_in_Diatomic_Molecules).
 - **Orbitale molekularne w chemii organicznej**, czyli wiązanie π: [Master Organic Chemistry, „Bonding and Antibonding Pi Orbitals”](https://www.masterorganicchemistry.com/2017/02/14/molecular-orbital-pi-bond/) i [OpenStax, „8.4 Molecular Orbital Theory”](https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory).
 
-Filmy i książki: po polsku dział o budowie elektronowej atomów w polskiej Khan Academy, po angielsku filmy Professor Dave o modelu Bohra, liczbach kwantowych i orbitalach molekularnych na playliście „General Chemistry”, a pełny wykład w kursie MIT „Principles of Chemical Science” (wszystkie w rozdziale 3). Gdy chemia kwantowa stanie się osobnym przedmiotem, sięgnij po Pielę: polskie „Idee chemii kwantowej” (PWN) albo nowsze wydanie angielskie, [„Ideas of Quantum Chemistry”](https://shop.elsevier.com/books/ideas-of-quantum-chemistry/piela/978-0-444-64246-2), w dwóch tomach.
+Filmy i książki: po polsku dział o budowie elektronowej atomów w polskiej Khan Academy, po angielsku filmy Professor Dave o modelu Bohra, liczbach kwantowych i orbitalach molekularnych na playliście „General Chemistry”, a pełny wykład w kursie MIT „Principles of Chemical Science” (wszystkie w rozdziale 3). Gdy chemia kwantowa stanie się osobnym przedmiotem, polecam podręcznik Lucjana Pieli: polskie „Idee chemii kwantowej” (PWN) albo nowsze wydanie angielskie, [„Ideas of Quantum Chemistry”](https://shop.elsevier.com/books/ideas-of-quantum-chemistry/piela/978-0-444-64246-2), w dwóch tomach.
 
 ## 4d. Mechanizmy reakcji
 
@@ -659,7 +670,7 @@ Zamiast setek reakcji zapamiętujesz kilkanaście wzorców. Zadania na kolokwiac
 
 **Elektrofil** („lubiący elektrony”) to cząstka, która tę parę przyjmie: kation (H⁺, karbokation), atom z cząstkowym ładunkiem dodatnim (węgiel w grupie C=O, węgiel związany z fluorowcem) albo cząsteczka z pustym orbitalem (BF₃).
 
-Zasady rysowania strzałek, za podręcznikiem McMurry'ego (podrozdział 6.5 na OpenStax):
+Zasady rysowania strzałek, na podstawie podręcznika McMurry'ego (podrozdział 6.5 na OpenStax):
 
 1. Strzałka zaczyna się **na elektronach**: na wolnej parze albo na wiązaniu.
 2. Strzałka kończy się tam, gdzie elektrony **idą**: na atomie, który utworzy nowe wiązanie, albo na atomie, który zabierze parę z pękającego wiązania.
@@ -713,7 +724,7 @@ Zasady rysowania strzałek, za podręcznikiem McMurry'ego (podrozdział 6.5 na O
 3. Rozpuszczalnik: woda jest polarna i protonowa.
 4. Wszystkie trzy odpowiedzi wskazują SN1. Produkt: alkohol tert-butylowy, a po drodze karbokation.
 
-Dla bromometanu z jonem wodorotlenkowym w acetonie te same trzy pytania wskazują SN2. Ta sama „wymiana bromu na OH”, a dwie zupełnie różne drogi, z różną szybkością i różną stereochemią.
+Dla bromometanu z jonem cyjankowym w DMSO te same trzy pytania wskazują SN2. Ta sama „wymiana bromu na OH”, a dwie zupełnie różne drogi, z różną szybkością i różną stereochemią.
 
 **Pułapki.** Pierwsza: zapisać mechanizm SN2 dla substratu trzeciorzędowego. Zanim narysujesz strzałki, sprawdź, ile podstawników ma węgiel, który atakujesz. Druga: w SN1 karbokation może się przegrupować, jeśli przesunięcie wodoru albo grupy metylowej da trwalszy kation; produkt ma wtedy inny szkielet niż substrat. Trzecia: substraty drugorzędowe mogą iść obiema drogami, a przy mocnej zasadzie zamiast substytucji zachodzi eliminacja. Decyzja wymaga spojrzenia na substrat, nukleofil i rozpuszczalnik naraz.
 
@@ -730,7 +741,7 @@ Grupa karbonylowa C=O jest w aldehydach, ketonach, kwasach i ich pochodnych, a p
 1. Nukleofilem jest jon wodorkowy H⁻, dostarczany przez NaBH₄.
 2. Strzałka od wodorku do węgla karbonylowego, druga od wiązania π do tlenu. Powstaje jon alkoholanowy.
 3. Po dodaniu wody albo rozcieńczonego kwasu tlen przyjmuje proton.
-4. Produkt: propan-2-ol. Z aldehydu tą samą drogą powstaje alkohol pierwszorzędowy, na przykład z etanalu etanol. Z matury znasz to jako „redukcję aldehydu”. Teraz widzisz, co się dzieje.
+4. Produkt: propan-2-ol. Z aldehydu tą samą drogą powstaje alkohol pierwszorzędowy, na przykład z etanalu etanol. Z matury znasz to jako „redukcję aldehydu”.
 
 [RYSUNEK: F-29, do narysowania. Addycja nukleofilowa do aldehydu w trzech krokach: atak nukleofila na węgiel karbonylowy (strzałka od nukleofila do C, strzałka od wiązania π do O), jon alkoholanowy z czterema podstawnikami przy węglu, protonowanie tlenu do alkoholu. Podpis: „Addycja nukleofilowa do grupy karbonylowej: atak na węgiel, potem proton na tlen.”]
 
@@ -745,13 +756,13 @@ Dlaczego to takie ważne? Bo według tego samego wzoru, z innym nukleofilem, prz
 - **Rezonans**, czyli dlaczego jedna struktura Lewisa nie wystarcza: [Master Organic Chemistry, „Intro to Resonance”](https://www.masterorganicchemistry.com/2011/11/23/introduction-to-resonance-hybrids/) i [Master Organic Chemistry, „Curved Arrows to Interconvert Resonance Structures”](https://www.masterorganicchemistry.com/2011/11/30/curved-arrows-to-interconvert-resonance-structures/).
 - **Stan przejściowy i wykres energii reakcji:** [Master Organic Chemistry, „What's A Transition State?”](https://www.masterorganicchemistry.com/2010/11/03/whats-a-transition-state/), [Master Organic Chemistry, „Hammond's Postulate”](https://www.masterorganicchemistry.com/2011/09/28/hammonds-postulate/) i [Chemguide, równanie Arrheniusa](https://www.chemguide.co.uk/physical/basicrates/arrhenius.html).
 - **Trwałość karbokationów:** [Master Organic Chemistry, „3 Factors That Stabilize Carbocations”](https://www.masterorganicchemistry.com/2011/03/11/3-factors-that-stabilize-carbocations/) i [Chemguide, „carbocations”](https://www.chemguide.co.uk/mechanisms/eladd/carbonium.html).
-- **Grupy odchodzące:** [Master Organic Chemistry, „What makes a good leaving group?”](https://www.masterorganicchemistry.com/2011/04/12/what-makes-a-good-leaving-group/) i [OpenStax, „11.2 The SN2 Reaction”](https://openstax.org/books/organic-chemistry/pages/11-2-the-sn2-reaction).
+- **Grupy odchodzące:** [Master Organic Chemistry, „What makes a good leaving group?”](https://www.masterorganicchemistry.com/2011/04/12/what-makes-a-good-leaving-group/) i [OpenStax, „11.3 Characteristics of the SN2 Reaction”](https://openstax.org/books/organic-chemistry/pages/11-3-characteristics-of-the-sn2-reaction).
 - **SN1 i SN2 szczegółowo:** [Master Organic Chemistry, „The SN2 Reaction Mechanism”](https://www.masterorganicchemistry.com/2012/07/04/the-sn2-mechanism/), [Master Organic Chemistry, „The SN1 Reaction Mechanism”](https://www.masterorganicchemistry.com/2012/07/13/the-sn1-mechanism/), [Master Organic Chemistry, „Comparing the SN1 and SN2 Reactions”](https://www.masterorganicchemistry.com/2012/08/08/comparing-the-sn1-and-sn2-reactions/), [Chemguide, „What is nucleophilic substitution?”](https://www.chemguide.co.uk/mechanisms/nucsub/whatis.html) i [OpenStax, „11.4 The SN1 Reaction”](https://openstax.org/books/organic-chemistry/pages/11-4-the-sn1-reaction).
-- **Rola rozpuszczalnika:** [Master Organic Chemistry, „Deciding SN1/SN2/E1/E2: The Solvent”](https://www.masterorganicchemistry.com/2012/12/04/deciding-sn1sn2e1e2-the-solvent/) i [OpenStax, „11.4 The SN1 Reaction”](https://openstax.org/books/organic-chemistry/pages/11-4-the-sn1-reaction).
+- **Rola rozpuszczalnika:** [Master Organic Chemistry, „Deciding SN1/SN2/E1/E2: The Solvent”](https://www.masterorganicchemistry.com/2012/12/04/deciding-sn1sn2e1e2-the-solvent/) i [OpenStax, „11.5 Characteristics of the SN1 Reaction”](https://openstax.org/books/organic-chemistry/pages/11-5-characteristics-of-the-sn1-reaction).
 - **Eliminacja, E1 i E2:** [Master Organic Chemistry, „Comparing the E1 and E2 Reactions”](https://www.masterorganicchemistry.com/2012/10/10/comparing-the-e1-and-e2-reactions/), [Chemguide, eliminacja z 2-bromopropanu](https://www.chemguide.co.uk/mechanisms/elim/elim.html), [OpenStax, „11.8 The E2 Reaction”](https://openstax.org/books/organic-chemistry/pages/11-8-the-e2-reaction-and-the-deuterium-isotope-effect) i [OpenStax, „11.10 The E1 and E1cB Reactions”](https://openstax.org/books/organic-chemistry/pages/11-10-the-e1-and-e1cb-reactions).
 - **Substytucja czy eliminacja, jak rozstrzygnąć:** [Master Organic Chemistry, „Deciding SN1/SN2/E1/E2: The Substrate”](https://www.masterorganicchemistry.com/2012/11/21/deciding-sn1sn2e1e2-1-the-substrate/) i [Chemguide, „Elimination v nucleophilic substitution in halogenoalkanes”](https://www.chemguide.co.uk/mechanisms/elim/elimvsubst.html).
 - **Addycja elektrofilowa do alkenów i reguła Markownikowa:** [Chemguide, „What is electrophilic addition?”](https://www.chemguide.co.uk/mechanisms/eladd/whatis.html), [Chemguide, alkeny niesymetryczne i halogenowodory](https://www.chemguide.co.uk/mechanisms/eladd/unsymhbr.html), [Master Organic Chemistry, „Hydrohalogenation of Alkenes and Markovnikov's Rule”](https://www.masterorganicchemistry.com/2013/02/08/markovnikovs-rule-1/) i [OpenStax, „7.8 Orientation of Electrophilic Additions: Markovnikov's Rule”](https://openstax.org/books/organic-chemistry/pages/7-8-orientation-of-electrophilic-additions-markovnikovs-rule).
-- **Hydratacja alkenów przez karbokation:** artykuł [Master Organic Chemistry o kwasowej hydratacji alkenów](https://www.masterorganicchemistry.com/2013/02/22/addition-pattern-1-the-carbocation-pathway/) i [Chemguide, „carbocations”](https://www.chemguide.co.uk/mechanisms/eladd/carbonium.html).
+- **Hydratacja alkenów przez karbokation:** [Master Organic Chemistry, „Acid Catalyzed Hydration of Alkenes”](https://www.masterorganicchemistry.com/2013/02/22/addition-pattern-1-the-carbocation-pathway/) i [Chemguide, „carbocations”](https://www.chemguide.co.uk/mechanisms/eladd/carbonium.html).
 - **Reakcje rodnikowe**, na przykład chlorowanie metanu: [Chemguide, substytucja rodnikowa metanu i chloru](https://www.chemguide.co.uk/mechanisms/freerad/ch4andcl2.html), [Master Organic Chemistry, „Free Radical Reactions”](https://www.masterorganicchemistry.com/2013/02/06/free-radical-reactions/) i [OpenStax, „10.2 Radical Halogenation”](https://openstax.org/books/organic-chemistry/pages/10-2-preparing-alkyl-halides-from-alkanes-radical-halogenation).
 - **Substytucja elektrofilowa w pierścieniu aromatycznym:** [Master Organic Chemistry, „Electrophilic Aromatic Substitution Mechanism”](https://www.masterorganicchemistry.com/2017/11/09/electrophilic-aromatic-substitution-the-mechanism/), [Chemguide, „What is electrophilic substitution?”](https://www.chemguide.co.uk/mechanisms/elsub/whatis.html), [Chemguide, nitrowanie benzenu](https://www.chemguide.co.uk/mechanisms/elsub/nitration.html) i [OpenStax, „16.1 Electrophilic Aromatic Substitution Reactions: Bromination”](https://openstax.org/books/organic-chemistry/pages/16-1-electrophilic-aromatic-substitution-reactions-bromination).
 - **Addycja do C=O szerzej:** [Master Organic Chemistry, „Nucleophilic Addition To Carbonyls”](https://www.masterorganicchemistry.com/2022/09/09/nucleophilic-addition/), [Master Organic Chemistry, „Aldehydes and Ketones: 14 Reactions With The Same Mechanism”](https://www.masterorganicchemistry.com/2017/08/18/the-simple-two-step-pattern-for-seven-key-reactions-of-aldehydes-and-ketones/), [Master Organic Chemistry, „Hydrates, Hemiacetals, and Acetals”](https://www.masterorganicchemistry.com/2010/05/28/acetals-hemiacetals-hydrates/), [Chemguide, addycja HCN](https://www.chemguide.co.uk/mechanisms/nucadd/hcn.html) i [OpenStax, „19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones”](https://openstax.org/books/organic-chemistry/pages/19-4-nucleophilic-addition-reactions-of-aldehydes-and-ketones).
@@ -839,7 +850,7 @@ Z widma ¹H NMR odczytuje się cztery rzeczy:
 **Przykład krok po kroku: bromoetan, CH₃–CH₂–Br.**
 
 1. Rodzaje wodoru: trzy wodory grupy CH₃ są między sobą równoważne, dwa wodory grupy CH₂ też. Będą dwa sygnały.
-2. Położenie: grupa CH₂ jest przy bromie, który odciąga elektrony i odsłania jądra, więc jej sygnał leży dalej od TMS, przy około 3,4 ppm. Sygnał CH₃ leży bliżej, przy około 1,7 ppm.
+2. Położenie: grupa CH₂ jest przy bromie, który odciąga elektrony i odsłania jądra, więc jej sygnał leży dalej od TMS, przy około 3,4 ppm. Sygnał CH₃ leży bliżej, przy około 1,7 ppm (wartości z widma bromoetanu w podręczniku McMurry'ego, podrozdział 13.6 na OpenStax).
 3. Integracja: pola pod sygnałami mają się do siebie jak 3 : 2.
 4. Rozszczepienie: CH₃ ma za sąsiadów dwa wodory grupy CH₂, więc daje 2 + 1 = 3 linie, czyli tryplet. CH₂ ma za sąsiadów trzy wodory grupy CH₃, więc daje 3 + 1 = 4 linie, czyli kwartet.
 
@@ -847,7 +858,7 @@ Tryplet i kwartet w stosunku 3 : 2 to podpis grupy etylowej. Rozpoznasz go potem
 
 [RYSUNEK: F-19, do narysowania. Schematyczne widmo ¹H NMR bromoetanu: tryplet CH₃ przy około 1,7 ppm, kwartet CH₂ przy około 3,4 ppm, sygnał wzorca TMS przy 0 ppm. Podpis: „Liczba linii w sygnale mówi, ilu wodorów-sąsiadów ma dana grupa.”]
 
-**Pułapki.** W regule n + 1 liczy się wodory przy sąsiednich atomach, a nie wodory z tej samej grupy: tryplet grupy CH₃ bierze się z dwóch sąsiadów, nie z trzech własnych wodorów. Druga pułapka: równoważne wodory nie rozszczepiają się nawzajem. Sześć wodorów acetonu daje jeden sygnał bez rozszczepienia (singlet), a nie dwa sygnały.
+**Pułapki.** W regule n + 1 liczy się wodory przy sąsiednich atomach, a nie wodory z tej samej grupy: tryplet grupy CH₃ bierze się z dwóch sąsiadów, nie z trzech własnych wodorów. Druga pułapka: równoważne wodory nie rozszczepiają się nawzajem. Sześć wodorów etanu, CH₃–CH₃, siedzi na sąsiednich węglach, a mimo to daje jeden sygnał bez rozszczepienia (singlet), bo wszystkie są równoważne. To samo dotyczy czterech wodorów 1,2-dichloroetanu, ClCH₂–CH₂Cl.
 
 ### Mini-kurs 3: prawo Lamberta-Beera i krzywa wzorcowa
 
@@ -857,7 +868,7 @@ A = εbc
 
 c to stężenie, b to grubość warstwy, czyli długość drogi światła w kuwecie (zwykle 1 cm), a ε to **molowy współczynnik absorpcji**, stały dla danej substancji przy danej długości fali. Mierzy się zwykle przy tej długości fali, przy której substancja pochłania najmocniej.
 
-W praktyce ε zwykle nie znasz, więc stosuje się **krzywą wzorcową**:
+W praktyce ε zwykle nie znasz dokładnie, bo zależy od rozpuszczalnika, pH i samego przyrządu, więc stosuje się **krzywą wzorcową**:
 
 1. Przygotuj co najmniej trzy roztwory wzorcowe o znanym stężeniu.
 2. Wyzeruj przyrząd na ślepej próbie, czyli roztworze z tym samym rozpuszczalnikiem i odczynnikami, ale bez oznaczanej substancji.
@@ -901,7 +912,7 @@ Prawie każdy kierunek z chemią ma pracownię, a sprawozdania, dziennik laborat
 
 ### Do czego to służy
 
-**W świecie.** Zasady pracowni to zasady każdego laboratorium, które wydaje wyniki: szpitalnego, kryminalistycznego, kontroli jakości w fabryce leków i żywności, badania wody. Tam dziennik laboratoryjny jest dokumentem, do którego wraca się po latach, sprawozdanie nazywa się raportem z badań, a wynik bez podanej niepewności jest bezwartościowy. Laboratoria medyczne i analityczne przechodzą akredytację, która sprawdza dokładnie to, czego uczy pracownia pierwszego roku: czy wiadomo, kto, kiedy i czym mierzył, i jak dokładny jest wynik.
+**W świecie.** Zasady pracowni to zasady każdego laboratorium, które wydaje wyniki: szpitalnego, kryminalistycznego, kontroli jakości w fabryce leków i żywności, badania wody. Tam dziennik laboratoryjny jest dokumentem, do którego wraca się po latach, sprawozdanie nazywa się raportem z badań, a wynik bez podanej niepewności niewiele znaczy. Laboratoria medyczne i analityczne przechodzą akredytację, która sprawdza dokładnie to, czego uczy pracownia pierwszego roku: czy wiadomo, kto, kiedy i czym mierzył, i jak dokładny jest wynik.
 
 **Na studiach.** Laboratorium uczy robić to, o czym był wykład: odważyć, rozcieńczyć, zmiareczkować, przekrystalizować, zmierzyć widmo i policzyć wynik z oceną błędu. Uczy też pracy pod presją czasu i z niebezpiecznymi substancjami. Na kierunkach medycznych pracownia z chemii jest wstępem do pracowni biochemicznej, mikrobiologicznej i diagnostycznej. Na kierunkach chemicznych i technologicznych jest główną formą zajęć przez wszystkie lata, a praca dyplomowa to w dużej części praca w laboratorium.
 
@@ -936,7 +947,7 @@ Piktogramy to białe romby w czerwonej ramce z czarnym symbolem: płomień (subs
 4. Sprawdź, gdzie w sali jest prysznic bezpieczeństwa, myjka do oczu i gaśnica.
 5. Zaplanuj, co zrobisz z odpadami. Odczynników nie wylewa się do zlewu.
 
-**Pułapki.** Na pracowni groźne są przede wszystkim nie wybuchy, tylko oparzenia stężonymi kwasami i zasadami oraz skaleczenia szkłem. „To tylko rozcieńczony roztwór” nie zwalnia z okularów. Trzecia pułapka: czytać kartę dosłownie, bez myślenia o skali. Karta chlorku sodu też ma zalecenia pierwszej pomocy (przykład z książki Sandtorva, podrozdział 1.2). Chodzi o to, żeby zrozumieć, co jest groźne w ilościach, z którymi pracujesz.
+**Pułapki.** Pierwsza: na pracowni groźne są przede wszystkim nie wybuchy, tylko oparzenia stężonymi kwasami i zasadami oraz skaleczenia szkłem. Druga: „to tylko rozcieńczony roztwór” nie zwalnia z okularów. Trzecia: czytać kartę dosłownie, bez myślenia o skali. Karta chlorku sodu też ma zalecenia pierwszej pomocy (przykład z książki Sandtorva, podrozdział 1.2). Chodzi o to, żeby zrozumieć, co jest groźne w ilościach, z którymi pracujesz.
 
 ### Mini-kurs 2: dziennik, wydajność i sprawozdanie
 
@@ -992,17 +1003,17 @@ Szkło miarowe ma klasy dokładności. Klasa A jest na tyle dokładna, że zwykl
 2. Średnia: (24,10 + 24,15 + 24,05) / 3 = 24,10 cm³.
 3. Wyniki różnią się od średniej najwyżej o 0,05 cm³. To pierwsza, prosta ocena rozrzutu; na zajęciach policzysz ją dokładniej jako odchylenie standardowe.
 4. Jeśli jeden wynik wyraźnie odstaje, zastanów się, czy to był błąd gruby (przelanie, pęcherzyk w biurecie), zanim go odrzucisz, i zapisz w dzienniku dlaczego.
-5. Policz stężenie ze średniej objętości i podaj wynik z tyloma cyframi znaczącymi, ile uzasadnia najmniej dokładny pomiar. Biureta pozwala odczytać setne części cm³, więc wynik 24,1033 cm³ z kalkulatora udawałby dokładność, której nie ma.
+5. Policz stężenie ze średniej objętości i podaj wynik z tyloma cyframi znaczącymi, ile uzasadnia najmniej dokładny pomiar. Biureta pozwala odczytać setne części cm³, więc wynik 24,1033 cm³ z kalkulatora udawałby dokładność, której nie ma. Zapis: V = 24,10 ± 0,05 cm³ (rozrzut z trzech pomiarów).
 
 **Pułapki.** Kalkulator wyświetla dziesięć cyfr, ale biureta nie czyta dokładniej niż do setnych mililitra. Wynik stężenia z sześcioma cyframi po przecinku jest dla prowadzącego sygnałem, że pomiar nie został zrozumiany. Druga pułapka: tolerancja szkła to nie to samo co błąd odczytu. Objętość z pipety 10 mL jest obarczona niepewnością ±0,02 mL niezależnie od tego, jak uważnie się patrzy. Trzecia: napisać w dyskusji „błąd wynika z niedokładności pomiaru” i nic więcej. Prowadzący chce wiedzieć, który pomiar był najmniej dokładny i w którą stronę mógł przesunąć wynik.
 
 ### Pozostałe zagadnienia i gdzie o nich czytać
 
-- **Przygotowanie do ćwiczenia, karty charakterystyki i dziennik:** [Sandtorv, rozdział 1 „How to Prepare for an Organic Chemistry Experiment”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/01%3A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT) i [Sandtorv, „1.2 Safety is Key”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/01%3A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT/1.02%3A__SAFETY_IS_KEY-_HOW_TO_FIND_RELEVANT_SAFETY_INFORMATION_AND_READ_SAFETY_DATA_SHEETS). Dane o zagrożeniach konkretnej substancji znajdziesz w bazie [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
+- **Przygotowanie do ćwiczenia, karty charakterystyki i dziennik:** [Sandtorv, „1.4 The Notebook: Making Sure the Numbers Add Up”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/01%3A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT/1.04%3A_THE_NOTEBOOK__MAKING_SURE_THE_NUMBERS_ADD_UP), [Nichols, „General Techniques”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/01%3A_General_Techniques) i [Sandtorv, „1.2 Safety is Key”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/01%3A_HOW_TO_PREPARE_FOR_AN_ORGANIC_CHEMISTRY_EXPERIMENT/1.02%3A__SAFETY_IS_KEY-_HOW_TO_FIND_RELEVANT_SAFETY_INFORMATION_AND_READ_SAFETY_DATA_SHEETS). Dane o zagrożeniach konkretnej substancji znajdziesz w bazie [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 - **Podstawowe techniki pracowni organicznej, ze zdjęciami krok po kroku:** Nichols, „Organic Chemistry Lab Techniques”, rozdziały [„General Techniques”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/01%3A_General_Techniques), [„Crystallization”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/03%3A_Crystallization), [„Extraction”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/04%3A_Extraction) i [„Distillation”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/05%3A_Distillation), a do tego [Sandtorv, rozdział 2 „Common Organic Chemistry Laboratory Techniques”](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/02%3A_COMMON_ORGANIC_CHEMISTRY_LABORATORY_TECHNIQUES) i [playlista „Chemistry Laboratory Techniques” Professor Dave Explains](https://www.youtube.com/playlist?list=PLybg94GvOJ9Gn1tz2WIe-75UuZSL3wSJK).
 - **Stężenia i przygotowanie roztworów:** [OpenStax, „3.3 Molarity”](https://openstax.org/books/chemistry-2e/pages/3-3-molarity) i [Harvey, „9.1 Overview of Titrimetry”](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods/9.01%3A_Overview_of_Titrimetry).
 - **Miareczkowanie i krzywe miareczkowania:** [Chemguide, „pH curves (titration curves)”](https://www.chemguide.co.uk/physical/acidbaseeqia/phcurves.html) i [Harvey, „9.2 Acid–Base Titrations”](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods/9.02%3A_AcidBase_Titrations).
-- **Bufory, które przygotowuje się na wielu pracowniach:** [Chemguide, „Buffer solutions”](https://www.chemguide.co.uk/physical/acidbaseeqia/buffers.html) i [Harvey, „9.2 Acid–Base Titrations”](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods/9.02%3A_AcidBase_Titrations).
+- **Bufory, które przygotowuje się na wielu pracowniach:** [Chemguide, „Buffer solutions”](https://www.chemguide.co.uk/physical/acidbaseeqia/buffers.html) i [Harvey, „6.8 Buffer Solutions”](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/06%3A_Equilibrium_Chemistry/6.08%3A_Buffer_Solutions).
 - **Wydajność i odczynnik limitujący:** [OpenStax, „4.4 Reaction Yields”](https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields) i [OpenStax, „4.3 Reaction Stoichiometry”](https://openstax.org/books/chemistry-2e/pages/4-3-reaction-stoichiometry).
 - **Cyfry znaczące, dokładność, precyzja i tolerancje szkła:** [OpenStax, „1.5 Measurement Uncertainty, Accuracy, and Precision”](https://openstax.org/books/chemistry-2e/pages/1-5-measurement-uncertainty-accuracy-and-precision), [Harvey, „4.1 Characterizing Measurements and Results”](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.01%3A_Characterizing_Measurements_and_Results) i [Harvey, „4.2 Characterizing Experimental Errors”](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.02%3A_Characterizing_Experimental_Errors).
 - **Jak niepewność przenosi się na wynik obliczeń:** [Harvey, „4.3 Propagation of Uncertainty”](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.03%3A_Propagation_of_Uncertainty) i [OpenStax, „1.5 Measurement Uncertainty”](https://openstax.org/books/chemistry-2e/pages/1-5-measurement-uncertainty-accuracy-and-precision).
@@ -1059,6 +1070,7 @@ Tu są w jednym miejscu wszystkie materiały polecane w rozdziałach 3 i 4, uło
 
 ## Chemia fizyczna
 
+- LibreTexts: „Physical Chemistry” (po angielsku; dalej): <https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)>
 - Politechnika Warszawska, Katedra Chemii Fizycznej: „Laboratorium Chemii Fizycznej” (po polsku; pierwszy rok): <https://www.youtube.com/playlist?list=PL5aFU4mtoOYuvziYpkBNJbAm6svIsHEvB>
 - Peter Atkins, Julio de Paula, James Keeler, „Chemia fizyczna”, Wydawnictwo Naukowe PWN / PZWL 2022 (książka; po polsku; pierwszy rok)
 - Krzysztof Pigoń, Zdzisław Ruziewicz, „Chemia fizyczna”, t. 1 „Podstawy fenomenologiczne” (wydanie 6, 2007) i t. 2 „Fizykochemia molekularna”, Wydawnictwo Naukowe PWN (książka; po polsku; pierwszy rok)
@@ -1104,6 +1116,7 @@ Tu są w jednym miejscu wszystkie materiały polecane w rozdziałach 3 i 4, uło
 
 ## Laboratorium
 
+- LibreTexts: Lisa Nichols, „Organic Chemistry Lab Techniques” (po angielsku; pierwszy rok): <https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)>
 - Professor Dave Explains: „Chemistry Laboratory Techniques” (po angielsku; wprowadzenie): <https://www.youtube.com/playlist?list=PLybg94GvOJ9Gn1tz2WIe-75UuZSL3wSJK>
 - LibreTexts: Sandtorv, „How to be a Successful Organic Chemist” (po angielsku; pierwszy rok): <https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)>
 
