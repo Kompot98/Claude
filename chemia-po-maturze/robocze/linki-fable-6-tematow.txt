@@ -1,0 +1,92 @@
+Nowe linki w rozdziale 4 pliku przystepna/chemia-po-maturze-przystepna-fable.md (wersja Fable)
+Sprawdzone 2026-11-04 przez curl -sL przez proxy środowiska (TLS włączone, bez obchodzenia blokad).
+Format: kod HTTP | adres | tytuł strony (z <title>) | rozmiar pobranego HTML w bajtach
+Każdy adres dodatkowo sprawdzono pod kątem treści (grep słowa kluczowego zagadnienia w tekście strony).
+Pominięte celowo: pl.khanacademy.org (strona zwraca test antybotowy 'Client Challenge'), masterorganicchemistry.com/2012/10/10/comparing-the-e1-and-e2-reactions/ i /2011/11/23/introduction-to-resonance-hybrids/ (kod 200, ale pobrany dokument bez treści artykułu).
+
+200 | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.01%3A_Characterizing_Measurements_and_Results | 4.1: Characterizing Measurements and Results - Chemistry LibreTexts | 165068
+200 | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.02%3A_Characterizing_Experimental_Errors | 4.2: Characterizing Experimental Errors - Chemistry LibreTexts | 198322
+200 | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/04%3A_Evaluating_Analytical_Data/4.03%3A_Propagation_of_Uncertainty | 4.3: Propagation of Uncertainty - Chemistry LibreTexts | 174023
+200 | https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_by_David_Harvey/Analytical_Chemistry_2.1_(Harvey)/10%3A_Spectroscopic_Methods/10.02%3A_Spectroscopy_Based_on_Absorption | 10.2: Spectroscopy Based on Absorption - Chemistry LibreTexts | 186394
+200 | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/01%3A_General_Techniques | 1: General Techniques - Chemistry LibreTexts | 147596
+200 | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/03%3A_Crystallization | 3: Crystallization - Chemistry LibreTexts | 149061
+200 | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/04%3A_Extraction | 4: Extraction - Chemistry LibreTexts | 141535
+200 | https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_Lab_Techniques_(Nichols)/05%3A_Distillation | 5: Distillation - Chemistry LibreTexts | 147928
+200 | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)/03%3A_The_Schrodinger_Equation_and_a_Particle_in_a_Box/3.05%3A_The_Energy_of_a_Particle_in_a_Box_is_Quantized | 3.5: The Energy of a Particle in a Box is Quantized - Chemistry LibreTexts | 171104
+200 | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)/25%3A_Solutions_II_-_Nonvolatile_Solutes/25.02%3A_The_Activities_of_Nonvolatile_Solutes | 25.2: The Activities of Nonvolatile Solutes - Chemistry LibreTexts | 143008
+200 | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)/25%3A_Solutions_II_-_Nonvolatile_Solutes/25.06%3A_The_Debye-Huckel_Theory | 25.6: The Debye-Hückel Theory - Chemistry LibreTexts | 146819
+200 | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/09%3A_Gibbs_Free_Energy/9.01%3A_Gibbs_Equation | 9.1: Gibbs Equation - Chemistry LibreTexts | 139544
+200 | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/16%3A_The_Motivation_for_Quantum_Mechanics/16.05%3A_Wave-Particle_Duality | 16.5: Wave-Particle Duality - Chemistry LibreTexts | 133031
+200 | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/19%3A_Analytically_Soluble_Models | 19: Analytically Soluble Models - Chemistry LibreTexts | 135304
+200 | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/20%3A_The_Hydrogen_Atom | 20: The Hydrogen Atom - Chemistry LibreTexts | 145145
+200 | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)/27%3A_The_Chemical_Bond_in_Diatomic_Molecules | 27: The Chemical Bond in Diatomic Molecules - Chemistry LibreTexts | 139196
+200 | https://openstax.org/books/chemistry-2e/pages/1-5-measurement-uncertainty-accuracy-and-precision | 1.5 Measurement Uncertainty, Accuracy, and Precision - Chemistry 2e | OpenStax | 332224
+200 | https://openstax.org/books/chemistry-2e/pages/13-3-shifting-equilibria-le-chateliers-principle | 13.3 Shifting Equilibria: Le Châtelier’s Principle - Chemistry 2e | OpenStax | 339009
+200 | https://openstax.org/books/chemistry-2e/pages/16-2-entropy | 16.2 Entropy - Chemistry 2e | OpenStax | 337708
+200 | https://openstax.org/books/chemistry-2e/pages/16-3-the-second-and-third-laws-of-thermodynamics | 16.3 The Second and Third Laws of Thermodynamics - Chemistry 2e | OpenStax | 329673
+200 | https://openstax.org/books/chemistry-2e/pages/16-4-free-energy | 16.4 Free Energy - Chemistry 2e | OpenStax | 421232
+200 | https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium | 17.4 Potential, Free Energy, and Equilibrium - Chemistry 2e | OpenStax | 340022
+200 | https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy | 5.3 Enthalpy - Chemistry 2e | OpenStax | 507437
+200 | https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations | 6.4 Electronic Structure of Atoms (Electron Configurations) - Chemistry 2e | OpenStax | 366065
+200 | https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals | 8.2 Hybrid Atomic Orbitals - Chemistry 2e | OpenStax | 366384
+200 | https://openstax.org/books/organic-chemistry/pages/11-10-the-e1-and-e1cb-reactions | 11.10 The E1 and E1cB Reactions - Organic Chemistry | OpenStax | 381647
+200 | https://openstax.org/books/organic-chemistry/pages/11-2-the-sn2-reaction | 11.2 The SN2 Reaction - Organic Chemistry | OpenStax | 388994
+200 | https://openstax.org/books/organic-chemistry/pages/11-4-the-sn1-reaction | 11.4 The SN1 Reaction - Organic Chemistry | OpenStax | 395774
+200 | https://openstax.org/books/organic-chemistry/pages/11-8-the-e2-reaction-and-the-deuterium-isotope-effect | 11.8 The E2 Reaction and the Deuterium Isotope Effect - Organic Chemistry | OpenStax | 391251
+200 | https://openstax.org/books/organic-chemistry/pages/12-1-mass-spectrometry-of-small-molecules-magnetic-sector-instruments | 12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments - Organic Chemistry | OpenStax | 385173
+200 | https://openstax.org/books/organic-chemistry/pages/12-8-infrared-spectra-of-some-common-functional-groups | 12.8 Infrared Spectra of Some Common Functional Groups - Organic Chemistry | OpenStax | 419496
+200 | https://openstax.org/books/organic-chemistry/pages/13-1-nuclear-magnetic-resonance-spectroscopy | 13.1 Nuclear Magnetic Resonance Spectroscopy - Organic Chemistry | OpenStax | 385995
+200 | https://openstax.org/books/organic-chemistry/pages/13-3-chemical-shifts | 13.3 Chemical Shifts - Organic Chemistry | OpenStax | 386954
+200 | https://openstax.org/books/organic-chemistry/pages/14-7-ultraviolet-spectroscopy | 14.7 Ultraviolet Spectroscopy - Organic Chemistry | OpenStax | 393177
+200 | https://openstax.org/books/organic-chemistry/pages/16-1-electrophilic-aromatic-substitution-reactions-bromination | 16.1 Electrophilic Aromatic Substitution Reactions: Bromination - Organic Chemistry | OpenStax | 387415
+200 | https://openstax.org/books/organic-chemistry/pages/19-4-nucleophilic-addition-reactions-of-aldehydes-and-ketones | 19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Organic Chemistry | OpenStax | 391358
+200 | https://openstax.org/books/organic-chemistry/pages/6-3-polar-reactions | 6.3 Polar Reactions - Organic Chemistry | OpenStax | 416421
+200 | https://openstax.org/books/organic-chemistry/pages/6-5-using-curved-arrows-in-polar-reaction-mechanisms | 6.5 Using Curved Arrows in Polar Reaction Mechanisms - Organic Chemistry | OpenStax | 394632
+200 | https://openstax.org/books/organic-chemistry/pages/7-8-orientation-of-electrophilic-additions-markovnikovs-rule | 7.8 Orientation of Electrophilic Additions: Markovnikov’s Rule - Organic Chemistry | OpenStax | 399919
+200 | https://www.chemguide.co.uk/analysis/ir/interpret.html | interpreting infra-red spectra | 10346
+200 | https://www.chemguide.co.uk/analysis/masspec/fragment.html | mass spectra - fragmentation patterns | 18632
+200 | https://www.chemguide.co.uk/analysis/masspec/howitworks.html | the mass spectrometer - how it works | 14365
+200 | https://www.chemguide.co.uk/analysis/nmr/background.html | the background to nuclear magnetic resonance (nmr) spectroscopy | 16720
+200 | https://www.chemguide.co.uk/analysis/nmr/backgroundc13.html | the background to C-13 NMR spectroscopy | 20370
+200 | https://www.chemguide.co.uk/analysis/nmr/highres.html | high resolution nuclear magnetic resonance (nmr) spectra | 18692
+200 | https://www.chemguide.co.uk/analysis/uvvisible/analysis.html | using UV-visible absorption spectra | 9278
+200 | https://www.chemguide.co.uk/analysis/uvvisible/beerlambert.html | absorption spectra - the Beer-Lambert Law | 13448
+200 | https://www.chemguide.co.uk/analysis/uvvisible/bonding.html | bonding for UV-visible absorption spectrometry | 26843
+200 | https://www.chemguide.co.uk/atoms/properties/3d4sproblem.html | the order of filling 3d and 4s orbitals | 23878
+200 | https://www.chemguide.co.uk/atoms/properties/atomorbs.html | atomic orbitals | 16202
+200 | https://www.chemguide.co.uk/mechanisms/eladd/unsymhbr.html | electrophilic addition - unsymmetrical alkenes and hydrogen halides | 7868
+200 | https://www.chemguide.co.uk/mechanisms/eladd/whatis.html | What is electrophilic addition? | 13106
+200 | https://www.chemguide.co.uk/mechanisms/elim/elimvsubst.html | elimination v nucleophilic substitution in halogenoalkanes | 9274
+200 | https://www.chemguide.co.uk/mechanisms/elsub/nitration.html | electrophilic substitution - the nitration of benzene | 3350
+200 | https://www.chemguide.co.uk/mechanisms/elsub/whatis.html | What is electrophilic substitution? | 10100
+200 | https://www.chemguide.co.uk/mechanisms/nucadd/hcn.html | nucleophilic addition - carbonyl compounds and hydrogen cyanide | 10745
+200 | https://www.chemguide.co.uk/mechanisms/nucadd/reduce.html | reduction of carbonyl compounds using sodium tetrahydridoborate | 9932
+200 | https://www.chemguide.co.uk/mechanisms/nucsub/whatis.html | What is nucleophilic substitution? | 20477
+200 | https://www.chemguide.co.uk/physical/energetics/basic.html | chemical energetics - an introduction | 8777
+200 | https://www.chemguide.co.uk/physical/energetics/sums.html | Hess's Law and enthalpy change calculations | 17037
+200 | https://www.chemguide.co.uk/physical/entropy/deltag.html | Gibbs free energy | 14969
+200 | https://www.chemguide.co.uk/physical/entropy/deltagandk.html | Gibbs free energy and equilibrium constants | 5734
+200 | https://www.chemguide.co.uk/physical/entropy/entropychange.html | calculating values for entropy change | 6343
+200 | https://www.chemguide.co.uk/physical/entropy/introduction.html | entropy - an introduction | 12827
+200 | https://www.chemguide.co.uk/physical/equilibria/haber.html | The Haber Process for the manufacture of ammonia | 10119
+200 | https://www.chemguide.co.uk/physical/equilibria/kc.html | equilibrium constants - Kc | 13954
+200 | https://www.masterorganicchemistry.com/2011/02/09/curved-arrows-for-reactions-of-organic-chemistry/ | How To Use Curved Arrows in Organic Chemistry, With Examples | 266299
+200 | https://www.masterorganicchemistry.com/2011/03/11/3-factors-that-stabilize-carbocations/ | 3 Factors That Stabilize Carbocations | 490394
+200 | https://www.masterorganicchemistry.com/2011/08/12/reagent-friday-sodium-borohydride-nabh4/ | Sodium Borohydride (NaBH4) As A Reagent In Organic Chemistry | 453012
+200 | https://www.masterorganicchemistry.com/2011/09/28/hammonds-postulate/ | Hammonds Postulate &#8211; Master Organic Chemistry | 234103
+200 | https://www.masterorganicchemistry.com/2012/06/05/nucleophiles-and-electrophiles/ | Nucleophiles and Electrophiles &#8211; Master Organic Chemistry | 280052
+200 | https://www.masterorganicchemistry.com/2012/07/04/the-sn2-mechanism/ | The SN2 Reaction Mechanism &#8211; Master Organic Chemistry | 288769
+200 | https://www.masterorganicchemistry.com/2012/07/13/the-sn1-mechanism/ | The SN1 Reaction Mechanism &#8211; Master Organic Chemistry | 293273
+200 | https://www.masterorganicchemistry.com/2012/08/08/comparing-the-sn1-and-sn2-reactions/ | Comparing The SN1 vs Sn2 Reactions &#8211; Master Organic Chemistry | 464590
+200 | https://www.masterorganicchemistry.com/2012/09/19/the-e1-reaction/ | The E1 Reaction and Its Mechanism &#8211; Master Organic Chemistry | 295897
+200 | https://www.masterorganicchemistry.com/2012/09/27/the-e2-mechanism/ | Mechanism of the E2 Reaction &#8211; Master Organic Chemistry | 277810
+200 | https://www.masterorganicchemistry.com/2013/02/08/markovnikovs-rule-1/ | Hydrohalogenation of Alkenes and Markovnikov&#039;s Rule &#8211; Master Organic Chemistry | 317963
+200 | https://www.masterorganicchemistry.com/2016/09/16/introduction-to-uv-vis-spectroscopy/ | What is UV-Vis Spectroscopy? And How Does It Apply To Conjugation? | 287159
+200 | https://www.masterorganicchemistry.com/2016/11/11/bond-vibrations-ir-spectroscopy/ | Bond Vibrations, Infrared Spectroscopy, and the Ball and Spring Model | 271496
+200 | https://www.masterorganicchemistry.com/2016/11/29/ir-spectroscopy-some-simple-practice-problems/ | IR Spectroscopy: 4 Practice Problems - Master Organic Chemistry | 295229
+200 | https://www.masterorganicchemistry.com/2017/08/18/the-simple-two-step-pattern-for-seven-key-reactions-of-aldehydes-and-ketones/ | Aldehydes and Ketones: 14 Reactions With The Same Mechanism | 287430
+200 | https://www.masterorganicchemistry.com/2017/11/09/electrophilic-aromatic-substitution-the-mechanism/ | Electrophilic Aromatic Substitution Mechanism &#8211; Master Organic Chemistry | 247090
+200 | https://www.masterorganicchemistry.com/2022/02/08/1h-nmr-how-many-signals/ | 1H NMR: How Many Signals? &#8211; Master Organic Chemistry | 247495
+200 | https://www.masterorganicchemistry.com/2022/02/08/c13-nmr-how-many-signals/ | 13-C NMR - How Many Signals &#8211; Master Organic Chemistry | 245332
+
+Liczba nowych adresów: 84; z kodem 200: 84
