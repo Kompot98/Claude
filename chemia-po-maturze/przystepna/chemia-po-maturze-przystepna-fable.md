@@ -203,3 +203,125 @@ ChemTube3D to brytyjski serwis, który pokazuje cząsteczki i mechanizmy jako tr
 
 Organic Chemistry Portal to alfabetyczny spis reakcji imiennych z mechanizmami i literaturą [R-015]. Serwis jest pisany dla chemików syntetyków, więc na pierwszym roku służy do sprawdzenia, czym jest reakcja, o której wspomniał wykładowca, a nie do nauki od zera. (Po angielsku; poziom dalszy.)
 
+## Chemia ogólna i nieorganiczna
+
+Chemia ogólna w pierwszym semestrze wygląda na początku znajomo: atom, wiązania, stężenia, pH, redoks. Różnica jest w tempie i w obliczeniach. Wykład idzie szybciej niż lekcje w szkole, a na ćwiczeniach od razu robi się rachunki. Nowe są na przykład orbitale molekularne, termodynamika z entropią i entalpią swobodną, równowagi z rachunkiem w kilku krokach i związki kompleksowe.
+
+### Polskie nagrania i materiały
+
+Na kanale jednej z uczelni przyrodniczych jest cykl dr. inż. Witolda Bekasa „Podstawy chemii”: 26 wykładów po 45 do 75 minut [R-026]. Zaczyna się od stężeń i obliczeń stechiometrycznych, przechodzi przez budowę atomu, wiązania, związki nieorganiczne, elektrolity, redoks i elektrochemię, a kończy miareczkowaniami i zadaniami z pH. Przydaje się na samym początku studiów, gdy pierwsze zajęcia to obliczenia, a matura była kilka miesięcy temu. Końcowe wykłady o miareczkowaniach przydadzą się też na analityce. (Po polsku; wprowadzenie.)
+
+Polska wersja Khan Academy ma kurs „Chemia” w 20 działach, od atomów i moli przez budowę elektronową, wiązania, gazy, równowagę, kwasy i zasady, bufory i iloczyn rozpuszczalności po termodynamikę, redoks i kinetykę [R-027]. Filmy są krótkie, a po nich są ćwiczenia. To dobre miejsce, żeby po polsku powtórzyć temat, który na wykładzie poszedł za szybko. (Po polsku; wprowadzenie.)
+
+### Podręczniki
+
+Po polsku do chemii ogólnej jest „Chemia ogólna” Atkinsa, Jones i Lavermana, wydanie II, PWN 2020, czyli tłumaczenie „Chemical Principles” [R-029]. Do chemii nieorganicznej, czyli chemii konkretnych pierwiastków i ich związków, polskim podręcznikiem jest Adam Bielański, „Podstawy chemii nieorganicznej”, wydanie 6, PWN 2010, także w dwóch tomach [R-028]. Bielańskiego czyta się wybiórczo: tę grupę układu okresowego, o której był wykład.
+
+Po angielsku bezpłatny jest podręcznik „Chemistry 2e” z OpenStax [R-036]. Ma 21 rozdziałów, od podstaw po związki koordynacyjne i chemię jądrową, z zadaniami na końcu każdego. Licencja pozwala czytać i pobierać za darmo.
+
+### Kanały wideo i kursy
+
+Professor Dave Explains ma playlistę „General Chemistry” z 83 krótkimi filmami [R-030]. Pokrywa całą chemię ogólną pierwszego roku, w tym tematy, których na maturze nie było: orbitale molekularne, termodynamikę z entropią, iloczyn rozpuszczalności, związki kompleksowe i teorię pola krystalicznego. Do niej jest playlista „General Chemistry Practice Problems” z 41 zadaniami rachunkowymi [R-031], każde innego typu: stechiometria, prawo Hessa, rozcieńczanie, tabele stężeń równowagowych, równanie Hendersona-Hasselbalcha, iloczyn rozpuszczalności. Trzecia playlista tego autora, „Inorganic/Organometallic Chemistry” [R-032], w pierwszej połowie przechodzi przez układ okresowy grupa po grupie, a w drugiej wchodzi w chemię metaloorganiczną, która jest raczej na wyższych latach. (Po angielsku; od wprowadzenia do poziomu pierwszego roku.)
+
+The Organic Chemistry Tutor, mimo nazwy, ma też ogromną playlistę z chemii ogólnej: 316 filmów, w większości rozwiązywanie zadań na przykładach [R-033]. Sięgnij po nią, gdy potrzebujesz pięciu podobnych zadań pod rząd, aż typ obliczenia przestanie być problemem. Kilkanaście pozycji to materiały płatne, reszta jest bezpłatna. (Po angielsku; poziom pierwszego roku.)
+
+MIT OpenCourseWare udostępnia kurs 5.111SC „Principles of Chemical Science” z 2014 roku [R-034]. Są tam nagrania wszystkich wykładów, notatki, zadania i egzaminy z rozwiązaniami. To pełny wykład akademicki z chemii ogólnej po angielsku, z przykładami z chemii biologicznej, nieorganicznej i organicznej. (Po angielsku; poziom pierwszego roku.)
+
+### Strony, artykuły i bazy danych
+
+Chemguide ma dział nieorganiczny na poziomie zbliżonym do matury rozszerzonej: stopnie utlenienia, elektroliza, chemia grup układu okresowego, jony kompleksowe i metale przejściowe [R-035]. Przydaje się, gdy na wykładzie z nieorganicznej pojawiają się kompleksy i chcesz zacząć od prostego wyjaśnienia, skąd biorą się ich barwy. (Po angielsku; wprowadzenie.)
+
+PubChem to publiczna baza związków chemicznych amerykańskich Narodowych Instytutów Zdrowia [R-037]. Po wpisaniu nazwy związku dostajesz jego wzór, właściwości, dane o zagrożeniach i toksyczności, a czasem widma. Przydaje się przed laboratorium i przy sprawozdaniach. (Po angielsku; poziom pierwszego roku.)
+
+Chemistry World to magazyn Royal Society of Chemistry, brytyjskiego towarzystwa chemicznego [R-063]. Publikuje wiadomości, comiesięczny przegląd nowych badań, reportaże i felietony, czyli chemię poza podręcznikiem: nowe leki, materiały, odkrycia i ludzi, którzy za nimi stoją. Po darmowej rejestracji można czytać kilka artykułów w miesiącu; jeśli Twoja uczelnia wykupiła dostęp, czytasz bez limitu. To lektura dla przyjemności, a przy okazji dobry trening angielskiego z rozdziału 1. (Po angielsku; poziom dalszy.)
+
+## Chemia fizyczna
+
+Chemia fizyczna jest trudna. Na części kierunków przychodzi dopiero na drugim roku, ale jej podstawy, termodynamika i kinetyka, bywają już w chemii ogólnej pierwszego semestru. Wraca w niej kinetyka i energetyka z matury, ale tym razem z pochodnymi, całkami i logarytmami. Do tego dochodzą entropia, entalpia swobodna, równowagi fazowe i elektrochemia opisana wzorami. Dlatego warto mieć pod ręką także hasło o matematyce na końcu tego rozdziału.
+
+[RYSUNEK: F-07, do znalezienia. Uproszczony wykres fazowy wody (ciśnienie od temperatury) z obszarami ciała stałego, cieczy i gazu, punktem potrójnym i punktem krytycznym. Podpis: „Wykres fazowy wody, jeden z pierwszych rysunków chemii fizycznej.”]
+
+### Polskie nagrania i materiały
+
+Katedra chemii fizycznej jednej z politechnik ma playlistę „Laboratorium Chemii Fizycznej” z 17 filmami [R-038]. Piętnaście to krótkie pokazy ćwiczeń, między innymi kalorymetrycznego wyznaczania entalpii spalania, przewodności elektrolitów, kinetyki inwersji sacharozy i równowagi między cieczą a parą. Dwa ostatnie są dłuższe i dotyczą każdej pracowni, nie tylko tej: regulamin pracowni i uwagi do sprawozdań, czyli tego, jak prowadzący oceniają pisemne opracowanie ćwiczenia. Więcej o sprawozdaniach jest w rozdziale 4. (Po polsku; poziom pierwszego roku.)
+
+### Podręczniki
+
+Po polsku są dwie drogi. Pierwsza to tłumaczenie Atkinsa, de Pauli i Keelera, „Chemia fizyczna”, PWN i PZWL 2022 [R-039]. Druga to oryginalny polski podręcznik Krzysztofa Pigonia i Zdzisława Ruziewicza „Chemia fizyczna” w dwóch tomach: tom 1 „Podstawy fenomenologiczne” (wydanie 6, PWN 2007) i tom 2 „Fizykochemia molekularna”; do tego jest zbiór zadań z rozwiązaniami [R-040]. Z obu czyta się wybrane podrozdziały pod wykład, nie całość.
+
+Po angielsku bezpłatnie dostępne są dwa podręczniki w serwisie LibreTexts. Pierwszy to „The Live Textbook of Physical Chemistry” Roberta Peveratiego [R-043]: termodynamika, równowagi, roztwory i kinetyka, a w drugiej części wstęp do mechaniki kwantowej. Drugi, „Physical Chemistry for the Biosciences” [R-044], przerabia te same podstawy na przykładach biologicznych, z osobnym rozdziałem o kinetyce enzymów. Na farmacji, analityce medycznej i biotechnologii zacznij od niego. (Po angielsku; poziom pierwszego roku.)
+
+### Kanały wideo, kursy i strony
+
+MIT OpenCourseWare ma kurs 5.60 „Thermodynamics & Kinetics” z nagraniami wykładów [R-041]: termodynamika, równowagi chemiczne w fazie gazowej i w roztworze, szybkość reakcji. (Po angielsku; poziom pierwszego roku.)
+
+Chemguide ma dział „Physical Chemistry” z łagodnym wstępem do entropii i entalpii swobodnej, szybkości reakcji, równowag, potencjałów elektrodowych i równowag kwasowo-zasadowych [R-042]. Zacznij od niego, gdy na wykładzie pada „entropia” i nie masz z nią żadnego skojarzenia. (Po angielsku; wprowadzenie.)
+
+Wśród filmów z chemii ogólnej opisanych wyżej (Professor Dave [R-030], The Organic Chemistry Tutor [R-033]) są też tematy fizykochemiczne: termodynamika, kinetyka z równaniami szybkości, równowaga i elektrochemia.
+
+## Chemia analityczna
+
+Analityka odpowiada na dwa pytania: co jest w próbce i ile tego jest. Z matury znasz miareczkowanie i stężenia. Na studiach dochodzą rachunek równowag w roztworach w kilku krokach, ocena niepewności pomiaru, metody instrumentalne i bardzo dużo pracy na pracowni. Na analityce medycznej chemia analityczna bywa już na pierwszym roku, obok chemii ogólnej, organicznej i fizycznej. Na kierunkach inżynierskich zaczyna się zwykle później, na drugim roku.
+
+### Polskie nagrania i materiały
+
+Na kanale jednego z uniwersytetów jest playlista „Chemia analityczna” z ośmioma krótkimi filmami z pracowni [R-025]: cztery miareczkowania (alkacymetria z różnymi wskaźnikami, manganometria, oznaczanie chlorków metodą Mohra) i trzy metody instrumentalne (spektrofotometria UV-VIS, absorpcyjna spektrometria atomowa, fluorescencja rentgenowska). Obejrzyj przed pierwszym miareczkowaniem. Ostatnie wykłady z cyklu dr. Bekasa „Podstawy chemii” też dotyczą analityki: kompleksometria, manganometria, alkacymetria i zadania z pH [R-026]. (Po polsku.)
+
+[RYSUNEK: F-08, do znalezienia. Zdjęcie zestawu do miareczkowania: biureta na statywie, pod nią kolba stożkowa z roztworem i wskaźnikiem. Podpis: „Zestaw do miareczkowania: biureta, kolba stożkowa, wskaźnik.”]
+
+### Podręczniki
+
+Po polsku: Ryszard Kocjan (red.), „Chemia analityczna: podręcznik dla studentów”, dwa tomy, wydanie III, PZWL i PWN 2023 [R-045]. Tom 1 to analiza jakościowa i klasyczna ilościowa, tom 2 analiza instrumentalna. Starszy jest dwutomowy podręcznik Jerzego Minczewskiego i Zygmunta Marczenki „Chemia analityczna” (PWN 2004); tom 1 nosi tytuł „Podstawy teoretyczne i analiza jakościowa”, tom 2 „Chemiczne metody analizy ilościowej” [R-046].
+
+Po angielsku bezpłatny jest podręcznik Davida Harveya „Analytical Chemistry 2.1” w serwisie LibreTexts [R-047]. Szczególnie przydaje się jego rozdział 4 o ocenie danych analitycznych, gdy w sprawozdaniu trzeba policzyć niepewność, oraz rozdziały o miareczkowaniach i o spektroskopii. (Po angielsku; poziom pierwszego roku.)
+
+Do zadań rachunkowych z analityki (pH, bufory, iloczyn rozpuszczalności, miareczkowanie) pasują playlisty zadań z chemii ogólnej opisane wyżej: Professor Dave [R-031] i The Organic Chemistry Tutor [R-033].
+
+## Biochemia
+
+Biochemia opiera się na organicznej i na chemii ogólnej, więc materiały warto znać od początku, nawet jeśli sam przedmiot przyjdzie później. Kiedy przyjdzie, zależy od uczelni. Na kierunku lekarskim na części uczelni biochemia jest na pierwszym roku, na innych dopiero na drugim. Na weterynarii bywa już w pierwszym semestrze. Z matury znasz białka i cukry jako związki. Biochemia pokazuje, co one robią w komórce: enzymy, metabolizm, przekazywanie sygnałów i informacji genetycznej.
+
+[RYSUNEK: F-09, do znalezienia. Uproszczony schemat oddychania komórkowego: glukoza, glikoliza, cykl Krebsa, łańcuch oddechowy, ATP. Podpis: „Od glukozy do ATP: glikoliza, cykl Krebsa, łańcuch oddechowy.”]
+
+### Podręczniki
+
+Po polsku są trzy główne drogi, każda dla innego kierunku. Na kierunkach biologicznych i biotechnologii możesz spotkać tłumaczenie Berga, Tymoczki i Stryera „Biochemia”, wydanie V, PWN 2019, oraz jego krótszą wersję „Biochemia: krótki kurs” [R-048]. Na kierunkach medycznych możesz spotkać „Biochemię Harpera ilustrowaną”, wydanie VIII, PZWL i PWN 2026 [R-049], oraz krótszy, polski podręcznik Edwarda Bańkowskiego „Biochemia: podręcznik dla studentów uczelni medycznych”, wydanie 4, Edra 2020 [R-050].
+
+Po angielsku bezpłatna jest książka Kevina Aherna, Indiry Rajagopal i Taralyn Tan „Biochemistry Free For All” w serwisie LibreTexts [R-053]: budowa białek, błony, kataliza, energia, metabolizm, przetwarzanie informacji, a na końcu streszczenia „punkt po punkcie”. (Po angielsku; poziom pierwszego roku.)
+
+### Kanały wideo
+
+Professor Dave Explains ma playlistę „Biochemistry” z 24 krótkimi filmami: aminokwasy i białka, enzymy, cukry i lipidy, błony, sygnalizacja, kwasy nukleinowe, glikoliza, cykl Krebsa i łańcuch oddechowy [R-051]. Razem to niecałe trzy godziny i dobra mapa całego przedmiotu. Kevin Ahern udostępnia nagrania swojego semestralnego wykładu z biochemii „BB 450 Biochemistry”: 30 filmów po około 50 minut, od pH i buforów przez białka i enzymy po metabolizm cukrów [R-052]. Wykład pasuje do jego książki opisanej wyżej. (Po angielsku; od wprowadzenia do poziomu pierwszego roku.)
+
+## Matematyka
+
+Matematyce ten bonus nie poświęca osobnego rozdziału, bo matematyka to matematyka. Gdy przedmiot chemiczny jej wymaga, a zajęcia z matematyki są za szybkie albo jeszcze do tego nie doszły, są trzy miejsca. Logarytmy i funkcję wykładniczą (pH, kinetyka) po polsku powtórzysz z filmów portalu edukacyjnego „e-chem” jednego z instytutów chemii; to filmy od 19 do 28 na mieszanej playliście [R-056]. Pochodne i całki krok po kroku, po angielsku, tłumaczy playlista „Calculus” Professor Dave Explains: 35 filmów od granic przez reguły różniczkowania po całkowanie przez części [R-057]. Pełny polski wykład z rachunku różniczkowego i całkowego jest w otwartym kursie „Analiza matematyczna 1” na Ważniaku, przygotowanym przez matematyków dla studentów informatyki [R-058]. Jest pisany ściśle i formalnie, jak wykład z matematyki.
+
+## Dla Twojego kierunku
+
+Rozdział jest ułożony według przedmiotów, bo tak wygląda plan studiów. Jeśli wiesz już, gdzie idziesz, niżej jest skrót: co z tego rozdziału przyda się najpierw. Gdy przyjdzie październik, sprawdź jeszcze sylabusy swoich przedmiotów; rozdział 2 pokazuje, jak bardzo się różnią.
+
+### Medycyna i stomatologia
+
+Na kierunku lekarskim i lekarsko-dentystycznym chemia jest krótka albo schowana w biochemii. Na części uczelni pierwszy rok nie ma w ogóle przedmiotu chemicznego, a chemia przychodzi na drugim roku jako „Biochemia z elementami chemii”. Na innych na pierwszym roku są osobno krótka „Chemia” i duża „Biochemia”. Tematy chemiczne, które tam wracają, to roztwory, pH, bufory i równowaga kwasowo-zasadowa organizmu. Zacznij więc od powtórki pH i buforów: Khan Academy po polsku [R-027], cykl dr. Bekasa „Podstawy chemii” [R-026] i filmy Professor Dave o kwasach, zasadach i buforach [R-030]. Potem biochemia: playlista Professor Dave [R-051] jako mapa, wykład Kevina Aherna [R-052] i podręcznik, którego wymaga Twój sylabus; na kierunkach medycznych możesz spotkać „Biochemię Harpera” [R-049] albo Bańkowskiego [R-050]. Z organicznej przyda się podręcznik Soderberga z przykładami z metabolizmu [R-017].
+
+### Farmacja i analityka medyczna
+
+Tu chemii jest wyraźnie więcej niż na kierunku lekarskim. Na analityce medycznej pierwszy rok może mieć cztery przedmioty chemiczne naraz: analityczną, fizyczną, ogólną i nieorganiczną oraz organiczną. Na farmacji chemia ogólna i nieorganiczna bywa przedmiotem na dwa semestry z dużą liczbą godzin ćwiczeń. Na start: chemia ogólna (Khan Academy po polsku [R-027], Professor Dave i jego zadania [R-030] [R-031]), potem analityka (filmy z pracowni analitycznej [R-025], podręcznik Kocjana [R-045], otwarty Harvey [R-047]) i organiczna od Chemguide [R-011] przez Professor Dave [R-006] do McMurry'ego [R-004] [R-016]. Do chemii fizycznej weź wersję „dla nauk biologicznych” z LibreTexts [R-044].
+
+### Weterynaria
+
+Na weterynarii chemia bywa krótkim przedmiotem pierwszego semestru z przewagą laboratorium, czasem od razu obok pierwszej części biochemii. W jednym semestrze mieszczą się wtedy roztwory, pH, bufory, redoks, podstawy analityki i nazewnictwo organiczne. To dużo tematów naraz. Pomogą: cykle „Podstawy chemii” [R-026] i „Chemia organiczna” [R-054] z kanału uczelni przyrodniczej, Khan Academy po polsku [R-027], a do biochemii Professor Dave [R-051].
+
+### Chemia i kierunki pokrewne
+
+Na chemii pierwszy semestr jest od razu szeroki i abstrakcyjny. Przedmiot wprowadzający obejmuje zwykle obok stechiometrii i równowag także równanie Schrödingera, orbitale molekularne, symetrię cząsteczek i teorię pasmową. Przyda się wszystko z części o chemii ogólnej, a szczególnie wykład MIT 5.111SC [R-034], podręcznik Atkinsa i współautorów [R-029] oraz wprowadzenie do kwantów w rozdziale 4b. Do organicznej, która przyjdzie później, warto od razu poznać Claydena [R-005] [R-018] i animacje ChemTube3D [R-014].
+
+### Biotechnologia
+
+Na biotechnologii chemia ogólna w pierwszym semestrze ma zwykle wykład i laboratorium, a często także ćwiczenia rachunkowe. Na laboratorium są między innymi miareczkowania i wyznaczanie stałych dysocjacji. Najpierw chemia ogólna z zadaniami [R-030] [R-031] [R-033], potem organiczna z naciskiem biologicznym [R-017] i biochemia [R-051] [R-052] [R-053]; do chemii fizycznej podręcznik dla nauk biologicznych [R-044].
+
+### Inżynieria chemiczna i technologia chemiczna
+
+Na politechnikach chemia idzie w parze z dużą ilością matematyki. W pierwszym semestrze matematyka ma często więcej godzin niż chemia. Chemia ogólna i nieorganiczna sięga tam czasem już w pierwszym semestrze po termodynamikę z energią Gibbsa i kinetykę z równaniem Arrheniusa. Dlatego warto mieć pod ręką hasło o matematyce [R-056] [R-057] [R-058], chemię fizyczną od Chemguide [R-042] przez Peveratiego [R-043] po wykład MIT 5.60 [R-041], a z polskich podręczników Bielańskiego [R-028] i Pigonia z Ruziewiczem [R-040].
+
