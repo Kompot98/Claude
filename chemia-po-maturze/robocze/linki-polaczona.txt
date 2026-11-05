@@ -197,3 +197,48 @@
 200 | Physical Chemistry (LibreText) - Chemistry LibreTexts | https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(LibreTexts)
 200 | 11.3 Characteristics of the SN2 Reaction - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/11-3-characteristics-of-the-sn2-reaction
 200 | 11.5 Characteristics of the SN1 Reaction - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/11-5-characteristics-of-the-sn1-reaction
+200 | Principles of Chemical Science | Chemistry | MIT OpenCourseWare | https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/
+200 | Organic Chemistry I | Chemistry | MIT OpenCourseWare | https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/
+200 | Thermodynamics & Kinetics | Chemistry | MIT OpenCourseWare | https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/
+200 | 26.4 Acid-Base Balance  - Anatomy and Physiology 2e | OpenStax | https://openstax.org/books/anatomy-and-physiology-2e/pages/26-4-acid-base-balance
+200 | 26.5 Disorders of Acid-Base Balance  - Anatomy and Physiology 2e | OpenStax | https://openstax.org/books/anatomy-and-physiology-2e/pages/26-5-disorders-of-acid-base-balance
+200 | 1.5 Measurement Uncertainty, Accuracy, and Precision - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/1-5-measurement-uncertainty-accuracy-and-precision
+200 | Ch. 1 Introduction - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/1-introduction
+200 | 12.5 Collision Theory - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/12-5-collision-theory
+200 | 14.1 Brønsted-Lowry Acids and Bases - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/14-1-bronsted-lowry-acids-and-bases
+200 | 14.3 Relative Strengths of Acids and Bases - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/14-3-relative-strengths-of-acids-and-bases
+200 | 14.6 Buffers - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/14-6-buffers
+200 | 14.7 Acid-Base Titrations - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/14-7-acid-base-titrations
+200 | 15.1 Precipitation and Dissolution - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/15-1-precipitation-and-dissolution
+200 | 16.2 Entropy - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/16-2-entropy
+200 | 16.4 Free Energy - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/16-4-free-energy
+200 | 17.4 Potential, Free Energy, and Equilibrium - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/17-4-potential-free-energy-and-equilibrium
+200 | 3.3 Molarity - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/3-3-molarity
+200 | 4.3 Reaction Stoichiometry - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/4-3-reaction-stoichiometry
+200 | 4.4 Reaction Yields - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/4-4-reaction-yields
+200 | 5.3 Enthalpy - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy
+200 | 6.1 Electromagnetic Energy - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/6-1-electromagnetic-energy
+200 | 6.2 The Bohr Model - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/6-2-the-bohr-model
+200 | 6.3 Development of Quantum Theory - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory
+200 | 6.4 Electronic Structure of Atoms (Electron Configurations) - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations
+200 | 8.2 Hybrid Atomic Orbitals - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/8-2-hybrid-atomic-orbitals
+200 | 8.4 Molecular Orbital Theory - Chemistry 2e | OpenStax | https://openstax.org/books/chemistry-2e/pages/8-4-molecular-orbital-theory
+200 | Ch. 1 Why This Chapter? - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/1-why-this-chapter
+200 | 10.2 Preparing Alkyl Halides from Alkanes: Radical Halogenation - Organic Chemistry | Open | https://openstax.org/books/organic-chemistry/pages/10-2-preparing-alkyl-halides-from-alkanes-radical-halogenation
+200 | 11.3 Characteristics of the SN2 Reaction - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/11-3-characteristics-of-the-sn2-reaction
+200 | 11.5 Characteristics of the SN1 Reaction - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/11-5-characteristics-of-the-sn1-reaction
+200 | 11.7 Elimination Reactions: Zaitsev’s Rule - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/11-7-elimination-reactions-zaitsevs-rule
+200 | 12.5 Spectroscopy and the Electromagnetic Spectrum - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/12-5-spectroscopy-and-the-electromagnetic-spectrum
+200 | 12.8 Infrared Spectra of Some Common Functional Groups - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/12-8-infrared-spectra-of-some-common-functional-groups
+200 | 13.11 Characteristics of 13C NMR Spectroscopy - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/13-11-characteristics-of-13c-nmr-spectroscopy
+200 | 13.3 Chemical Shifts - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/13-3-chemical-shifts
+200 | 13.6 Spin–Spin Splitting in 1H NMR Spectra - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/13-6-spin-spin-splitting-in-1h-nmr-spectra
+200 | Ch. 13 Chemistry Matters—Magnetic Resonance Imaging (MRI) - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/13-chemistry-matters-magnetic-resonance-imaging-mri
+200 | 14.7 Ultraviolet Spectroscopy - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/14-7-ultraviolet-spectroscopy
+200 | 2.9 Predicting Acid–Base Reactions from pKa Values - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/2-9-predicting-acid-base-reactions-from-pka-values
+200 | 21.2 Nucleophilic Acyl Substitution Reactions - Organic Chemistry | OpenStax | https://openstax.org/books/organic-chemistry/pages/21-2-nucleophilic-acyl-substitution-reactions
+200 | 7.8 Orientation of Electrophilic Additions: Markovnikov’s Rule - Organic Chemistry | OpenS | https://openstax.org/books/organic-chemistry/pages/7-8-orientation-of-electrophilic-additions-markovnikovs-rule
+200 | Ideas of Quantum Chemistry - 3rd Edition | Elsevier Shop | https://shop.elsevier.com/books/ideas-of-quantum-chemistry/piela/978-0-444-64246-2
+200 | strong and weak acids | https://www.chemguide.co.uk/physical/acidbaseeqia/acids.html
+200 | Theories of acids and bases | https://www.chemguide.co.uk/physical/acidbaseeqia/theories.html
+200 | Acid-Base Reactions: Introducing Ka and pKa – Master Organic Chemistry | https://www.masterorganicchemistry.com/2012/05/09/acid-base-reactions-ka-and-pka/

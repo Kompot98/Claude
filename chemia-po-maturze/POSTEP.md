@@ -85,3 +85,7 @@ Dalej: redakcja końcowa i wydanie (checkpoint C).
 Zrobione: redakcja całości pod formę ostateczną (D-18). Usunięte z opisów filmów i książek cechy stylu, których agent nie sprawdził; poprawione uogólnienia i data de Broglie'a; jedno miejsce `[ADRIAN]` wypełnione z życiorysu (prace dyplomowe na UJ po angielsku), siedem przeniesionych do `DO-UZUPELNIENIA-ADRIAN.md`, więc w tekście nie ma już znaczników. Wydanie w `wydanie/` (Markdown bez komentarzy, HTML ze spisem treści, PDF). `RAPORT.md` i `README.md` przepisane na wersję ostateczną. Sprawdzenia: `sprawdz.py --dowody` bez błędów, `styl.py` bez twardych naruszeń.
 
 Zostaje: rysunki według `RYSUNKI-DO-ZNALEZIENIA.md` (agent od obrazków) i ręczne sprawdzenie w przeglądarce Khan Academy, Chemistry World i strony OUP.
+
+## 2026-11-05, wersja połączona po trzech ocenach
+
+Zrobione: poprawki z ocen A, B i C; plan „co zrobić i kiedy”; nowa część 4b „pH i bufory”; 53 zadania „Sprawdź się” z odpowiedziami; linie „Dla kogo” i „Na start”; skrócone listy źródeł (158 linków, wszystkie 200); rozdział 5 zgodny z rozdziałem 3; rysunki F-01–F-32 w kolejności czytania z listą priorytetów. Szczegóły i dalsze kroki: `przystepna/STAN-I-DALSZE-KROKI.md`.
