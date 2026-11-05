@@ -548,7 +548,7 @@ Na maturze pH słabego kwasu liczyło się ze stałej dysocjacji i stężenia. N
 4. Sprawdzenie założenia: 9,8 · 10⁻³ / 0,534 ≈ 1,8%. To mniej niż 5%, więc uproszczenie było uprawnione.
 5. pH = −log(0,0098) ≈ 2,01.
 
-**Po co pKa w organicznej.** Reakcja kwas–zasada przesuwa się w stronę słabszego kwasu, czyli tego o większym pKa. To tłumaczy obserwację, którą znasz z matury: kwas octowy z wodorowęglanem sodu daje CO₂, a fenol nie. Kwas octowy (pKa około 4,7) jest mocniejszy od kwasu węglowego (pKa około 6,4), więc oddaje mu proton, a kwas węglowy rozpada się na CO₂ i wodę. Fenol (pKa około 9,9) jest słabszy od kwasu węglowego, więc ta reakcja nie zachodzi. Wartości pKa pochodzą z „Chemistry 2e” (dodatek H) i z podręcznika McMurry'ego (podrozdział 17.2 na OpenStax).
+**Po co pKa w organicznej.** Reakcja kwas–zasada przesuwa się w stronę słabszego kwasu, czyli tego o większym pKa. To tłumaczy obserwację, którą znasz z matury: kwas octowy z wodorowęglanem sodu daje CO₂, a fenol nie. Kwas octowy (pKa około 4,7) jest mocniejszy od kwasu węglowego (pKa około 6,4), więc oddaje proton jonowi wodorowęglanowemu. Powstaje kwas węglowy, który rozpada się na CO₂ i wodę. Fenol (pKa około 9,9) jest słabszy od kwasu węglowego, więc ta reakcja nie zachodzi. Wartości pKa pochodzą z „Chemistry 2e” (dodatek H) i z podręcznika McMurry'ego (podrozdział 17.2 na OpenStax).
 
 **Pułapki.** Pierwsza: mylić pKa z pH. pKa to cecha kwasu, stała w danej temperaturze; pH to cecha roztworu i zależy od stężeń. Druga: przyjąć uproszczenie „x dużo mniejsze od stężenia” i go nie sprawdzić. Przy bardzo rozcieńczonych roztworach albo mocniejszych kwasach uproszczenie zawodzi i trzeba rozwiązać równanie kwadratowe.
 

@@ -28,7 +28,7 @@ Stan na 5.11.2026. Plik: `przystepna/chemia-po-maturze-polaczona.md` (podgląd: 
 
 ## Co zostało do zrobienia
 
-1. **Niezależna kontrola zadań i części 4b.** Uruchomiłem agenta, który przelicza 53 odpowiedzi i sprawdza część o pH. Jego raport ma trafić do `robocze/kontrola-zadan.md`. Jeśli tego pliku nie ma w paczce, kontrola nie skończyła się przed wysłaniem i trzeba ją powtórzyć albo dokończyć.
+1. **Niezależna kontrola zadań i części 4b: zrobiona.** Agent przeliczył wszystkie 53 odpowiedzi i sprawdził część o pH (`robocze/kontrola-zadan.md`). Wszystko się zgadza; jedno zdanie w 4b (kwas octowy oddaje proton jonowi wodorowęglanowemu, a nie kwasowi węglowemu) zostało poprawione.
 2. **Kolejna runda ocen.** Trzy niezależne oceny tak jak poprzednio (wtedy wyszło 7–7,5/10), żeby sprawdzić, czy poprawki podniosły ocenę.
 3. **Rysunki.** Agent od obrazków ma pracować według `RYSUNKI-wersja-polaczona.md`, zaczynając od priorytetu A.
 4. **Rzeczy do decyzji Adriana.**
